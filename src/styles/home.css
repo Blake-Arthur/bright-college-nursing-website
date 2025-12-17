@@ -1,0 +1,69 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #293519;
+  font-family: "Playfair Display", serif !important;
+  font-weight: 700;
+}
+
+body {
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.seminar-heading {
+  color: white;
+}
+
+.block {
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+.custom-block {
+  margin-left: 160px;
+  margin-right: 160px;
+  padding-top: 36px;
+}
+
+.footer-block {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.container {
+  margin-left: 110px;
+  margin-right: 110px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.count-digit-holder {
+  font-size: 48px;
+  text-align: left;
+}
+
+.count-digit-holder .plus {
+  margin-left: -12px;
+}
+
+.count-title-holder {
+  font-size: 14px;
+  text-align: left;
+}
+
+.educational-program-pd-class {
+  padding-left: 24px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.footer-padding {
+  padding-left: 24px;
+  padding-right: 24px;
+}

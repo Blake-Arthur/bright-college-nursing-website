@@ -1,0 +1,28 @@
+p {
+  font-size: 18px;
+  line-height: 2rem;
+  text-align: justify;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.li-bullet li {
+  list-style: none;
+  position: relative;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 3px;
+  font-size: 18px;
+}
+
+.li-bullet li::before {
+  position: absolute;
+  left: 0;
+  top: 12px;
+
+  content: "\f058";
+  font-size: 13px;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  color: red;
+}
