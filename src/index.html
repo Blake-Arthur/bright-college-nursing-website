@@ -10,6 +10,8 @@
     <link href="./styles/output.css" rel="stylesheet">
 </head>
 
+<script src="./Animations/annoucements-slider.js"></script>
+
 <body class="bg-[#FBF7EE]  ">
     <!--Hero Section-->
     <div class="relative w-full h-[720px] overflow-hidden">
@@ -49,19 +51,24 @@
 
     <!--Announcements tab-->
     <div class="mt-20">
-        <div class="container w-[1256px] h-16 items-center ml-30 mr-30 border-8 border-black" type="text"
+        <div class="block w-[1256px] h-16 items-center ml-30 mr-30 border-8 border-black" type="text"
             placeholder="Announcements">
-            <div class="container flex flex-row items-center h-12 border-4 border-[#b22222]">
-                <!--this need work--><!--!Important-->
-                <div class="flex h-10 items-center ">
+            <div class="flex flex-row items-center h-12 border-4 border-[#b22222]">
+                <div class="flex relative h-10 items-center border-r-3 border-[#b22222] announce-label">
                     <span class="px-3 font-bold text-lg">Announcements</span>
                 </div>
-                <div class="announcement-anim h-fill w-fill">
-                    <span class="px-3 font-bold text-lg">Announcements</span>
+                <div class="h-fill w-fill overflow-hidden flex">
+                    <ul class="announce-slider ">
+                        <li class="announce-item"><a href="#">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                                Voluptatibus
+                                laboriosam,</a></li>
+                        <li class="announce-item"><a href="#">Exams Scheduled on these dates</a></li>
+                        <li class="announce-item"><a href="#">Seminar Scheduled on these dates</a></li>
+                        <li class="announce-item"><a href="#">&nbsp;</a></li>
+                    </ul>
                 </div>
             </div>
         </div>
-
     </div>
 
     <!--At a glance tab-->

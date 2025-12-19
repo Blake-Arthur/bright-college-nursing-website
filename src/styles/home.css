@@ -43,6 +43,52 @@ body {
   padding-right: 10px;
 }
 
+.announce-label::after {
+  content: "";
+  position: absolute;
+  right: -11px;
+  top: 7px;
+  background: url("../Images/SVG/hm-news-arroww.svg") no-repeat scroll 0 0;
+  width: 15px;
+  height: 29px;
+  z-index: 3;
+}
+
+.announce-slider {
+  display: inline-flex;
+  align-items: center;
+  will-change: transform;
+}
+
+.announce-item {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 0 0.75rem;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.announce-item::before {
+  content: "";
+  display: inline-block;
+  margin-right: 0.5rem;
+  width: 2px;
+  height: 20px;
+  background-color: #b22222;
+}
+
+.announce-item::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.4rem;
+  width: 18px;
+  height: 18px;
+  background: url("../Images/SVG/circle-check.svg") no-repeat center;
+  background-size: contain;
+}
+
 .count-digit-holder {
   font-size: 48px;
   text-align: left;
