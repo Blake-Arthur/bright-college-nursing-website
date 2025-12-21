@@ -19,35 +19,52 @@
         <img src="Images/College_Building_1.jpg" alt="Bright School of Nursing" class="h-full w-full object-cover">
 
         <!--Dark Overlay-->
-        <div class="absolute inset-0 bg-black/15 z-10"></div>
+        <div class="absolute inset-0 bg-black/35 z-10"></div>
 
         <!--Header bar-->
         <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
-            <div class="logo">
-                <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain">
+            <div class="logo cursor-pointer">
+                <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain"><a
+                    href="index.html"></a>
             </div>
 
             <nav class="flex justify-between items-center w-[260px] text-white">
-                <div>
-                    <button class="h-12 w-12 bg-[#293519]">
+                <div id="search-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
                         <i class="fa-solid fa-magnifying-glass text-xl"></i>
                     </button>
                 </div>
-                <div>
-                    <button class="h-12 w-12 bg-[#293519]">
+                <div id="login-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
                         <i class="fa-solid fa-user text-xl"></i>
                     </button>
                 </div>
-                <div>
-                    <button class="h-12 w-12 bg-[#293519]">
+                <div id="shortcut-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
                         <i class="fa-solid fa-bars text-xl"></i>
                     </button>
                 </div>
-                <div>
-                    <button class="h-12 w-24 text-base bg-[#293519]">Apply Now</button>
+                <div id="apply-button">
+                    <button class="h-12 w-24 text-base bg-[#293519] cursor-pointer">Apply Now</button>
                 </div>
             </nav>
         </header>
+
+        <!--search button page-->
+        <div class="search-container absolute inset-0 bg-black/85 z-40 ">
+            <div class="pt-[30px] pb-[30px] pl-[30px] pr-0">
+                <input class="search-bar" type="text" placeholder="Search">
+            </div>
+            <button class="h-16 w-20 bg-white text-2xl rounded-e-4xl align-middle cursor-pointer">
+                <i class="fa-solid fa-magnifying-glass "></i>
+            </button>
+        </div>
+
+        <div class="close-btn absolute top-16 right-14 z-50">
+            <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
     </div>
 
     <!--Announcements tab-->
@@ -98,7 +115,7 @@
 
                     </div>
                     <div class="count-title-holder">
-                        <p>Branches</p>
+                        <p class="inline  underline">Branches</p>
                     </div>
                 </div>
                 <div class="count-area-content">
@@ -108,7 +125,7 @@
 
                     </div>
                     <div class="count-title-holder">
-                        <p>Medical Courses</p>
+                        <p class="inline underline">Medical Courses</p>
                     </div>
                 </div>
                 <div class="count-area-content">
@@ -118,7 +135,7 @@
 
                     </div>
                     <div class="count-title-holder">
-                        <p>Students</p>
+                        <p class="inline underline">Students</p>
                     </div>
                 </div>
                 <div class="count-area-content">
@@ -128,8 +145,8 @@
                             <span class="plus">+</span>
 
                         </div>
-                        <div class="count-title-holder">
-                            <p>Placement Partners</p>
+                        <div class="count-title-holder ">
+                            <p class="inline underline">Placement Partners</p>
                         </div>
                     </div>
                 </div>
@@ -138,7 +155,30 @@
     </section>
 
     <!--Photo of campus, labs, faculities at once accordion style-->
-    <section class="bg-[#293519] h-[400px] mb-20"></section>
+    <section class="relative h-[400px] mb-20 max-w-full overflow-hidden">
+        <!--Dark Overlay-->
+        <div class="absolute inset-0 max-w-dvw max-h-dvh bg-black/45 z-10"></div>
+
+        <div class="accordion-display">
+            <div class="accordion-item">
+                <img src="./Images/test img/1961pic.webp" alt="">
+                <p class="text-white text-4xl z-10 items-center">Labs</p>
+            </div>
+            <div class="accordion-item">
+                <img src="./Images/test img/1963pic.webp" alt="">
+                <p class="text-white text-4xl z-10 items-center">Labs</p>
+            </div>
+            <div class="accordion-item">
+                <img src="./Images/test img/2000pic.webp" alt="">
+                <p class="text-white text-4xl z-10 items-center">Labs</p>
+            </div>
+            <div class="accordion-item">
+                <img src="./Images/test img/2008pic.webp" alt="">
+                <p class="text-white text-4xl z-10 items-center">Labs</p>
+            </div>
+        </div>
+
+    </section>
 
     <!--Permitted & recognized by-->
     <div class="block mb-20">

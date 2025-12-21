@@ -43,6 +43,59 @@ body {
   padding-right: 10px;
 }
 
+/*Search Bar*/
+
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.4s ease;
+  /* z-index: 40; */
+}
+
+.close-btn {
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.4s ease;
+  /* z-index: 60; */
+}
+
+.search-container.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.close-btn.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.search-bar {
+  height: 64px;
+  width: 780px;
+  font-size: 18px;
+  color: white;
+  padding-left: 30px;
+  border: 3px solid white; /* width + style + color */
+  border-radius: 32px 0 0 32px;
+}
+
+.search-bar:hover {
+  border: 1px solid rgba(200, 200, 200);
+}
+
+.search-bar::placeholder {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+
 /*Announcements tab*/
 
 .announce-label::after {
@@ -105,6 +158,60 @@ body {
 .count-title-holder {
   font-size: 14px;
   text-align: left;
+}
+
+.underline {
+  position: relative;
+  text-decoration: none;
+}
+
+.underline::after {
+  content: "";
+  position: absolute;
+  background: #b22222;
+  left: 0;
+  right: 0;
+  bottom: -6px;
+  height: 4px;
+  transform: scaleX(0);
+  transition: all 0.4s ease;
+}
+
+.underline:hover::after {
+  transform: scaleX(1); /* Animate in */
+}
+
+/*Accordion Display*/
+
+.accordion-display {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  items-align: center;
+}
+
+.accordion-item {
+  position: absolute;
+  height: 100%;
+}
+
+.accordion-item:nth-child(1) {
+  z-index: 1;
+  transform: translateX(0%);
+}
+.accordion-item:nth-child(2) {
+  z-index: 2;
+  transform: translateX(25%);
+}
+.accordion-item:nth-child(3) {
+  z-index: 3;
+  transform: translateX(50%);
+}
+.accordion-item:nth-child(4) {
+  z-index: 4;
+  transform: translateX(75%);
 }
 
 .educational-program-pd-class {
