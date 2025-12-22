@@ -96,6 +96,38 @@ body {
   font-weight: 500;
 }
 
+/*Menu Tab*/
+
+.menu-tab-block {
+  position: absolute;
+  inset: 0;
+  padding-left: 130px;
+  background-color: rgba(41, 53, 25, 0.85);
+  transform: translate(12rem);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.4s ease;
+  z-index: 40;
+}
+
+.menu-tab-block.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(0rem);
+}
+
+.menu-tab-items p {
+  color: white;
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+
+.menu-tab-items .underline::after {
+  background: white;
+  height: 1px;
+}
+
 /*Announcements tab*/
 
 .announce-label::after {
