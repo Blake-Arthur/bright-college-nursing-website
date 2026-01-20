@@ -1,16 +1,20 @@
-<html lang="en">
+<!doctype html>
+<html>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Director's Message</title>
+    <title>About Us | Bright Nursing</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css">
     <link rel="stylesheet" href="./styles/home.css">
     <link href="./styles/Director_Msg.css" rel="stylesheet">
     <link href="./styles/output.css" rel="stylesheet">
 </head>
 
-<body class="bg-[#FBF7EE]">
+<script type="module" src="./main_anim.js"></script>
+
+<body class="bg-[#FBF7EE]  ">
     <!--Hero Section-->
     <div class="relative w-full h-[560px] overflow-hidden">
         <img src="Images/Director's Msg.jpg" alt="Bright School of Nursing" class="h-full w-full object-cover">
@@ -20,31 +24,83 @@
 
         <!--Header bar-->
         <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
-            <div class="logo">
-                <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain">
+
+            <!--Logo-->
+            <div class="logo cursor-pointer">
+                <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain"><a
+                    href="index.html"></a>
             </div>
 
+            <!--Nav bar-->
             <nav class="flex justify-between items-center w-[260px] text-white">
-                <div>
-                    <button class="h-12 w-12 bg-[#293519]">
+                <div id="search-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
                         <i class="fa-solid fa-magnifying-glass text-xl"></i>
                     </button>
                 </div>
-                <div>
-                    <button class="h-12 w-12 bg-[#293519]">
+                <div id="login-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
                         <i class="fa-solid fa-user text-xl"></i>
                     </button>
                 </div>
-                <div>
-                    <button class="h-12 w-12 bg-[#293519]">
+                <div id="menu-tab-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
                         <i class="fa-solid fa-bars text-xl"></i>
                     </button>
                 </div>
-                <div>
-                    <button class="h-12 w-24 text-base bg-[#293519]">Apply Now</button>
+                <div id="apply-button">
+                    <button class="h-12 w-24 text-base bg-[#293519] cursor-pointer">Apply Now</button>
                 </div>
             </nav>
         </header>
+
+        <!--search button page-->
+        <div class="search-container absolute inset-0 bg-black/85 z-40 ">
+            <div class="pt-[30px] pb-[30px] pl-[30px] pr-0">
+                <input class="search-bar" type="text" placeholder="Search">
+            </div>
+            <button class="h-16 w-20 bg-white text-2xl rounded-e-4xl align-middle cursor-pointer">
+                <i class="fa-solid fa-magnifying-glass "></i>
+            </button>
+        </div>
+
+        <div class="close-btn absolute top-16 right-14 z-50">
+            <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+
+        <!--Menu tab-->
+        <div class="menu-tab-block ">
+            <div class="flex flex-row w-full h-full justify-between items-center">
+
+                <!--logo & exit button-->
+                <div class="absolute flex flex-row justify-between items-center top-12 h-20">
+                    <div class="logo cursor-pointer">
+                        <img src="Images/logo/logo.png" alt="logo Bright School Nursing"
+                            class="h-25 w-25 object-contain"><a href="index.html"></a>
+                    </div>
+
+                    <div class="close-btn">
+                        <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+                            <i class="fa-solid fa-xmark"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!--menu tab items-->
+                <div class="menu-tab-items absolute flex flex-col top-25 ">
+                    <p><a href="" class="inline underline">About</a></p>
+                    <p><a href="" class="inline underline">Announcements</a></p>
+                    <p><a href="" class="inline underline">Academics</a></p>
+                    <p><a href="./Director's Message.html" class="inline underline">Director's Message</a></p>
+                    <p><a href="" class="inline underline">Campus Life</a></p>
+                    <p><a href="" class="inline underline">Educational Programmes & Seminars</a></p>
+                    <p><a href="" class="inline underline">Faculty & Staff</a></p>
+                    <p><a href="" class="inline underline">Lab Facilities</a></p>
+                </div>
+            </div>
+        </div>
     </div>
 
     <section class="flex  bg-[#293519] h-8 w-full pt-2">
@@ -53,11 +109,11 @@
         </div>
     </section>
 
-    <!--Director's Message Heading-->
+    <!--About Us Heading-->
     <div class="block">
         <div class="pt-[50px] pb-3 flex flex-row items-center">
             <div class="flex items-center">
-                <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">Director's Message</h1>
+                <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">About</h1>
             </div>
 
             <div class="flex flex-row items-center">
@@ -67,11 +123,11 @@
         </div>
     </div>
 
-    <!--Message to Students-->
+    <!--About Us Message-->
     <section>
         <div class="block pb-20">
-            <div class="flex flex-row justify-between items-center">
-                <div class="Message">
+            <div class="flex flex-row justify-between">
+                <div class="Message pr-5">
                     <h4 class="message-title font-semibold text-2xl">Welcome back to a promising Academic Year! Exciting
                         Opportunities await you.
                     </h4>
@@ -102,33 +158,36 @@
                     </p>
                 </div>
 
-                <div class="container-director-photo">
-                    <div class="flex flex-col ">
-                        <img src="Images/Director Photos.png" alt="Director Photo" class="w-40 object-cover">
+                <div class="additional-info">
+                    <div class="flex flex-col items-center ">
                         <div>
-                            <span class="font-semibold text-lg">Sincerly,</span>
-                            <p>Er. Bijay Kumar Jena</p>
-                            <p>Director</p>
-                            <p>Mob: 9124183801</p>
+                            <h3 class="text-2xl whitespace-nowrap">Additional Information</h3>
+                        </div>
+
+                        <div class="flex flex-col items-center gap-2">
+                            <p>Director Message</p>
+                            <p>Campus Life</p>
+                            <p>Academics</p>
+                            <p>Lab Facilities</p>
+                            <p>Contacts</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <!--Videos-->
-        <div class="grid grid-cols-2 gap-4">
-            <div>01</div>
-            <div>02</div>
-            <div>09</div>
-            <div>10</div>
-        </div>
-
     </section>
 
+    <!--Go to Top button-->
+    <div class="">
+        <button class="h-12 w-12 rounded-4xl bg-black cursor-pointer go-top">
+            <i class="ri-arrow-up-s-line ri-2x text-white"></i>
+            <i class="ri-arrow-up-s-line ri-2x text-white "></i>
+        </button>
+    </div>
+
     <!--Quick Links-->
-    <footer class="bg-[#293519] h-[510px]">
-        <div class="w-full pt-20">
+    <footer class="bg-[#293519] h-[510px] pt-20 ">
+        <div class="w-full">
             <div class="flex flex-col items-center">
                 <div class="">
                     <div class="seminar-heading flex flex-row justify-between">
@@ -142,13 +201,13 @@
                             <h3 class="seminar-heading text-2xl">Quick links</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Announcements</a></li>
-                                    <li class="mb-3"><a href="./Director's Message.html">Director's Message</a></li>
-                                    <li class="mb-3"><a href="">Life@BrightNursing</a></li>
-                                    <li class="mb-3"><a href="">Jobs@BrightNursing</a></li>
-                                    <li class="mb-3"><a href="">Library & E&#8209;Resources</a></li>
-                                    <li class="mb-3"><a href="">Hostel & Transport</a></li>
-
+                                    <li class="mb-3"><a href="#">Announcements</a></li>
+                                    <li class="mb-3"><a href="/About/Director's Message">Director's Message</a>
+                                    </li>
+                                    <li class="mb-3"><a href="/Campus/">Life@BrightNursing</a></li>
+                                    <li class="mb-3"><a href="#">Jobs@BrightNursing</a></li>
+                                    <li class="mb-3"><a href="#">Library & E&#8209;Resources</a></li>
+                                    <li class="mb-3"><a href="#">Hostel & Transport</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -157,13 +216,14 @@
                             <h3 class="seminar-heading text-2xl">Useful links</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Apply / Online Admission</a></li>
-                                    <li class="mb-3"><a href="">Courses & Eligibility</a></li>
-                                    <li class="mb-3"><a href="./Scholarship.html">Fee Structure & Scholarships</a></li>
-                                    <li class="mb-3"><a href="">Academic Calendar</a></li>
-                                    <li class="mb-3"><a href="">Exam Schedule</a></li>
-                                    <li class="mb-3"><a href="">Labs & Facilities</a></li>
-                                    <li class="mb-3"><a href="./Contacts.html">Contacts</a></li>
+                                    <li class="mb-3"><a href="/Admissions/">Apply / Online Admission</a></li>
+                                    <li class="mb-3"><a href="#">Courses & Eligibility</a></li>
+                                    <li class="mb-3"><a href="/Admissions/Scholarship">Fee Structure & Scholarships</a>
+                                    </li>
+                                    <li class="mb-3"><a href="#">Academic Calendar</a></li>
+                                    <li class="mb-3"><a href="#">Exam Schedule</a></li>
+                                    <li class="mb-3"><a href="#">Labs & Facilities</a></li>
+                                    <li class="mb-3"><a href="/About/Contacts">Contacts</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -172,11 +232,11 @@
                             <h3 class="seminar-heading text-2xl">College Policies</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Anti&#8209;Ragging</a></li>
-                                    <li class="mb-3"><a href="">Rules & Regulations</a></li>
-                                    <li class="mb-3"><a href="">Student's Responsibilities</a></li>
-                                    <li class="mb-3"><a href="">Privacy</a></li>
-                                    <li class="mb-3"><a href="">Terms of Use</a></li>
+                                    <li class="mb-3"><a href="#">Anti&#8209;Ragging</a></li>
+                                    <li class="mb-3"><a href="#">Rules & Regulations</a></li>
+                                    <li class="mb-3"><a href="#">Student's Responsibilities</a></li>
+                                    <li class="mb-3"><a href="#">Privacy</a></li>
+                                    <li class="mb-3"><a href="#">Terms of Use</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -232,5 +292,3 @@
     </footer>
 
 </body>
-
-</html>

@@ -7,11 +7,11 @@
     <title>Bright School of Nursing</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css">
-    <link rel="stylesheet" href="./styles/home.css">
-    <link href="./styles/output.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles/home.css">
+    <link href="styles/output.css" rel="stylesheet">
 </head>
 
-<script type="module" src="./main_anim.js"></script>
+<script type="module" src="main_anim.js"></script>
 
 <body class="bg-[#FBF7EE]  ">
     <!--Hero Section-->
@@ -23,11 +23,14 @@
 
         <!--Header bar-->
         <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
+
+            <!--Logo-->
             <div class="logo cursor-pointer">
                 <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain"><a
                     href="index.html"></a>
             </div>
 
+            <!--Nav bar-->
             <nav class="flex justify-between items-center w-[260px] text-white">
                 <div id="search-icon">
                     <button class="h-12 w-12 bg-[#293519] cursor-pointer">
@@ -89,14 +92,49 @@
                     <p><a href="" class="inline underline">About</a></p>
                     <p><a href="" class="inline underline">Announcements</a></p>
                     <p><a href="" class="inline underline">Academics</a></p>
-                    <p><a href="" class="inline underline">Campus tour & Events</a></p>
                     <p><a href="./Director's Message.html" class="inline underline">Director's Message</a></p>
+                    <p><a href="" class="inline underline">Campus Life</a></p>
                     <p><a href="" class="inline underline">Educational Programmes & Seminars</a></p>
                     <p><a href="" class="inline underline">Faculty & Staff</a></p>
                     <p><a href="" class="inline underline">Lab Facilities</a></p>
                 </div>
             </div>
         </div>
+    </div>
+
+    <!--Rolling nav bar  -->
+    <div class="relative nav-bar">
+        <!--Header bar-->
+        <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
+
+            <!--Logo-->
+            <div class="logo cursor-pointer">
+                <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain"><a
+                    href="index.html"></a>
+            </div>
+
+            <!--Nav bar-->
+            <nav class="flex justify-between items-center w-[260px] text-white">
+                <div id="search-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
+                        <i class="fa-solid fa-magnifying-glass text-xl"></i>
+                    </button>
+                </div>
+                <div id="login-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
+                        <i class="fa-solid fa-user text-xl"></i>
+                    </button>
+                </div>
+                <div id="menu-tab-icon">
+                    <button class="h-12 w-12 bg-[#293519] cursor-pointer">
+                        <i class="fa-solid fa-bars text-xl"></i>
+                    </button>
+                </div>
+                <div id="apply-button">
+                    <button class="h-12 w-24 text-base bg-[#293519] cursor-pointer">Apply Now</button>
+                </div>
+            </nav>
+        </header>
     </div>
 
     <!--Announcements tab-->
@@ -209,7 +247,6 @@
                 <p class="text-white text-4xl z-10 items-center">Labs</p>
             </div>
         </div>
-
     </section>
 
     <!--Permitted & recognized by-->
@@ -468,12 +505,13 @@
                             <h3 class="seminar-heading text-2xl">Quick links</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Announcements</a></li>
-                                    <li class="mb-3"><a href="./Director's Message.html">Director's Message</a></li>
-                                    <li class="mb-3"><a href="">Life@BrightNursing</a></li>
-                                    <li class="mb-3"><a href="">Jobs@BrightNursing</a></li>
-                                    <li class="mb-3"><a href="">Library & E&#8209;Resources</a></li>
-                                    <li class="mb-3"><a href="">Hostel & Transport</a></li>
+                                    <li class="mb-3"><a href="#">Announcements</a></li>
+                                    <li class="mb-3"><a href="/About/Director's Message">Director's Message</a>
+                                    </li>
+                                    <li class="mb-3"><a href="/Campus/">Life@BrightNursing</a></li>
+                                    <li class="mb-3"><a href="#">Jobs@BrightNursing</a></li>
+                                    <li class="mb-3"><a href="#">Library & E&#8209;Resources</a></li>
+                                    <li class="mb-3"><a href="#">Hostel & Transport</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -482,13 +520,14 @@
                             <h3 class="seminar-heading text-2xl">Useful links</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Apply / Online Admission</a></li>
-                                    <li class="mb-3"><a href="">Courses & Eligibility</a></li>
-                                    <li class="mb-3"><a href="./Scholarship.html">Fee Structure & Scholarships</a></li>
-                                    <li class="mb-3"><a href="">Academic Calendar</a></li>
-                                    <li class="mb-3"><a href="">Exam Schedule</a></li>
-                                    <li class="mb-3"><a href="">Labs & Facilities</a></li>
-                                    <li class="mb-3"><a href="./Contacts.html">Contacts</a></li>
+                                    <li class="mb-3"><a href="/Admissions/">Apply / Online Admission</a></li>
+                                    <li class="mb-3"><a href="#">Courses & Eligibility</a></li>
+                                    <li class="mb-3"><a href="/Admissions/Scholarship">Fee Structure & Scholarships</a>
+                                    </li>
+                                    <li class="mb-3"><a href="#">Academic Calendar</a></li>
+                                    <li class="mb-3"><a href="#">Exam Schedule</a></li>
+                                    <li class="mb-3"><a href="#">Labs & Facilities</a></li>
+                                    <li class="mb-3"><a href="/About/Contacts">Contacts</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -497,11 +536,11 @@
                             <h3 class="seminar-heading text-2xl">College Policies</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Anti&#8209;Ragging</a></li>
-                                    <li class="mb-3"><a href="">Rules & Regulations</a></li>
-                                    <li class="mb-3"><a href="">Student's Responsibilities</a></li>
-                                    <li class="mb-3"><a href="">Privacy</a></li>
-                                    <li class="mb-3"><a href="">Terms of Use</a></li>
+                                    <li class="mb-3"><a href="#">Anti&#8209;Ragging</a></li>
+                                    <li class="mb-3"><a href="#">Rules & Regulations</a></li>
+                                    <li class="mb-3"><a href="#">Student's Responsibilities</a></li>
+                                    <li class="mb-3"><a href="#">Privacy</a></li>
+                                    <li class="mb-3"><a href="#">Terms of Use</a></li>
                                 </ul>
                             </div>
                         </div>

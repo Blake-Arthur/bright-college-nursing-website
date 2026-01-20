@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const goTop = document.querySelector(".go-top");
+  // const nav_bar = document.querySelector(".nav-bar");
   const SHOW_AFTER = 300; // px scrolled
 
   window.addEventListener("scroll", () => {

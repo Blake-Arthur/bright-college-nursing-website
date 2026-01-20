@@ -3,12 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GNM</title>
+    <title>Admission Procedure</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <link rel="stylesheet" href="./styles/home.css">
+    <link rel="stylesheet" href="styles/goToTop.css">
     <link href="./styles/courses.css" rel="stylesheet">
     <link href="./styles/output.css" rel="stylesheet">
 </head>
+
+<script type="module" src="main_anim.js"></script>
 
 <body class="bg-[#FBF7EE]">
     <!--Hero Section-->
@@ -53,11 +56,12 @@
         </div>
     </section>
 
-    <!--B.Sc. Nursing heading-->
-    <div class="block ">
-        <div class="py-[50px] mt flex flex-row items-center">
+    <!--Admission Procedure heading-->
+    <div class="block">
+        <div class="pt-[50px] mt flex flex-row items-center">
             <div class="flex items-center">
-                <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">GNM at Bright College of Nursing</h1>
+                <div class="h-10 border-l-4 border-red-600 pr-3"></div>
+                <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">Admission Procedure</h1>
             </div>
 
             <div class="flex flex-row items-center">
@@ -67,32 +71,27 @@
         </div>
     </div>
 
-    <div class="block pb-24">
-        <div class=" flex flex-row items-center">
-            <div class="flex items-center">
-                <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                <h1 class="text-3xl font-semibold text-[#223318] pr-3 ">Program Overview</h1>
-            </div>
-        </div>
+    <div class="block pb-14">
         <p>
-            GNM (General Nurse Midwife) is a 3 year undergraduate program combining theory () and
-            practical training (lab training & clinical rotation) to prepare competent nurses to cater towards
-            excellent
-            patient care, adequate assistance to Doctors, community health, clinical ethics and leadership roles.
+            Bright College of Nursing provides financial assistance to eligible <span
+                class="font-semibold text-xl">SC/ST</span> students through () scholarships. Students who meet the
+            criteria can apply for scholarship by submittng the following <span class="font-semibold text-xl">mandatory
+                documents.</span>
+
         </p>
-        <h2 class="text-2xl font-medium">Why choose Bright Nursing for GNM Nursing?</h2>
+        <h2 class="text-2xl font-medium">Documents required for Scholarship Application</h2>
         <ul class="li-bullet">
-            <li>Comprehensive Cirriculum
+            <li>Income Certificate of current year
             </li>
-            <li>Expert Faculty</li>
-            <li>Well equipped lab facilities</li>
-            <li>Practical training</li>
-            <li>Career prospects</li>
+            <li>Caste Certificate</li>
+            <li>vbvn</li>
+            <li>Bank Passbook linked with Aadhar card</li>
+            <li>Recent Passport size photographs x3</li>
         </ul>
         <div class=" flex flex-row items-center pt-5">
             <div class="flex items-center">
                 <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                <h1 class="text-3xl font-semibold text-[#223318] pr-3 ">Eligibility Criteria</h1>
+                <h1 class="text-3xl font-semibold text-[#223318] pr-3 ">Important Notes</h1>
             </div>
         </div>
         <ul class="li-bullet">
@@ -100,22 +99,20 @@
             </li>
             <li>Expert Faculty</li>
             <li>Well equipped lab facilities</li>
-            <li>Practical training</li>
-            <li>Career prospects</li>
         </ul>
-        <div class=" flex flex-row items-center pt-5">
-            <div class="flex items-center">
-                <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                <h1 class="text-3xl font-semibold text-[#223318] pr-3 ">Course Duration</h1>
-            </div>
-        </div>
-        <ul class="li-bullet">
-            <li class="text-justify"><span class="font-semibold text-xl">3 years</span> of comprehensive journey towards
-                shaping your future into a
-                capable nurse contributing towards a prosperous community health, excellent patient care and an
-                immaculate career going forward.
-            </li>
-        </ul>
+
+        <p class="text-justify font-semibold">"Apply for Scholarship to pursue your Nursing education at Bright College
+            of Nursing
+            without any financial burden."
+        </p>
+    </div>
+
+    <!--Go to Top button-->
+    <div class="">
+        <button class="h-12 w-12 rounded-4xl bg-black cursor-pointer go-top">
+            <i class="ri-arrow-up-s-line ri-2x text-white"></i>
+            <i class="ri-arrow-up-s-line ri-2x text-white "></i>
+        </button>
     </div>
 
     <!--Quick Links-->
@@ -134,13 +131,13 @@
                             <h3 class="seminar-heading text-2xl">Quick links</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Announcements</a></li>
-                                    <li class="mb-3"><a href="">Director's Message</a></li>
-                                    <li class="mb-3"><a href="">Life@BrightNursing</a></li>
-                                    <li class="mb-3"><a href="">Jobs@BrightNursing</a></li>
-                                    <li class="mb-3"><a href="">Library & E&#8209;Resources</a></li>
-                                    <li class="mb-3"><a href="">Hostel & Transport</a></li>
-
+                                    <li class="mb-3"><a href="#">Announcements</a></li>
+                                    <li class="mb-3"><a href="/About/Director's Message">Director's Message</a>
+                                    </li>
+                                    <li class="mb-3"><a href="/Campus/">Life@BrightNursing</a></li>
+                                    <li class="mb-3"><a href="#">Jobs@BrightNursing</a></li>
+                                    <li class="mb-3"><a href="#">Library & E&#8209;Resources</a></li>
+                                    <li class="mb-3"><a href="#">Hostel & Transport</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -149,13 +146,14 @@
                             <h3 class="seminar-heading text-2xl">Useful links</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Apply / Online Admission</a></li>
-                                    <li class="mb-3"><a href="">Courses & Eligibility</a></li>
-                                    <li class="mb-3"><a href="">Fee Structure & Scholarships</a></li>
-                                    <li class="mb-3"><a href="">Academic Calendar</a></li>
-                                    <li class="mb-3"><a href="">Exam Schedule</a></li>
-                                    <li class="mb-3"><a href="">Labs & Facilities</a></li>
-                                    <li class="mb-3"><a href="">Contacts</a></li>
+                                    <li class="mb-3"><a href="/Admissions/">Apply / Online Admission</a></li>
+                                    <li class="mb-3"><a href="#">Courses & Eligibility</a></li>
+                                    <li class="mb-3"><a href="/Admissions/Scholarship">Fee Structure & Scholarships</a>
+                                    </li>
+                                    <li class="mb-3"><a href="#">Academic Calendar</a></li>
+                                    <li class="mb-3"><a href="#">Exam Schedule</a></li>
+                                    <li class="mb-3"><a href="#">Labs & Facilities</a></li>
+                                    <li class="mb-3"><a href="/About/Contacts">Contacts</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -164,11 +162,11 @@
                             <h3 class="seminar-heading text-2xl">College Policies</h3>
                             <div class="flex flex-col pt-6 pl-4">
                                 <ul class="">
-                                    <li class="mb-3"><a href="">Anti&#8209;Ragging</a></li>
-                                    <li class="mb-3"><a href="">Rules & Regulations</a></li>
-                                    <li class="mb-3"><a href="">Student's Responsibilities</a></li>
-                                    <li class="mb-3"><a href="">Privacy</a></li>
-                                    <li class="mb-3"><a href="">Terms of Use</a></li>
+                                    <li class="mb-3"><a href="#">Anti&#8209;Ragging</a></li>
+                                    <li class="mb-3"><a href="#">Rules & Regulations</a></li>
+                                    <li class="mb-3"><a href="#">Student's Responsibilities</a></li>
+                                    <li class="mb-3"><a href="#">Privacy</a></li>
+                                    <li class="mb-3"><a href="#">Terms of Use</a></li>
                                 </ul>
                             </div>
                         </div>

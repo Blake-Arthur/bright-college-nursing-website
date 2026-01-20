@@ -56,14 +56,12 @@ body {
   opacity: 0;
   visibility: hidden;
   transition: all 0.4s ease;
-  /* z-index: 40; */
 }
 
 .close-btn {
   opacity: 0;
   visibility: hidden;
   transition: all 0.4s ease;
-  /* z-index: 60; */
 }
 
 .search-container.show {
@@ -97,7 +95,6 @@ body {
 }
 
 /*Menu Tab*/
-
 .menu-tab-block {
   position: absolute;
   inset: 0;
@@ -221,7 +218,7 @@ body {
   width: 100%;
   display: flex;
   flex-direction: row;
-  items-align: center;
+  align-items: center;
 }
 
 .accordion-item {
@@ -317,4 +314,13 @@ body {
   opacity: 1;
   top: 50%;
   visibility: visible;
+}
+
+/*About Us*/
+.additional-info {
+  width: 100%;
+  height: 100%;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 10px;
 }
