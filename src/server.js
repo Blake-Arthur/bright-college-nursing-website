@@ -4,11 +4,15 @@ const path = require("path");
 const cors = require("cors");
 const { logger } = require("./middleware/logEvents");
 const errorHandler = require("./middleware/errorHandler");
+const canonicalize = require("./middleware/canocalizeURL");
 const { error } = require("console");
 const PORT = process.env.PORT || 3500;
 
 // custom middleware logger (put at start to see log for everything that follows after)
 app.use(logger);
+
+//canonicalize URL
+app.use(canonicalize);
 
 //Cross origin resource sharing
 const whitelist = ["https://www.brightschoolofnursing.com", "http://localhost:3500"];
@@ -24,6 +28,8 @@ const corOptions = {
 };
 app.use(cors(corOptions));
 
+// Body parsers
+
 // built-in middleware to handle urlencoded data
 // in other words, form data:
 // 'content-type: application/x-www-form-urlencoded'
@@ -33,25 +39,23 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 //serve static files
-app.use("/", express.static(path.join(__dirname, "./public")));
-app.use("/About", express.static(path.join(__dirname, "./public")));
-app.use("/Academics", express.static(path.join(__dirname, "./public")));
-app.use("/Admissions", express.static(path.join(__dirname, "./public")));
-app.use("/Campus", express.static(path.join(__dirname, "./public")));
-app.use("/Courses", express.static(path.join(__dirname, "./public")));
-app.use("/Policies", express.static(path.join(__dirname, "./public")));
+// app.use("/", express.static(path.join(__dirname, "./public")));
+// app.use("/About", express.static(path.join(__dirname, "./public")));
+// app.use("/Academics", express.static(path.join(__dirname, "./public")));
+// app.use("/Admissions", express.static(path.join(__dirname, "./public")));
+// app.use("/Campus", express.static(path.join(__dirname, "./public")));
+// app.use("/Courses", express.static(path.join(__dirname, "./public")));
+// app.use("/Policies", express.static(path.join(__dirname, "./public")));
+app.use(express.static(path.join(__dirname, "./public")));
 
 //Route Handlers
+app.use("/", require("./routes/root"));
 app.use("/About", require("./routes/about.js"));
 app.use("/Academics", require("./routes/academics.js"));
 app.use("/Admissions", require("./routes/admissions.js"));
 app.use("/Campus", require("./routes/campus.js"));
 app.use("/Courses", require("./routes/courses.js"));
 app.use("/Policies", require("./routes/policies.js"));
-
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
-});
 
 //404 handler must be LAST, after everything else
 app.use((req, res) => {

@@ -1,22 +1,22 @@
+<!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admission Procedure</title>
+    <title>Director's Message</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-    <link rel="stylesheet" href="./styles/home.css">
-    <link rel="stylesheet" href="styles/goToTop.css">
-    <link href="./styles/courses.css" rel="stylesheet">
-    <link href="./styles/output.css" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/home.css">
+    <link href="/styles/Director_Msg.css" rel="stylesheet">
+    <link href="/styles/output.css" rel="stylesheet">
 </head>
 
-<script type="module" src="main_anim.js"></script>
+<script type="module" src="/main_anim.js"></script>
 
 <body class="bg-[#FBF7EE]">
     <!--Hero Section-->
     <div class="relative w-full h-[560px] overflow-hidden">
-        <img src="Images/Director's Msg.jpg" alt="Bright School of Nursing" class="h-full w-full object-cover">
+        <img src="/Images/Director's Msg.jpg" alt="Bright School of Nursing" class="h-full w-full object-cover">
 
         <!--Dark Overlay-->
         <div class="absolute inset-0 bg-black/15 z-10"></div>
@@ -24,7 +24,10 @@
         <!--Header bar-->
         <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
             <div class="logo">
-                <img src="Images/logo/logo.png" alt="logo Bright School Nursing" class="h-full w-full object-contain">
+                <a href="/">
+                    <img src="/Images/logo/logo.png" alt="logo Bright School Nursing"
+                        class="h-full w-full object-contain">
+                </a>
             </div>
 
             <nav class="flex justify-between items-center w-[260px] text-white">
@@ -50,18 +53,66 @@
         </header>
     </div>
 
+    <!--search button page-->
+    <div class="search-container absolute inset-0 bg-black/85 z-40 ">
+        <div class="pt-[30px] pb-[30px] pl-[30px] pr-0">
+            <input class="search-bar" type="text" placeholder="Search">
+        </div>
+        <button class="h-16 w-20 bg-white text-2xl rounded-e-4xl align-middle cursor-pointer">
+            <i class="fa-solid fa-magnifying-glass "></i>
+        </button>
+    </div>
+
+    <div class="close-btn absolute top-16 right-14 z-50">
+        <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+    </div>
+
+    <!--Menu tab-->
+    <div class="menu-tab-block ">
+        <div class="flex flex-row w-full h-full justify-between items-center">
+
+            <!--logo & exit button-->
+            <div class="absolute flex flex-row justify-between items-center top-12 h-20">
+                <div class="logo cursor-pointer">
+                    <a href="/"><img src="/Images/logo/logo.png" alt="logo Bright School Nursing"
+                            class="h-25 w-25 object-contain">
+                    </a>
+                </div>
+
+                <div class="close-btn">
+                    <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!--menu tab items-->
+            <div class="menu-tab-items absolute flex flex-col top-25 ">
+                <p><a href="" class="inline underline">About</a></p>
+                <p><a href="" class="inline underline">Announcements</a></p>
+                <p><a href="" class="inline underline">Academics</a></p>
+                <p><a href="/About/director-message" class="inline underline">Director's Message</a></p>
+                <p><a href="" class="inline underline">Campus Life</a></p>
+                <p><a href="" class="inline underline">Educational Programmes & Seminars</a></p>
+                <p><a href="" class="inline underline">Faculty & Staff</a></p>
+                <p><a href="" class="inline underline">Lab Facilities</a></p>
+            </div>
+        </div>
+    </div>
+
     <section class="flex  bg-[#293519] h-8 w-full pt-2">
         <div class="container">
             <div class=""></div>
         </div>
     </section>
 
-    <!--Admission Procedure heading-->
+    <!--Director's Message Heading-->
     <div class="block">
-        <div class="pt-[50px] mt flex flex-row items-center">
+        <div class="pt-[50px] pb-3 flex flex-row items-center">
             <div class="flex items-center">
-                <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">Admission Procedure</h1>
+                <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">Director's Message</h1>
             </div>
 
             <div class="flex flex-row items-center">
@@ -71,41 +122,64 @@
         </div>
     </div>
 
-    <div class="block pb-14">
-        <p>
-            Bright College of Nursing provides financial assistance to eligible <span
-                class="font-semibold text-xl">SC/ST</span> students through () scholarships. Students who meet the
-            criteria can apply for scholarship by submittng the following <span class="font-semibold text-xl">mandatory
-                documents.</span>
+    <!--Message to Students-->
+    <section>
+        <div class="block pb-20">
+            <div class="flex flex-row justify-between items-center">
+                <div class="Message">
+                    <h4 class="message-title font-semibold text-2xl">Welcome back to a promising Academic Year! Exciting
+                        Opportunities await you.
+                    </h4>
+                    <p>
+                        As we embark on another academic year at Bright School of Nursing. I want to express my
+                        heartfelt appreciation for the dedication and resilience each of you brings. In the noble
+                        pursuit of shaping compassionate and skilled healthcare professionals, your efforts contribute
+                        significantly to the success and reputation of our Instituiton. Together let us continue
+                        fostering an environment of excellence, innovation and empathy.
 
-        </p>
-        <h2 class="text-2xl font-medium">Documents required for Scholarship Application</h2>
-        <ul class="li-bullet">
-            <li>Income Certificate of current year
-            </li>
-            <li>Caste Certificate</li>
-            <li>vbvn</li>
-            <li>Bank Passbook linked with Aadhar card</li>
-            <li>Recent Passport size photographs x3</li>
-        </ul>
-        <div class=" flex flex-row items-center pt-5">
-            <div class="flex items-center">
-                <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                <h1 class="text-3xl font-semibold text-[#223318] pr-3 ">Important Notes</h1>
+                    </p>
+                    <p>
+                        I have full confidence in the capabilities of our faculty to impart knowledge and mentor our
+                        aspiring nurses to be. Your journey here is a stepping stone to a rewarding and impactful career
+                        ahead. Embrace every opportunity for growth and learning. Remember good listeners are perpetual
+                        learners. Seek Support when needed, and always believe in your ability to overcome obstacles.
+                        Your success is not just a personal achievement but also a testament to the strength of our
+                        academic community. Let us uphold the values of integrity, compassion, and professionalism that
+                        defines our Instituiton.
+                    </p>
+                    <p>
+                        May this year bring forth achievements, camaraderie, and shared success. I am proud to lead such
+                        a dedicated community, and I look forward to witnessing the continued accomplishments of our
+                        nursing college.
+                    </p>
+                    <p class="font-semibold">
+                        Wishing you a journey filled with success, personal growth and the realization of your dreams.
+                    </p>
+                </div>
+
+                <div class="container-director-photo">
+                    <div class="flex flex-col ">
+                        <img src="/Images/Director Photos.png" alt="Director Photo" class="w-40 object-cover">
+                        <div>
+                            <span class="font-semibold text-lg">Sincerly,</span>
+                            <p>Er. Bijay Kumar Jena</p>
+                            <p>Director</p>
+                            <p>Mob: 9124183801</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <ul class="li-bullet">
-            <li>Comprehensive Cirriculum
-            </li>
-            <li>Expert Faculty</li>
-            <li>Well equipped lab facilities</li>
-        </ul>
 
-        <p class="text-justify font-semibold">"Apply for Scholarship to pursue your Nursing education at Bright College
-            of Nursing
-            without any financial burden."
-        </p>
-    </div>
+        <!--Videos-->
+        <div class="grid grid-cols-2 gap-4">
+            <div>01</div>
+            <div>02</div>
+            <div>09</div>
+            <div>10</div>
+        </div>
+
+    </section>
 
     <!--Go to Top button-->
     <div class="">
@@ -123,8 +197,10 @@
                     <div class="seminar-heading flex flex-row justify-between">
                         <!--Footer logo-->
                         <div class="logo footer-padding">
-                            <img src="Images/logo/logo.png" alt="logo Bright School Nursing"
-                                class="h-50 w-50 object-cover">
+                            <a href="/">
+                                <img src="/Images/logo/logo.png" alt="logo Bright School Nursing"
+                                    class="h-50 w-50 object-cover">
+                            </a>
                         </div>
                         <!--Quick links-->
                         <div class="footer-padding">
@@ -220,6 +296,7 @@
             </div>
         </div>
     </footer>
+
 </body>
 
 </html>

@@ -4,7 +4,7 @@ const path = require("node:path");
 
 const allowedPages = [];
 
-router.get("/:policies", (req, res) => {
+router.get("/:policies", (req, res, next) => {
   const policies = req.params.policies;
 
   if (!allowedPages.includes(policies)) return next();

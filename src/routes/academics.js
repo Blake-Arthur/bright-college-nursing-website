@@ -4,7 +4,7 @@ const path = require("node:path");
 
 const allowedPages = [];
 
-router.get("/:academics", (req, res) => {
+router.get("/:academics", (req, res, next) => {
   const academics = req.params.academics;
 
   if (!allowedPages.includes(academics)) return next();

@@ -2350,3 +2350,2397 @@
 
 20260120	12:02:41	b375ca7e-b008-4e6a-98e4-f2cce67b20b4	GET	http://localhost:3500	/About/Animations/go-to-top.js
 
+20260120	13:29:05	2590a4b3-7ed1-47d6-abe9-1b673dc495c8	GET	undefined	/About/About%20us
+
+20260120	13:29:05	73f22fae-1f25-4595-9622-7b73261025f8	GET	undefined	/About/styles/home.css
+
+20260120	13:29:05	c9135bbe-16dc-46dd-96dd-2da4ffabb555	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	13:29:05	fb27b379-2406-441e-8c3b-c946c4352e28	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	13:29:05	d090204b-8899-4f91-995a-e90fa68b3c1a	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	13:29:05	c1f6880b-d144-4855-b2fe-fd75131131a8	GET	undefined	/About/styles/output.css
+
+20260120	13:29:05	ee766e49-1ba0-4b1a-96b5-135a6d376f4e	GET	undefined	/About/Images/logo/logo.png
+
+20260120	13:29:05	904da55f-6a73-4f78-bcc3-1c3fc1b95cd3	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	13:29:05	41c76c22-48ce-4543-a65f-2ef1bf513415	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	13:29:05	ac47a37a-30f0-4698-863a-e5ebec2ed690	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	13:29:05	cb357a26-30fd-4207-8dd4-d645c27388a6	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	13:29:05	e5ce3da9-b552-464b-8d55-923536fc8873	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	13:29:07	ce690016-be1d-4bbf-927f-bb47cef7d072	GET	undefined	/About/Director's%20Message
+
+20260120	13:30:29	7288364b-afe5-4ce7-a222-40b63f80ecc2	GET	undefined	/About/Director's%20Message
+
+20260120	13:30:29	f3990401-40bb-4a80-9318-b5c52be71e00	GET	undefined	/About/styles/home.css
+
+20260120	13:30:29	21966c33-08fb-4bbb-a5e8-904d7f2b6ff7	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	13:30:29	583f6472-182c-47c7-a3bc-c1afc56f02d7	GET	undefined	/About/styles/output.css
+
+20260120	13:30:29	bcc368a5-2c8c-4fa0-b253-b2601e536f7b	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	13:30:29	d5e6253c-0b97-483c-9e5a-f53625872883	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	13:30:29	2114b361-30fe-425b-bf02-7da146f46df5	GET	undefined	/About/Images/logo/logo.png
+
+20260120	13:30:29	0691f3ee-266c-4e97-9bea-d101e21297ef	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	13:30:29	c79b5b1b-8012-4c2a-8c49-9512d3e62970	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	13:30:29	a0d08b39-2b8f-4bd3-8e81-cc5154b90314	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	13:30:29	4fc98400-6fc1-4015-8bf6-72e85d77a756	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	13:30:29	cf93cfcf-826b-4806-8475-156e5f0ef3dd	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	13:30:29	94855e75-0f40-4f9f-951a-440a2bdd9e26	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	13:30:37	928ea3f5-77f3-4439-b296-d87bb79a3363	GET	undefined	/Admissions/Scholarship
+
+20260120	13:30:37	7029fef2-7efb-4b8f-b3a5-7b49c1d9c380	GET	undefined	/Admissions/styles/home.css
+
+20260120	13:30:37	44ca4063-7e1f-4f70-b3a0-8bc8b0f32ff1	GET	undefined	/Admissions/styles/goToTop.css
+
+20260120	13:30:37	7f854599-81bc-443a-a71f-43e449797d79	GET	undefined	/Admissions/styles/courses.css
+
+20260120	13:30:37	846f6e06-5979-4d61-8808-2705361695aa	GET	undefined	/Admissions/styles/output.css
+
+20260120	13:30:37	6920d9f6-b649-42fe-8fa8-ff3b40f5f81d	GET	http://localhost:3500	/Admissions/main_anim.js
+
+20260120	13:30:37	9cffaf89-4edf-445a-9388-8e00836bb574	GET	undefined	/Admissions/Images/Director's%20Msg.jpg
+
+20260120	13:30:37	099c61d3-b933-4eb5-b4d8-f45223a4eec5	GET	undefined	/Admissions/Images/logo/logo.png
+
+20260120	13:30:37	2c3eb20c-879b-4628-aedd-187634c29c0d	GET	http://localhost:3500	/Admissions/Animations/search-bar.js
+
+20260120	13:30:37	cf250c49-44b2-47b3-a2f1-0be108649ed0	GET	http://localhost:3500	/Admissions/Animations/annoucements-slider.js
+
+20260120	13:30:37	3c14ef36-1910-4293-a945-290f243fe628	GET	http://localhost:3500	/Admissions/Animations/count-digit.js
+
+20260120	13:30:37	77f22281-4dc7-4a9d-9fde-73f7e2e88fb3	GET	http://localhost:3500	/Admissions/Animations/accordion-display.js
+
+20260120	13:30:37	75ebbce2-fec0-4208-a16a-26995bb59895	GET	http://localhost:3500	/Admissions/Animations/go-to-top.js
+
+20260120	13:30:41	16df3103-7ecf-43d6-96d6-e6251c375152	GET	undefined	/About/Contacts
+
+20260120	13:30:41	41a3ff96-b1f4-40fe-a957-772934c3499c	GET	undefined	/About/styles/home.css
+
+20260120	13:30:41	19a73e6b-ff23-4984-b73b-df0ec92e406b	GET	undefined	/About/styles/output.css
+
+20260120	13:30:41	0e32237c-d6ae-4626-9dcb-a38f4afd09c6	GET	undefined	/About/styles/contacts.css
+
+20260120	13:30:41	3a72ff22-84d4-4683-b36a-4fc6822c5e07	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	13:30:41	62e90e81-4228-4171-8a2e-4011aa45976c	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	13:30:41	642936ab-1f27-4a4f-9a69-d3e9dbb7318b	GET	undefined	/About/Images/logo/logo.png
+
+20260120	13:30:41	9d568243-606b-4df1-9121-ad7535506b40	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	13:30:41	e7de7186-41de-44bb-9b58-6d7931cae0c7	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	13:30:41	ec12365d-52b0-4848-9e87-baa53d6b08f4	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	13:30:41	0ff57bf8-bdcc-4e35-a555-0e82bb88c268	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	13:30:41	6aae5528-4be1-44b3-ab58-0a65804f8fcc	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:19:29	e910c0d0-9a24-43af-b58f-24d2878b8757	GET	undefined	/
+
+20260120	14:19:29	d0e9bd47-a34b-43ff-915a-4c7f4adc4b1a	GET	undefined	/styles/home.css
+
+20260120	14:19:29	5564b853-e36e-4bd4-b12c-8260c96b81ea	GET	undefined	/styles/output.css
+
+20260120	14:19:29	4a47deaf-592b-40bf-b0e4-cec0cc1449e5	GET	http://localhost:3500	/main_anim.js
+
+20260120	14:19:29	553a688a-5f8c-4da8-a481-2189953054bc	GET	undefined	/Images/College_Building_1.jpg
+
+20260120	14:19:29	495f0168-74e8-4ceb-a80a-c49508f493ad	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260120	14:19:29	a6e6d0ca-4f76-450c-9832-3b2653bd506c	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260120	14:19:29	19a002ff-16e7-41c6-a26e-7fe85ae62fff	GET	undefined	/Images/logo/logo.png
+
+20260120	14:19:29	d437c2cd-eb50-4075-a527-7c03fec791ab	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260120	14:19:29	870a0cee-4d97-4768-88e5-8be47881e45d	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260120	14:19:29	b813db28-2e45-4ab0-9bd2-7598fc0daf19	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260120	14:19:29	f3d1a21f-9418-43a6-9c6d-487b7455b752	GET	undefined	/Images/logo/ONMRC.png
+
+20260120	14:19:29	55a648b2-9b47-46f2-935d-ea6cb1021704	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260120	14:19:29	cd5183a9-dce7-4eda-b3bd-a2a2a506cfd2	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260120	14:19:29	8f3be6d6-2775-449d-8283-169af265dc9d	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260120	14:19:29	c81a5e57-41ba-4997-b869-b303ffcb8a1b	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260120	14:19:29	f4f1039f-d4d2-4756-a93c-abddd82d28b2	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260120	14:19:29	2db879fe-5259-44fc-bb7f-89c3ee9b8940	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260120	14:19:29	f33e1667-c8f4-486c-8dcd-8be1efc4e511	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260120	14:19:29	29e07378-fb3c-4edc-8d53-152a73162efc	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260120	14:19:29	ca9b31b6-7647-4055-b4bb-1ff20d32aa46	GET	undefined	/Images/College_Building_hor.jpg
+
+20260120	14:19:29	7d70b32a-2098-4f51-8e8d-eaf8041e7136	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260120	14:19:29	5d9d23b8-398e-435e-90f2-14bc50250b39	GET	undefined	/Images/SVG/circle-check.svg
+
+20260120	14:19:29	23a45298-6dbe-423a-80cb-308cd72d3a12	GET	http://localhost:3500	/Animations/search-bar.js
+
+20260120	14:19:29	6aa15c25-e749-42f2-836d-ba165901a885	GET	http://localhost:3500	/Animations/annoucements-slider.js
+
+20260120	14:19:29	b0cb750b-8633-46f3-a4a2-066bf6bf552e	GET	http://localhost:3500	/Animations/count-digit.js
+
+20260120	14:19:29	e852e1de-d0f6-4ed1-84c9-a6808ddcf582	GET	http://localhost:3500	/Animations/accordion-display.js
+
+20260120	14:19:29	46a9532c-2e62-4042-b343-d516804cd33e	GET	http://localhost:3500	/Animations/go-to-top.js
+
+20260120	14:19:40	92b6e8d4-600b-48d7-a549-b5fd07951122	GET	undefined	/Director's%20Message.html
+
+20260120	14:20:51	76885cc5-7025-43b1-badb-7d80b42d394c	GET	undefined	/Director's%20Message.html
+
+20260120	14:20:56	c104e058-afdd-4a60-ba3b-e4d4694822a6	GET	undefined	/Director's%20Message.html
+
+20260120	14:21:37	3a75ebe7-acc8-43cd-82dc-e5b14a830322	GET	undefined	/Director's%20Message.html
+
+20260120	14:22:13	5f0ffebd-423e-4905-9a9f-1528f7cb89ea	GET	undefined	/About/Director's%20Message
+
+20260120	14:22:13	476f0794-a826-47fa-8550-268357da36a1	GET	undefined	/About/styles/home.css
+
+20260120	14:22:13	dd90c061-4278-463a-a1f2-0211265ff1ba	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:22:13	d70b27ae-44b9-4921-81d0-3c87a57c6990	GET	undefined	/About/styles/output.css
+
+20260120	14:22:13	caf4dd31-349d-4e93-9a93-c080dd34554d	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:22:13	6e549907-77a3-465e-8605-2a6e8868ed1b	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:22:13	731e551d-b885-4e8e-8f92-931bc216abd8	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:22:13	8ba9bb26-3a1d-4bd8-bce0-b1aada86e9ee	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:22:13	45f468a3-bb6c-4b20-a04d-fba46ebe24f9	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:22:13	6533c6e1-1530-400f-8f7e-53b056189623	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:22:13	144c94d2-8a1d-4247-ac9d-48f2af68eea3	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:22:13	72beb5d4-91de-4076-a706-6ca27f134672	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:22:13	82fd84d9-8185-468f-b635-b1217c430675	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:28:10	649e8d02-1d1a-4733-b526-9f271067d1b0	GET	undefined	/About/Director's%20Message
+
+20260120	14:28:10	6bc14be4-b6f2-436d-807f-941a210d106b	GET	undefined	/About/styles/home.css
+
+20260120	14:28:10	0f6e5c96-d0dd-4c8f-bdda-59b948ce3477	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:28:10	6cd3df29-e4bb-42e6-91ff-fdae492cd9e7	GET	undefined	/About/styles/output.css
+
+20260120	14:28:10	30744a1e-595d-403c-9fa9-a47a5452c6a1	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:28:10	3979d71a-217e-4a84-bd38-09d279763822	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:28:10	99a6c6de-89c1-46fa-bb6c-000d8a21eb6a	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:28:10	2b74e596-f385-42a8-ad35-0dc1d470ba00	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:28:10	2f43d496-ad15-4cc2-9097-367222b52ae0	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:28:10	3e7ea969-8d1b-46eb-9996-19202a624517	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:28:10	e1742cd5-6bd6-43f9-83a1-3b40b5e3e057	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:28:10	9b9d70e2-99f0-42e6-ab22-556da3a45854	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:28:10	d24c7baf-490d-4965-ac6a-e652397e187b	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:28:17	a02d0324-b3ef-4b3e-8eab-269c77a7dcb7	GET	undefined	/About/Director's%20Message
+
+20260120	14:28:17	66f1c7a2-3395-4e84-8be7-238ca4975718	GET	undefined	/About/styles/home.css
+
+20260120	14:28:17	fe2b8e3f-ec2f-4ee7-81c2-59cdee12e07d	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:28:17	a55ecb7e-34ff-4422-9676-3077a9e8a8a7	GET	undefined	/About/styles/output.css
+
+20260120	14:28:17	4331b567-0ab8-42a5-b5b5-1025727b6592	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:28:17	ee093279-9507-49cd-b06c-609a1da8fd33	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:28:17	d72be347-69db-4e03-81f1-a191d7a093b6	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:28:17	d378a618-b50a-49d9-9b0e-ac43632209d2	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:28:17	e7418ed5-c7ad-4894-be00-dc98351e04a9	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:28:17	877ff5f4-113b-462a-b76f-493ec66c6e02	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:28:17	20d9613e-dc7c-4cb3-b7f1-425884a7c808	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:28:17	19a084ab-5add-499f-aef5-66b79cc9d937	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:28:17	8da55d3a-0789-4cc1-b537-7e37e9226def	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:28:29	07e12df0-16dc-490b-8080-3b07f82699c6	GET	undefined	/About/Director's%20Message
+
+20260120	14:28:29	311a5612-57e5-46f7-83c9-3a223cbc4f05	GET	undefined	/About/styles/home.css
+
+20260120	14:28:29	159f6f9a-5334-4fdc-86a8-e3f15f019498	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:28:29	d42cb7af-c433-4f47-8ea2-ac4136f8030c	GET	undefined	/About/styles/output.css
+
+20260120	14:28:29	650c8bb4-fd7b-4f82-9d10-efbd75c5dd6c	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:28:29	66619133-8731-4910-a77a-b93640e61edb	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:28:29	cdba659a-7dfa-43b7-9665-064d8c810a5c	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:28:29	43e37952-8171-47da-a1db-6c7609fecf9a	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:28:29	5a339f76-aaf3-4ecb-a215-868dcfa904d9	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:28:29	aecfe813-0201-4b92-80a7-dd34e26c30b2	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:28:29	81932b5d-77f0-4e44-9ea7-24fdc5307496	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:28:29	a73bae59-e339-4582-977c-595de14af318	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:28:29	78aeda35-5aad-4a7c-a249-b73b5d502f86	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:28:32	c632130c-af20-4e46-ba1e-6824c371e751	GET	undefined	/Admissions/Scholarship
+
+20260120	14:28:32	a9fa7872-e3bc-43e0-9318-cce7b53d4f39	GET	undefined	/Admissions/styles/home.css
+
+20260120	14:28:32	84766af0-a613-4d54-b4e0-bfdf923a52f5	GET	undefined	/Admissions/styles/goToTop.css
+
+20260120	14:28:32	76c71c86-e2a9-42bc-b7c0-cc585af6adaf	GET	undefined	/Admissions/styles/courses.css
+
+20260120	14:28:32	12305d72-402f-4bc9-87c7-ec509d6b68a6	GET	undefined	/Admissions/styles/output.css
+
+20260120	14:28:32	efe7d461-aa62-40db-ab4e-ca8ece1d337c	GET	http://localhost:3500	/Admissions/main_anim.js
+
+20260120	14:28:32	dcbe56c0-12d6-4a71-a9ce-93746fdbc976	GET	undefined	/Admissions/Images/Director's%20Msg.jpg
+
+20260120	14:28:32	b62e285d-3a6d-474d-b87c-5756ad2fa1ec	GET	undefined	/Admissions/Images/logo/logo.png
+
+20260120	14:28:32	f05bb721-586a-4cba-a0cb-87fb4243760d	GET	http://localhost:3500	/Admissions/Animations/search-bar.js
+
+20260120	14:28:32	fd93c154-87d1-4bba-a7f2-87cae73d71ce	GET	http://localhost:3500	/Admissions/Animations/annoucements-slider.js
+
+20260120	14:28:32	f2f3abeb-95a7-4ef2-9b12-a7cb5fe8d436	GET	http://localhost:3500	/Admissions/Animations/count-digit.js
+
+20260120	14:28:32	367f9e06-4991-4914-ba8e-06e46c5d6b4e	GET	http://localhost:3500	/Admissions/Animations/accordion-display.js
+
+20260120	14:28:32	ce85e78f-2d4b-492d-908a-a44b91e65ea9	GET	http://localhost:3500	/Admissions/Animations/go-to-top.js
+
+20260120	14:28:41	bef70b9d-070e-42b2-be4b-59344a3eaae5	GET	undefined	/Director's%20Message.html
+
+20260120	14:29:32	d307eb70-d1f6-4972-8a9b-3035d69eac2b	GET	undefined	/Director's%20Message.html
+
+20260120	14:33:52	ec26cccc-d4ee-4e46-9692-fa26443e8053	GET	undefined	/About/Director's%20Message
+
+20260120	14:34:39	497aa7f8-c5b7-447c-8000-880d35527920	GET	undefined	/About/Director's%20Message
+
+20260120	14:34:44	5eb6767a-156e-4c13-814c-50acc770d94b	GET	undefined	/About/Director's%20Message
+
+20260120	14:34:55	297e76c9-8b0a-4fe0-9569-e082c6ec199b	GET	undefined	/
+
+20260120	14:34:56	5c71c6f3-334d-41cd-92b1-a2a437b66bbb	GET	undefined	/styles/home.css
+
+20260120	14:34:56	911b552e-5617-4253-ae0e-21140b3e66e9	GET	undefined	/styles/output.css
+
+20260120	14:34:56	335b90de-2323-441d-8c0a-a2df0d944afc	GET	http://localhost:3500	/main_anim.js
+
+20260120	14:34:56	772f18c0-d32e-4776-b16f-d9c8c4a1acb1	GET	undefined	/Images/College_Building_1.jpg
+
+20260120	14:34:56	5138c03e-6512-4f07-9bf0-97dbda4945c3	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260120	14:34:56	1a212882-8b83-47c5-956e-92815daf0eae	GET	undefined	/Images/logo/logo.png
+
+20260120	14:34:56	5a85d5b4-c6d3-434f-9c42-37b60e5f6214	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260120	14:34:56	f5dd22ea-b07e-41f4-a80e-7b6d3dcfc0bc	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260120	14:34:56	99a349a0-f1d6-4979-a642-d24ce6c4a18d	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260120	14:34:56	ac8780b4-94f3-440e-bce2-d32d31b0cbad	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260120	14:34:56	ad990611-6bcc-41e4-95ef-90b69804caf5	GET	undefined	/Images/logo/ONMRC.png
+
+20260120	14:34:56	8b26fdc0-e01f-4372-b57f-14770ea06198	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260120	14:34:56	8174d196-afe7-46d6-abf7-72c38bb3283c	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260120	14:34:56	6d562794-e531-41f6-a0e6-c8ebe6185e1a	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260120	14:34:56	ae958490-e2f8-4e90-bc25-dd4456ddeda7	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260120	14:34:56	d0e3d990-bccf-4729-95e4-6f9d324e9035	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260120	14:34:56	6d301073-49aa-427b-91a0-e65ce3f4fa03	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260120	14:34:56	edcea42f-b6ba-4bdc-9c31-25959537aa44	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260120	14:34:56	d146f84c-e347-4e9d-8cc7-578b089082fc	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260120	14:34:56	c8ce17bb-f04b-4f03-9d9e-2fcff69b147d	GET	undefined	/Images/College_Building_hor.jpg
+
+20260120	14:34:56	4f4f7ec0-5186-4bb5-912f-8fb77e98bad9	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260120	14:34:56	24fe3ff4-d36c-442e-8306-e1b333f39103	GET	undefined	/Images/SVG/circle-check.svg
+
+20260120	14:34:56	0e2d6808-80f2-46eb-80d3-7c0d111074e9	GET	http://localhost:3500	/Animations/search-bar.js
+
+20260120	14:34:56	60920596-60e8-4b3a-a924-7dfcb3dc9022	GET	http://localhost:3500	/Animations/annoucements-slider.js
+
+20260120	14:34:56	4aa03ec5-0868-48b2-a4e3-211da044f207	GET	http://localhost:3500	/Animations/count-digit.js
+
+20260120	14:34:56	a0a16479-4ddb-474b-8255-86285b5bc69e	GET	http://localhost:3500	/Animations/accordion-display.js
+
+20260120	14:34:56	b1f52666-7a68-4851-b156-1b49d74269ce	GET	http://localhost:3500	/Animations/go-to-top.js
+
+20260120	14:34:58	0526735e-3acb-4979-a7bc-40907fe1957b	GET	undefined	/About/director-message
+
+20260120	14:34:58	7d397633-4672-4e3c-aa2e-dbe27408ea17	GET	undefined	/About/styles/home.css
+
+20260120	14:34:58	0ac24c55-6624-4611-9918-ec982e5ac3cc	GET	undefined	/About/styles/output.css
+
+20260120	14:34:58	afd55af6-00ed-48dc-8271-1fbb48f7b42e	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:34:58	05aa123e-3a5c-423f-9994-955f686c6f29	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:34:58	c0815a8f-5506-4766-9064-c3ed98e5e6bf	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:34:58	ad270a08-2b2e-4c59-b6e1-f8fc5cca5288	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:34:58	fe57dcce-f789-4824-94ee-af8cb3ae4037	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:34:58	843defec-d90b-454d-b3b5-23135c24e9a6	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:34:58	69485340-1e66-4486-b7ba-fe417ebbbd01	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:34:58	db7384b8-cdef-4f9a-9745-d11393cba97f	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:34:58	d934189c-4453-4665-962c-ac37ab5e02f7	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:34:58	a2f1de44-4f4c-4bab-bd5a-23428bfb568d	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:35:08	0fea2a01-1c3b-4c1e-bb3b-f685ad6f436e	GET	undefined	/About/director-message
+
+20260120	14:35:08	2c3c6980-1fcd-47f8-8df2-3433de10d9fc	GET	undefined	/About/styles/home.css
+
+20260120	14:35:08	fef44ff5-a5bc-471c-8bc0-4c33342b43fc	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:35:08	3d9e9737-b78a-4ac8-9e9c-adc10069f871	GET	undefined	/About/styles/output.css
+
+20260120	14:35:08	eec2a5c7-cc2a-4470-a7b6-94f395499949	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:35:08	9501c8da-b45d-42c3-9e14-bfbcd858c14c	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:35:08	1265e929-b31a-490a-b6a9-7e99b4ee521b	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:35:08	32ec379f-369d-425a-b0fb-f848c9f23161	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:35:08	e2cce50e-4c20-4c17-9912-8795bc56d3ae	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:35:08	768a95cf-e80e-4b32-adc3-3ea1580f68b1	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:35:08	9386ec7d-8ac2-40fc-9b67-ae89132192e9	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:35:08	199903ab-af7c-4fff-ad7c-413e0c161971	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:35:08	4ce32047-a9e6-4c4c-bc21-8212b0167c04	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:35:11	f4144a4b-5760-41f6-9b0f-2e4756473515	GET	undefined	/Admissions/Scholarship
+
+20260120	14:35:32	a9861c8a-ba8c-42f1-8db8-6fbac61802bc	GET	undefined	/Admissions/Scholarship
+
+20260120	14:35:33	0447cd30-ac18-4041-9d46-579dfcbdea90	GET	undefined	/Admissions/Scholarship
+
+20260120	14:35:35	02ba8829-8005-4e7b-8d1e-0b54991d46d6	GET	undefined	/Admissions/Scholarship
+
+20260120	14:35:50	42173e6a-3470-407e-9db4-dfc5b8ea358c	GET	undefined	/Admissions/Scholarship
+
+20260120	14:36:00	76f6224c-95e0-45e0-a779-c9c8b4e98124	GET	undefined	/About/Director's%20Message
+
+20260120	14:36:03	e7fccffd-29ae-4392-b409-adcf45723fc9	GET	undefined	/About/Director's%20Message
+
+20260120	14:36:06	07c08303-acb0-4333-b2e0-11cca7568420	GET	undefined	/About/Contacts
+
+20260120	14:36:12	96c96e89-ad26-49ab-8896-a73ba546f304	GET	undefined	/Admissions/Scholarship
+
+20260120	14:36:15	fc839036-8329-4e11-bacc-d8663954b7b0	GET	undefined	/About/director-message
+
+20260120	14:36:15	98fc7981-ff13-4e16-ab13-e01c9bb05bfb	GET	undefined	/About/styles/home.css
+
+20260120	14:36:15	a14c1950-894c-4942-985c-e2df5ec5bce7	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:36:15	483c4db2-fc2d-4985-ac75-e7a44216c0f7	GET	undefined	/About/styles/output.css
+
+20260120	14:36:15	7f22e582-c33a-4d24-8c29-e70aee366525	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:36:15	4704505d-5093-4d05-88ef-6f02ab638fe1	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:36:15	383a1724-772b-4cb3-a38c-c2d3a3f0117a	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:36:15	8a64baaa-73cd-4435-8df0-31fa7dcb232e	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:36:15	31404dc3-b7f8-43f6-ad0d-a16819b4a156	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:36:15	08ff7cca-3f0f-4ae8-8bce-9d82eef582e0	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:36:15	25247040-c131-4a2d-91d2-aa5b09611efe	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:36:15	c886937c-c133-4f1c-a89e-6b3ecf7ee91e	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:36:15	4c7fa6f7-6ad4-445d-a886-1ced311cfb55	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:36:25	24d69405-ea36-4a68-99b8-f7a75c491e0e	GET	undefined	/Admissions/Scholarship
+
+20260120	14:36:31	b63cae84-3143-46a8-85e1-6218e2feaea6	GET	undefined	/About/Contacts
+
+20260120	14:37:12	47f6ec26-0aa3-4a96-afba-d04953f71b06	GET	undefined	/About/director-message
+
+20260120	14:37:12	a21e5708-e54e-4d81-9acc-66fad3831e83	GET	undefined	/About/styles/home.css
+
+20260120	14:37:12	f074b5e0-9a54-4022-adba-b6b8e56bce44	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:37:12	759cb90a-4301-4be2-8a01-b4622970e91c	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:37:12	afbe5109-38e8-4624-a975-c65ccc47d0a0	GET	undefined	/About/styles/output.css
+
+20260120	14:37:12	d25d657d-947d-496f-98d4-ac178e7cf944	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:37:12	f063dd08-19a3-4a1e-9deb-18daa4176ed1	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:37:12	9a472e88-9193-45c9-a4bd-1b471ea8723b	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:37:12	6c501daf-3ed8-4b5e-b636-d505ff97fe89	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:37:12	b1b5bb3a-624a-4ea2-a27e-d1c97c7839eb	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:37:12	072aa86c-7397-4086-a5ed-f7d1171d2340	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:37:12	c20e30e6-2b18-45fd-8a8a-52e086fd030c	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:37:12	1a1905b3-1cb3-4a89-8a31-4dfc85173f7a	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:37:15	50f5ba1b-fdc1-4d7d-8d89-450847d021e2	GET	undefined	/Admissions/Scholarship
+
+20260120	14:37:22	52fa3cfe-f866-4d04-884b-8c123e3dade5	GET	undefined	/About/Contacts
+
+20260120	14:37:36	96a199bd-9de3-4f74-8ce0-bd647ed14d2f	GET	undefined	/Admissions/Scholarship
+
+20260120	14:40:56	7aae414b-f588-4792-8b3a-b9eacd519adc	GET	undefined	/Admissions/Scholarship
+
+20260120	14:41:07	d65dacd9-e1f4-40d8-b7f4-63c23089982c	GET	undefined	/Admissions/Scholarship
+
+20260120	14:42:39	7f40486a-cda1-421c-9b38-ac3b4975a4b7	GET	undefined	/Admissions/scholarship
+
+20260120	14:42:39	ea98e851-a9cc-4026-a665-94f91797982c	GET	undefined	/Admissions/styles/courses.css
+
+20260120	14:42:39	b7ae0219-74f3-4db2-b279-34688f6b7f92	GET	undefined	/Admissions/styles/home.css
+
+20260120	14:42:39	5ebbf289-40db-41e3-a313-18d4b2d03b20	GET	undefined	/Admissions/styles/goToTop.css
+
+20260120	14:42:39	80de37dc-313e-49da-8714-78e1bccace3e	GET	undefined	/Admissions/Images/Director's%20Msg.jpg
+
+20260120	14:42:39	66d8f75d-d870-49ea-8ac5-61142ea8aab5	GET	undefined	/Admissions/styles/output.css
+
+20260120	14:42:39	3f6e997e-17a9-4fbb-aa6b-a9aed4465761	GET	http://localhost:3500	/Admissions/main_anim.js
+
+20260120	14:42:39	14891e82-e4ad-45fa-98c0-e4a5ee03450e	GET	undefined	/Admissions/Images/logo/logo.png
+
+20260120	14:42:39	f1b4a450-2895-4dfb-9c1f-1594fb258874	GET	http://localhost:3500	/Admissions/Animations/search-bar.js
+
+20260120	14:42:39	55ba37c0-76ec-4818-b2e6-75b6786d5417	GET	http://localhost:3500	/Admissions/Animations/annoucements-slider.js
+
+20260120	14:42:39	f0a1e571-5670-4e4d-8657-bdaea958ce8d	GET	http://localhost:3500	/Admissions/Animations/count-digit.js
+
+20260120	14:42:39	e4cb7f32-4922-4ad4-9ef2-db4bd73b1571	GET	http://localhost:3500	/Admissions/Animations/accordion-display.js
+
+20260120	14:42:39	284090b8-2b55-44c1-89ac-c0143cdaa9f1	GET	http://localhost:3500	/Admissions/Animations/go-to-top.js
+
+20260120	14:42:44	17f06f34-16ce-4a63-8427-2d2a846e4eed	GET	undefined	/Admissions/scholarship
+
+20260120	14:42:44	4a840ac9-f343-4354-bd78-9bde9054f290	GET	undefined	/Admissions/styles/home.css
+
+20260120	14:42:44	48c61d78-9719-434a-9140-442c204c2d86	GET	undefined	/Admissions/styles/goToTop.css
+
+20260120	14:42:44	ad128dcf-dd5f-41a1-989d-942faf234794	GET	undefined	/Admissions/styles/courses.css
+
+20260120	14:42:44	93ba63e6-6234-43f7-8168-6078fcdc3a3f	GET	undefined	/Admissions/styles/output.css
+
+20260120	14:42:44	c0f9eaf4-4f8a-4d06-a32d-d4b68d4ccc09	GET	http://localhost:3500	/Admissions/main_anim.js
+
+20260120	14:42:44	542b7282-5a46-4f6d-a5cf-cc60178d805f	GET	undefined	/Admissions/Images/Director's%20Msg.jpg
+
+20260120	14:42:44	3f3cb360-5e76-43b5-876c-9d3b715b4536	GET	undefined	/Admissions/Images/logo/logo.png
+
+20260120	14:42:44	68629131-8061-46b2-a07e-5c3b47497f15	GET	http://localhost:3500	/Admissions/Animations/search-bar.js
+
+20260120	14:42:44	385bd0b2-494b-4a8d-a173-3cec96ccab38	GET	http://localhost:3500	/Admissions/Animations/annoucements-slider.js
+
+20260120	14:42:44	ca86d51f-41d0-4253-a5cf-9e525e31eec7	GET	http://localhost:3500	/Admissions/Animations/count-digit.js
+
+20260120	14:42:44	fcce1eac-f949-4dcc-849f-f211809cb611	GET	http://localhost:3500	/Admissions/Animations/accordion-display.js
+
+20260120	14:42:44	2feb8f06-ac82-4325-91a6-bbe649b20f7e	GET	http://localhost:3500	/Admissions/Animations/go-to-top.js
+
+20260120	14:42:50	d1b1de86-39e7-4f0a-b84e-7d134262298b	GET	undefined	/
+
+20260120	14:42:50	9e5ee1e8-f03e-43a4-a1ec-2e64ba553aa3	GET	undefined	/styles/home.css
+
+20260120	14:42:50	6110d5dd-89a4-4301-8a20-4e6b5bc75196	GET	undefined	/styles/output.css
+
+20260120	14:42:50	b8a8be3e-458d-40a1-9227-bb50f0a9bcef	GET	http://localhost:3500	/main_anim.js
+
+20260120	14:42:50	b4083f69-93fc-4c41-96cd-d7d3bf55dfce	GET	undefined	/Images/College_Building_1.jpg
+
+20260120	14:42:50	f449194b-8666-465e-9aa8-817b0a64b1d6	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260120	14:42:50	14348209-efdb-4761-84a2-fa0e829ac619	GET	undefined	/Images/logo/logo.png
+
+20260120	14:42:50	e31562d8-27e4-4aab-abe2-2e8b3aeeddd2	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260120	14:42:50	1eb6f596-4957-4082-b2a8-58a40e5233ab	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260120	14:42:50	bbc7ec38-5fe8-419e-bd6a-568f08de6c74	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260120	14:42:50	698806d5-41f2-4b66-b971-c27a89362c49	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260120	14:42:50	f44dd805-6989-473e-a922-c9ce52d4ab7e	GET	undefined	/Images/logo/ONMRC.png
+
+20260120	14:42:50	18fe4339-968d-4c6c-8768-ac734b5f10a6	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260120	14:42:50	7a506ecb-47db-479a-a866-38fc051a2b64	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260120	14:42:50	d073102d-114d-4bf5-9fdf-80d9767653be	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260120	14:42:50	12a24514-938e-4615-8d77-92ad640b984e	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260120	14:42:50	6f640496-cc4e-4c21-a928-de1a2400781a	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260120	14:42:50	d7f27c95-1b01-44d3-b4dc-f3b95dfb541f	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260120	14:42:50	d12cb24a-8930-46b2-b0bf-da9d39d27d9c	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260120	14:42:50	65f3ad87-a3a4-4a3d-af9e-e512543bec07	GET	http://localhost:3500	/Animations/search-bar.js
+
+20260120	14:42:50	03e0b3e6-38f6-40be-a643-368f1b513d18	GET	http://localhost:3500	/Animations/annoucements-slider.js
+
+20260120	14:42:50	015c52aa-546e-42fb-b21a-9a0dfa4cbf38	GET	http://localhost:3500	/Animations/count-digit.js
+
+20260120	14:42:50	19e18833-6cc8-4daa-a021-6fbcabd62d40	GET	http://localhost:3500	/Animations/accordion-display.js
+
+20260120	14:42:50	b5ac57f1-5ca0-4fed-9d58-baabaf75277a	GET	http://localhost:3500	/Animations/go-to-top.js
+
+20260120	14:42:50	d01f2ea5-cff7-4148-a1b0-5dbbafb2b6ce	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260120	14:42:50	e725fe7d-c74a-4060-b1c5-dc37cfd846e0	GET	undefined	/Images/College_Building_hor.jpg
+
+20260120	14:42:50	8d95f1a0-d3ad-4749-a606-5ff43a0cfcff	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260120	14:42:50	c962fdc6-11c1-4330-aa56-fdc7f05555ba	GET	undefined	/Images/SVG/circle-check.svg
+
+20260120	14:42:55	db5e9c07-87f2-4cf8-8211-9e4eb9c761c1	GET	undefined	/About/director-message
+
+20260120	14:42:55	d07bfddd-410b-4796-8b88-ae29ab952a07	GET	undefined	/About/styles/home.css
+
+20260120	14:42:55	6ea19f4d-8b08-49c4-bbb0-1b3ae61edc91	GET	undefined	/About/styles/Director_Msg.css
+
+20260120	14:42:55	facff761-324a-4f62-ad31-a179e8d5f32f	GET	undefined	/About/styles/output.css
+
+20260120	14:42:55	bbd7d7b9-f348-43d0-af24-b82513e54b96	GET	http://localhost:3500	/About/main_anim.js
+
+20260120	14:42:55	f05d3de0-365b-4c5a-96b1-ec75b706622f	GET	undefined	/About/Images/logo/logo.png
+
+20260120	14:42:55	3c0372a0-108a-4aa8-9ab8-bc64b16b5282	GET	undefined	/About/Images/Director's%20Msg.jpg
+
+20260120	14:42:55	cfa24939-96da-4eba-be97-b77a727268ef	GET	undefined	/About/Images/Director%20Photos.png
+
+20260120	14:42:55	774c8317-5274-40c0-916a-575147f231e3	GET	http://localhost:3500	/About/Animations/annoucements-slider.js
+
+20260120	14:42:55	4ac40f94-7afe-4dde-b164-f12e302ead98	GET	http://localhost:3500	/About/Animations/go-to-top.js
+
+20260120	14:42:55	dc359ecd-3152-4ddf-bdef-a3bb12b15235	GET	http://localhost:3500	/About/Animations/search-bar.js
+
+20260120	14:42:55	cc1006ee-0dab-412c-9b98-93c5d15b7742	GET	http://localhost:3500	/About/Animations/count-digit.js
+
+20260120	14:42:55	67ed7fa4-a510-4bdd-8e94-8f87495b7791	GET	http://localhost:3500	/About/Animations/accordion-display.js
+
+20260120	14:43:12	43464360-6ea1-449d-8209-80feb8276f7a	GET	undefined	/Admissions/scholarship
+
+20260120	14:43:12	cde1b05e-01a4-48a6-a350-a451cade379a	GET	undefined	/Admissions/styles/home.css
+
+20260120	14:43:12	98dd5595-c967-4cea-a363-59c5ddf4ab13	GET	undefined	/Admissions/styles/goToTop.css
+
+20260120	14:43:12	ca8fd7a2-57bb-46b0-a53e-7f79b1350031	GET	undefined	/Admissions/styles/courses.css
+
+20260120	14:43:12	6030ed81-9b2b-415f-85f7-ba04502c004c	GET	undefined	/Admissions/styles/output.css
+
+20260120	14:43:12	59685069-3f52-46bb-888e-cf8b53392a22	GET	http://localhost:3500	/Admissions/main_anim.js
+
+20260120	14:43:12	0e15edc2-885b-4e2f-9969-2e2e98ccb4e9	GET	undefined	/Admissions/Images/Director's%20Msg.jpg
+
+20260120	14:43:12	ab1c59ca-9788-4292-bcc1-0cafbe6b8778	GET	undefined	/Admissions/Images/logo/logo.png
+
+20260120	14:43:12	e497658b-2545-4624-9043-a7a0005eb295	GET	http://localhost:3500	/Admissions/Animations/search-bar.js
+
+20260120	14:43:12	72e88090-2411-4e2e-a5fe-e11744e30bb9	GET	http://localhost:3500	/Admissions/Animations/annoucements-slider.js
+
+20260120	14:43:12	0656f781-8af0-466d-bde7-6af3ae666d39	GET	http://localhost:3500	/Admissions/Animations/count-digit.js
+
+20260120	14:43:12	75690bbd-2f05-430e-b053-2cfc31d41188	GET	http://localhost:3500	/Admissions/Animations/accordion-display.js
+
+20260120	14:43:12	2c99e015-1866-47b4-9eee-9ab4ecec7309	GET	http://localhost:3500	/Admissions/Animations/go-to-top.js
+
+20260120	14:52:22	308f0557-e12a-4c10-8d6f-4a6430cd2366	GET	undefined	/About/Scholarship
+
+20260120	14:52:22	7bfbcec9-8d3f-4871-a793-aa2696618b96	GET	undefined	/about/scholarship
+
+20260120	14:53:50	121313e7-af61-4f84-875f-c0a47d71961d	GET	undefined	/about/scholarship
+
+20260120	14:53:51	59a3e8a2-a0d1-4a0f-860b-ae1e92f46b90	GET	undefined	/about/scholarship
+
+20260120	14:53:54	7ec400aa-9b85-440a-af9a-5e7270c7b944	GET	undefined	/About/director-message
+
+20260120	14:53:54	370d9f41-f2f5-4444-8094-d50efdcc5773	GET	undefined	/about/director-message
+
+20260120	14:53:54	4fee5f86-7aae-4d38-8625-600f4b585645	GET	undefined	/about/styles/home.css
+
+20260120	14:53:54	a6186f32-8fe9-4d3b-a27b-fb2daab1e148	GET	undefined	/about/styles/Director_Msg.css
+
+20260120	14:53:54	4b80d0e6-97f0-4db7-9b02-bd3cf50e5ecc	GET	undefined	/about/styles/output.css
+
+20260120	14:53:54	a20b3944-4b05-4aaa-935c-e58e9da61c06	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	14:53:54	059bc022-a627-4dc2-a092-d485587e5eba	GET	undefined	/about/Images/Director's%20Msg.jpg
+
+20260120	14:53:54	c590c5da-c963-4c2e-b169-0439f7b6b726	GET	undefined	/about/Images/logo/logo.png
+
+20260120	14:53:54	bc75c721-be7c-43ab-b2ce-5bc2cc93feb8	GET	undefined	/about/styles/director_msg.css
+
+20260120	14:53:54	0de87bbb-afb8-4362-a451-760f924413c6	GET	undefined	/about/Images/Director%20Photos.png
+
+20260120	14:53:54	330f23fd-f983-4626-ac25-3ce5b75b8e91	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	14:53:54	5fd0f29e-2f2b-4373-83bb-4773a92e564a	GET	undefined	/about/images/logo/logo.png
+
+20260120	14:53:54	82b5270c-dc64-4d36-911f-651f27f51c81	GET	undefined	/about/images/director%20photos.png
+
+20260120	14:53:54	7a0399b2-9b36-4487-b08f-e3c3b303fb17	GET	http://localhost:3500	/about/Animations/search-bar.js
+
+20260120	14:53:54	3ac65962-c436-4265-b294-4fd2d0ba147b	GET	http://localhost:3500	/about/Animations/annoucements-slider.js
+
+20260120	14:53:54	a03cb8c6-d463-4db0-b980-a1da1d5fdb9f	GET	http://localhost:3500	/about/Animations/count-digit.js
+
+20260120	14:53:54	8df8acac-544d-4ba3-9977-eaa84f3232cf	GET	http://localhost:3500	/about/Animations/accordion-display.js
+
+20260120	14:53:54	0a936df6-c292-4692-b31d-c62545da9385	GET	http://localhost:3500	/about/Animations/go-to-top.js
+
+20260120	14:53:54	78a6fe7f-9aa6-4d0e-a33f-ca267e856de1	GET	http://localhost:3500	/about/animations/search-bar.js
+
+20260120	14:53:54	56f118da-9760-4997-96b4-f9f384dda858	GET	http://localhost:3500	/about/animations/accordion-display.js
+
+20260120	14:53:54	91ac2e3c-7511-44f5-b807-ab090c8bfa84	GET	http://localhost:3500	/about/animations/annoucements-slider.js
+
+20260120	14:53:54	85bcc15b-9a00-481c-9e27-334431cc2f37	GET	http://localhost:3500	/about/animations/count-digit.js
+
+20260120	14:53:54	3b5aa5ba-7839-4742-bb73-a4f72fd7c025	GET	http://localhost:3500	/about/animations/go-to-top.js
+
+20260120	14:53:58	1f0b5ef3-a865-4ce2-99f5-60f5b45a77df	GET	undefined	/Admissions/scholarship
+
+20260120	14:53:58	da7a3cdc-33bb-4310-a313-7e571e9456f4	GET	undefined	/admissions/scholarship
+
+20260120	14:53:58	a488a8ec-958d-4a66-9658-a5ad785e6db5	GET	undefined	/admissions/styles/home.css
+
+20260120	14:53:58	c6bf301a-e405-4cf5-8046-0393fa55485b	GET	undefined	/admissions/styles/goToTop.css
+
+20260120	14:53:58	150aef6f-1459-49a1-9eee-a3a4ff59de84	GET	undefined	/admissions/styles/courses.css
+
+20260120	14:53:58	c1a26762-7f5d-4015-8dec-a147e98dfe2f	GET	undefined	/admissions/styles/output.css
+
+20260120	14:53:58	8274be30-a7fb-40dd-b4e2-289bb4aa0f7a	GET	http://localhost:3500	/admissions/main_anim.js
+
+20260120	14:53:58	485209b1-b094-4e7f-a7f9-a9e0e88a164f	GET	undefined	/admissions/Images/Director's%20Msg.jpg
+
+20260120	14:53:58	d1b3bacd-b672-4dd4-85eb-9654b5ee2381	GET	undefined	/admissions/Images/logo/logo.png
+
+20260120	14:53:58	fdd1fdff-5b2e-42c3-a4c3-f4bf15779385	GET	undefined	/admissions/styles/gototop.css
+
+20260120	14:53:58	061249dd-b3f7-4582-876a-0095f29ffe2a	GET	undefined	/admissions/images/director's%20msg.jpg
+
+20260120	14:53:58	97477b9f-8968-4edf-8085-f6c4d4e11b00	GET	undefined	/admissions/images/logo/logo.png
+
+20260120	14:53:58	dabd4474-b54c-45e9-98fd-a37216e6bcb7	GET	http://localhost:3500	/admissions/Animations/search-bar.js
+
+20260120	14:53:58	8da3fd10-25e4-454d-8ec7-149861909bec	GET	http://localhost:3500	/admissions/Animations/annoucements-slider.js
+
+20260120	14:53:58	5393ba6e-824f-44fc-ac98-686f1c87f489	GET	http://localhost:3500	/admissions/Animations/accordion-display.js
+
+20260120	14:53:58	41fb6a89-efe8-49a5-b508-9df95890bdbd	GET	http://localhost:3500	/admissions/Animations/count-digit.js
+
+20260120	14:53:58	8c76d374-66bb-41a1-b6a0-6ba0db5c3c75	GET	http://localhost:3500	/admissions/Animations/go-to-top.js
+
+20260120	14:53:58	85ba828b-5a00-4784-895c-fa50f2f1ca00	GET	http://localhost:3500	/admissions/animations/search-bar.js
+
+20260120	14:53:58	8b8cd9b5-85fc-450b-9949-90255bf3996d	GET	http://localhost:3500	/admissions/animations/annoucements-slider.js
+
+20260120	14:53:58	95923e9e-1249-40aa-84e5-056ccd331fb7	GET	http://localhost:3500	/admissions/animations/count-digit.js
+
+20260120	14:53:58	0683a84c-1fca-4911-80aa-1005b11097c4	GET	http://localhost:3500	/admissions/animations/accordion-display.js
+
+20260120	14:53:58	2e17ef08-bb3a-420e-9aa9-0700cddb0b45	GET	http://localhost:3500	/admissions/animations/go-to-top.js
+
+20260120	14:54:02	fb95cff0-963a-4f5a-a3a3-abd819230d2d	GET	undefined	/About/contacts
+
+20260120	14:54:02	7a0f3543-b991-4af0-8ab4-595313a80c33	GET	undefined	/about/contacts
+
+20260120	14:54:02	e5a08f68-d526-4b65-8025-13ccd35da51d	GET	undefined	/about/styles/home.css
+
+20260120	14:54:02	66ec17a8-472b-450f-b3ed-ed0828231340	GET	undefined	/about/styles/contacts.css
+
+20260120	14:54:02	9ba789e5-d886-452a-be31-fb1eb90a88f5	GET	undefined	/about/styles/output.css
+
+20260120	14:54:02	20e765ee-c01c-40bb-84ef-5a6ffae476bd	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	14:54:02	80c2554a-9e2b-45ec-80d8-1b6d4e03895d	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	14:54:02	f109368d-5858-4c3b-a2d7-24a985743818	GET	undefined	/about/images/logo/logo.png
+
+20260120	14:54:02	f838a27f-be4c-4ed4-b63a-4d7749f970d7	GET	http://localhost:3500	/about/animations/search-bar.js
+
+20260120	14:54:02	a2262344-ae5a-4e5d-99ad-27bf97c134be	GET	http://localhost:3500	/about/animations/annoucements-slider.js
+
+20260120	14:54:02	e6bd1685-895d-42ca-9485-57fa4da997fb	GET	http://localhost:3500	/about/animations/count-digit.js
+
+20260120	14:54:02	486ac1c3-b0fe-46d0-856c-25be089c9c62	GET	http://localhost:3500	/about/animations/accordion-display.js
+
+20260120	14:54:02	940e3f05-5d49-41b4-b821-11e15d84838d	GET	http://localhost:3500	/about/animations/go-to-top.js
+
+20260120	17:18:28	1c83212e-148c-4269-9b18-5ff53d219560	GET	undefined	/
+
+20260120	17:18:28	28e90bab-f35b-41cb-944c-78e1a58626fa	GET	undefined	/styles/output.css
+
+20260120	17:18:28	5a9eacdd-dad7-4e9d-8736-fcb50e9bc59c	GET	undefined	/Images/logo/logo.png
+
+20260120	17:18:28	b0fade4b-a602-42bd-bfc4-2d168d11878f	GET	undefined	/styles/home.css
+
+20260120	17:18:28	0e1a2bd8-12b1-499d-b2bf-53d038450594	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:18:28	4298f50d-a09c-4e8a-bce3-796ffe56b5b7	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260120	17:18:28	de0c77a9-a21f-412e-af5b-f08de6b091ab	GET	undefined	/Images/College_Building_1.jpg
+
+20260120	17:18:28	e8973d00-4df1-4963-9c38-876ed4aa8103	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260120	17:18:28	3ab3f8ed-d4e4-46e2-a647-25404067765a	GET	undefined	/images/logo/logo.png
+
+20260120	17:18:28	9a6eb2ca-e501-47be-b3a2-bad5068c4842	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260120	17:18:28	80046920-990f-46e3-96bc-69e35baef2d2	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260120	17:18:28	f1ddb7d9-7d6b-43ea-ae28-9937973fdbcd	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260120	17:18:28	f5a5d6d2-5b59-4e6c-a479-b90bddd9a554	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:18:28	511c7e68-c30d-4039-8003-f3218deeacd9	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:18:28	41cc6ee8-2a18-4ec2-aea2-49ff9d5f932d	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:18:28	cd006650-bbb7-4691-be3c-770caa55f08f	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:18:28	cab14e5b-29c3-4c67-901a-378bd7bb4623	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:18:28	5132be32-1219-4a74-b818-6c3d6e4e9e5b	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:18:28	529dc5b8-8f76-4d4b-8114-92eb05fe18c8	GET	http://localhost:3500	/Animations/search-bar.js
+
+20260120	17:18:28	13b38566-c869-4e2c-b0b2-2dd32cf3afcc	GET	http://localhost:3500	/Animations/annoucements-slider.js
+
+20260120	17:18:28	b1bfa7c8-c07d-41ac-9927-e103b5a24bd7	GET	http://localhost:3500	/Animations/count-digit.js
+
+20260120	17:18:28	f5e1d660-622c-4f41-9ba5-981b1a04b849	GET	http://localhost:3500	/Animations/go-to-top.js
+
+20260120	17:18:28	fef7365b-048c-4a73-841f-112f9c900a97	GET	http://localhost:3500	/Animations/accordion-display.js
+
+20260120	17:18:28	9fce8c92-6941-4073-8d70-6925904cb41d	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:18:28	e1c0dee6-b948-41d5-9806-91960c357e04	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:18:28	f0e6b03b-0f90-4eef-81e3-5827af2aa432	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:18:28	0c82c7be-8a9a-4786-86c5-96db37720841	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:18:28	acc16527-9fe2-4cc4-9d62-3f1831870233	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:18:28	a74b0c25-f96d-4e43-868a-2fda7d48db68	GET	undefined	/Images/logo/ONMRC.png
+
+20260120	17:18:28	0a3c332b-99f9-4d7b-88be-2af4d5325fef	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:18:28	4b3fbd33-90de-473d-bc4a-793e8c1f2df3	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260120	17:18:28	5ca956cc-0df3-4ee8-ba6c-3a645ce8c5de	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260120	17:18:28	56de1028-194b-4acf-8b40-534937081f63	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260120	17:18:28	642340d4-86b2-45f4-91e8-cc40f159e406	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260120	17:18:28	39971c6d-8153-4468-94a0-0656b6eb76e4	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:18:28	cdf37dce-58ac-4596-9f35-d604ae61fb32	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260120	17:18:28	60802aa0-f345-4f54-9ac4-6eb9dd48478e	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:18:28	d3d7935b-b465-462d-8ace-d7208db9adb7	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:18:28	478a247a-6b1a-49c7-8e15-9c6a24ec0db5	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:18:28	6df033eb-068b-4a4b-8fff-27c7cddb4f49	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:18:28	e4aac746-0a2c-421d-a571-d01eb9da6d91	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260120	17:18:28	5da2ecb2-be6b-4e3b-884d-ac63ce04a6a0	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:18:28	341f0f00-ee27-4a0a-b43c-8ad5518f436c	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260120	17:18:28	a88b6700-a0be-4ee1-932a-25656fed7d9f	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260120	17:18:28	a02b4182-9c0f-4006-be9c-fee17048910c	GET	undefined	/Images/College_Building_hor.jpg
+
+20260120	17:18:28	96385263-0e7a-45ba-b29d-29bf667e7b29	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260120	17:18:28	28674b83-7438-4895-93ea-b62d156200ff	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:18:28	48fa2e82-92dc-4c07-8824-afbfab1d16c2	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:18:28	4000ccc3-0bb5-43d0-872c-99b407ad1770	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:18:28	42dbc66e-72d2-4eaf-9abe-97e50402d1b0	GET	undefined	/Images/SVG/circle-check.svg
+
+20260120	17:18:28	5089cfa8-42fd-4cf5-9d0c-fc2f31bfafed	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:18:28	899ae2d7-8d3c-4a16-b7ca-134fa3416581	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:18:36	244662f6-de85-4f56-a30c-02be78feecdb	GET	undefined	/about/director-message
+
+20260120	17:18:37	1ee6937e-41c6-4742-943c-78ee478baba8	GET	undefined	/about/styles/home.css
+
+20260120	17:18:37	15c5d343-6240-4242-a8d5-0f3c6cf4a24f	GET	undefined	/about/styles/Director_Msg.css
+
+20260120	17:18:37	550c0d8c-c6f1-4024-8275-9cccd7dcad70	GET	undefined	/about/styles/output.css
+
+20260120	17:18:37	0ba7234a-c0c9-40a1-8db1-7b9ed1a8c04b	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	17:18:37	2bab3e06-8d39-4123-b91a-dc2c2cdf757c	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	17:18:37	26163ee5-0808-475a-acb4-707d7225a21a	GET	undefined	/about/images/logo/logo.png
+
+20260120	17:18:37	0b4aeeaf-b797-42dc-b6a4-67967f356da4	GET	undefined	/about/styles/director_msg.css
+
+20260120	17:18:37	2127c2f8-cee8-46bd-8bb2-8c3ac5d12e9b	GET	undefined	/about/Images/Director%20Photos.png
+
+20260120	17:18:37	3d24c6e2-9074-4be1-8915-4ffced6d30d3	GET	undefined	/about/images/director%20photos.png
+
+20260120	17:18:54	b1500dff-1a01-4156-87cb-3fe76cdb093a	GET	undefined	/about/director-message
+
+20260120	17:18:55	2387ed50-6063-4616-8ccc-7775988e9d72	GET	undefined	/about/styles/home.css
+
+20260120	17:18:55	9a590b24-acfd-4e02-b7b6-38647a5b86d9	GET	undefined	/about/styles/output.css
+
+20260120	17:18:55	73b26178-37cb-4b99-94df-8c1df725777b	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	17:18:55	1c9ed697-d13e-45b0-aa9a-755703454829	GET	undefined	/about/styles/director_msg.css
+
+20260120	17:18:55	4b96a3e8-6863-444c-85bd-69b8dd74ab5c	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	17:18:55	496af834-3478-455a-a1c5-59e438cd76f7	GET	undefined	/about/images/logo/logo.png
+
+20260120	17:18:55	db98ab9a-a551-47c6-8e05-2bbc2b1ea889	GET	undefined	/about/images/director%20photos.png
+
+20260120	17:18:55	5af8fbe1-bd51-47b2-8b17-257c4bf7f4b8	GET	undefined	/about/director-message
+
+20260120	17:18:55	880fd356-2e27-48ab-9873-a1ce0837585a	GET	undefined	/about/styles/home.css
+
+20260120	17:18:55	b122d131-a580-4b08-8bf0-ddc0e068aee4	GET	undefined	/about/styles/output.css
+
+20260120	17:18:55	d3df92ad-332a-4319-ad98-71af3d43448c	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	17:18:55	5e7974dc-f7ae-41fa-a440-f0cdea8cf0f5	GET	undefined	/about/styles/director_msg.css
+
+20260120	17:18:55	7d290aaf-95be-41ad-9c9e-92b4796cf9f0	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	17:18:55	15e58ff8-bfad-4cb5-8292-3169af41c5f5	GET	undefined	/about/images/logo/logo.png
+
+20260120	17:18:55	e1e935ff-44b8-481b-944e-d92e66caf784	GET	undefined	/about/images/director%20photos.png
+
+20260120	17:19:03	dbda9c7e-56b7-4f21-b685-7e4be62a1c47	GET	undefined	/about/director-message
+
+20260120	17:19:03	f0b1b5c7-c118-4c3d-bd31-a4a383af09e8	GET	undefined	/about/styles/home.css
+
+20260120	17:19:03	5aa3d6af-8e41-463d-96c5-2ade7320e5df	GET	undefined	/about/styles/output.css
+
+20260120	17:19:03	039a59d2-29fd-4abc-8823-78e4c2f1d04e	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	17:19:03	66a0e4b6-d859-45a7-81b2-5d9b6fbd0447	GET	undefined	/about/styles/director_msg.css
+
+20260120	17:19:03	5d41ea8a-baba-4a7f-a2be-9f877c1676e4	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	17:19:03	0d848079-57c7-42ad-9072-367bacf18acb	GET	undefined	/about/images/logo/logo.png
+
+20260120	17:19:03	0a7d8531-8f2f-4134-931e-e8b6b83fa6e6	GET	undefined	/about/images/director%20photos.png
+
+20260120	17:29:44	15aeb82f-028c-453b-a952-8fa32841d4fc	GET	undefined	/about/director-message
+
+20260120	17:29:44	fd95b814-3507-4b83-8482-7e32bd76e529	GET	undefined	/about/styles/home.css
+
+20260120	17:29:44	bbdabe5b-2e01-4dd2-ba82-1e7062f35f7b	GET	undefined	/about/styles/output.css
+
+20260120	17:29:44	2b6f1e9d-cf24-467d-9611-f0ab86018d33	GET	http://localhost:3500	/about/main_anim.js
+
+20260120	17:29:44	26a971bf-c760-496e-92b0-b95afa0f106a	GET	undefined	/about/images/director%20photos.png
+
+20260120	17:29:44	2c692f4d-5da4-46ed-85a6-6fe0c564a3b4	GET	undefined	/about/styles/director_msg.css
+
+20260120	17:29:44	958b0741-9bad-413f-9165-eceabf5307e9	GET	undefined	/about/images/director's%20msg.jpg
+
+20260120	17:29:44	c8ff2e40-5c4f-49fe-a17a-717dbfb5bba2	GET	undefined	/about/images/logo/logo.png
+
+20260120	17:34:51	b2c2f823-399e-47a6-9b27-3002e0c33e94	GET	undefined	/about/director-message
+
+20260120	17:34:51	19eed49a-1263-4459-9d3e-3bbe890b006a	GET	undefined	/styles/home.css
+
+20260120	17:34:51	5df72bb1-6da9-40ce-a432-745ae534f729	GET	undefined	/styles/Director_Msg.css
+
+20260120	17:34:51	7818777f-d61a-4219-ac30-c5850edb4751	GET	undefined	/styles/output.css
+
+20260120	17:34:51	283674da-c23d-455b-aa86-59b4f120c526	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:34:51	cdc7fd98-231d-4a63-9491-412fe17b4533	GET	undefined	/Images/Director's%20Msg.jpg
+
+20260120	17:34:51	f5f06a59-7ffa-4074-8af3-58c538a235f1	GET	undefined	/Images/Director%20Photos.png
+
+20260120	17:34:51	7a8026a6-0ed6-4d42-90e1-23bca8a06cef	GET	undefined	/styles/director_msg.css
+
+20260120	17:34:51	114b0259-c1d7-43e6-bb60-ef873f8b388b	GET	undefined	/images/logo/logo.png
+
+20260120	17:34:51	61f50bf5-9caa-4e88-afbc-0deca6c5389d	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:34:51	808e1c55-b315-42e7-b7e2-2e7725de6059	GET	undefined	/images/director%20photos.png
+
+20260120	17:34:51	e5b9c01f-0fec-41ea-b993-b1fc67b2287f	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:34:51	9e2869b1-8cc5-4b05-a7d2-b9fdbe624519	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:34:51	3f522c44-3dcb-4413-9bd3-9b37696c188c	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:34:51	a88dd39e-3dd1-4357-9c99-13747052c965	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:34:51	d1d3ec02-f9c1-4e8a-9751-9e7e29769797	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:36:57	5da3a1a8-428b-43aa-a89a-b842e294a569	GET	undefined	/Admissions/Scholarship
+
+20260120	17:36:57	38872213-01e8-4c55-8272-3532d07f84b6	GET	undefined	/admissions/scholarship
+
+20260120	17:36:57	6a07afd3-4536-425b-aede-f4eb3f424246	GET	undefined	/styles/home.css
+
+20260120	17:36:57	8549610b-c4a6-4316-9463-bddd54395a8b	GET	undefined	/styles/courses.css
+
+20260120	17:36:57	d5a46b31-3f16-4aae-88ac-40c8622dcb08	GET	undefined	/styles/output.css
+
+20260120	17:36:57	2be700da-9b0c-4eb2-b280-b0c6799989d2	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:36:57	fcd0cb95-25cd-4113-a93c-43b32a55ff76	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:36:57	ffe2b80e-47e3-425b-9025-8fed01ecbd1e	GET	undefined	/images/logo/logo.png
+
+20260120	17:36:58	b8feec27-8738-43b2-b176-8f4289b09da1	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:36:58	b0d10e53-5545-45b9-800b-aea2d2896639	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:36:58	2b30db6c-fb3f-48a4-9d2c-cd054904f9a5	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:36:58	c51d8b3d-824c-4b80-88d8-ff122def825e	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:36:58	a8541411-47cd-4774-a152-45015815f980	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:39:25	6142b3b6-30f8-4737-9b14-907b918e5975	GET	undefined	/About/about-us
+
+20260120	17:39:25	241b1d1b-78b9-4ad0-88d9-75f51b551635	GET	undefined	/about/about-us
+
+20260120	17:39:25	be211419-ae1f-4957-b1ed-1fef91cb7e5a	GET	undefined	/styles/home.css
+
+20260120	17:39:25	f0023da8-3a6b-41d4-a6bb-ea3f23bb3f5f	GET	undefined	/styles/output.css
+
+20260120	17:39:25	c359c0ff-f995-4a45-8042-f0dd611d634b	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:39:26	854c9e61-4d56-41b4-b523-0c2453b3e934	GET	undefined	/styles/director_msg.css
+
+20260120	17:39:26	33e5919f-6cfc-4032-be81-1ac7bf1748a7	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:39:26	c9d29179-098d-4ece-8cc6-0bff6f8b270e	GET	undefined	/images/logo/logo.png
+
+20260120	17:39:26	0b5f6202-89c4-4c6a-9b29-62856dc0c876	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:39:26	beb1491f-1315-468a-be64-83e082f78e9d	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:39:26	5065d1e0-4627-4bf5-b98e-4770bbb4e58a	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:39:26	3373f18c-8769-47b4-9233-67717c4a9a7c	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:39:26	281ac666-b8cc-44fd-b934-93f6f3d021b0	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:39:35	ddd2e120-7310-4343-bad3-04e8dd46f703	GET	undefined	/about/about-us
+
+20260120	17:39:35	1a308cbd-1bb1-445a-bf42-b97811931b82	GET	undefined	/styles/home.css
+
+20260120	17:39:35	e164c281-efe7-4ada-b55a-9fd8d5d0eaae	GET	undefined	/styles/output.css
+
+20260120	17:39:35	94fd2872-8a31-4f01-a53d-9391d2b324c4	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:39:35	17a9ea34-45f6-4610-8b41-eae1d2d41cee	GET	undefined	/styles/director_msg.css
+
+20260120	17:39:35	e4b5ae27-b0cf-4d90-9b05-26270a84b5da	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:39:35	2f36d294-0bb5-4db9-8a01-17f864eee119	GET	undefined	/images/logo/logo.png
+
+20260120	17:39:35	0185e053-f7ec-4a1c-be8c-8aa48909b81d	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:39:35	5a9d0ebe-de8b-4b98-ad47-0d68216fc915	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:39:35	49a23557-7c9e-4be1-b5ef-77ab4f31743c	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:39:35	733ed9c5-ab39-4761-b4c7-cb523b657fcb	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:39:35	95441275-5300-41a3-8b7c-ec26a36514df	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:39:44	5c809652-2574-4d2c-a5ac-1747ea5c837a	GET	undefined	/
+
+20260120	17:39:44	40c0c1d0-1e5b-48d2-9829-c509c8b2e0fd	GET	undefined	/styles/home.css
+
+20260120	17:39:44	8ab37bca-a148-4102-95ed-40a67230c71c	GET	undefined	/styles/output.css
+
+20260120	17:39:44	a8c349c8-e530-4d59-b295-1a5722472b0b	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:39:44	03dfaa4b-a791-4709-870c-8688a987d552	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:39:44	0bd43b9a-1806-4c10-b775-9c4fa1d58b0c	GET	undefined	/images/logo/logo.png
+
+20260120	17:39:44	e19681c5-c74e-456c-b5ae-9a5eda40439a	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:39:44	43623598-46cd-4d8f-a77b-95bda4477b26	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:39:44	e64025ec-55e3-4e12-bf57-7ad8cb90c5c2	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:39:44	32847e1c-81b1-4851-b8c9-6d2dcbddec8e	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:39:44	7695c290-1bee-4280-96ca-a52a4dab412e	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:39:44	7507806c-5ef0-443f-90a9-20515c7229d5	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:39:44	f379f6b6-7da9-4546-9661-7d93e4b6fbde	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:39:44	cd5b781e-de18-46c2-9f93-aca120b8c0d8	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:39:44	4e10b5d8-2d80-4f75-8200-ecc0de2ab19e	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:39:44	5229ae75-4d8d-4a77-81ee-752b1ac2a9e4	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:39:44	fffb46d2-5428-4f32-847c-4e94ce55a069	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:39:44	377cdc85-b32e-4615-a62f-cac4af18ccaf	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:39:44	17a89982-6404-416c-bd5e-fc7dee2ffaf5	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:39:44	a4d233b1-22aa-44ca-91e5-f36f0af611e8	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:39:44	ff6f214f-e10b-4a92-bf41-b77e60d269d6	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:39:44	86ffc44d-e624-4c56-8d47-a90f586464a1	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:39:44	5f605750-3040-42ec-b09e-87af3bf0be79	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:39:44	a8154abc-2611-4e5e-8d0b-26f60982a581	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:39:44	604c8ffb-f443-4729-bc6f-3f355e0f8e79	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:39:44	e0d04c08-e3e9-4a49-8dca-4d74f51b4748	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:39:44	0539737d-d8c2-44c1-a19c-bc8de14984d6	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:39:44	9fcf0d3c-b557-4142-86d7-10d5a5cb73c7	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:39:46	f05be73e-cc54-47b8-bbd8-c9ea95dccb63	GET	undefined	/
+
+20260120	17:39:46	4bc50b5e-d39f-490a-a4a2-aaf580a3176b	GET	undefined	/styles/home.css
+
+20260120	17:39:46	2e14aa85-8c3f-4c8c-8dad-36c596e8b0ca	GET	undefined	/styles/output.css
+
+20260120	17:39:46	3429eb1a-9b47-471b-91fe-4fcd3764f866	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:39:46	446dd51b-7f3e-4fd1-9555-66e697d274c4	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:39:46	78ee71d8-2742-4db1-a029-eded10a1b584	GET	undefined	/images/logo/logo.png
+
+20260120	17:39:46	513a9c25-8c4d-47a0-b864-22de2eccdbdb	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:39:46	fd98929b-3291-43ad-8c31-26359b694c2f	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:39:46	38d79677-0792-4456-ba08-080efa89141d	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:39:46	1352bedd-4155-4e98-b1ba-d3466805753c	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:39:46	3bd02f64-26d3-4722-86d7-b139665c344c	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:39:46	8c219340-77ec-4955-8ba8-0a75dd29a1e6	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:39:46	e455316d-2774-4af3-8ddd-64a5cfc1795d	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:39:46	b34d23c8-2f88-41d8-ae32-d75611ba6a4b	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:39:46	106b1eda-ecf2-4b9a-9766-889ac1ad805d	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:39:46	49abc9b4-0215-40e7-9598-585bf938ad54	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:39:46	0e607399-e9fd-488e-a119-ac1a26fff7b8	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:39:46	bfd57b36-f520-40f6-bd57-66255af330cb	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:39:46	d113d7a4-7bf7-486b-8872-379b3d58bcea	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:39:46	64c24c89-b53c-4dc5-a828-9b83f8a45404	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:39:46	bd519ce3-6f7f-4f34-8d34-490336b827eb	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:39:46	ad635a99-d780-40dd-ad99-7804539ab5ab	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:39:46	1ecf9030-3fdd-45dc-8e0e-45f6f9b1d1f3	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:39:46	92976f80-d2f2-4d8e-b74b-d704bedbd3dc	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:39:46	888055ad-bb65-47e2-9edb-2162775f3773	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:39:46	b5073488-7995-4bc9-85f2-fe76320295ec	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:40:05	9b20a915-c36e-49d8-ab1c-5558cbe6aa3a	GET	undefined	/
+
+20260120	17:40:05	f552c009-70fd-4d68-841a-d955b29a1475	GET	undefined	/styles/home.css
+
+20260120	17:40:05	6a9ad56f-1088-4549-9d14-b613ebc834f2	GET	undefined	/styles/output.css
+
+20260120	17:40:05	caba3847-8af2-4d74-aa8a-945573f7d384	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:40:05	5e6876bf-c28e-4529-aa8d-2226c7aa4546	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:40:05	2529a258-0352-47b1-8e1d-6eb69b4517fe	GET	undefined	/images/logo/logo.png
+
+20260120	17:40:05	c7155ae4-e1e1-41e0-acd0-ad6ee304a621	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:40:05	b5d14fe9-c2c2-488f-9d58-63bf0fe4bf2c	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:40:05	5a379d1f-e4f3-4d12-8388-e15819036b3b	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:40:05	25f6346b-99ff-4d9a-a734-8cd89f1524ec	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:40:05	907256ba-b458-4f44-b43e-1204be94f4f1	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:40:05	975fa540-9c2f-472e-8b1e-3730e21cc2ce	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:40:05	4c397157-00cc-4428-8aa9-7aa739d109b3	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:40:05	1dff8627-2865-45ca-a772-f7b84cc7c208	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:40:05	24d9719c-09ab-4f37-86b7-a9586a5492e3	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:40:05	b1934224-9e33-4173-8c24-b29e1ddab28f	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:40:05	45419bba-7fc9-4674-ac98-73ccc44e2b71	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:40:05	fcef5cd6-ff71-4734-8ed9-3f0e8a2db74e	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:40:05	8b2903f9-b703-4802-afb0-fbd6da60e3bd	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:40:05	7e9c41f2-608b-4019-b64c-3925a49ccb0c	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:40:05	6d38cf08-746c-46f7-aac4-c48a74224029	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:40:05	1e726fff-15ae-4dfe-8f73-e4bf93497d9c	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:40:05	b419cae8-ae91-4030-b82b-3641b2e83502	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:40:05	686dc90f-67eb-4b68-ae45-bc807d913857	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:40:05	92efd815-f89b-458e-8496-a9701bf97801	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:40:05	053989a7-42fe-4e4a-9ab0-528e47166b34	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:40:05	080314ec-0866-4a86-9795-270270035465	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:40:05	7cf9d469-d630-4d2c-864c-13e093f6839a	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:40:07	7315934c-33c9-488d-9db7-f660f52f529b	GET	undefined	/about/about-us
+
+20260120	17:40:07	32cbc689-4f27-49a5-9073-c2202039d807	GET	undefined	/styles/home.css
+
+20260120	17:40:07	a618287f-2ecb-425d-a542-be3224af1146	GET	undefined	/styles/output.css
+
+20260120	17:40:07	26060cde-8619-460b-989d-2f1085c1d17d	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:40:07	1c16932f-db71-41b3-a3c9-247882d5aa87	GET	undefined	/styles/director_msg.css
+
+20260120	17:40:07	b57eee6c-d063-42bf-9918-c2c172093597	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:40:07	bbd9d0bd-9bda-4873-9a20-7f51150a58ab	GET	undefined	/images/logo/logo.png
+
+20260120	17:40:07	4c494b23-5e77-4533-8e14-c83a654bef96	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:40:07	08c07bf3-de5c-49fd-b0a8-f8cbd035fb1f	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:40:07	4be16cfc-2a6c-464e-80c0-821f26cc5470	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:40:07	a10e1464-0b70-4a29-b97b-9eb4d4db2681	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:40:07	a909f7b2-2a82-4315-811d-43d3a4c0992f	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:45:10	220c9936-4eb0-42bf-8980-2bd4d894efbd	GET	undefined	/about/about-us
+
+20260120	17:45:10	2499088c-13d2-4b0a-96b5-f655e48fffdd	GET	undefined	/styles/home.css
+
+20260120	17:45:10	016c7495-3217-42ec-8e5f-e3edd21e6e43	GET	undefined	/styles/output.css
+
+20260120	17:45:10	5c1d8bc1-389b-4e75-8d8a-05e9981d538f	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:45:10	a7ecb7a4-1c37-4067-82a0-e822c04f7a4a	GET	undefined	/styles/director_msg.css
+
+20260120	17:45:10	2e1686f6-110e-40ec-b050-6c1ed6fb5fab	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:45:10	dbbbe067-da79-4ef5-997a-43e63b8f369e	GET	undefined	/images/logo/logo.png
+
+20260120	17:45:10	66ca8787-bbe1-4409-b511-29018a46bd72	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:45:10	8a9214ee-9eab-4f25-b7fb-89b1c51109e2	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:45:10	8c889370-bf2c-4120-aaaa-412f47603019	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:45:10	ce9bef17-aee8-49ed-849c-ff9ca70bee46	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:45:10	9296e711-0d67-4606-bd4a-9116b4fcfdf2	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:46:00	eb7268a2-f1dc-4673-a39f-113d3f508e6c	GET	undefined	/about/about-us
+
+20260120	17:46:00	ec381b61-ed33-4092-a8ce-c3a7980d9a24	GET	undefined	/styles/home.css
+
+20260120	17:46:00	739f8804-b85a-4ed5-8406-793a19adf3c5	GET	undefined	/styles/output.css
+
+20260120	17:46:00	84621035-4065-4423-9eb7-b7c6e6098fa3	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:46:00	5b8cc6ec-d725-404f-aadc-f1d43b840bfd	GET	undefined	/styles/director_msg.css
+
+20260120	17:46:00	121049cf-df99-4df1-9179-7121e59de100	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:46:00	33c51227-489c-4aa8-8ac2-174e98b56645	GET	undefined	/images/logo/logo.png
+
+20260120	17:46:00	623492cf-ff4e-454a-93d6-0b731b65c454	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:46:00	8f135e88-80ec-45b8-a96f-1e0670b9c9fe	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:46:00	9384bba8-b546-4b49-bcc6-9ffd3563f429	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:46:00	6f47187e-9a8a-45e5-b72c-369b252d90b4	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:46:00	ff9939c7-70de-443d-a97b-3946e3d210d2	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:49:14	926793f0-1531-44d8-abc7-2ce8d09420f1	GET	undefined	/about/about-us
+
+20260120	17:49:14	ac91e316-def2-461d-8a71-eafd9f9b9a10	GET	undefined	/styles/home.css
+
+20260120	17:49:14	5d2484ac-2e3b-46cd-9296-3cd902c95b87	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:49:14	a7f775d1-db7d-4a62-a2c2-a673b84eefdf	GET	undefined	/styles/output.css
+
+20260120	17:49:14	c57365b6-9d8b-412b-a003-71ecbcd0bec7	GET	undefined	/styles/director_msg.css
+
+20260120	17:49:14	cf26b0e2-836e-46d2-8bf2-b32d8ab57571	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:49:14	0c240777-bd3e-41cc-bf7d-7436ffe0481e	GET	undefined	/images/logo/logo.png
+
+20260120	17:49:14	6caeb4e2-5323-4c63-aa82-49b949153603	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:49:14	bd2429a5-24f7-4bce-9a7d-c5e28795899a	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:49:14	4253e75d-e425-4675-a27c-f35b0f883f65	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:49:14	9fee52a3-d1dc-44fb-8c14-d7ea10994316	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:49:14	a9c31041-eb54-48e2-9ad5-65a38dd038d1	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:49:16	a359c3e8-06b0-4e62-9f97-3b119fede536	GET	undefined	/
+
+20260120	17:49:16	fe41f3ce-3b8b-4b40-95dc-09a4a85fd314	GET	undefined	/styles/home.css
+
+20260120	17:49:16	9ebfc04d-f37e-4f87-9506-152d75b90cd5	GET	undefined	/styles/output.css
+
+20260120	17:49:16	505a91d8-c917-40a9-8ef4-a53a169f04c1	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:49:16	60158468-2b36-499e-882d-7494c3c74c74	GET	undefined	/images/logo/logo.png
+
+20260120	17:49:16	6791b7af-40e0-4342-9364-89543b308bb3	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:49:16	831e073f-c36b-4c1a-be56-7c1258248d5e	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:49:16	429bd6f4-c8c3-4a75-a762-865b4836e80c	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:49:16	670472ef-f0fd-4ef6-adfe-c7263dc6a1f1	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:49:16	0bc93fe0-cf60-4099-ac81-f844178de8bf	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:49:16	7957a4b9-1740-46c6-b5a7-442b78d751f7	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:49:16	defedcb9-979e-4eac-810a-7792762edbf7	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:49:16	e87154c0-16d9-4591-9fff-366f95e2f941	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:49:16	b7e6e20b-9ad7-4196-9424-9bb1107cdd04	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:49:16	a28f1c72-f6c0-4c00-b29f-8359316fa6ad	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:49:16	60fd2d7a-3dd6-4a36-a8f6-2cb2e51c577d	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:49:16	fd48f8e5-3714-4409-8e96-52b06f25ef5d	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:49:16	a38f57bb-7c2e-4b00-bf27-2bd0a6944b53	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:49:16	5dbf2d2f-93c5-4d81-a71b-abcdb14b7eec	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:49:16	ee42c214-ad93-4738-ba42-e9a1f4e3f532	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:49:16	a815a21c-a3a5-4080-87e1-5ba47df068c6	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:49:16	f4ee87fb-f141-45ce-8611-e5489f333435	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:49:16	dae43bfd-27ec-4b03-81b4-1e46a49045b7	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:49:16	7341d542-00a6-4756-adc9-bbfb759010fa	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:49:16	eb7f4e0c-580e-458b-a700-2cf225f07caf	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:49:16	62123b17-0a30-443e-96e3-0473b32b1e7b	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:49:16	c4813a08-19e6-4597-bc6d-2d2234985069	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:49:16	e4aa691d-c093-4960-a907-2034d441a2a3	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:51:30	4f420d95-014d-467d-a6dc-8e89e5e5c39f	GET	undefined	/
+
+20260120	17:51:30	9ebdf4ca-2927-4de4-97cd-ce5794b2f5c4	GET	undefined	/styles/home.css
+
+20260120	17:51:30	187be9a1-edcc-47ac-9f83-5435935cc194	GET	undefined	/styles/output.css
+
+20260120	17:51:30	7a965f10-4924-4e4f-a390-cb19ade64b77	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:51:30	1448d905-ca20-4f1c-add0-fe22555dd010	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:51:30	b8b15a9d-0423-4d83-8226-2f696e0bca01	GET	undefined	/images/logo/logo.png
+
+20260120	17:51:30	b691d0d2-573d-4abe-bfcf-9590439f2839	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:51:30	7ca93d17-792a-444a-a0e8-9c11fdc1b75d	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:51:30	c28081c9-3e6d-47da-ad43-dad2a094f96c	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:51:30	469a08f6-cf92-4e3d-ae38-ac63a7417c1c	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:51:30	8db9b221-f2fb-47cc-9d93-6110c91c3931	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:51:30	bd323f23-e683-4b90-9cf3-dad391f5da08	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:51:30	7ae7da2d-ca07-49e9-8f32-25b2a7be286d	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:51:30	e4830122-2168-47e2-8c6c-8fd25643b103	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:51:30	22c195e2-c0cb-44e4-90fb-a1d7a9579583	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:51:30	fe9780a1-db40-4c0a-b64c-57e47ba50f98	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:51:31	348c75a4-9527-48f4-b78a-eb5c82ea0109	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:51:31	86ec2da8-d16a-4bf1-9d9c-e5916a21f725	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:51:31	f5e27265-54b3-423c-ab65-f9c18a17ee84	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:51:31	b9662caf-cdd2-4979-a466-3d018ca2cd9e	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:51:31	1303e45e-54d3-47b8-89c7-294784cfcb14	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:51:31	2e25e266-4b7e-4de1-bfeb-ff06bd71dc5b	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:51:31	1f8543be-3c3a-4561-a3d2-a18d88460b0a	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:51:31	8a712563-2058-46bb-920b-b9b1f9d89e5a	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:51:31	0d161ed7-8193-43a3-90b8-bc12e902cd3c	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:51:31	77068eb2-5af7-4d71-a785-32b30f840ca8	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:51:31	698caae9-88c9-4474-9c1e-39b89dca7bb1	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:51:31	56f61ec8-c94e-409b-88ce-141b7191efd3	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:51:31	2de9e6cf-2489-4b9a-9cd1-0e59514af2fb	GET	undefined	/
+
+20260120	17:51:31	019f0804-3677-42e8-adbc-af0c3528d9b4	GET	undefined	/styles/home.css
+
+20260120	17:51:31	a07ed5cc-f404-4206-8baa-4a887ccb3704	GET	undefined	/styles/output.css
+
+20260120	17:51:31	eb8466e3-211e-441a-8e92-ee4f09d4df66	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:51:31	e482306f-056b-45bd-9725-866ac8c1dda5	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:51:31	a6019fea-d12b-4ff1-8448-60e86b0f5797	GET	undefined	/images/logo/logo.png
+
+20260120	17:51:31	a06c4a1e-06d3-4a8e-9b38-416b1a5dd582	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:51:31	a572850f-1777-4556-80ca-1e83cff688d3	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:51:31	fb203fc6-bd2f-4cf4-ae3e-1badbad0dcdc	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:51:31	3b623eb1-4151-4f4d-8871-f9cb34e1a86b	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:51:31	375fb957-b13e-46f2-a9c8-2113645220cc	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:51:31	23d24212-d1e3-4094-9f23-942cb72285a6	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:51:31	c1d6ce8f-17f8-4911-ae9d-ce0fbab50a2b	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:51:31	3deae259-e7da-42a7-81c2-437781321ae3	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:51:31	049afb21-e453-47df-8fe7-c1bca6617934	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:51:31	a61b21a5-ab29-490e-8471-abde1f6d3a77	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:51:31	0fdff6ad-5c29-4bbe-8d1a-bb820c4e9c28	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:51:31	bdf40e19-d720-46d8-8d19-17856b506b20	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:51:31	10fc8de3-1a03-4910-81eb-a254f3524dfe	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:51:31	ef7c86c9-e93d-4be8-8a3f-f7e4e635b927	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:51:31	9dd8f03e-da64-4fe6-b5a9-467a32054f38	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:51:31	db1ab073-f9cf-4bff-847f-414f634336e7	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:51:31	bb8779bd-0077-4f21-88e0-104f1f5fad68	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:51:31	3f80b6dd-7735-48fe-a096-5ea872b51cd5	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:51:31	304e5125-ee1d-47ac-87bf-f041660e4ae4	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:51:31	9cfcbba4-db84-4d4a-8945-371fc4431274	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:51:34	3b4e05a9-8e72-48ab-bc45-f6bc00645c67	GET	undefined	/
+
+20260120	17:51:34	be2fee5e-9947-41b3-92fd-3700b09d5d2c	GET	undefined	/styles/home.css
+
+20260120	17:51:34	0043bc6c-8d77-4fbf-a95b-62e03ad01e99	GET	undefined	/styles/output.css
+
+20260120	17:51:34	5e08e14a-72d9-491d-b8cc-4c3e4ab4a2a2	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:51:34	fee0bfc1-99c8-4720-b175-b008612ec77d	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:51:34	a1f3250d-f094-4307-953f-c2ceffc918fb	GET	undefined	/images/logo/logo.png
+
+20260120	17:51:34	31b706fb-2db5-4f9a-b89c-b7a4dae066f2	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:51:34	3c6c48d2-638f-477c-a199-e23a0ad42742	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:51:34	1b18a21e-403b-49b3-8269-77ba7fae4bab	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:51:34	96a535ab-0668-4c4b-8c94-5997f9f4724e	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:51:34	3de986bc-4fa1-4f9c-986d-11fe3a84d19d	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:51:34	baeb4fc9-b777-4ad0-bd64-1f83a3a0f965	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:51:34	35c8facf-f06a-44e5-877b-55555523efed	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:51:34	39e71907-3945-4607-adb4-c015ea26298b	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:51:34	894f0abc-690f-4e9a-85e6-a20fc2fc187e	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:51:34	88e9e811-1cb5-45f9-8cef-04ad2cb0d500	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:51:34	1f9e8a35-27b4-4baf-942b-e76e7fca275b	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:51:34	f619a1fe-f9bc-4af4-8350-d239c3373649	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:51:34	c73942f2-4c88-4837-9107-7ee5a234b2de	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:51:34	b64d7454-5db1-49cd-8c93-153f003b3263	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:51:34	8d3f48b7-25e4-4d6d-9960-3acf48f6adc4	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:51:34	23656fb4-6603-41ec-ac19-6dbe1c316945	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:51:34	b11cdb60-327a-4859-b16e-de7c3ac2b3c3	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:51:34	64316fa0-a171-4109-8300-b507aa71b124	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:51:34	4ee823c6-80de-42ac-aab6-511272008f65	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:51:34	44c5cceb-1038-4e07-a785-014021260a15	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:52:22	01c1c8ac-b6f1-4a4a-9a5f-1890d13ea85a	GET	undefined	/about/about-us
+
+20260120	17:52:22	9c630dd4-4f8c-4d24-b568-fda9886a16bb	GET	undefined	/styles/home.css
+
+20260120	17:52:22	ebf9f9a5-90d2-4300-a2b4-916f64325efd	GET	undefined	/styles/output.css
+
+20260120	17:52:22	457be7a4-aada-49c9-a029-7a50e931f534	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:52:22	7063642f-ea31-42f4-bdbb-bc3a3dd14fce	GET	undefined	/images/logo/logo.png
+
+20260120	17:52:22	68878ec4-e694-4b89-9d0b-2e723fbf8831	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:52:22	911c5fb8-3205-48b2-a981-2e6f3cf91dae	GET	undefined	/styles/director_msg.css
+
+20260120	17:52:22	4c35213a-8990-4843-b635-7f081849419a	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:52:22	dc22c7f0-3ae4-4a17-8caf-48ca310345bf	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:52:22	209f09a3-381c-487c-bc15-af2b3e06e63b	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:52:22	37bf16c9-f203-4f59-9f40-2f0105bd78ff	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:52:22	3ce3be0b-b5c7-4003-a9d6-071720f0a5ef	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:52:26	2c5c6e7a-2fa7-441e-9894-5dcf902cc377	GET	undefined	/
+
+20260120	17:52:26	939d3a2b-21f3-4d66-a168-28fd19e37ce1	GET	undefined	/styles/home.css
+
+20260120	17:52:26	f414e546-b5f5-4e39-bcfd-63bcaf52610d	GET	undefined	/styles/output.css
+
+20260120	17:52:26	603b23e1-85c2-4719-ab24-27f1752aec06	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:52:26	d513ccd9-c004-48eb-8693-f74eb0da48aa	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:52:26	83a012a8-03fa-46da-a534-54b6767ddfe9	GET	undefined	/images/logo/logo.png
+
+20260120	17:52:26	45b94f59-40df-4df9-840b-db0aeefe536a	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:52:26	1a773d36-59a3-4718-9da5-0a03bbbd01e3	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:52:26	5103addb-fd8d-46a6-a7e9-b2d61848535b	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:52:26	53282acd-cbdf-4e8e-806a-d7686e0cf4c8	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:52:26	8530a661-3268-4d94-979d-ff45e209fa18	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:52:26	6eb3fc72-e8a6-406b-961e-e1fa1148048a	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:52:26	7493da9c-c755-4376-b260-828f5de4306b	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:52:26	7e24890c-66a0-4d26-a10a-d0fe4334962b	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:52:26	87bf59fb-e23f-41cb-b016-f6990796cb09	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:52:26	4cd862c6-9af2-4464-846b-6dfe6a3a102c	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:52:26	dc75ac0a-3ab4-4a62-ae4d-bd91a76d6066	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:52:26	1ec8c44d-50dc-4501-9812-06fc6f3aaa54	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:52:26	5e428ea0-5101-46bb-9b86-7dd11e44e54f	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:52:26	62fcce21-dcad-4a7b-8f31-3db791c2f9cb	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:52:26	2c4d630d-3325-4022-b2c5-767d346aef9c	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:52:26	779be56d-7349-4596-b8a6-7f7eed9800d3	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:52:26	1b08c214-8696-4a26-9283-b8b6db9caf9b	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:52:26	7118d412-a808-40d3-b352-9e4435184718	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:52:26	5eb90f8a-0b5a-46f7-ae0e-1c6598ef3fe9	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:52:26	1d8766f9-8bb6-4929-867c-93a32568b6e7	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:52:26	2aa394aa-dc35-4426-9879-c0f2010c9fca	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:52:26	6288bdb7-fe3b-420b-bb8c-d1e40733fea0	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:52:30	30a8706d-52b4-449b-be65-e942cad2aa18	GET	undefined	/about/about-us
+
+20260120	17:52:30	22a2c9bb-767b-45dd-8e3e-a4c72d56631b	GET	undefined	/styles/home.css
+
+20260120	17:52:30	066dec40-eeeb-45f4-b234-f707a9f7bc53	GET	undefined	/styles/output.css
+
+20260120	17:52:30	1172f5bd-f543-47fe-8392-99c975afdfe9	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:52:30	351cca15-5ed8-4135-bd43-47604c10affd	GET	undefined	/styles/director_msg.css
+
+20260120	17:52:30	9269186d-3dbe-48cc-a4ff-55ddd7fecdad	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:52:30	5a2a0bf7-096b-4438-ad08-694aaf8eafa0	GET	undefined	/images/logo/logo.png
+
+20260120	17:52:30	49e694e3-d6de-4e0b-8f38-f7d56354191c	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:52:30	a44c76c0-fe97-44ed-8ea3-3c422a0483b9	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:52:30	f300d7c3-abba-421f-8490-035db0cbee96	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:52:30	c7b9af26-a60f-40e7-98fc-7f4e7903c78e	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:52:30	4cb22b50-6b2d-48ba-a275-467dc1d88f9d	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:52:55	755fab6c-e4f0-4b69-a928-25d44376486a	GET	undefined	/
+
+20260120	17:52:55	7f57af74-8b66-442a-b74a-ee368ddc582f	GET	undefined	/styles/home.css
+
+20260120	17:52:55	f64f7ed2-ca09-4b80-80ed-394735ecf1fe	GET	undefined	/styles/output.css
+
+20260120	17:52:55	a31325c1-4cb0-4a6f-9836-21e9766bb9f9	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:52:55	f1249019-8606-46d4-8f5e-6b260044f774	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:52:55	1d5f2cc9-7079-4312-ab0d-0e4c1c438633	GET	undefined	/images/logo/logo.png
+
+20260120	17:52:55	1c77e169-222c-46ad-adce-14467a35412b	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:52:55	bf8b130a-e8cb-49c3-bc36-38fb100c4028	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:52:55	9091e6a6-8899-4d92-9d04-f5586ab9f5fc	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:52:55	2759f880-69db-4534-bb7d-a5ea95bc288c	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:52:55	003ca958-911f-4cf0-98b5-4c19ff59ed14	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:52:55	793df4b6-16d9-401b-b91a-a014336ac4b5	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:52:55	01a5c2a1-e13a-435b-8d05-016879fcfb33	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:52:55	d31b8961-2f2c-44a0-94ff-1eaa284c5d0e	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:52:55	f3da3f19-bd07-4392-a1fd-fbf95da81c97	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:52:55	eed513ed-e9d8-4ee7-821c-cfd835eedd17	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:52:55	39a44f69-29d7-490c-b2ab-77a6ce73e794	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:52:55	78f29afb-3364-4891-b037-a34c3c8e6120	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:52:55	a1039a56-116e-442f-ad2d-da256c5a9dff	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:52:55	7548cd4a-c2bd-468e-ae91-e5209f6de3ce	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:52:55	88c6bf15-0dcf-4712-8a67-6288c6d948af	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:52:55	06e6b28c-caeb-4a77-b059-2ba5e04c1e5b	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:52:55	94b77794-369c-40da-8277-775fe59d4adc	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:52:55	d519f074-0596-4c97-9570-6fcda24541d6	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:52:55	4d0695e7-42c7-4ba0-bdfb-007aef917aab	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:52:55	995c5f70-b406-4941-b163-264d506be5eb	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:52:55	0e7dea33-e79a-4591-b02e-40ce2e03df72	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:52:55	41395b9b-d047-4808-b2fa-f69ce3388c4e	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:53:00	4bb025ba-397a-4962-b78d-1d4b42e34183	GET	undefined	/
+
+20260120	17:53:00	eb68f276-48b1-4320-80e3-7cecb9f1aba8	GET	undefined	/styles/home.css
+
+20260120	17:53:00	1c4fa7e0-9c6d-48b9-952a-4ed707fb3b46	GET	undefined	/styles/output.css
+
+20260120	17:53:00	09718f68-7f65-444b-a3af-2839be8cb11a	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:53:00	a1cae899-3490-41a9-bd96-5157c253ba92	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:53:00	8038ab81-346a-4687-a1ce-7e0d0c5e0c4a	GET	undefined	/images/logo/logo.png
+
+20260120	17:53:00	ca3c5939-033e-414e-a20c-7329f078230f	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:53:00	1bc3059e-4e0f-4802-9b49-663634fd41c7	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:53:00	39fe01bd-721a-4dd4-af43-0d3c03fff28d	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:53:00	70cf432f-e2b4-4e04-a2fb-3aebcd9e03e8	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:53:00	963372c7-1277-47ae-bbd3-5161e6cc810b	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:53:00	39331066-a491-4401-b603-c0cf4390f20b	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:53:00	03ccd71c-0159-414b-b4d2-cd8351807f35	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:53:00	ee4af9e8-cd4a-45aa-9346-60c3fda2a7d0	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:53:00	5d128709-b05b-4bc3-b234-bad6072451de	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:53:00	14f29cbe-6f06-4adf-b453-4924c578328e	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:53:00	b118555d-d59c-45ea-9cc0-fee27fcf29dc	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:53:00	9e6686f4-f6e1-482e-a01a-cc8fe1b423d2	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:53:00	f012852f-505c-4152-b758-649c88036786	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:53:00	258a39a2-ac23-4ad8-929d-dabf9fd26045	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:53:00	874214a9-e34d-4649-bfe3-d912d0f8674a	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:53:00	39b5c94f-275c-44cb-adc4-b0dcf8e188e3	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:53:00	8e0962ff-24c0-45a6-adc7-a23ad0284f5e	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:53:00	5bd36829-d6aa-4df7-bf23-41f3ce591e7b	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:53:00	6965d87c-f353-49f4-905f-e0360dc49805	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:53:00	5f02694a-a4c4-4834-aed7-70fcbdab7b13	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:54:25	cedc86e0-b0bb-4be1-8277-301088f50a09	GET	undefined	/About/contacts
+
+20260120	17:54:25	b43e7a1c-4ace-49e0-826a-5f079a8159be	GET	undefined	/about/contacts
+
+20260120	17:54:25	f37bfa41-a142-4253-89dd-d90835707fc2	GET	undefined	/styles/home.css
+
+20260120	17:54:25	82455559-7948-4cde-9cc7-a2aad4657f35	GET	undefined	/styles/contacts.css
+
+20260120	17:54:25	66f4c6f1-6d2d-4919-99c1-6183546e9f12	GET	undefined	/styles/output.css
+
+20260120	17:54:25	3750dcb6-501b-4c1b-9071-6efe62ddf357	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:54:25	f6a3df94-4049-4c0a-94f4-a3afc987abb3	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:54:25	46da2ac4-20e3-42fb-94c9-bb9d614460b4	GET	undefined	/images/logo/logo.png
+
+20260120	17:54:25	8ba1cde8-f320-445f-a231-3aa254297a94	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:54:25	0792a231-f769-4696-ac4b-c1f599a897bc	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:54:25	2606421c-7327-4320-80d3-c03df7535ca0	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:54:25	a1b8904d-1ffe-4e07-a855-12b34a449821	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:54:25	8e20f03a-36d9-4c8e-9946-ec67d393c66e	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:54:27	74161a01-71ba-42d1-88c5-c49bb2b337aa	GET	undefined	/
+
+20260120	17:54:27	b222f430-270e-44b2-ad2a-cb03fd717746	GET	undefined	/styles/home.css
+
+20260120	17:54:27	3d9d33ef-d4ee-44fc-86d5-0f5a23268e16	GET	undefined	/styles/output.css
+
+20260120	17:54:27	770a8ead-80b5-4341-bf62-a6a25e635ff2	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:54:27	d294cf0b-3653-4ecd-8432-6fcb7b290284	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:54:28	4b3a896c-6297-405e-b5e5-58c58837143f	GET	undefined	/images/logo/logo.png
+
+20260120	17:54:28	b199eca3-c020-44a2-9e5b-0871e4a888e6	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:54:28	a5c7416d-7f99-45ea-bd29-7a15be59e7c5	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:54:28	042cd1fd-6057-447a-9a73-c54360dd46d4	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:54:28	6ee94eea-e7c6-4f32-a7ac-389e8a155aad	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:54:28	335aba17-fd35-4136-89a9-3801feed3d07	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:54:28	c8f66f3a-f5cc-426a-9390-dddb54892632	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:54:28	fa0debb8-9883-43c1-95c8-26c5251d71c5	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:54:28	2a917165-1698-407d-b440-660fb5feb23d	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:54:28	a25b880a-7e2a-4cf0-b40a-460b1e1cfc81	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:54:28	a67e26b8-1317-4395-a51f-73f73222ab0c	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:54:28	12d4895a-170a-48e1-9dc4-830f6f648afa	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:54:28	2f77539e-5b2d-4296-8457-39b959bb7916	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:54:28	0fc11e47-7e17-4be8-befc-86d9cb8ad716	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:54:28	db980dc5-7d0e-434f-a26b-535c1770511f	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:54:28	8a54d8b3-07a7-45ba-b053-a0a782dfc066	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:54:28	4230f978-63ad-499a-9db9-814e2082084e	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:54:28	dc0413d2-8e08-4f64-bf18-935e65635cc5	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:54:28	7ecb06f5-d800-474a-8d3c-4b6323619f8c	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:54:28	a852f271-b453-4f46-b892-c106cedaedb1	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:54:28	ffa47681-62c1-42b2-a71b-c894c8553a5b	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:54:28	0e7b74cf-64f1-4f19-99d7-5bd910df2a54	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:54:28	08fb4e01-3923-408e-a24a-3ca5df8b7b61	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:54:41	4936b402-9691-48f6-b31a-9a082aa0cbd6	GET	undefined	/
+
+20260120	17:54:41	fe87ce92-8a0f-459a-b2f2-b7becb06d609	GET	undefined	/styles/home.css
+
+20260120	17:54:41	9be736d7-e0e7-433d-b50b-f792f9082d64	GET	undefined	/styles/output.css
+
+20260120	17:54:41	bc17d5ab-b2cd-4471-8c60-b0c5d5b7d29e	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:54:41	e02989c3-5500-4d3a-a951-31acad2a5f45	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:54:41	61ca8d20-ad6d-4ec0-a529-ab13cfc491ea	GET	undefined	/images/logo/logo.png
+
+20260120	17:54:41	acd18f1f-11d3-4b17-ba17-c82d6ed5e00a	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:54:41	e723760a-8a3b-44a6-b7db-f324d5807e5a	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:54:41	158eb94c-572f-4c78-b56b-b71ad28cb593	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:54:41	a275372b-a9d0-4adf-a64f-c42edff48a6d	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:54:41	d429ba44-7e9b-4309-8528-494a3b99c165	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:54:41	4b8786d5-a721-4b4d-b0a3-5e806b9d9608	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:54:41	0c887a79-555d-4ddf-ae7e-d0d21e1d2627	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:54:41	5b7fe7e5-04c3-41d8-9f1d-330cd38095bd	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:54:41	e9fb75c3-05e1-48c7-9053-23364113eeaa	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:54:41	0f57b16c-0e03-428e-b943-4b54020ba66c	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:54:41	f165f3dc-9875-4d76-95e8-4fcf284f46aa	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:54:41	ee345624-bd63-42bb-8a90-da192ac88c34	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:54:41	16753aa6-472c-45d6-a48b-834e82607e6d	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:54:41	d3e49290-0b4a-4d05-8532-ddc36d8cabc8	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:54:41	2ad2d9d1-edb6-4224-b56a-5d2de2cd1d3c	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:54:41	6969f351-b8a2-415a-8c62-8367d940625a	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:54:41	6334bdd4-cf63-4ae4-8395-a64799f0d82b	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:54:41	8a3b3e60-06da-4f61-a313-d974abe7532d	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:54:41	b9bd4318-cadc-4dbf-bb98-61aa16328277	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:54:41	a8c1f0e2-b949-4286-956f-e391a3410510	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:55:56	8f878fdc-1c32-4191-8ae1-5bf307e20c79	GET	undefined	/about/contacts
+
+20260120	17:55:56	bb109fa4-4cbb-4225-9528-6594f4df2759	GET	undefined	/styles/home.css
+
+20260120	17:55:56	4f7a79b1-c3e8-4650-95a3-d95968d3177d	GET	undefined	/styles/contacts.css
+
+20260120	17:55:56	2296abd9-cbda-4e6a-8d3a-6919962a2742	GET	undefined	/styles/output.css
+
+20260120	17:55:56	675d262f-9978-4c5a-a948-8b4dd190be7a	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:55:56	a25f5563-e78f-477c-b751-d198f8325e88	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:55:56	3c70e7c6-463e-4e05-856f-8e259408706b	GET	undefined	/images/logo/logo.png
+
+20260120	17:55:56	9b873082-a7a2-4ec3-9431-b0de3136df88	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:55:56	cb6df042-e2ac-4760-b46e-e35359ade4dc	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:55:56	03f9a3ef-c796-4302-a3f7-72696a1f861b	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:55:56	8fa87344-6cfa-4abd-8268-24142a2af8f3	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:55:56	f7288cd4-9116-432e-afc6-273a9e896c89	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:56:00	95ae1444-b2a0-4378-a59b-42e0a662af98	GET	undefined	/
+
+20260120	17:56:00	6c48f181-40ea-4e0a-af05-7d32d862eef0	GET	undefined	/styles/home.css
+
+20260120	17:56:00	a62c87ad-6fb5-415c-acf1-40ed515fcd76	GET	undefined	/styles/output.css
+
+20260120	17:56:00	3a976a04-9058-4ed8-aef1-d31e6fc74077	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:56:00	12f23701-5518-43cf-8f0a-9a78dd50ef12	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:56:00	9fbc114f-4eed-4064-839a-30402f6612f2	GET	undefined	/images/logo/logo.png
+
+20260120	17:56:00	af812deb-1c8a-4d11-bbbd-cfddb1d6c180	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:56:00	6e0f584d-9826-43d2-990c-721fec37bd59	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:56:00	c7357799-facc-44fe-b236-d047a9457681	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:56:00	b482ad29-6845-4c39-9ad6-5f9f27be720e	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:56:00	d73e1c24-0f7a-4dd9-8a32-47de0f74d630	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:56:00	8fc4e887-38b1-40d8-a0c7-011967172838	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:56:00	7bf0deb6-4218-486e-a2eb-427d7f85b0b6	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:56:00	a5be98f6-1fe8-4fb2-91c9-df8f09e59495	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:56:00	bfff7d68-1245-4228-a9ba-029871c5688c	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:56:00	ebee4a38-58de-4a46-b71b-30e958a82b1a	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:56:00	a349157c-beeb-457d-9857-c917c812bb47	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:56:00	d4706c3f-b5c2-4cdd-b869-5ccff3d8767b	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:56:00	465626ec-1016-40d6-b3a6-315996c43b66	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:56:00	708c6d06-51b9-4b51-9c78-a11ffd74a2f5	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:56:00	6ca509d0-7dfb-4b48-9060-d2dd235015f5	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:56:00	e9ecafb8-e3fd-4369-90ac-84baf9255d31	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:56:00	d13efbdc-3d64-41ce-af7a-2ea8fb98b91a	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:56:00	2d940504-bd3c-4903-9e7a-eeb752caa762	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:56:00	0500c997-27ef-4387-a4b1-b9328aa452f3	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:56:00	621a8447-8c5b-4aef-a4c8-8c77a6b6da25	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:56:00	a682c237-a0f0-42c0-b50b-a9db2fbf6dbe	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:56:00	3e4eaf97-85e9-46ba-b5d4-0333208bb3ec	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:57:18	76cc6402-c29c-4025-ac5c-977437beb68a	GET	undefined	/About/Director's%20Message
+
+20260120	17:57:18	8651056f-e6b0-46c2-8150-0eeba81e20f7	GET	undefined	/about/director's%20message
+
+20260120	17:57:54	cb81fce0-1926-4437-b753-b9b4fcd49eaf	GET	undefined	/about/director's%20message
+
+20260120	17:57:56	e7357dd0-613e-4a4d-b8f3-820a63b28af9	GET	undefined	/about/director's%20message
+
+20260120	17:57:56	f98898a5-dd16-48a6-ac03-f1698accaf79	GET	undefined	/about/director's%20message
+
+20260120	17:57:57	b6818df4-9822-49d7-ad31-e69c11461d3b	GET	undefined	/about/director's%20message
+
+20260120	17:57:59	b8f6c353-0ff8-40e2-8ddd-59ae4f093e96	GET	undefined	/about/director's%20message
+
+20260120	17:58:00	ba065cd7-5afb-4371-8c84-c5ac0fa6c6fa	GET	undefined	/about/director's%20message
+
+20260120	17:58:18	f9778927-437f-4816-9ecf-f91a7bb6d1c7	GET	undefined	/about/director's%20message
+
+20260120	17:58:30	d5cc5d9b-f2a2-4d11-95fb-1d0da65cd3bd	GET	undefined	/
+
+20260120	17:58:30	6ab7b1f2-0783-48ee-a2ff-ce6bc202a4a7	GET	undefined	/styles/home.css
+
+20260120	17:58:30	d4c09066-56d9-4c18-93cf-188c92d184ad	GET	undefined	/styles/output.css
+
+20260120	17:58:30	f9bef032-a97d-4351-a5d4-a069625aa111	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:58:30	7fefbcde-b406-4feb-b786-a1c26cebf74b	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:58:30	635efd62-f427-43f4-ad1a-5f9b7c83e83c	GET	undefined	/images/logo/logo.png
+
+20260120	17:58:30	fd540068-4775-47e1-bf52-1de40733f29c	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:58:30	9aa4319b-59a1-4941-86d8-b2875a420189	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:58:30	7068af0e-eef3-4780-9c0d-c41ff29e5da2	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:58:30	6995292d-8902-4450-834a-29fdec8412f3	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:58:30	0ec7f89a-f0a1-4c04-8e16-7dc7738c5ba8	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:58:30	93eb1ad1-e64d-4363-b5ff-429552b63a72	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:58:30	f906a654-a6b5-4663-8c3c-478c32cd7213	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:58:30	d15a8a08-d3c6-4a7a-9df5-898c830e3218	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:58:30	eb1cb561-db8c-4dc6-8546-24decf3a4f59	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:58:30	f600b77a-9a16-4fb0-8232-216fad6059f5	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:58:30	190a1d90-7a18-40ec-b116-52d521e3a970	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:58:30	f37ca2a3-23f3-4813-bde2-2fca92cf7ceb	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:58:30	7327accf-c36b-4f75-b5e3-412531b88074	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:58:30	8dd0a796-e72f-4fd8-ac4d-4414c6843fbd	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:58:30	9f02065a-6642-4a1c-8608-4b906f0a7ca5	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:58:30	eb104a84-2702-44d3-a995-f0520e050c25	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:58:30	40377e41-d752-4716-806f-4322a54758b4	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:58:30	f16453e2-3359-42cb-bed5-49b49336c1c4	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:58:30	e9f54d99-592d-40f1-814e-b99412f4be37	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:58:30	974ca19b-0ac4-4625-870b-82b3dae9d600	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:58:30	cd5b3507-ecaf-4008-b53c-1960620cb02a	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	17:58:30	c0ccc956-28fe-470c-b102-987f11b24a0c	GET	undefined	/images/svg/circle-check.svg
+
+20260120	17:58:33	9053b837-85b0-4919-9bde-2128b318394c	GET	undefined	/about/director-message
+
+20260120	17:58:33	d660463a-3388-4d67-b5d4-44762e4110b3	GET	undefined	/styles/home.css
+
+20260120	17:58:33	275a5041-15ec-4959-a178-02ce5bfc356e	GET	undefined	/styles/output.css
+
+20260120	17:58:33	b8edbcd6-e36b-4eae-8916-fbdea601de79	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:58:33	892f226a-d269-448a-aeb9-24bc8c4485bc	GET	undefined	/styles/director_msg.css
+
+20260120	17:58:33	d4dbba18-1975-4cf6-95a4-240cd129999d	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:58:33	e1b8b3d1-03df-4a10-be31-402010872174	GET	undefined	/images/logo/logo.png
+
+20260120	17:58:33	6dbfb6d8-853f-49b7-8c7b-1b24f0db78f0	GET	undefined	/images/director%20photos.png
+
+20260120	17:58:33	78cd7429-6816-4403-bbcc-a1104cdb7158	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:58:33	35c3d286-ac17-4b3f-8f5c-97a846c698c5	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:58:33	00d618e6-8f3a-4548-9961-6b6426c157b9	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:58:33	daabfcff-725c-4450-aec7-e57c5bad9cf8	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:58:33	88dcb832-e0f1-406a-bb81-47eb7890f9c4	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:58:36	9ea646c5-0aa4-4d12-836f-b3d1434c8d0c	GET	undefined	/About/Contacts
+
+20260120	17:58:36	5789175f-7946-4d6a-8bda-ddc0d18c1cf1	GET	undefined	/about/contacts
+
+20260120	17:58:36	fab2d8c7-8911-4430-8890-ec47499433d8	GET	undefined	/styles/home.css
+
+20260120	17:58:36	fafcfb8f-e14e-47b0-89f1-b9ebedd86e22	GET	undefined	/styles/contacts.css
+
+20260120	17:58:36	f7d2bd09-2e0d-4ba7-8f1b-e0b0ee3bd665	GET	undefined	/styles/output.css
+
+20260120	17:58:36	5c2ca784-705c-4d69-874b-45c65899558d	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:58:36	9bf2af61-b3e3-4742-b875-c3316e1b9176	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:58:36	17bd9f42-8adb-4d07-ba6b-f1d7fdaf6e72	GET	undefined	/images/logo/logo.png
+
+20260120	17:58:36	58fa3eb8-7234-464a-803c-45485451773d	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:58:36	4eeb71fc-ab55-4a00-a1f8-0a5680d40e2e	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:58:36	d87b1e73-bc89-495a-ba83-c44a0e6c7639	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:58:36	8653ed90-1656-48d8-a276-6da0955c39fd	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:58:36	7d0a4557-3016-4d38-a4b1-d8899ff85410	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:58:38	361698da-e157-41fe-8ab3-f0f683dd65a5	GET	undefined	/about/director-message
+
+20260120	17:58:38	a821c090-d37c-46b7-a064-741868d982db	GET	undefined	/styles/home.css
+
+20260120	17:58:38	0e3cc023-9d6b-41f9-bfbc-4784157028f2	GET	undefined	/styles/output.css
+
+20260120	17:58:38	6cfdadbd-037f-435c-88fe-8a14150fdb2d	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:58:38	6d77d628-da21-45e3-986f-3224b7f9c990	GET	undefined	/styles/director_msg.css
+
+20260120	17:58:38	1fddb13a-eca7-40aa-b6ee-e4d3cff0e021	GET	undefined	/images/director's%20msg.jpg
+
+20260120	17:58:38	69c2a13c-5204-4c93-93b0-9cbd41db1b7a	GET	undefined	/images/logo/logo.png
+
+20260120	17:58:38	a444acf1-dca5-4e17-b646-fcd360b12a04	GET	undefined	/images/director%20photos.png
+
+20260120	17:58:38	d3eb865b-96a0-41c7-a830-0ccd7416e86a	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:58:38	e35711f1-2a32-4511-b82e-c96870dbdc7f	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:58:38	b52df1e3-8365-43ac-8044-0449edd1e072	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:58:38	6d5e37c0-e08c-49cf-9901-edaff606879e	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:58:38	c4113d3f-744a-418b-97fd-a9703e2c48cc	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:58:47	f861b733-f67b-4c17-936f-a9706b0fe956	GET	undefined	/
+
+20260120	17:58:47	d2c260f9-0965-4a2b-99d9-6ac562dc16dd	GET	undefined	/styles/home.css
+
+20260120	17:58:47	2fcda937-19ed-4bd1-a9c5-728bb1a29bf6	GET	undefined	/styles/output.css
+
+20260120	17:58:47	69f42c55-e1d8-4bca-b72c-c0892aa05bd1	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:58:47	9a0ffc81-3a55-46f0-a14f-0c8f3ac67b29	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:58:47	68a7c7c4-e132-4211-8a41-3a98cc51c04c	GET	undefined	/images/logo/logo.png
+
+20260120	17:58:47	e2efa2f0-979c-42b2-ab66-eddb1b355fc8	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:58:47	d34d21c3-ba66-4a2b-95f4-db9c4fe97ce6	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:58:47	b4309c53-a4b6-461f-abd7-26c0a37980f1	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:58:47	861cc806-7a90-4e12-b061-427f3eb7a5de	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:58:47	9e5b2ec5-410b-4aff-81b6-901e35ec473a	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:58:47	65f0f9f6-35fd-42e4-af20-367434bd066e	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:58:47	e578c248-1450-4836-b339-90c0dc98cd14	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:58:47	b608f21c-1f57-4e73-9e15-5020fcc398b2	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:58:47	0490a567-0e56-454b-b2e0-d47ee6b26c07	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:58:47	4c638e57-98f2-4639-81fd-bf94f6ce675f	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:58:47	14c22916-796c-4fb3-a71c-ac976fdc92cf	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:58:47	0a9f5073-6385-4f00-bbbb-8e359070c4b0	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:58:47	727943e3-6176-4604-a645-82a951ec42b2	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:58:47	1e94f043-808b-4d08-b2be-aaaacc03cf42	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:58:47	d6a1a4e4-1d14-4496-8372-02a4427b85a1	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:58:47	4039d925-e0ac-4522-a85d-e68ee6f76cfc	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:58:47	9255bd2d-2326-4623-ba88-a6016d5f1274	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:58:47	d2bffc54-f6df-45f2-b1ed-139d4de012b0	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:58:47	2f90096d-319c-493b-a3b2-2ada82cc74e7	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:58:47	37b29281-acce-42c8-a39c-e2f5afc6fb3f	GET	undefined	/images/college_building_hor.jpg
+
+20260120	17:58:50	e861af16-a851-4d38-a540-c9c46328cb94	GET	undefined	/
+
+20260120	17:58:50	45764f5f-a7b6-4a5e-9151-f58fc531585e	GET	undefined	/styles/home.css
+
+20260120	17:58:50	cad65eb3-8c16-47f1-91c1-a49176df4777	GET	undefined	/styles/output.css
+
+20260120	17:58:50	8315decb-d308-4349-badf-1f3ead08d3c9	GET	http://localhost:3500	/main_anim.js
+
+20260120	17:58:50	e01a6c31-ad1e-498d-8753-991aa4201654	GET	undefined	/images/college_building_1.jpg
+
+20260120	17:58:50	59a7aa7a-dc88-45fb-ae02-f6e0a2c46123	GET	undefined	/images/logo/logo.png
+
+20260120	17:58:50	5c06b61c-fd9d-468d-b8c6-74d3099b150f	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	17:58:50	aa07dd60-df10-4a08-bec1-6d3c88108da0	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	17:58:50	a49cd88b-0137-4a9c-ad4e-82c3ac548825	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	17:58:50	67a6d6ab-7aed-4ff6-92e7-1aa62a43ac9b	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	17:58:50	772903c0-19d1-4078-ba04-d0ec2f5aed4d	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	17:58:50	ce88bdac-4b6c-46d2-92a8-7df30ee5c7a1	GET	undefined	/images/logo/onmrc.png
+
+20260120	17:58:50	6ba0836e-aa1d-4613-8fc0-55e9266bbcbb	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	17:58:50	3d744bb5-9f3d-4718-99d0-d9f10efd3989	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	17:58:50	137c2eb1-320a-49c9-9981-686c37cfeb14	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	17:58:50	38e624fd-8f52-4209-a986-dce4059f7aab	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	17:58:50	9d7c8356-5d23-4363-bdad-5fe4443f182a	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	17:58:50	e8930103-3303-47c1-81af-4081f7f18171	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	17:58:50	2a98ba53-b763-42da-a49f-d4344bc00040	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	17:58:50	ed99cea4-1aa1-4311-8d78-42f547b15eb0	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	17:58:50	699ca5b3-fa18-4cab-81d1-79c5f5f1819e	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	17:58:50	ccd4b10c-9445-41d4-8df7-898f7f6f24ff	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	17:58:50	ee2cdf41-04de-487d-ae76-c460a49ea917	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	17:58:50	8279ce59-7e20-4fff-aa90-ed92de829d40	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	17:58:50	eaa6c5a4-d4cb-4778-99b5-5f61434646f4	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	17:58:50	bdda81db-afa3-421b-8673-e78b9f589c5a	GET	undefined	/images/college_building_hor.jpg
+
+20260120	18:01:43	da23f072-b238-4fba-bffe-b55779a94a85	GET	undefined	/admissions/scholarship
+
+20260120	18:01:43	79c21ce7-320b-4f1f-baf5-babaaabd446a	GET	undefined	/styles/home.css
+
+20260120	18:01:43	7416ae06-caba-4d59-bf3a-b532abc0e83f	GET	undefined	/styles/courses.css
+
+20260120	18:01:43	9b469b4d-4bcd-4a91-9d4f-3e8c2b7c0ef8	GET	undefined	/styles/output.css
+
+20260120	18:01:43	c2b11e4d-a7fa-4159-8454-ac0878685989	GET	http://localhost:3500	/main_anim.js
+
+20260120	18:01:43	9bd926f6-a616-4502-8c0d-72c234fedfc3	GET	undefined	/images/director's%20msg.jpg
+
+20260120	18:01:43	5218306c-422c-4777-a5ae-664697f0297f	GET	undefined	/images/logo/logo.png
+
+20260120	18:01:43	9733183b-abce-409f-b777-39b72a65d41d	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	18:01:43	6d445f5e-5bc1-4dad-a445-c9ab794d6d73	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	18:01:43	db241b8f-3122-471d-803b-9280fd11cca2	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	18:01:43	04b19bbf-e13b-4241-9950-40a7ba066ccd	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	18:01:43	6f2b2653-12dd-42aa-bf0a-86f6ec173443	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	18:01:46	ed2d456b-24f1-4ff1-b7ef-c7aa71a17079	GET	undefined	/
+
+20260120	18:01:46	80d652bd-e7bd-43fe-b033-7e1823997dd7	GET	undefined	/styles/home.css
+
+20260120	18:01:46	bd0fdd72-7fce-4ab3-b7ef-55958fcb8afe	GET	undefined	/styles/output.css
+
+20260120	18:01:46	aaa4162e-a766-4724-a3f2-3e6917dd1830	GET	http://localhost:3500	/main_anim.js
+
+20260120	18:01:46	48b97df3-bc9e-4aec-beec-4d3593061c26	GET	undefined	/images/college_building_1.jpg
+
+20260120	18:01:46	93894858-00f8-45f4-beed-6e162466adbf	GET	undefined	/images/logo/logo.png
+
+20260120	18:01:46	f18cb414-0b5a-48c3-9189-415785a59391	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	18:01:46	23c4bd99-52f4-4bf5-8152-5c1f85c25fb8	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	18:01:46	f0b56373-b7d9-4a3d-ba7a-145df2bcaabb	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	18:01:46	869923c8-c561-41d1-addf-48e5def5d52c	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	18:01:46	a62f339d-f215-4afd-bac1-e3f630baa5b3	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	18:01:46	35c5b636-9583-47fe-9f68-9a0fe0796dbb	GET	undefined	/images/logo/onmrc.png
+
+20260120	18:01:46	25f2e809-2fa6-4f0f-b7c8-9209cee9e921	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	18:01:46	dca4b02a-08ac-4105-92fb-29de480eb486	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	18:01:46	938903f9-9f10-44f6-9149-c8a70047b669	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	18:01:46	d2e8df81-b6ca-4f72-9adf-f40f651a2a2f	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	18:01:46	54cdfa76-4b4f-42ee-b101-0bbbbb78cf7b	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	18:01:46	45e4dc1a-9252-45d8-8bf8-c981e91fd488	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	18:01:46	12647de6-08c1-412a-aafe-5a22dd985f40	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	18:01:46	ca2e34ef-b047-4f37-ac78-a7db7cc7d89c	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	18:01:46	1a7664cb-f996-43f2-8365-5278c88830f5	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	18:01:46	026a412e-bc5b-4093-8fb0-8f8d82fe4f56	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	18:01:46	4df2ee69-c810-4746-974b-445464d2d0e4	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	18:01:46	93e926f7-6aae-4e08-8615-f7d424b9d7e1	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	18:01:46	8bd874dc-defd-41cb-937b-4fd1d101c5d3	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	18:01:46	cc7052b6-87e1-4a34-90ca-432d0201e461	GET	undefined	/images/college_building_hor.jpg
+
+20260120	18:01:46	11786953-0117-4045-af0d-025aa44dca0e	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260120	18:01:46	82b4da5a-a34b-4d78-a2d3-2aedca87a9d6	GET	undefined	/images/svg/circle-check.svg
+
+20260120	18:01:49	4b7be5a0-33ac-4b45-ad0e-3ff11ccff35a	GET	undefined	/
+
+20260120	18:01:49	48584fdc-3902-461e-88c4-ae4662e87461	GET	undefined	/styles/home.css
+
+20260120	18:01:49	65dabc1a-0fac-4ec2-b86b-e56a8ba6e80e	GET	undefined	/styles/output.css
+
+20260120	18:01:49	d68a6049-2e4d-47e8-a8ee-fd3b035447d4	GET	http://localhost:3500	/main_anim.js
+
+20260120	18:01:49	edb172ee-1efe-4634-b54a-ddf014030754	GET	undefined	/images/college_building_1.jpg
+
+20260120	18:01:49	384f1a80-fd47-4d0a-a827-88d9a785d9e6	GET	undefined	/images/logo/logo.png
+
+20260120	18:01:49	7c4789d7-16c1-44a7-9f00-dfdfeae7840b	GET	undefined	/images/test%20img/1961pic.webp
+
+20260120	18:01:49	0fb635fb-1b00-4e05-8302-235027c59d0f	GET	undefined	/images/test%20img/1963pic.webp
+
+20260120	18:01:49	f210f034-8a6b-4514-a292-b41614eabe71	GET	undefined	/images/test%20img/2000pic.webp
+
+20260120	18:01:49	c08ed137-cf33-45f9-bc61-e485239fca4a	GET	undefined	/images/test%20img/2008pic.webp
+
+20260120	18:01:49	8c961ca8-9cf8-45f2-bc6a-ee01fcc500cb	GET	undefined	/images/logo/hfw_dept.png
+
+20260120	18:01:49	1c0007c2-4c57-4bde-a3f8-bdaa11b3781e	GET	undefined	/images/logo/onmrc.png
+
+20260120	18:01:49	54cdd093-8ebc-4a29-bbb0-7cc70328a956	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260120	18:01:49	02ddd5db-1dba-4fb2-aec5-2246b0f750c9	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260120	18:01:49	2473faf9-45ed-4b61-8677-6a9a7e051ccb	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	18:01:49	1b35ef95-feb3-45e2-b4d1-378db353d8cc	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	18:01:49	aaf2ad68-3610-4f33-b83e-add728ca3678	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260120	18:01:49	2fb28acb-ad5e-4aa8-9515-9fb8e34d45f7	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	18:01:49	43fdd475-dbc7-4d21-84d2-1cc5d3b91ceb	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	18:01:49	14e28845-0327-4da3-9ae4-55c2e3dc58e6	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260120	18:01:49	5f16aa74-56bb-4440-aa41-d9d9ef8d045d	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260120	18:01:49	a9d8e735-fa8f-4a7b-841a-c4e2c7eb14d3	GET	undefined	/images/logo/hospitals/capital.png
+
+20260120	18:01:49	3bf12ea0-dc74-490c-9b33-09672cb7d31b	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260120	18:01:49	c3a3b49a-4037-4ebf-b500-ac034d7aceed	GET	undefined	/images/logo/hospitals/chc.png
+
+20260120	18:01:49	87b752c3-c0e7-4327-b69d-fd69a1bb2813	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260120	18:01:49	5cfeaa09-2e32-47db-9cbb-e167dccefdc0	GET	undefined	/images/college_building_hor.jpg
+
+20260120	19:31:39	1b6916d8-839b-4868-89d6-281cd6a10cac	GET	undefined	/about/director-message
+
+20260120	19:31:39	4d3b55f7-8924-4579-b8bc-88b2f0408896	GET	undefined	/styles/home.css
+
+20260120	19:31:39	886c4249-8581-4a82-b395-691ca7b7f7ea	GET	undefined	/styles/output.css
+
+20260120	19:31:39	ebd6d37b-972c-45da-9b70-b24af9444c2a	GET	http://localhost:3500	/main_anim.js
+
+20260120	19:31:39	b358da2e-e25e-4791-8e40-08bd1f470b52	GET	undefined	/styles/director_msg.css
+
+20260120	19:31:39	ef102b71-b5f3-4904-8c05-df53691b4f21	GET	undefined	/images/logo/logo.png
+
+20260120	19:31:39	5b38432f-1744-4996-be5f-a3fd36431205	GET	undefined	/images/director's%20msg.jpg
+
+20260120	19:31:39	35c2bfd3-74f6-4ce9-b4b9-b1ec13516c1f	GET	undefined	/images/director%20photos.png
+
+20260120	19:31:39	99f6c08b-6b7d-4186-b089-a4e8e52c2f1c	GET	http://localhost:3500	/animations/search-bar.js
+
+20260120	19:31:39	af21804e-2cec-4430-b8ef-ac47400ca7c7	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260120	19:31:39	963ce79c-8ea0-4fac-9c07-eb3e4048653d	GET	http://localhost:3500	/animations/count-digit.js
+
+20260120	19:31:39	d4a2dc92-dc3c-4f96-92c0-be83fda2f9c9	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260120	19:31:39	348dae49-6607-4754-820e-0b14f1171ad4	GET	http://localhost:3500	/animations/accordion-display.js
+
