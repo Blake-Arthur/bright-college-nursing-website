@@ -352,3 +352,481 @@
 
 20260120	17:58:18	003c7e5c-2c2b-4d3e-aa6f-a023604c6fc5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
 
+20260121	08:37:23	c80a1341-9cf7-4f5d-88bd-5868efc6b74b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260121	08:37:26	36543e24-5818-428e-b8e7-859f41af7ff3	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260121	15:21:56	20b77f09-aeda-4b86-b527-dd26b473ffe2	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\public\About\about-us.html'
+
+20260121	15:31:24	1dff8ec9-737b-491c-983e-e8f799408a01	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\public\Admissions\scholarship.html'
+
+20260126	13:26:36	7e966af4-050e-4238-b7d6-67ea7ab92478	TypeError	Cannot read properties of undefined (reading 'toLowerCase')
+
+20260126	13:26:36	ef4028e8-11e1-434f-8f10-3f64a01817a1	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	13:26:53	5b5f3d16-fa6e-4368-967d-595c30f4d9d1	TypeError	Cannot read properties of undefined (reading 'toLowerCase')
+
+20260126	13:26:53	4349e908-eae8-4dc9-91a6-d46890c4f842	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	15:35:29	9730e440-61ae-4e6d-9c04-67858913473e	TypeError	Cannot read properties of undefined (reading 'toLowerCase')
+
+20260126	15:35:29	1cc678ba-3230-401a-80b4-fd8bf2d86ed9	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	18:44:57	fb0baf9d-762c-4b5c-b270-8fb242fb1454	TypeError	Cannot read properties of undefined (reading 'toLowerCase')
+
+20260126	18:44:58	fe2f8cab-9633-454f-936a-5a98b8993a0c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	18:51:18	8533b823-837c-41f6-bdc9-164ca378a672	Error	Failed to lookup view "layouts/main" in views directory "C:\Users\abhij\Desktop\Website\src\views"
+
+20260126	18:51:18	d406eb87-6866-4955-8ca0-f33319839fe0	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	18:51:53	9d6450aa-e310-4398-92b9-9c4c237ae8ef	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:19
+    17| 
+    18|     <!-- Page-specific styles (optional) -->
+ >> 19|     <% if (styles && styles.length) { %>
+    20|     <% styles.forEach(style => { %>
+    21|     <link rel="stylesheet" href="<%= style %>">
+    22|     <% }) %>
+
+styles is not defined
+
+20260126	18:51:53	99931bef-a1bf-4795-b052-bdeba802e0e4	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	18:51:53	d37bb448-d529-4c32-8147-26999ab46ae4	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	18:57:14	0bc0ad43-5b7d-47b4-ab82-39bf123e3352	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:19
+    17| 
+    18|     <!-- Page-specific styles (optional) -->
+ >> 19|     <% if (styles && styles.length) { %>
+    20|     <% styles.forEach(style => { %>
+    21|     <link rel="stylesheet" href="<%= style %>">
+    22|     <% }) %>
+
+styles is not defined
+
+20260126	18:57:14	ff624859-4ea8-4769-9433-3c9c93c05aa5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	18:57:15	57f06b15-498b-47e0-a255-aa59b3ae4027	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:03:21	e3facdec-6ff5-4bb7-837d-4796ce43bae5	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:30
+    28| 
+    29|     <!-- Header / Navbar / Hero -->
+ >> 30|     <%- include("../partials/header") %>
+    31| 
+    32|     <!-- Page Content -->
+    33|     <main>
+
+C:\Users\abhij\Desktop\Website\src\views\partials\header.ejs:2
+    1| <!--Hero Section-->
+ >> 2| <div class="relative w-full <%= heroHeight || 'h-[560px]' %> overflow-hidden">
+    3|     <img src="<%= heroImage || '/Images/College_Building_1.jpg' %>" alt="<%= heroAlt || 'Bright School of Nursing' %>"
+    4|         class="h-full w-full object-cover">
+    5| 
+
+heroHeight is not defined
+
+20260126	19:03:21	531803dd-12c7-4270-be06-69e3b4800411	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:03:21	0dbbedf4-7760-423b-ac2f-491b3a8f59ea	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:09:41	614d235d-5c57-46cd-a74d-4ec8841f4895	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:30
+    28| 
+    29|     <!-- Header / Navbar / Hero -->
+ >> 30|     <%- include("../partials/header") %>
+    31| 
+    32|     <!-- Page Content -->
+    33|     <main>
+
+C:\Users\abhij\Desktop\Website\src\views\partials\header.ejs:2
+    1| <!--Hero Section-->
+ >> 2| <div class="relative w-full <%= heroHeight || 'h-[560px]' %> overflow-hidden">
+    3|     <img src="<%= heroImage || '/Images/College_Building_1.jpg' %>" alt="<%= heroAlt || 'Bright School of Nursing' %>"
+    4|         class="h-full w-full object-cover">
+    5| 
+
+heroHeight is not defined
+
+20260126	19:09:41	f104ea4d-8b36-424d-8425-b3693f7493bb	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:09:41	2e5cd754-d6ba-4a3e-af33-46bb15f594b8	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:50:17	c64bf858-8eef-4791-89be-8e0d476b4dc2	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:47
+    45| 
+    46|     <!-- Page-specific scripts -->
+ >> 47|     <% if (scripts && scripts.length) { %>
+    48|     <% scripts.forEach(script => { %>
+    49|     <script src="<%= script %>"></script>
+    50|     <% }) %>
+
+scripts is not defined
+
+20260126	19:50:17	4da584a8-0bdd-4ba0-a178-d72abd5af93a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:50:17	cdb9c3ca-34ad-41e6-82ad-57d37e72d5dd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:57:04	6d007292-baa6-4747-8dbc-9cac398a157b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:57:04	db95696e-0d4a-4301-8e16-e5177952b34c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:57:05	bad6c6af-5b68-4d62-a14b-eee992b85b3d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:58:04	7899bd46-e622-474d-b482-314d69f15a3f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:58:05	84b6fe33-33fc-4c68-8c5c-5f9bd5b13961	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	19:58:06	7bd2db0f-7fbe-4790-8d19-ffbe6728f6d1	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:36:21	cb2fba45-5f90-4667-866b-e0d870182b8f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:36:21	cf18c279-4a8a-48f5-8cd0-e2662520bb78	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:36:21	91fdf5fd-7221-40ad-8a3e-4233f379f621	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:38:59	ddf3c4e2-b306-4875-a2b2-691c96737c7d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:39:08	a764886b-511b-4eb8-9e0b-37ccd5127cb1	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:39:08	102e1092-faa8-442d-bd68-3139dd9d9937	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:39:08	e0671448-3415-4161-a25e-e3b64577989a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:39:08	b35778f6-478d-4304-9ed4-d34038dabf4f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:40:58	12af5dcf-4d94-46e0-8a7c-b586fb2c53ba	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:40:58	a329271c-e191-4665-ba6d-f01688ec9787	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:40:58	9e29af9e-45f8-4d3f-89c9-a306189c0046	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:40:58	d25fff23-fa8f-47c7-8c84-2224cc5870d5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:48	0bdea63f-2a48-48b0-8ee9-148fab2ef93b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:48	613fc5c3-6c23-4237-a898-5f56874951d7	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:48	e044e167-3da5-4b53-8ed3-c5772abddfdc	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:48	3f46f44b-876a-499b-a73d-eee7e8a529ff	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:50	19d57455-eec1-4421-9fea-b5a10b0ca411	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:50	ac024772-eb7f-4f98-b4f2-d20f5d52996a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:50	48290060-1d4b-4282-a9e6-99b80671821b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:41:50	3c5a6cbd-7ce0-4423-8ed2-a623276c36ba	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:24	f9e850bc-4fd5-48dc-9bf4-c111419bb01d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:24	6a112a4f-94cd-4128-bbeb-c9d4c430b2fd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:24	21e5fc14-c672-4a1f-ac62-15f42a0b71af	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:25	197b5491-8b02-4c99-b11d-401fd51467ac	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:26	c9413f2f-6f20-4edc-80a7-66144c0fd4bd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:26	4d89bdba-d884-4693-86fb-e0fdd613155d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:26	841b198f-5784-4312-9127-d9595d8dac00	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:26	1f4ae5a2-6503-4df0-aa52-0421824c9d29	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:47	fc10d459-7bd4-44f2-b381-94eae26c59f8	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:47	6de11d9d-af93-4349-ab35-733bcf6d1e33	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:47	2e05ca2f-5854-4c5e-9a1f-30b9b8f93cb1	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:47	32173cac-b172-4cd0-9403-063036ca4fe0	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:48	cd11d332-706a-41bd-adbf-8a30282a9b25	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:48	1e772ab8-5223-4436-acfd-84a0d9c18f4b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:48	44590c65-abad-47b8-bf8a-4403346680dd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:42:48	8b1822f4-0c59-4bc5-9b16-c55bc752a54d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:39	e428d24a-9706-49ea-bdf2-8375e2474772	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:39	a02bfd83-ab1d-4070-85ff-9c3307109253	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:39	c344d7d6-d6b9-4623-ba1f-2bfbc9974324	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:40	b6489893-2140-427a-8b04-f856038d5dd2	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:40	ad588970-4849-4bc0-ac31-d63bf5e6dafd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:40	34fef2ba-6e75-4fb3-ae8e-3eea03d90a1c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:40	26ef390e-f307-4aae-bbc6-02d0354bcb5c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:43:40	e43bbe20-6dcb-4739-8597-a7eb4f125712	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:44:09	4c1e451c-6ce2-43fe-ad07-3a3360e7ce8e	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:44:09	7397238c-729d-452d-a288-f543d7187a9c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:44:09	e9346947-e77b-4a14-b48a-cfa186db6718	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:44:10	bdb35974-554b-4a6c-9565-7cbe0f556c64	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:44:23	63d0def2-1219-44d1-b96d-c0240c3debca	Error	Failed to lookup view "pages/about/director-message" in views directory "C:\Users\abhij\Desktop\Website\src\views"
+
+20260126	20:44:23	b2e85cb0-1fd8-4c4d-a229-cfaae9591992	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:44:23	51afbd9f-e39f-4fbe-9db5-d61448279011	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:45:40	6dd48244-1dfa-4b4d-9be1-923675794903	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:45:40	ab529fa2-9ee3-491b-9492-b53b8ef95de4	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:45:44	766c17fa-b0a8-493f-944b-567ccfac598d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:45:44	815a92c1-940c-4c14-8917-7e3616c52184	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:56:05	880bb20c-41c8-44d6-b5f0-32c24e700cc5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:56:06	0db4b7e9-da30-4541-850c-68cb2de65a44	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:56:10	6127e2ee-b9c2-479a-9f8b-6dc9dcf5b94a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	20:56:10	63d5cd1d-fd35-483c-b9f4-56d132a291d0	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:17:35	4edcb41d-b607-4989-bd39-704c2c770f01	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:17:35	44d3bd7d-6f54-4e24-8a79-8018414087f6	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:19:06	8ea04e07-9be6-48f2-aaac-d1bb0420788c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:19:06	6f9dd019-7a10-404d-b6db-879050357be6	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:19:08	5c76d48a-530c-4e12-9d95-3a50f382f6ad	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:19:08	3806084a-d8b0-495e-a0bf-00e088714571	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:19:15	537daa60-adc1-4710-aff2-454e038eeec8	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:19:15	17ff36fd-846d-4c4e-94d6-285dba457e3c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:17	058caa2c-5651-414a-9961-cf5cac6190df	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:17	fbe8702e-0050-4d11-900c-f0a394b95b2c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:19	cba60052-4e6a-4bf1-969b-d5a5040272a5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:19	87c781d6-0ac6-4209-9ad8-d398e17a96dd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:21	7041dd90-cd6d-4e40-a037-5a9fdb2f4233	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:21	8b7ee8c2-4d0a-431d-9587-3442655add0f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:37	2ffb4911-9f48-4b4b-b89a-45506dd252e7	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:23:37	31de9859-1f7f-4aa3-8bbd-4e28356cb69c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:24:16	8b48df38-31ad-48cf-8948-56fe77ca9d68	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:25:37	5f922e81-3dc3-41e8-a3c8-9d32d80581d5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:25:38	1815a164-9a8b-4a35-9a73-f8177fbcc502	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:42:17	bddfe05b-f986-4152-8f79-7b467cf2682d	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:42:19	b5d997af-a49f-4476-865a-5f04541bdc1e	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:42:44	456a8e7c-4aac-433f-8122-583fce1754fa	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:42:44	041ccc39-1936-4f3b-9c53-e05a8ada2ce9	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:42:45	c7f722b9-3fb2-4ecc-810c-bf70cd7f881b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:42:45	6d711343-8782-47d2-b1e6-47932e972e94	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:43:02	cf91872c-43cc-4556-baee-569db59157c5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:43:35	c6a5ebd8-3ea8-4ea2-9b3f-cefdeb232e2f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:44:07	b981be11-6ee3-49cc-910b-8751371835fd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:44:07	2ac10fed-f471-42de-982f-7f5200e66aa4	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:44:07	1909baa4-eaf3-48f4-8ab9-06752650c93b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:11	3bc00ff6-1b7d-4165-8042-c9381f7b9eae	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:14	3ec4f161-0794-4354-92ce-9d3b10e10309	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:14	d97fe17a-4f55-42e6-b9b1-68d2d285baa3	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:22	9832fd41-a2d7-41ad-b43a-ff0c0a00e728	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:26	4219d27b-f79b-47d8-888e-06c29f37468a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:27	816fa41a-f15a-4b74-85de-e3d9826ad6db	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:27	2f197c78-d9c0-4145-81b1-a5694b8d7d80	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:46:37	64e22c07-0cbe-4701-95f5-fe21e03c5f82	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:53:00	22e6f9a0-e20a-4b2f-a499-3fdf8557eb00	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:53:01	25ed3bce-eed5-4ede-8fdd-f23489e5d561	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:53:01	1108f1b3-5dba-4ddf-9bca-808803e3f598	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:53:28	187b95bc-7b2b-4b3f-ac4b-7be53afdb50c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:53:54	8092a317-b3fe-4ec9-a28e-d5620060edcd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:16	73dcf639-c7fe-4158-81a2-83248e4995ba	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:32	75fb1e9e-ef0d-4e4e-a73d-47cb8a99e722	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:33	595cc944-7986-4471-8cde-10cfb1804708	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:33	c53e2dbf-2ea8-459e-a231-0c522407f5db	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:33	4a00c09e-d4b2-400c-8aec-d92ff3f2e8d7	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:33	19d7531c-c4c9-420a-b305-f6bf63c614aa	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:34	8efd9f66-c792-4ebb-8145-c36ce8e69f33	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:55:37	b8a599b0-4a5f-43a4-a023-b8cd09f95cdd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:56:33	e1688a4a-4b73-48b2-90de-f7e279d1b191	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:57:22	0eb96498-b52f-460b-bcd3-7721550d1c73	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:58:58	0ad5086b-f39f-464c-9457-2bd65101b178	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:37	7d01ad5b-1e3f-44c0-ad40-bd63bd9ebf9b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:38	4ace6a8f-17c5-48f7-842c-446541e4f747	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:43	3accf5d6-bea3-4968-864f-e449f0092ecf	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:46	8e261ebc-0d33-4106-ad6a-d1620449f3b7	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:48	eed846e0-f409-4fda-9e4b-ee8074e1d8ba	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:51	3616a504-113c-4ca3-b78f-993c728d768b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	21:59:54	5ad31738-e73f-4266-8d7d-ae9784612186	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:02:39	eb0f5eae-dddc-45b2-a819-a4acd004caee	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:03:07	ad371b53-3a90-4c02-a6de-c18247e78bb5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:05:05	ee7c158b-c968-42c0-b259-faf9d3071d76	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:05:07	c08b242a-2a4f-4395-a2bb-23d8577a8b1e	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:12:44	51dfb61a-7b98-4380-9141-560853431712	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:12:48	682e38f0-8566-4717-85ad-5184a3d72e28	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:12:53	6f8bdbb5-cdcd-425f-b6f5-67e1e1c95563	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:12:54	0ba77ec7-fe0a-4632-875d-4f69a7cdbfa6	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:21:25	5199c549-6ac5-4dd1-b8aa-d0c68d69b739	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:21:25	04465208-a09c-429f-9a6b-014e7422a0f2	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:21:26	5ef51e52-d015-4601-ae08-e1f65e3edce6	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:21:26	58fbbac4-03df-4619-8baf-b362219d673a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:23:08	abf91faf-8473-4c6a-8bf4-494e86f2fdfd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:23:08	a9d6bf4d-1e4b-4904-9394-539081a4ccb8	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:30:04	3d110d28-573d-40d9-825f-607c0ecb128f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:30:04	9573f9ae-61d3-446c-b2a2-5f072babfd17	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:30:05	69e11aba-5605-47e4-a3ac-99a4362dc7ab	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:30:05	5e495d98-b9b2-49dc-9d55-4f8047e3f53c	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:30:05	48d28d0a-2212-4b8c-a28e-d67b475337b5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:30:06	38452e27-18b4-4966-907b-e258f569fa6f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:32:02	22c12332-9d15-494f-9a52-f992089f5481	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:32:02	3020f0f2-cacf-47b2-bc32-7f5605094f5b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:32:59	d5276412-7b7b-49f7-9c6b-57bf792fdbd4	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:33:05	d71bd0f4-e85d-42d7-aa09-33fe67bff13a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:33:05	d92f9ef7-a32b-4c59-b021-267b5460bcb0	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:33:06	b03ca19f-4559-4a2a-99a3-d6b2e256c090	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:49:49	37cc5ade-234e-40ca-912b-ae26d2d5d577	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:51:03	c4257236-7e1c-4206-b503-49462bdcab09	Error	Cannot find module ' Nursing'
+Require stack:
+- C:\Users\abhij\Desktop\Website\node_modules\express\lib\view.js
+- C:\Users\abhij\Desktop\Website\node_modules\express\lib\application.js
+- C:\Users\abhij\Desktop\Website\node_modules\express\lib\express.js
+- C:\Users\abhij\Desktop\Website\node_modules\express\index.js
+- C:\Users\abhij\Desktop\Website\src\server.js
+
+20260126	22:51:03	c91dbc87-00cc-4593-b6c5-886ba9206f78	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:51:14	84e2343d-0863-4485-adfe-5162f64e5b44	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:51:21	cf6e2fd7-32f1-4408-b3cd-f35be06e01e5	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:52:12	cfbd0bef-348a-4a4f-8a28-1806459edaab	Error	Cannot find module ' Nursing'
+Require stack:
+- C:\Users\abhij\Desktop\Website\node_modules\express\lib\view.js
+- C:\Users\abhij\Desktop\Website\node_modules\express\lib\application.js
+- C:\Users\abhij\Desktop\Website\node_modules\express\lib\express.js
+- C:\Users\abhij\Desktop\Website\node_modules\express\index.js
+- C:\Users\abhij\Desktop\Website\src\server.js
+
+20260126	22:52:12	6beab46a-abeb-4b35-bc9c-727cd0261cde	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:52:44	82ce2c09-7de5-4e21-857b-d38fbc727d31	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:52:58	dd1093cf-f2ee-49a4-897c-262f7289a8ce	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:53:00	c3211996-e42b-4de6-b93b-7d06aa837068	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:53:02	e56d75b5-cbcb-428b-a557-e54461922359	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:53:07	de7c7554-5443-4b54-89cc-71ecb248def0	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:58:53	6c7220fa-cc97-4cce-ae89-e85ce8d21789	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	22:58:57	fafd8d45-7691-42c4-976f-dbbd4abfa43f	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:08:14	f9d38359-1da1-4251-b2c8-7598aaa6645a	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:12:02	46e9e4c1-cc99-49e0-8121-6b5857409219	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\views\pages\index.html'
+
+20260126	23:12:02	dbcffc24-f6cc-425f-a535-5c20f29798e3	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:12:31	ca147bdb-7021-4671-b4ca-410c213726bd	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:16:29	5a3239fd-eec4-42d0-aba6-27d59dda671b	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:16:31	38c381a0-2140-410c-870a-f2d40cc533cf	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:17:40	e0b43c63-7a13-426b-9e37-01735e35dfdf	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:17:41	1f452904-b7ef-499a-8db0-fe862a94df36	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:17:45	05c64a99-0de3-4a15-8ac7-d4a31d80a080	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:17:47	b7308e26-0e79-4198-826e-964d8e912dcb	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+
+20260126	23:19:08	8b537f52-4f81-4785-bb85-8a8f80bee7d1	Error	ENOENT: no such file or directory, stat 'C:\Users\abhij\Desktop\Website\src\404.html'
+

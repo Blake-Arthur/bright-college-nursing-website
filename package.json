@@ -2,15 +2,37 @@
   "name": "website",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Blake-Arthur/bright-college-nursing-website#readme",
+  "bugs": {
+    "url": "https://github.com/Blake-Arthur/bright-college-nursing-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blake-Arthur/bright-college-nursing-website.git"
+  },
   "license": "ISC",
-  "author": "",
+  "author": "Abhijit",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/server",
+    "dev": "nodemon ./src/server"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.1",
     "@tailwindcss/cli": "^4.1.17",
-    "tailwindcss": "^4.1.17"
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "express-ejs-layouts": "^2.5.1",
+    "tailwindcss": "^4.1.17",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }

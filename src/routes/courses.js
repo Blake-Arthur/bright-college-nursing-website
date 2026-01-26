@@ -1,17 +1,8 @@
 const express = require("express");
 const router = express.Router();
-const path = require("node:path");
+const pages = require("../config/coursesConfig");
+const { renderFrom } = require("../controllers/genericController");
 
-const allowedPages = ["ANM", "GNM", "B.Sc. Nursing", "PBB.Sc. Nursing", "DMLT"];
-
-router.get("/:courses", (req, res, next) => {
-  const courses = req.params.courses;
-
-  if (!allowedPages.includes(courses)) return next();
-
-  res.sendFile(`${courses}.html`, {
-    root: path.join(__dirname, "..", "public", "Courses"),
-  });
-});
+router.get("/:slug", renderFrom(pages));
 
 module.exports = router;

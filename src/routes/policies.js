@@ -1,17 +1,8 @@
 const express = require("express");
 const router = express.Router();
-const path = require("node:path");
+const pages = require("../config/policiesConfig");
+const { renderFrom } = require("../controllers/genericController");
 
-const allowedPages = [];
-
-router.get("/:policies", (req, res, next) => {
-  const policies = req.params.policies;
-
-  if (!allowedPages.includes(policies)) return next();
-
-  res.sendFile(`${policies}.html`, {
-    root: path.join(__dirname, "..", "public", "Policies"),
-  });
-});
+router.get("/:slug", renderFrom(pages));
 
 module.exports = router;

@@ -4744,3 +4744,2865 @@
 
 20260120	19:31:39	348dae49-6607-4754-820e-0b14f1171ad4	GET	http://localhost:3500	/animations/accordion-display.js
 
+20260121	08:33:24	707a05a7-5b62-4337-9237-c7d056632a10	GET	undefined	/
+
+20260121	08:33:24	57e7cfe9-3c79-43ec-8f75-c6dfad1813b3	GET	undefined	/styles/home.css
+
+20260121	08:33:24	ae0a983d-af2a-4402-9abf-3d0944b3bf7f	GET	undefined	/styles/output.css
+
+20260121	08:33:24	f848d330-c25b-4f61-b26e-b67639dc4ead	GET	http://localhost:3500	/main_anim.js
+
+20260121	08:33:24	939895e8-19dc-4ff8-93af-c30a1da0c4fd	GET	undefined	/images/college_building_1.jpg
+
+20260121	08:33:24	8d166650-1bc3-4287-bc2d-cf35d10337d6	GET	undefined	/images/logo/logo.png
+
+20260121	08:33:24	3f507f66-faa2-491e-868f-953764a3979b	GET	undefined	/images/test%20img/1961pic.webp
+
+20260121	08:33:24	f6cec794-9795-4888-a3df-372a0bddb993	GET	undefined	/images/test%20img/1963pic.webp
+
+20260121	08:33:24	4544c142-132c-4ca1-a656-67b683efbffc	GET	undefined	/images/test%20img/2000pic.webp
+
+20260121	08:33:24	9ecf9ea6-7783-4aaf-b505-fb42a3a2bc75	GET	undefined	/images/test%20img/2008pic.webp
+
+20260121	08:33:24	47fa198d-e7f5-42eb-8d9d-6fe00a0233f4	GET	undefined	/images/logo/hfw_dept.png
+
+20260121	08:33:24	41e694ef-a8ed-461a-bd07-8af6b599bce7	GET	undefined	/images/logo/onmrc.png
+
+20260121	08:33:24	5ff03a9a-623a-465f-a3e0-3a426671a261	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260121	08:33:24	a0d41d74-ac50-4725-8379-8697fc74b2ff	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	08:33:24	f6d50aae-1ae9-439f-81ef-001b9147bc2c	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	08:33:24	3545620e-60ac-4dfc-9820-c7cc20118803	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	08:33:24	436e0976-4fbf-4710-a28f-be5f73944ff3	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	08:33:24	8ad31132-6356-4c5a-a8f8-5c234cb54fb9	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	08:33:24	d69598df-88d7-48e3-8831-e9fba87874a9	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260121	08:33:24	c9f3c17e-159d-4d9f-b5b3-72f62b8ad6be	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260121	08:33:24	91806beb-e7ac-4ec3-9d7d-24e547fad866	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260121	08:33:24	c97996ad-0b1b-42fd-8ded-f145b03c20e7	GET	undefined	/images/logo/hospitals/capital.png
+
+20260121	08:33:24	ff07b663-28d8-44f9-93b1-fb8cfd0fe4e0	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260121	08:33:24	93164ddc-ad8b-409d-9206-a3170b39cc08	GET	undefined	/images/logo/hospitals/chc.png
+
+20260121	08:33:24	30e3996b-b026-4006-bf74-cba03b908cca	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260121	08:33:24	6f6d1634-cef3-4a06-aa87-f3facec00f7b	GET	undefined	/images/college_building_hor.jpg
+
+20260121	08:33:24	9499bd32-b732-47fd-8bc1-2044ba2b3e71	GET	undefined	/images/svg/circle-check.svg
+
+20260121	08:33:24	2a622281-1925-4fcc-9e3a-cbf85898119a	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260121	08:33:28	1f38ec58-cf2f-4c1d-b6a1-35e26c354bac	GET	undefined	/about/director-message
+
+20260121	08:33:28	83d2371b-ca3e-47df-86ac-01af39b2ee66	GET	undefined	/styles/home.css
+
+20260121	08:33:28	2964c146-aaa3-48bc-bc12-ce45a20d91dc	GET	undefined	/styles/output.css
+
+20260121	08:33:28	913bc679-b3b1-48d8-bc5d-9bdb1f7f1eeb	GET	http://localhost:3500	/main_anim.js
+
+20260121	08:33:28	2a748389-b965-4d53-82a7-b935e761ac3e	GET	undefined	/styles/director_msg.css
+
+20260121	08:33:28	79797736-fb93-472d-aef7-4d0cabd03c99	GET	undefined	/images/logo/logo.png
+
+20260121	08:33:29	6086cc4c-1959-43c9-88c1-4a79e18466f5	GET	undefined	/images/director%20photos.png
+
+20260121	08:33:29	d79954d7-0cf7-45b4-9381-621efd8d7091	GET	undefined	/images/director's%20msg.jpg
+
+20260121	08:33:29	a0e839f8-86a9-424f-ae1c-18c897ea4e65	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	08:33:29	75c8f22f-15b6-4173-ad08-119cf622c7d6	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	08:33:29	8dede663-a576-408c-b73e-f40fc54652f5	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	08:33:29	becc6f3a-f1c7-4d49-8eae-a3306f037c87	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	08:33:29	9af7cdea-7720-48d7-9bf7-f8e57a9544c3	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	08:33:32	f5510f45-5ea7-4e93-870a-e9d19141a5ea	GET	undefined	/admissions/scholarship
+
+20260121	08:33:32	aa8f43ce-96e0-4157-889e-5389ca65a3be	GET	undefined	/styles/home.css
+
+20260121	08:33:32	ea286257-b211-4cf1-a1d2-6b7083563159	GET	undefined	/styles/courses.css
+
+20260121	08:33:32	f89bc37f-863c-4caa-b13d-9b7265c83333	GET	undefined	/styles/output.css
+
+20260121	08:33:32	64d818e0-33c8-4fc4-90af-6f3359a205a1	GET	http://localhost:3500	/main_anim.js
+
+20260121	08:33:32	c6562604-5109-47b6-8a75-57c18a2ba5e8	GET	undefined	/images/director's%20msg.jpg
+
+20260121	08:33:32	3dc1ede3-bc00-4953-a1a0-b1e3429596ff	GET	undefined	/images/logo/logo.png
+
+20260121	08:33:32	b62a946c-8611-4596-a4d7-0a247aa0af0e	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	08:33:32	bb76d201-4d03-4fe0-87fd-19d1c7447f28	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	08:33:32	462e2bac-a45b-4f91-8391-365ac1415169	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	08:33:32	7cb72bd0-09a8-4af6-8b5b-cba12b8ade9a	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	08:33:32	d6059e92-68f8-46c6-8ba6-9b29398d3300	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	08:33:35	c998e9e6-4094-46c4-a3f2-c169c821337c	GET	undefined	/about/contacts
+
+20260121	08:33:35	e13f785d-59ef-4fb0-b771-c4bce123b1a4	GET	undefined	/styles/home.css
+
+20260121	08:33:35	bce279a5-7e8a-45b4-afba-dbb1a2c978be	GET	undefined	/styles/contacts.css
+
+20260121	08:33:35	a5a4ed27-ce83-40ba-adc7-4c78705fe9e9	GET	undefined	/styles/output.css
+
+20260121	08:33:35	52d155ad-4721-4eea-abd9-a734b84c7741	GET	http://localhost:3500	/main_anim.js
+
+20260121	08:33:35	98ed5c6d-ae97-40a9-86b4-9c430ff72bcd	GET	undefined	/images/director's%20msg.jpg
+
+20260121	08:33:35	c9598c51-a7ae-4113-bf0e-5f2cb825c937	GET	undefined	/images/logo/logo.png
+
+20260121	08:33:35	72b6675d-f714-4653-88c2-3403ca2cff8b	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	08:33:35	e8f61993-444d-4f5c-99a5-cec109340cce	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	08:33:35	a783fbd6-b4b6-40f4-ba4c-e9d951532f07	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	08:33:35	97ca865c-4ae9-4c2e-9101-2ed410b5b1ba	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	08:33:35	63fe9109-caa1-4f4e-91bf-970d67945a91	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	08:37:15	b99e8003-3ce5-40c1-bd10-80105269d9b9	GET	undefined	/about/director-message
+
+20260121	08:37:15	3efbbb62-5d9f-43ab-aced-401ee023336f	GET	undefined	/styles/home.css
+
+20260121	08:37:15	4da8905c-58d0-4c52-b0fe-af35ae4c17b7	GET	undefined	/styles/output.css
+
+20260121	08:37:15	cec531d9-3c47-458f-900d-c7b4860b541f	GET	http://localhost:3500	/main_anim.js
+
+20260121	08:37:15	becded84-0080-4751-b5a5-0c4f8a982a37	GET	undefined	/styles/director_msg.css
+
+20260121	08:37:15	93b83d42-4de6-40a0-897b-9aef21cfd707	GET	undefined	/images/director's%20msg.jpg
+
+20260121	08:37:15	36d1fbe5-f1d4-42ff-ace6-21c904998b18	GET	undefined	/images/logo/logo.png
+
+20260121	08:37:15	cbb646d6-e391-4cfd-9a0e-31f0a22c56eb	GET	undefined	/images/director%20photos.png
+
+20260121	08:37:15	5f575878-4ec6-4173-943b-636c636cd0cc	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	08:37:15	72406a76-d14e-434f-825c-d74a96b37a2a	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	08:37:15	a87542ac-8d2b-4cea-93da-0fcee498c0db	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	08:37:15	51c49840-2636-4adf-872a-57af04761e68	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	08:37:15	960662e5-a715-42f5-b3a6-5bde614bd10f	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	08:37:23	127d4f6c-de8f-4755-a730-ee53cc3ce577	GET	undefined	/styles/home.css
+
+20260121	08:37:23	330eb100-85ac-4745-b179-a56b31870dfd	GET	undefined	/styles/output.css
+
+20260121	08:37:23	c2e4246f-4bcd-437f-b178-b45013c2ae84	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260121	08:37:23	a06aaa96-e383-421d-8ffc-707c4b154d69	GET	undefined	/styles/director_msg.css
+
+20260121	08:37:26	b1ceceee-70a7-46bf-8163-32787e315aac	GET	undefined	/about/director-message
+
+20260121	08:37:26	ef69622a-6b33-4551-9a10-fb9744be8731	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260121	08:37:26	577dbbc2-7e02-4cba-a86d-c744efa53a81	GET	undefined	/styles/home.css
+
+20260121	08:37:26	554f0aeb-9420-462d-8efa-c4ab34ea41f1	GET	undefined	/styles/output.css
+
+20260121	08:37:26	a10227cd-15ef-4165-81ac-e24d251a9b72	GET	http://localhost:3500	/main_anim.js
+
+20260121	08:37:26	564c9f63-f595-4798-b021-f3df1cbb3b2f	GET	undefined	/styles/director_msg.css
+
+20260121	08:37:26	f7feb2d1-dd32-4983-8b05-3f1567e58b7a	GET	undefined	/images/director's%20msg.jpg
+
+20260121	08:37:26	005ceb9c-a995-4315-8535-c53f20765947	GET	undefined	/images/logo/logo.png
+
+20260121	08:37:26	71b86c34-98fe-44fa-96ae-1911c8e169ce	GET	undefined	/images/director%20photos.png
+
+20260121	08:37:26	529c87f2-8abd-4ee3-a377-11bfcd402d3c	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	08:37:26	b9579db2-71ec-4d5a-bcf1-aa83c30e57a7	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	08:37:26	47141351-098e-4c28-b084-0ed674ff9ea0	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	08:37:26	ebf41f85-bbd6-4340-aa67-5477c3c2da39	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	08:37:26	383d413c-dfc3-4dac-a37a-48767a849784	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	11:52:26	6f035532-7e28-4ded-9ac9-2c44a87d4298	GET	undefined	/admissions/scholarship
+
+20260121	11:52:27	a2a2a1bc-2260-425e-a6c9-d0b7f574c009	GET	undefined	/styles/courses.css
+
+20260121	11:52:27	7eaed9b9-f7ad-48fc-bb71-d76286671da6	GET	undefined	/styles/output.css
+
+20260121	11:52:27	f57ed671-1253-4486-be62-cb37fdbc05e3	GET	undefined	/styles/home.css
+
+20260121	11:52:27	b2fdab5e-40cc-454c-828c-4ae82072ca8a	GET	http://localhost:3500	/main_anim.js
+
+20260121	11:52:27	f6952ef6-59ec-4f0a-b5e7-eed1dd5cb399	GET	undefined	/images/director's%20msg.jpg
+
+20260121	11:52:27	6c454007-e44e-4a0a-b1c6-0e185e221de8	GET	undefined	/images/logo/logo.png
+
+20260121	11:52:27	246ead3b-4b79-4ea3-b82a-abf15230ae86	GET	http://localhost:3500	/animations/search-bar.js
+
+20260121	11:52:27	45a14a97-90b4-44dd-b67d-7bebfd5d9ac4	GET	http://localhost:3500	/animations/count-digit.js
+
+20260121	11:52:27	ddfb605b-bcb9-423b-8c13-a97093ef2f20	GET	http://localhost:3500	/animations/annoucements-slider.js
+
+20260121	11:52:27	4963f0ea-3536-46ca-8504-fc94666eaa84	GET	http://localhost:3500	/animations/accordion-display.js
+
+20260121	11:52:27	f40dba4e-45c2-448f-a0fd-b8239af4ba25	GET	http://localhost:3500	/animations/go-to-top.js
+
+20260121	15:21:56	9a37e3d1-8b8c-434f-8c07-f4db5bcf6ecb	GET	undefined	/about/about-us
+
+20260121	15:26:29	cc9a09a4-981d-490f-b1f9-0efbc678c0f1	GET	undefined	/about/about-us
+
+20260121	15:26:29	73a5747d-732a-450e-9b0c-b3800afc6c7e	GET	undefined	/styles/home.css
+
+20260121	15:26:29	6f33aa03-aae1-403c-9495-16da6512d8d2	GET	undefined	/styles/output.css
+
+20260121	15:26:29	60953abc-62c3-46f6-938e-eea29e52224d	GET	http://localhost:3500	/main_anim.js
+
+20260121	15:26:29	bde4ad2a-7ed7-4140-ad9c-a81ecec54b42	GET	undefined	/styles/director_msg.css
+
+20260121	15:26:29	3b495593-b469-4483-94a7-91dd0e9d0e30	GET	undefined	/images/logo/logo.png
+
+20260121	15:26:29	5d0ab8fb-3c1c-4f74-88c6-cef7a3c53ea4	GET	undefined	/images/director's%20msg.jpg
+
+20260121	15:26:29	4f5613e3-a1c7-4fc3-8e21-03cd2b7a699d	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260121	15:26:29	f743f129-2691-4cf9-96b3-6765c02be9bb	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260121	15:26:29	52e2a2f6-182f-4545-9cf3-d905273b0016	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260121	15:26:29	566a8525-dc5f-4546-ae32-6cd6828da2f0	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260121	15:26:29	4c87c41a-1b58-4548-bec2-1fe72330ec13	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260121	15:30:32	bdd90f3f-699d-4df8-b845-adf4e3eb5cab	GET	undefined	/about/director-message
+
+20260121	15:30:32	5ec7ce7a-438a-42e7-8352-397445644086	GET	undefined	/styles/home.css
+
+20260121	15:30:32	e01fb9c8-d475-474e-bda9-69aeb7f97b37	GET	undefined	/styles/output.css
+
+20260121	15:30:32	2fbfb6ba-0c0a-4a38-80eb-8270596687ac	GET	http://localhost:3500	/main_anim.js
+
+20260121	15:30:32	0f166128-a7c1-44ce-b7d6-cc4183011a1c	GET	undefined	/styles/director_msg.css
+
+20260121	15:30:32	9570cabf-1f11-4b0d-ad55-2820e20f7d6b	GET	undefined	/images/director's%20msg.jpg
+
+20260121	15:30:32	5e758e88-6121-4eb5-b559-2ae7e9cc44b3	GET	undefined	/images/logo/logo.png
+
+20260121	15:30:32	66b79cc8-fe0e-4af2-8517-622a58125c7f	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260121	15:30:32	cc6af7e7-dbe9-4faa-8e3b-575038fa6116	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260121	15:30:32	7ed8077a-7d7e-4f9f-840b-b04e0c8a6276	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260121	15:30:32	106526fe-a582-43d1-aa03-bb8b49381e0f	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260121	15:30:32	e383289e-8501-4b62-a024-e59c1c52ed5c	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260121	15:30:33	75f032c8-0555-4729-ad1a-0dccce7b7b4f	GET	undefined	/images/director%20photos.png
+
+20260121	15:30:36	67422bef-db2d-4bd9-9dfd-d32c8a01bf3a	GET	undefined	/about/director-message
+
+20260121	15:30:36	40c91af6-9c72-4cd3-8205-2bc42f7f1119	GET	undefined	/styles/home.css
+
+20260121	15:30:36	aa1204f3-e788-4be9-906c-b9b4e97b0a04	GET	undefined	/styles/output.css
+
+20260121	15:30:36	a6f5dce5-edcd-4115-8e20-3b5d123b577d	GET	http://localhost:3500	/main_anim.js
+
+20260121	15:30:36	4679fca8-e791-4f38-8400-b38e1390ec42	GET	undefined	/styles/director_msg.css
+
+20260121	15:30:36	305ef77a-e7bb-4c96-9157-1aa620b16bf2	GET	undefined	/images/director's%20msg.jpg
+
+20260121	15:30:36	7c5baf5a-6b2b-4b3e-990a-de3cdc20b2d1	GET	undefined	/images/logo/logo.png
+
+20260121	15:30:36	96b57658-5b46-41d9-bce3-c06b3c4e7772	GET	undefined	/images/director%20photos.png
+
+20260121	15:30:36	6edf5672-d76f-4c6c-a7d3-d35080aacefc	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260121	15:30:36	dd5d6d16-ab97-46f4-b8de-60b740efc87f	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260121	15:30:36	860f27f4-86f2-4096-b8c4-0c00422c3206	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260121	15:30:36	1b0054ce-be2a-4a5f-bf54-fc3e973aa70d	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260121	15:30:36	5b460c9c-da30-4767-9b3e-cc8aff8c659e	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260121	15:31:24	2409da89-e22d-44fa-8f72-41707509efa0	GET	undefined	/admissions/scholarship
+
+20260121	15:32:46	1c5c4c84-1fc8-47b9-980b-3d98a1c1341b	GET	undefined	/admissions/scholarship
+
+20260121	15:32:46	1d82a919-85d1-4336-ba0a-f40508529a97	GET	undefined	/styles/home.css
+
+20260121	15:32:46	8a07e3c6-2965-493b-b639-dcb5986a93d2	GET	undefined	/styles/courses.css
+
+20260121	15:32:46	0c18544a-f53d-4917-a1c8-51d54c0231dd	GET	undefined	/styles/output.css
+
+20260121	15:32:46	a229a965-9376-46eb-8e96-e6bc60c16167	GET	http://localhost:3500	/main_anim.js
+
+20260121	15:32:46	3cf9bfc8-22d0-4b8b-bd2a-a12b59ac8298	GET	undefined	/images/director's%20msg.jpg
+
+20260121	15:32:46	f0db0c40-04d9-4c44-b28f-e840364f6f09	GET	undefined	/images/logo/logo.png
+
+20260121	15:32:46	5a9884b0-2a6e-4924-837e-987e640bcaaf	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260121	15:32:46	4d692ddf-be01-44cc-af81-d390326703eb	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260121	15:32:46	cbf0c90f-2a34-4f95-9ed2-c956be4e845b	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260121	15:32:46	afce2c68-848f-42af-b21e-97b85984f5db	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260121	15:32:46	ffe7e8aa-fbcd-4a31-99e4-8535d91f48cc	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260121	15:32:49	86331726-4fab-42e8-9fba-486248ba28cf	GET	undefined	/
+
+20260121	15:32:49	64d616b1-ff51-44d5-80b8-62b4f8147abe	GET	undefined	/styles/home.css
+
+20260121	15:32:49	f0a7c728-38e0-4680-9e9b-be9411bd9236	GET	undefined	/styles/output.css
+
+20260121	15:32:49	a4e982a4-bdc2-4dc2-b991-2dacf889597a	GET	http://localhost:3500	/main_anim.js
+
+20260121	15:32:49	17346b8e-07b9-43cc-9bb7-410109a14be8	GET	undefined	/images/logo/logo.png
+
+20260121	15:32:49	5d649674-b47f-44e9-a68b-6bb4095e60ec	GET	undefined	/images/college_building_1.jpg
+
+20260121	15:32:49	df778846-e878-4dc1-86a3-f1e2706953e3	GET	undefined	/images/test%20img/1961pic.webp
+
+20260121	15:32:49	4d4725a7-0fa0-468a-a205-88a74565d9d3	GET	undefined	/images/test%20img/1963pic.webp
+
+20260121	15:32:49	4adac79b-955d-47a3-b94e-541a57054000	GET	undefined	/images/test%20img/2000pic.webp
+
+20260121	15:32:49	1519a5d9-d5f8-410a-9a74-f44eb6a19d38	GET	undefined	/images/test%20img/2008pic.webp
+
+20260121	15:32:49	fe75905a-f7ac-4983-82a0-c553edd13148	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260121	15:32:49	d08b748f-4ea7-4118-8661-3c3a030adba8	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260121	15:32:49	f18da4ff-4e8d-4ee8-bccd-ba67c5feaae1	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260121	15:32:49	c3143fce-0cd9-4c86-a7e1-c24b9f0a9d18	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260121	15:32:49	46689ffb-b268-4a30-b35b-d18de553eb81	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260121	15:32:49	628ac6bb-d00b-41bf-be84-46aa3c8ba784	GET	undefined	/images/logo/hfw_dept.png
+
+20260121	15:32:49	3332dc67-04bb-4531-88fb-87f3a6a8fb82	GET	undefined	/images/logo/onmrc.png
+
+20260121	15:32:49	d7daf034-1512-4375-83c5-dcb762cb9354	GET	undefined	/images/logo/hospitals/khurdha.png
+
+20260121	15:32:49	a9ac278e-8f70-487e-b633-46e939edd0ce	GET	undefined	/images/logo/hospitals/logo_igkc.png
+
+20260121	15:32:49	1187e88d-55d6-497e-a0eb-082f662d479f	GET	undefined	/images/logo/hospitals/cares-logo.webp
+
+20260121	15:32:49	de279d73-d748-4e14-84ed-812531805dd8	GET	undefined	/images/logo/hospitals/aditya_ashwini.jpg
+
+20260121	15:32:49	1a1bad37-1bc7-4f22-a951-a5c770502961	GET	undefined	/images/logo/hospitals/capital.png
+
+20260121	15:32:49	d78c0caf-999b-4294-ba4b-29b525f2516d	GET	undefined	/images/logo/hospitals/bmc.png
+
+20260121	15:32:49	1cec19c6-30fd-4921-b5a5-5c143b5e1659	GET	undefined	/images/logo/hospitals/chc.png
+
+20260121	15:32:49	2a15226e-44cc-4be8-bc9a-3a69a059919d	GET	undefined	/images/logo/hospitals/gen-x-diagnostics.jpg
+
+20260121	15:32:49	7a9374e9-24bf-4ecf-b25b-235dfc4173f9	GET	undefined	/images/college_building_hor.jpg
+
+20260121	15:32:49	de6a9aae-bca8-4bc6-8692-5f375433a05b	GET	undefined	/images/svg/hm-news-arroww.svg
+
+20260121	15:32:49	8f433c34-e96b-496b-ba5c-0cd7dbfdd289	GET	undefined	/images/svg/circle-check.svg
+
+20260126	13:26:36	94e560d9-b2af-4609-afd2-85522d9d8bc5	GET	undefined	/favicon.ico
+
+20260126	13:26:53	6cb1abf8-82a4-4cb9-857a-89722e4f7eb9	GET	undefined	/favicon.ico
+
+20260126	15:35:29	2f669747-d6f5-4580-b849-8474b85e30a0	GET	undefined	/favicon.ico
+
+20260126	18:44:58	050c41aa-b530-4129-82d7-643418342aa5	GET	undefined	/favicon.ico
+
+20260126	18:51:18	bda9ee68-6bd1-4d02-b0ac-5d0d4c9d00ca	GET	undefined	/about/about-us
+
+20260126	18:51:18	35b21c06-c9e8-448f-bedc-2ee9fdd80f09	GET	undefined	/favicon.ico
+
+20260126	18:51:53	5b3ed955-94b0-46b0-ad1b-c4d3252d4b5c	GET	undefined	/about/about-us
+
+20260126	18:51:53	2b4536a4-4231-44f5-be1d-b02509bd9b7a	GET	undefined	/about/%3c%25=%20style%20%25%253e
+
+20260126	18:51:53	3e3be159-2edd-44aa-8875-465e9c0f6867	GET	undefined	/favicon.ico
+
+20260126	18:57:14	4a63ab5f-b4bc-4b6b-bf86-24ded45edbd1	GET	undefined	/about/about-us
+
+20260126	18:57:14	639be4a6-6673-4c28-848a-d861775b5c84	GET	undefined	/about/%3c%25=%20style%20%25%253e
+
+20260126	18:57:14	722ca795-df41-43e8-bca0-955bbadcab17	GET	undefined	/favicon.ico
+
+20260126	19:03:21	14194536-a90d-49b9-8f7a-eff715d24d30	GET	undefined	/about/about-us
+
+20260126	19:03:21	ef01577d-bd8b-4c5c-9433-c4d99a9c0399	GET	undefined	/about/%3c%25=%20heroimage%20%7c%7c%20'/images/college_building_1.jpg'%20%25%253e
+
+20260126	19:03:21	e76e2f1e-fa3f-4c14-a0bd-9a5a2283fc8d	GET	undefined	/favicon.ico
+
+20260126	19:09:41	6bfbeb6d-085d-4e21-b466-f686bab523f8	GET	undefined	/about/about-us
+
+20260126	19:09:41	137678e6-a10d-4d36-9d6c-735b83404355	GET	undefined	/about/%3c%25=%20heroimage%20%7c%7c%20'/images/college_building_1.jpg'%20%25%253e
+
+20260126	19:09:41	64c89c12-5872-4272-a177-769d735c7d6b	GET	undefined	/favicon.ico
+
+20260126	19:50:17	8ed0f3f0-16b0-4028-b3d3-6388792a64e3	GET	undefined	/about/about-us
+
+20260126	19:50:17	d33e8663-31a2-4387-9ac0-5ac7911a6eb0	GET	undefined	/about/%3c%25=%20script%20%25%253e
+
+20260126	19:50:17	3a6c619f-cac8-4f30-80d6-8fe0d80eeccc	GET	undefined	/favicon.ico
+
+20260126	19:57:04	5e8f9e0c-00e1-435d-bae0-a27639e448d1	GET	undefined	/about/about-us
+
+20260126	19:57:04	eeba6e99-30cf-424a-96dc-a2d95c303764	GET	undefined	/styles/output.css
+
+20260126	19:57:04	99bd20f1-0c6f-4cfb-8cd7-02b13f209386	GET	undefined	/styles/home.css
+
+20260126	19:57:04	24f8760f-16b5-449a-9b80-11cacdf7ce3b	GET	http://localhost:3500	/main_anim.js
+
+20260126	19:57:04	922347de-29e1-43b6-9218-47511a0bea0a	GET	undefined	/Images/About/about-hero.jpg
+
+20260126	19:57:04	0e1e0599-783a-4ccf-aa85-e6b28ec42db7	GET	undefined	/Images/logo/logo.png
+
+20260126	19:57:04	29cd87e1-4b58-4d2b-b6c0-2989e343b02c	GET	undefined	/about/Images/logo/logo.png
+
+20260126	19:57:04	3e671eb3-cd03-4a96-9b1a-72075c55578c	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	19:57:04	136736b5-c8ab-4139-9696-2e089bdd333e	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	19:57:04	1cd6f46e-654e-48f9-9f47-5fc70ea1a6e3	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	19:57:04	52c58269-a7ca-4107-92d3-d171ac137f88	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	19:57:04	27e5cf37-f949-448d-bf01-0d71a5566673	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	19:57:05	45a3b3d1-39ef-4926-b38c-a2efb91ccb13	GET	undefined	/favicon.ico
+
+20260126	19:58:04	03c37856-ea63-4d89-81c8-987f6f66d48c	GET	undefined	/about/Director's%20Message.html
+
+20260126	19:58:05	db855c07-7040-4837-8da3-c32360657df9	GET	undefined	/favicon.ico
+
+20260126	19:58:06	22c48fe9-542a-496f-8b72-5a764d6fdfbe	GET	undefined	/favicon.ico
+
+20260126	20:36:21	3d6c60b8-27c4-402b-ba8b-b7c544e2109a	GET	undefined	/about/about-us
+
+20260126	20:36:21	5ba97c3c-0b6a-4d09-abfc-49afaa8ef66a	GET	undefined	/styles/output.css
+
+20260126	20:36:21	e66c74bd-2d82-46d2-ada7-91e18af0b906	GET	undefined	/Images/About/about-hero.jpg
+
+20260126	20:36:21	c6fe025a-41f8-483a-b13b-27147beb5020	GET	undefined	/styles/home.css
+
+20260126	20:36:21	f054027e-e145-4e0f-ad4c-277ca75ea8c1	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:36:21	12628f42-813f-4edd-9e9b-5da92d6b12b5	GET	undefined	/Images/logo/logo.png
+
+20260126	20:36:21	f30ea7e4-bdee-4a94-bc22-ac88f781a1d9	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:36:21	03cebf48-3a38-440d-82b9-fa924dd9d763	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:36:21	e16cf123-5155-4bd0-89c9-de140b8f110d	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:36:21	ee068a4c-e879-415e-9553-92be9af17916	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:36:21	7a77aba7-5cdd-454f-950d-4c263cfaba54	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:36:21	cd905c9f-9c10-4ecc-a0ab-fa46d0ce43a7	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:36:21	d7952859-8ee3-4d98-a4e8-abddd23b866e	GET	undefined	/favicon.ico
+
+20260126	20:38:59	267d8408-4c50-4103-9ac9-2248b3d43851	GET	undefined	/styles/output.css
+
+20260126	20:38:59	c3a56301-a4c0-4b65-a831-4c0b3b201665	GET	undefined	/styles/home.css
+
+20260126	20:38:59	67cbe6ca-4bc1-441a-8d09-73f08367889a	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:39:08	7947d309-72a4-40a6-be6d-6eec09d45284	GET	undefined	/about/about-us
+
+20260126	20:39:08	577a863c-207d-45ca-8418-df8c59bbefc9	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:39:08	5697dabf-9c82-4495-a0de-8a93ea2dc0c9	GET	undefined	/styles/output.css
+
+20260126	20:39:08	cbddda42-7059-433c-84ff-6e5c36d4be50	GET	undefined	/styles/home.css
+
+20260126	20:39:08	1c5075d4-1ff3-4ba9-8da3-f0b5ed87de73	GET	undefined	/Images/About/about-hero.jpg
+
+20260126	20:39:08	426367f2-fa32-4375-9365-6a7d5cd51065	GET	undefined	/Images/logo/logo.png
+
+20260126	20:39:08	a674f971-d557-43e4-b21a-f8fc713d8998	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:39:08	9a321b88-8f71-49b6-b040-4f62f3d5305b	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:39:08	bf022666-70ae-4ac7-a05b-5e75980c16ad	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:39:08	72860487-d2fd-4857-88ce-c5b2e07d929d	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:39:08	60f6d15f-0fa1-4972-aa4b-ebb1d2829a4f	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:39:08	6a1b3b45-ae3d-47da-b8a5-76ee59f99348	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:39:08	fd7bfb91-da5a-464c-b895-6c237771c155	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:39:08	42549d58-a704-4657-953e-22be5517746f	GET	undefined	/favicon.ico
+
+20260126	20:40:58	7a0dd5d9-b256-4abc-ab54-dc9edd90def7	GET	undefined	/about/about-us
+
+20260126	20:40:58	ac61328c-4dcd-42f3-b70f-186793b7743c	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:40:58	af889b5f-f0ce-4552-96a4-362a4beca1d9	GET	undefined	/styles/output.css
+
+20260126	20:40:58	7ad8d17a-a7a7-4dd8-ad45-60c0d3afea08	GET	undefined	/styles/home.css
+
+20260126	20:40:58	170876d6-dd70-41da-94f6-fd7757ef2f83	GET	undefined	/Images/About/about-hero.jpg
+
+20260126	20:40:58	4e6a958a-9d82-4e4c-ae0e-f1c630d606a2	GET	undefined	/Images/logo/logo.png
+
+20260126	20:40:58	b95f3b8a-d07c-4498-9184-1c21d988981b	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:40:58	2514f6ac-c7f1-45a3-8647-d1f6251baca0	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:40:58	00537283-adf9-4b95-b74d-555abf983692	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:40:58	6a150177-43a9-4b22-b359-fab502a7ab5c	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:40:58	330a6c2e-8f2e-4045-bece-676c419981f0	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:40:58	4ca85801-3e36-466f-9614-2da9908f446e	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:40:58	b0fdc393-7dba-4e53-9743-98cea89140bb	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:40:58	3a3d467c-7e64-46db-812a-1c51b325cb55	GET	undefined	/favicon.ico
+
+20260126	20:41:48	102af784-4580-4f85-abe0-9d9c9004372c	GET	undefined	/about/about-us
+
+20260126	20:41:48	112d2e8c-bd22-4f04-abdd-18039c3cc1c8	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:41:48	25a2ce91-ba9a-476c-9a45-458eae28b49e	GET	undefined	/styles/output.css
+
+20260126	20:41:48	5db947a3-7bed-43e6-9302-08522b788115	GET	undefined	/styles/home.css
+
+20260126	20:41:48	e672a595-c36f-4ee6-a6ac-d5e77eae4b3c	GET	undefined	/Images/About/director-message.jpg
+
+20260126	20:41:48	92eb71ca-4ef0-4abd-ab6c-d9107cd11eeb	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:41:48	7aaf7285-0aae-4f06-aea9-fd50ca2b3426	GET	undefined	/Images/logo/logo.png
+
+20260126	20:41:48	c23c3ee2-d6b3-403c-91c9-6f868811bc6c	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:41:48	2c7af995-8615-4616-8bb2-0a0ad3372e70	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:41:48	47529691-d13b-40ca-9cf9-fb56927db147	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:41:48	a9873730-cccd-46eb-bef6-8462fd5c7d1c	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:41:48	33e73876-ba0d-4b55-a76c-8edb9e177465	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:41:48	b5b36493-631b-4f0b-a3b7-ee95cd30a499	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:41:48	d37f68d6-e61b-41c1-926d-35a40b2e7ed2	GET	undefined	/favicon.ico
+
+20260126	20:41:50	33130a55-05cc-4be0-a162-8227cf350582	GET	undefined	/about/about-us
+
+20260126	20:41:50	dfb6368d-ebb1-4297-9867-9f7dc9584be0	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:41:50	dfc98636-27d3-4e7e-afe0-04254692978d	GET	undefined	/styles/output.css
+
+20260126	20:41:50	83bae65a-b3eb-4179-bf52-48673744c584	GET	undefined	/styles/home.css
+
+20260126	20:41:50	4f24d077-cc07-4bc8-b20e-90f36cc03627	GET	undefined	/Images/About/director-message.jpg
+
+20260126	20:41:50	3e1384be-9336-4e42-a082-bc4c49eedfb7	GET	undefined	/Images/logo/logo.png
+
+20260126	20:41:50	712b4539-d0ed-4f50-82f5-e72a3975fbc1	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:41:50	8580ed23-3a32-47c0-b722-f6a22bd4f54a	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:41:50	8f9c192f-fe8a-422a-8f5b-9ca715325e5b	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:41:50	52521b99-0726-43cc-b5da-398e7e3d7342	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:41:50	711d0fe2-b177-45fa-a2b1-8d4802667fb3	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:41:50	4408f8a3-fdac-4e3d-8670-4e04f58241f9	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:41:50	3d08ab19-eca4-4fcd-a489-4532668b9a75	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:41:50	7a4f52e0-a8f2-4b72-b790-4d97a86b33e7	GET	undefined	/favicon.ico
+
+20260126	20:42:24	808b3aff-97c5-4bb5-bd02-259625868e35	GET	undefined	/about/about-us
+
+20260126	20:42:24	b61a6a02-2267-41ef-ad07-dcdd148b79ef	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:42:24	aea029a7-b6dc-4ce8-b762-8291ce5444bc	GET	undefined	/styles/output.css
+
+20260126	20:42:24	e89fff13-e2da-48ce-a8b0-83aa42ae6ba7	GET	undefined	/styles/home.css
+
+20260126	20:42:24	8ccfa662-4db5-4a3f-b2b8-39a33a67a3bd	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:42:24	99a59847-d0e3-47a4-bc43-c2528356c72b	GET	undefined	/Images/logo/logo.png
+
+20260126	20:42:24	7d4408c0-48dc-4a37-acc7-23ee3dc95a6d	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:42:24	9e87b5f1-7bbc-4131-a0ec-83085455fe73	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:42:25	f85abf5c-2477-4783-8659-1ce5976b0b9b	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:42:25	2684558b-d24b-455b-87d8-65792c2272d9	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:42:25	1fd80a19-c88b-41eb-8a0c-e7330425384c	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:42:25	5ec35ff1-64b5-45c5-92b6-f345778e5834	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:42:25	8988395d-692f-485f-b334-c2c2745d462f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:42:25	8718618f-24d2-4fa4-81af-c63c24b5cbaa	GET	undefined	/favicon.ico
+
+20260126	20:42:26	9e2f2b13-1010-4915-87bf-444728b21e97	GET	undefined	/about/about-us
+
+20260126	20:42:26	88ca8e36-7dd6-42b0-84a1-fef41d19f10d	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:42:26	9bbcc831-0095-4466-a72b-91abd7d87f83	GET	undefined	/styles/output.css
+
+20260126	20:42:26	b8542186-7a15-4a7d-b59c-244b5d242803	GET	undefined	/styles/home.css
+
+20260126	20:42:26	09d5cf92-9f79-42f2-8cc8-ac45e826553a	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:42:26	0dc6f3e5-7034-4910-9f91-89f937ca9363	GET	undefined	/Images/logo/logo.png
+
+20260126	20:42:26	044bcab2-8451-4561-b25e-6aabaac1568e	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:42:26	50c635ed-23ea-45f3-81ee-bbfa8bdbe9f6	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:42:26	57d337c8-b340-498e-be8e-026a627d1795	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:42:26	6911fe2c-7c01-43fe-adc7-ad9c33d339c5	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:42:26	f4d575bc-1c37-42a3-a542-ca9e594c1773	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:42:26	0c0d40b9-26fc-494d-8d0a-89af9b516985	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:42:26	a1f4d102-3c59-4476-a28f-117e0592ca7e	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:42:26	87bcb5d6-5c47-41e2-a085-435301471caa	GET	undefined	/favicon.ico
+
+20260126	20:42:47	d0a5f7b5-d06d-4586-96b4-dfbf71f07339	GET	undefined	/about/about-us
+
+20260126	20:42:47	be472958-06bc-47da-8c99-e9b7ff72cf36	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:42:47	481dc2c3-24ba-4481-b664-78b739124abf	GET	undefined	/styles/output.css
+
+20260126	20:42:47	c670ba58-8b81-45b0-9ff7-98d5a039cc0e	GET	undefined	/styles/home.css
+
+20260126	20:42:47	bf06a17d-80ea-479d-80df-f1b9cb1ec9e7	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:42:47	d939f885-6778-4742-8159-3ca1d9e1a94b	GET	undefined	/Images/logo/logo.png
+
+20260126	20:42:47	5d208fe9-b66f-4318-bb15-1718a5885a6d	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:42:47	14f814ea-4700-4e04-a53b-7b46e5071cc1	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:42:47	ff84a12b-6ea6-4b43-aecc-6632784140a9	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:42:47	05c43edb-cd93-4243-a38e-f8cd6142e4c6	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:42:47	14fd6f57-7047-4bed-807e-2d528482b494	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:42:47	54f92fb6-91f2-4243-8134-6d5841c6f71c	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:42:47	b6234c43-dbc2-4b40-b32d-b84ae8e3d05f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:42:47	f377320d-c8da-4f15-b735-4974aed88a66	GET	undefined	/favicon.ico
+
+20260126	20:42:48	5c893a41-8b35-4e5f-a96c-078426a516d3	GET	undefined	/about/about-us
+
+20260126	20:42:48	d06fad50-86cb-4c14-9091-170d66589886	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:42:48	1e39bfae-1d79-4510-bb2b-54e1ea662ab7	GET	undefined	/styles/output.css
+
+20260126	20:42:48	17944c0f-836c-4bb5-ad9b-08fbfab05ed3	GET	undefined	/styles/home.css
+
+20260126	20:42:48	ae6ddced-3d84-4ed7-b059-73361bd75f8a	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:42:48	a59403ba-7f71-4c78-a423-d4feb334cd25	GET	undefined	/Images/logo/logo.png
+
+20260126	20:42:48	20d760ff-e694-4e0a-89a5-aaf20ed45e92	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:42:48	7aa17851-f87e-422d-8be0-8d9e598fffc0	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:42:48	672adfe8-9dd6-4b03-ade1-d21ecf1271bc	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:42:48	2f3a6711-2a32-4537-92f5-0c90ada8973a	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:42:48	67612009-8f90-48b4-a607-30977384fbb9	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:42:48	39b1a0d5-6fb3-4371-b0f7-0349d1fd9096	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:42:48	adff1a6e-98f9-41e3-93fe-b785ea2a3369	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:42:48	5ab07260-bed2-46cb-8d32-57d83ec9a814	GET	undefined	/favicon.ico
+
+20260126	20:43:39	bef2a4e4-b92c-46c4-8629-fcefb3de9fe8	GET	undefined	/about/about-us
+
+20260126	20:43:39	b6e35166-0de4-4d70-872f-21a7c2129568	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:43:39	dcfa09ab-85cd-4536-859a-77b1663a3d73	GET	undefined	/styles/output.css
+
+20260126	20:43:39	6b72e82f-bc6d-4b1a-87f0-f4d9ef87f925	GET	undefined	/styles/home.css
+
+20260126	20:43:39	16498f2b-4770-482c-91ec-45f6b6b27563	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:43:39	ef718d11-b8f2-4512-aa6d-24fd7b777cfe	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:43:39	a3cc816d-5bf9-411d-b3f7-4fe67a999c9c	GET	undefined	/Images/logo/logo.png
+
+20260126	20:43:39	dbce6b82-6d57-4ecf-92cd-dd0aba02a5ab	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:43:40	e1a3811b-64fe-4d79-9cac-8d80ead7eb93	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:43:40	978d38da-3e33-42cb-aef3-fee2739b3b41	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:43:40	2a3381e7-c730-476b-aa7c-12e867251f2c	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:43:40	94b95e27-da55-473e-aa1d-36c0559faf04	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:43:40	923b2ef1-f288-412e-8403-949bbc4c7166	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:43:40	3bf79156-f705-4b39-9ae3-fb2c876fb52e	GET	undefined	/favicon.ico
+
+20260126	20:43:40	c65f838c-284b-4b7e-a435-7d26647a4916	GET	undefined	/about/about-us
+
+20260126	20:43:40	80dd4e22-4fed-4a31-8518-2361d4775d51	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:43:40	fe479255-9567-4a9f-b7ce-76fc2a5fd2b6	GET	undefined	/styles/output.css
+
+20260126	20:43:40	8fb797c8-9fcc-4c39-a168-d828ddbbdba5	GET	undefined	/styles/home.css
+
+20260126	20:43:40	5dae87b2-50b4-458c-b252-2fb1925c19b9	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:43:40	5179d8bd-a9b7-4a99-aeec-0f0afa09c907	GET	undefined	/Images/logo/logo.png
+
+20260126	20:43:40	26be3238-cc50-4d7c-a21f-26b68d99b001	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:43:40	8866116d-a750-47cb-91b6-8c2506d1f706	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:43:40	4cec6941-9b16-4ab7-9de4-0738bf25931d	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:43:40	9cfe62db-210d-4a70-85eb-796d78849627	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:43:40	1acaae49-e50a-4c14-953d-cda932277ea3	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:43:40	c1aef82e-b6f5-41fe-ba1c-165e57bf74e5	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:43:40	091111c2-5a2f-4ee5-b3e3-0d708c1a23d2	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:43:40	a61362ca-60cf-4ad2-8cce-18e6e31d5103	GET	undefined	/favicon.ico
+
+20260126	20:44:09	5e85fe7f-ebf1-4ada-8799-1967b8ab5106	GET	undefined	/about/about-us
+
+20260126	20:44:09	d3857638-20a8-4c15-b64d-52c21daa693c	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	20:44:09	60dcc4f4-4b54-453c-be79-6c7f32d9ff56	GET	undefined	/styles/output.css
+
+20260126	20:44:09	8fc989a1-3bd6-4350-8d64-a35d208ee6ab	GET	undefined	/styles/home.css
+
+20260126	20:44:09	7ea0834b-1e84-470b-8ec7-d588dd35d0f0	GET	undefined	/Images/About/director-msg.jpg
+
+20260126	20:44:09	c53c3e2b-41d6-4096-8391-5925a1104b23	GET	undefined	/images/logo/logo.png
+
+20260126	20:44:09	9316171f-d091-429f-a64c-d198636a7b0f	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:44:09	607590af-3360-4057-954b-f88d5a127068	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:44:10	45ea0881-6aa8-4199-887e-c53e02510652	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:44:10	8cd190cc-5e49-456d-afdc-b5ead9630971	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:44:10	1bfb66d0-2c3b-4438-94b1-fefe5ccd57b1	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:44:10	0b49a540-ed07-46b0-9086-102a9b331aa5	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:44:10	07197e71-a710-43e1-8d03-47bf8ab27898	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:44:10	f630bedb-3a58-40ff-a6d4-1071582dfecf	GET	undefined	/favicon.ico
+
+20260126	20:44:23	1a894a6e-bada-47bd-8e90-1194c0183b48	GET	undefined	/about/director-message
+
+20260126	20:44:23	e722e2a3-3c15-4dbe-b2b7-8ebcbcfb9605	GET	undefined	/favicon.ico
+
+20260126	20:44:23	1f377de1-6435-4ca6-a0fe-ffe4e53fafd7	GET	undefined	/favicon.ico
+
+20260126	20:45:40	467af980-9081-4f59-bbbd-f47622536ac2	GET	undefined	/about/about-us
+
+20260126	20:45:40	665c830c-18f3-4b1d-aa2b-f2d9eb558e83	GET	undefined	/styles/output.css
+
+20260126	20:45:40	a49061fc-e38e-4344-90a4-625d48fd33c4	GET	undefined	/Images/director-msg.jpg
+
+20260126	20:45:40	2aa8f75c-61b4-4b4b-8626-aa204ae5f88f	GET	undefined	/styles/home.css
+
+20260126	20:45:40	c1038168-d198-4276-b17f-f6f94f6766cd	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:45:40	b921b09f-fd15-46a5-8b87-101f299adfae	GET	undefined	/images/logo/logo.png
+
+20260126	20:45:40	9c080e41-f38c-4256-9cbf-693c473ed625	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:45:40	39a95fb2-8e8d-4859-b2bd-c8f67dd9f0c0	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:45:40	3356051a-f6cd-4a92-aa25-c34693889ca8	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:45:40	f0537d01-e1bc-44bc-b7ff-5107eadc1f38	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:45:40	6023af3b-dee9-42af-b9ca-c33f1b17ed4e	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:45:40	0feac39b-c3f3-47d8-bb40-ac54c2d93573	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:45:40	f4258084-e146-455c-873c-00cc4a631d43	GET	undefined	/favicon.ico
+
+20260126	20:45:44	3755d905-5ed6-4fee-a47c-87056506f621	GET	undefined	/about/about-us
+
+20260126	20:45:44	4fb592dd-7b4b-498c-b682-57ba7c38c5c8	GET	undefined	/styles/output.css
+
+20260126	20:45:44	92008731-4f04-476c-9b84-4fb69de450de	GET	undefined	/styles/home.css
+
+20260126	20:45:44	82a1f0ab-fc4d-4863-baaa-7a7e5491560c	GET	undefined	/Images/director-msg.jpg
+
+20260126	20:45:44	5cd63ac2-2826-416d-a90f-966918f8cded	GET	undefined	/images/logo/logo.png
+
+20260126	20:45:44	8593dde2-0638-4dc5-931d-682966bb8f3c	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:45:44	ab68ab87-1a81-47a1-89ac-1556e8c234cd	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:45:44	55273735-7116-4701-acd7-715d39d82414	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:45:44	071f313b-3d67-479a-ae88-af8fbc605111	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:45:44	84c533e8-1f56-4294-abe4-17a3de196a27	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:45:44	0aabc1a0-7a0c-490e-bab7-22d1dc95223e	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:45:44	37fa1af3-e6d6-4c9a-9adb-af49ce6ede6a	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:45:44	73a3da2f-62b9-467f-93c2-fdd611e57ff6	GET	undefined	/favicon.ico
+
+20260126	20:56:05	a07b5dfb-277b-4b19-8938-4302526e9c05	GET	undefined	/about/about-us
+
+20260126	20:56:05	9fdc754f-883b-4817-88f8-3a95614c21db	GET	undefined	/styles/output.css
+
+20260126	20:56:05	7acf9156-59e0-4d59-ada7-55c890942b67	GET	undefined	/styles/home.css
+
+20260126	20:56:05	c9dbfdc5-7242-426e-af4f-9561da02c55b	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:56:05	c0218544-e9a6-4ed9-9e92-5274342d3f3e	GET	undefined	/Images/director-msg.jpg
+
+20260126	20:56:05	f8423085-4dbc-43a8-855a-7db07cc67081	GET	undefined	/images/logo/logo.png
+
+20260126	20:56:05	d65fb73b-8ffc-4448-bbaf-53bd0e764802	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:56:05	31e15a95-baa2-4a85-84a4-d6cef5d01a8a	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:56:05	fee20644-f062-447e-94da-aab8fb8729ac	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:56:05	45dd61fb-313c-4965-8231-c20282391417	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:56:05	84cedb30-8029-4553-bd55-405a87b9f95b	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:56:05	6c908894-330e-4e7e-a498-1bf81b4f4eae	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:56:06	c666d867-acca-4bc4-8065-14fbf32ce669	GET	undefined	/favicon.ico
+
+20260126	20:56:10	8afa0b72-69d2-4852-a283-bf0be13f6045	GET	undefined	/about/about-us
+
+20260126	20:56:10	f90f6865-21eb-4b34-9c26-8db22804370b	GET	undefined	/styles/output.css
+
+20260126	20:56:10	f91d4339-34f1-4d0c-8ed4-c834552e464e	GET	undefined	/styles/home.css
+
+20260126	20:56:10	212a564c-3315-4ac1-9b6c-bb08cb10e034	GET	undefined	/Images/director-msg.jpg
+
+20260126	20:56:10	e38b747a-603e-4f05-a0e3-159fc092f7f1	GET	undefined	/images/logo/logo.png
+
+20260126	20:56:10	a59f5cad-3ced-422f-b391-c3aa41397dc6	GET	http://localhost:3500	/main_anim.js
+
+20260126	20:56:10	17a2c7ff-1571-4d9f-9702-978c13d3674a	GET	undefined	/about/Images/logo/logo.png
+
+20260126	20:56:10	fc3efbe4-07ee-4f37-b8e4-1db8d2c1ad64	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	20:56:10	67b23b0b-ecf1-4ace-a292-85be6393886c	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	20:56:10	0f9a6764-031d-4bac-9f4e-d6f2248fb5d9	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	20:56:10	59d78c50-b6c1-4a6e-97f4-de33160d69b6	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	20:56:10	d2493095-3d63-4086-b5cf-16421e71b401	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	20:56:10	387cfa6a-1df5-49dc-bfe8-c7d2bf7b6e36	GET	undefined	/favicon.ico
+
+20260126	21:17:35	ff381dc2-c4d7-4d93-be30-8d270ea04a63	GET	undefined	/about/about-us
+
+20260126	21:17:35	167c53df-45cf-4185-903a-bedb57582274	GET	undefined	/styles/output.css
+
+20260126	21:17:35	156f934d-98e4-4b41-88e5-2c8a419265d6	GET	undefined	/styles/home.css
+
+20260126	21:17:35	151e3ad1-b196-4cc9-a6b6-8374f884fa24	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:17:35	0fa6c8f1-ac08-460b-900e-ba82eb9f03ff	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:17:35	dc2e90aa-0bd0-411c-91f5-2c3bce2c39a1	GET	undefined	/images/logo/logo.png
+
+20260126	21:17:35	20703b79-80d6-4481-92e6-35434763be0d	GET	undefined	/about/Images/logo/logo.png
+
+20260126	21:17:35	2f15b81c-25a2-405e-ac62-65397993284e	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:17:35	c24a8394-a5d4-4613-bb74-5dd37449a104	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:17:35	ad9758c2-a5d5-46e4-888a-d574d9c363f4	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:17:35	cff8ed9a-b00e-4102-b68c-a8d7ac00436f	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:17:35	437e2de7-3363-44a1-a4ee-e7a721acc9d8	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:17:35	c1bc205b-d579-478a-ab59-0eaf6086d6c6	GET	undefined	/favicon.ico
+
+20260126	21:19:06	8d3db05b-60af-4756-805a-24124b20c5bc	GET	undefined	/about/about-us
+
+20260126	21:19:06	d11218b9-c7af-4353-8059-e292f43f3a50	GET	undefined	/favicon.ico
+
+20260126	21:19:08	cc170ec8-fec1-410e-85ad-a759423b9e54	GET	undefined	/about/about-us
+
+20260126	21:19:08	ef69c4ac-91f5-4587-967a-85135e6a4287	GET	undefined	/favicon.ico
+
+20260126	21:19:15	9f2668ed-9ad8-408a-8f27-473f440cc5ea	GET	undefined	/about/about-us
+
+20260126	21:19:15	97c45e4b-7ed1-4ffe-a0f7-592ed1edd29e	GET	undefined	/styles/output.css
+
+20260126	21:19:15	c9edfbd5-46c6-4672-aa36-9b3f4688a726	GET	undefined	/styles/home.css
+
+20260126	21:19:15	7525a18e-8f6f-4fca-908b-4b8c5e06d152	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:19:15	b577d502-f89c-4622-baa3-23f0eb6baf85	GET	undefined	/images/logo/logo.png
+
+20260126	21:19:15	1a703460-e768-4fd2-8d52-e36020f0d1f7	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:19:15	c7f49279-58ac-468f-af40-aa1f6f842f9e	GET	undefined	/about/Images/logo/logo.png
+
+20260126	21:19:15	276396a7-fc3b-4217-9cf1-833594fbda23	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:19:15	95fbc28f-5474-46e4-aa3a-848439e26b63	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:19:15	d976ce48-799c-4e52-86bb-885cb8414f39	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:19:15	51961055-cf6e-4c67-b9e2-06f3f3bb4717	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:19:15	d2a401ed-b4e8-4a39-ba5c-417c366ef792	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:19:15	c745e7c6-ee1b-4a1a-96eb-252ed20438c0	GET	undefined	/favicon.ico
+
+20260126	21:23:16	753a358c-06be-4bec-9f07-41cfca89cd66	GET	undefined	/about/about-us
+
+20260126	21:23:16	15d646d7-ca39-4a4d-86e0-e5e7eb807e8a	GET	undefined	/styles/output.css
+
+20260126	21:23:16	9ac9f091-5916-4ed6-aa65-3dac86170644	GET	undefined	/styles/home.css
+
+20260126	21:23:16	094a28cb-6a53-46d5-8bd3-c6273d62875b	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:23:16	d9688828-8f2f-4cb0-a07f-db46b23de98c	GET	undefined	/images/logo/logo.png
+
+20260126	21:23:16	2c2b28b2-cc3d-4d6d-99a8-cafd623d2fef	GET	undefined	/about/Images/logo/logo.png
+
+20260126	21:23:16	27fd6a1e-3e10-47ef-b2c3-b9d8030ce59f	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:23:17	fc9cba1c-d2ed-4bfa-b30f-13a61c69b8d8	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:23:17	784f2d95-16aa-48cb-8d9c-e96158f45747	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:23:17	9bcd7377-ac4e-4006-b002-53de95a434ab	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:23:17	c78d2c59-6b7a-4f3e-8cf6-af3bc21175e6	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:23:17	eac9ae08-5031-433d-8a94-e06f9ace9a13	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:23:17	dcad7035-b66d-48e8-95b8-b4948b170337	GET	undefined	/favicon.ico
+
+20260126	21:23:19	ff0ebde7-3c82-4077-b2b0-c54f69f0c8ad	GET	undefined	/about/about-us
+
+20260126	21:23:19	571ba499-6037-47a7-9ac4-c8adb4477415	GET	undefined	/styles/output.css
+
+20260126	21:23:19	2dabc9b7-96d1-48e0-a011-a7752e1e232a	GET	undefined	/styles/home.css
+
+20260126	21:23:19	b69bd879-48ff-4eb9-a32a-14bee837f632	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:23:19	34b7522a-9cc4-4554-ae21-87d37e904b93	GET	undefined	/images/logo/logo.png
+
+20260126	21:23:19	47aeedec-d6c9-4539-83f8-e25f232bae41	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:23:19	0e00e1a0-ce57-4b4d-9d32-a218dd5da0d7	GET	undefined	/about/Images/logo/logo.png
+
+20260126	21:23:19	bdabf93d-8ca2-46fb-a713-3d91c3946125	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:23:19	5d05735e-ed4d-4af2-8fb9-502702afd0ac	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:23:19	d133c041-354e-4852-93fb-107883e43205	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:23:19	17fe70fb-6402-4671-bd06-e041cbc74f25	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:23:19	507e6833-b931-4b55-8de9-919c63cb3c87	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:23:19	f2923242-6ea8-4f57-9623-71e746f75170	GET	undefined	/favicon.ico
+
+20260126	21:23:21	75b3a221-0737-4e15-a9d4-1d1353cc0934	GET	undefined	/about/about-us
+
+20260126	21:23:21	98988088-e97b-42e0-a915-aa4b7de453fe	GET	undefined	/styles/output.css
+
+20260126	21:23:21	6eb87f99-a34a-4004-b31e-4fe7b280208f	GET	undefined	/styles/home.css
+
+20260126	21:23:21	1e93164d-695d-4c22-9b84-7d6731a7dc15	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:23:21	33f4760b-d2f4-4831-a7da-b25e361a08f7	GET	undefined	/images/logo/logo.png
+
+20260126	21:23:21	cd1fe76b-0c90-4b76-bd86-ce9e6209f04b	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:23:21	2c7708a4-5a89-4650-aac6-2d391416ac4d	GET	undefined	/about/Images/logo/logo.png
+
+20260126	21:23:21	6cc9919a-4816-4d08-8703-df168bbb087e	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:23:21	4f4bb3f3-445f-4415-ac28-6f31168d482e	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:23:21	ee6ca308-1d36-4458-9a1e-b36e9f3cf5e9	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:23:21	fc732fd7-340a-4521-95b5-69cbf02fc1a5	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:23:21	ec7c5c9a-e531-4404-88ef-d0b88c2e495a	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:23:21	c32ab03d-f6f0-4d38-8413-7784c603a94c	GET	undefined	/favicon.ico
+
+20260126	21:23:37	a5fd9c80-c0d4-429d-8855-49ba9e907a96	GET	undefined	/about/about-us
+
+20260126	21:23:37	b02c4324-f16f-49fc-a26a-af9219ba0d4e	GET	undefined	/styles/output.css
+
+20260126	21:23:37	53011f0e-205c-48fc-b18e-d15983cb0cb0	GET	undefined	/styles/home.css
+
+20260126	21:23:37	66e20950-c135-4f4c-87c8-003067c8d489	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:23:37	6b5bb378-a069-4990-9d07-896c1ded2e06	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:23:37	f878a2e9-a04a-49d5-be60-73fda4994ae1	GET	undefined	/images/logo/logo.png
+
+20260126	21:23:37	c2cab1f4-bc65-4ffc-a1b6-e23bdf5d60cb	GET	undefined	/about/Images/logo/logo.png
+
+20260126	21:23:37	3683b4ad-3a5a-46f1-8831-89e5adcf0db0	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:23:37	c381b0e4-f698-49e4-bcd4-f7488c6f3b79	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:23:37	2eae0b1e-99c7-40cc-810a-0f21a9bc5763	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:23:37	d693c071-fbb2-47f2-b091-631f77348fee	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:23:37	0e7108ca-2fb1-4a69-907b-21b8ea544620	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:23:37	8cc8977e-9a84-4688-95ee-27394853ae14	GET	undefined	/favicon.ico
+
+20260126	21:24:16	ddea3d77-34a3-44e9-9559-e8453409f8f3	GET	undefined	/about/about-us
+
+20260126	21:24:16	ae18b85f-8915-4b91-bec3-4062225b634e	GET	undefined	/styles/output.css
+
+20260126	21:24:16	44e56807-3d0c-4477-80a8-1c15d8e5306f	GET	undefined	/styles/home.css
+
+20260126	21:24:16	b184cd0b-213d-4870-86a0-1e1cd269c305	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:24:16	fe4209e8-2b2b-4c09-911e-beb8a588674c	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:24:16	0ce287b4-9348-435f-8264-4e5818008788	GET	undefined	/images/logo/logo.png
+
+20260126	21:24:16	82d9caab-eb20-46c5-9d9d-c2859efeee64	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:24:16	cad7357e-cad9-4124-8ba4-b81b8447be8c	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:24:16	1db33f5f-250b-448f-81fe-38d07523e541	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:24:16	de05e320-0e34-414b-80ff-5ca019b8f85a	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:24:16	6b07236e-adcb-4c36-82be-bb0944ae5390	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:24:16	a7c8382d-db60-4007-8172-618fbc64ef08	GET	undefined	/favicon.ico
+
+20260126	21:25:37	36823f0a-621f-460a-9864-8d58a0ed6bfa	GET	undefined	/about/about-us
+
+20260126	21:25:37	8177129e-d0d2-493f-aede-11e0014b753c	GET	undefined	/styles/output.css
+
+20260126	21:25:37	f2994145-e451-4a4f-a5a4-68802d05af7c	GET	undefined	/styles/home.css
+
+20260126	21:25:37	82e7ec51-b3a5-4168-b79e-6aa7eb2206b4	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:25:37	aef6b9d0-acdd-4a02-a096-8991540a27de	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:25:37	a3de6727-404c-4619-99d9-1c3a48c34132	GET	undefined	/images/logo/logo.png
+
+20260126	21:25:37	cc1c49ba-2981-42e1-9a4b-e31af23bf94d	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:25:37	4978f0cf-53b2-4d31-9da2-24128cbe9866	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:25:37	1fd0aacf-1a96-4fa2-8bcc-3ec5c2a7ffdc	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:25:37	f09030b1-a4a4-4a08-baf5-99003cc3edfb	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:25:37	579fadf4-7011-4e92-b027-43ee16183b1e	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:25:37	6f2c00c5-948f-4e13-a37a-35e3ddc9d68a	GET	undefined	/favicon.ico
+
+20260126	21:25:38	10368665-3d5c-49b8-929b-0acd94f31df0	GET	undefined	/about/contacts
+
+20260126	21:25:38	73736e74-d1c1-4a54-864e-7c4fd64d7e6c	GET	undefined	/styles/output.css
+
+20260126	21:25:38	1793edcb-e2eb-4884-ac0d-83851b3065c9	GET	undefined	/styles/home.css
+
+20260126	21:25:38	4e117e97-fbcd-44b8-a598-bcc0f94526ea	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:25:38	62080875-daec-4f9e-9270-8d279ac76b5f	GET	undefined	/images/logo/logo.png
+
+20260126	21:25:38	9335b011-863a-41a3-80d3-b890de0f2e4a	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:25:38	c36ab9af-cee1-464a-98b8-d6836f849361	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:25:38	54c00fe1-efac-4de9-82a6-05a8835369fb	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:25:38	075134b1-d0d5-4b41-baa6-9338c12afedf	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:25:38	cad0b1f8-3207-4b61-8c8a-e6b7caecb3dd	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:25:38	71837d29-22fe-4428-b6f4-1d5973f7523d	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:25:38	3dd8344e-37df-45a0-a94e-4a51856e35b7	GET	undefined	/favicon.ico
+
+20260126	21:42:17	8fcc00dc-12e3-495b-b38e-21d33ea0b3d3	GET	undefined	/favicon.ico
+
+20260126	21:42:19	84d6ea94-b035-407a-ac11-5ab8a3a41471	GET	undefined	/about/about-us
+
+20260126	21:42:19	9a55ba87-864b-4fc4-9dc5-1696a8d65d7e	GET	undefined	/styles/output.css
+
+20260126	21:42:19	aa389975-7bea-4e67-b190-bb4cbeee7993	GET	undefined	/styles/home.css
+
+20260126	21:42:19	262fe9e0-c580-4707-8557-a55e1602105c	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:42:19	ebb8b296-244f-49cc-82a0-1846b2bce004	GET	undefined	/images/logo/logo.png
+
+20260126	21:42:19	908ab607-489e-439c-a995-6c154efcedff	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:42:19	3118c110-af33-4d1b-bfc7-1822de8bcb93	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:42:19	ae6b56ea-56fc-4d7d-9495-5afd62447a9b	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:42:19	88c30402-7d9d-498d-ac0f-616ef216e063	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:42:19	ced698cb-dc02-4bd8-a4ab-368d37960d27	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:42:19	6019776d-7a20-43f1-af86-f93b0f10f5a0	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:42:19	c7784a63-5e3f-4c05-9b9a-0037f98144e9	GET	undefined	/favicon.ico
+
+20260126	21:42:44	fa9e7d7f-9dbd-4d4c-8e6a-9cef16a85753	GET	undefined	/about/contacts
+
+20260126	21:42:44	41b0589e-59b2-4c78-98d6-454a8cbbd01b	GET	undefined	/styles/output.css
+
+20260126	21:42:44	51dd5465-3d48-48c4-bd00-4dad6100e8c3	GET	undefined	/styles/home.css
+
+20260126	21:42:44	c383e304-9a4e-4b5c-8be4-bc59dc9ae996	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:42:44	b5c3d206-25c1-4ec7-9895-6b6ef7295bab	GET	undefined	/images/logo/logo.png
+
+20260126	21:42:44	273047dd-29e9-4079-a025-1cdc7a1520e2	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:42:44	413cfdf9-81c0-4dce-8833-99d6618df0a9	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:42:44	037e8e0a-c3df-4484-8b33-b0be673362dd	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:42:44	127b14c8-1357-400c-aa6d-a558868f53ed	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:42:44	7e8fce26-cd80-4c9b-9495-9ea9432bbaa5	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:42:44	3ded66dd-338b-40e5-a31b-0e7b921edcd2	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:42:44	3de276a4-9f3f-49f3-84d8-0ad5c72f874d	GET	undefined	/favicon.ico
+
+20260126	21:42:44	a623d2e8-5b80-49aa-8e35-3febabb7ca27	GET	undefined	/about/contacts
+
+20260126	21:42:44	1e8cf2c2-0e1a-45f8-8e8f-3b86a2b25704	GET	undefined	/styles/output.css
+
+20260126	21:42:44	e641f1ff-475a-47e0-a301-b64a47a6f718	GET	undefined	/styles/home.css
+
+20260126	21:42:44	5217ac3c-6e0e-4893-83f8-084b125113ce	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:42:44	4cf277d6-d82e-40dc-a5fa-3d93e810e75e	GET	undefined	/images/logo/logo.png
+
+20260126	21:42:44	c4a999a7-0b44-450d-b28d-b7865f556cc5	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:42:44	fa9fc91b-7eb6-4379-805b-abf281955180	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:42:44	86dd9a08-0342-45e9-b137-e5ca8fa20f6b	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:42:44	b95bdfe1-1b9f-4303-a326-d50f5dec89d8	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:42:44	6ffcba67-d851-4b7e-beda-5d3f55826c03	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:42:44	867e8ecb-457d-414a-a901-c5096a06e320	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:42:44	d1f0861c-0872-4c0f-855b-c70f148f2452	GET	undefined	/favicon.ico
+
+20260126	21:42:44	a4fe5358-4a33-4e88-98c5-1ca9308ccf05	GET	undefined	/about/contacts
+
+20260126	21:42:45	bb21d83d-7a9b-4050-a28e-f64b71a696ce	GET	undefined	/styles/output.css
+
+20260126	21:42:45	9d9a3cc4-b5f1-461f-842b-c11efb4cf113	GET	undefined	/styles/home.css
+
+20260126	21:42:45	7228dd04-0821-4536-b0d5-89d97faf7555	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:42:45	c20fb6ec-ca3f-47ab-8b6c-2cabc62d65c9	GET	undefined	/images/logo/logo.png
+
+20260126	21:42:45	807cae6a-718a-4d15-96ab-0500c94a3c90	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:42:45	ff217e9e-32c3-4c79-b356-7f8e1b47aabd	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:42:45	7333e331-65e9-4f9a-990d-12789cba145e	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:42:45	50d8c113-938b-4803-80e5-8eef9afd587b	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:42:45	950495df-d069-4604-aed2-e7160d512c3c	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:42:45	d781139a-6566-45a8-ab0c-fc3f5885f750	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:42:45	92fa771f-3ed4-4fdb-81ee-bc17228680ee	GET	undefined	/favicon.ico
+
+20260126	21:42:45	3f025c48-6843-4e5a-93d3-bf3adc38c2c4	GET	undefined	/about/contacts
+
+20260126	21:42:45	5540a440-703d-4cf6-b780-c286a0460c2d	GET	undefined	/styles/output.css
+
+20260126	21:42:45	ea9ec133-83d0-49a3-a432-b7490d7e1ae3	GET	undefined	/styles/home.css
+
+20260126	21:42:45	e66a37ed-5c4e-4e68-bd86-4f06eb61a594	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:42:45	665b75f9-bb7e-4160-a959-a42ef2dcb905	GET	undefined	/images/logo/logo.png
+
+20260126	21:42:45	12486b04-82f4-4ff6-ae97-a3dff1340b8d	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:42:45	5892c75b-7ac3-4e77-9a3e-aafcfd0edf25	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:42:45	fc6bf461-5ffb-4b10-8c5c-3747c45bd04e	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:42:45	fcaa5241-9071-4e8a-b164-b48f197acd2a	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:42:45	c2925cb3-4c9f-48a3-8d90-fbbdc9e7ff45	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:42:45	16c23c55-733c-4fb5-a6e9-bf6ca79bb879	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:42:45	01e66bf4-14de-4505-b551-dd06b7aa16bb	GET	undefined	/favicon.ico
+
+20260126	21:43:02	6a0f75ae-043f-4718-8811-15803816533a	GET	undefined	/about/contacts
+
+20260126	21:43:02	7eaaec9b-6999-47cd-b657-3d75577bf910	GET	undefined	/styles/output.css
+
+20260126	21:43:02	abf2c7bb-d789-4dcc-b64d-0a173aa3bb4c	GET	undefined	/styles/home.css
+
+20260126	21:43:02	ff6f1b14-7448-41c3-888e-5e34ab8254d4	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:43:02	6829e4a1-4e04-4b32-9145-f0893c111224	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:43:02	ca3fbf4d-3a78-42c8-bbe7-8387e632c3af	GET	undefined	/images/logo/logo.png
+
+20260126	21:43:02	306645b9-196e-4027-9631-8df215513f79	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:43:02	b4435376-afe3-4d5f-9f93-1eeb16eee453	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:43:02	05f30797-9a3f-4a40-8a3b-93c1e57c53b7	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:43:02	8e47e849-de73-4a95-95e4-29c190fcd51c	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:43:02	599508e4-d56c-4f88-9f3d-db1555c0257e	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:43:02	74546b84-4aca-44b7-bfbf-75d8549ea537	GET	undefined	/favicon.ico
+
+20260126	21:43:35	4ac2f384-6149-43bb-845b-56c278aa7226	GET	undefined	/about/contacts
+
+20260126	21:43:35	15f898c6-37fc-4edf-a0fe-c159ff21d46e	GET	undefined	/styles/output.css
+
+20260126	21:43:35	84efadcd-9831-4631-9033-a8779c724774	GET	undefined	/styles/home.css
+
+20260126	21:43:35	3ada0c3c-9729-43b0-ab04-403b32c54dd5	GET	undefined	/styles/contacts.css
+
+20260126	21:43:35	412e06eb-d0b6-468a-87e7-5f669055c59e	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:43:35	5214e88f-5ac2-4d5c-b41e-eaac21ca8987	GET	undefined	/images/logo/logo.png
+
+20260126	21:43:35	be1d71ec-c378-4a7c-8991-2153499f38d2	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:43:35	b75a39db-c393-4476-bfc4-3f4a0e724dcd	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:43:35	5fb247f7-4fdd-42d1-a2b7-b6abffc8f57f	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:43:35	5f7a065d-bd6f-4c2f-b3c1-85e5a6dbebee	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:43:35	22591a9c-63d2-4ec7-baa4-2e0cf30f6a89	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:43:35	58c432df-1f95-4823-8101-90b6f4d14e9b	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:43:35	3a3241e6-ea8f-4d55-85e5-9779df1fed58	GET	undefined	/favicon.ico
+
+20260126	21:44:07	7d779853-db8f-4c00-8c16-80a8160f90ad	GET	undefined	/about/director-message
+
+20260126	21:44:07	57a8f69f-0334-4eab-8604-757061de5c7e	GET	undefined	/styles/output.css
+
+20260126	21:44:07	38be8770-5d49-4c0b-a551-6621c7dd97ef	GET	undefined	/styles/home.css
+
+20260126	21:44:07	2c81a86a-c064-483c-9473-afac816b36e4	GET	undefined	/styles/director-msg.css
+
+20260126	21:44:07	45e656ae-b2aa-465d-8c8c-94beef9b18ff	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:44:07	1ff651ed-3295-4463-b18f-cca4681bec05	GET	undefined	/images/logo/logo.png
+
+20260126	21:44:07	4c678ea5-54a2-421a-922f-e8bec253e7d1	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:44:07	0ae018c3-9f6c-4158-bdf0-d578936b34ea	GET	undefined	/styles/Director_Msg.css
+
+20260126	21:44:07	37b8a7f7-c387-4be0-bce7-33079d27ff42	GET	undefined	/Images/Director's%20Msg.jpg
+
+20260126	21:44:07	523a474e-fe5b-4e50-8627-c8dd55f77d22	GET	undefined	/Images/logo/logo.png
+
+20260126	21:44:07	f725b91d-5c94-4079-a44a-6fbe70fbe81b	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:44:07	ad083f9a-4991-4276-8fff-dad4b146ad1f	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:44:07	905c4237-d8f8-40b9-af29-c23aec4a58c6	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:44:07	c1b009b6-fd77-487f-a3a8-f3ed98fcfdda	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:44:07	b82f76d9-81c3-410d-9cb9-30a578ab0bbb	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:44:07	1a5ea3ce-a149-40e3-addc-cd4dfd96b916	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:44:07	fa6936dd-d223-413a-afbb-259baaa340b1	GET	undefined	/favicon.ico
+
+20260126	21:46:11	b8637ef0-c8e5-48d1-ab66-78fc070b0e44	GET	undefined	/about/director-message
+
+20260126	21:46:11	109257fc-a149-4e13-acd4-99ec7d593d13	GET	undefined	/styles/output.css
+
+20260126	21:46:11	09c50b5b-8cd6-4207-a265-d504f6cff47b	GET	undefined	/styles/home.css
+
+20260126	21:46:11	8ea8c0f7-6af1-416d-ba24-02798c2c89f9	GET	undefined	/styles/director-msg.css
+
+20260126	21:46:11	fe15d4d0-1413-4441-bdef-ff1c09455a8e	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:46:11	33de7fed-734b-4235-9b9f-4e453571dd4f	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:46:11	95758ba3-8211-4a57-bb05-695b1f38f665	GET	undefined	/images/logo/logo.png
+
+20260126	21:46:11	7b6573d6-7f58-4575-bf41-c0805a5aed73	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:46:11	f0be7348-e66a-4ae3-9794-d83b304735aa	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:46:11	07f50bb3-cdb1-48a4-9647-fbaf1c9a2f5f	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:46:11	bfcd6adb-7bbc-4c21-b292-7e84f77ebbf8	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:46:11	ab967aac-7dc3-4fa5-b6fd-63546a2114bd	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:46:11	6e18f47e-c240-4864-ae96-46b3f0a14cb0	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:46:11	164530e9-6d5a-4699-a321-599ffef0eb07	GET	undefined	/favicon.ico
+
+20260126	21:46:14	e4804b3d-7e47-4e2a-b81b-43066bed4aba	GET	undefined	/admissions/scholarship
+
+20260126	21:46:14	b3ef7891-4813-4ac1-aac7-200fe17a6f19	GET	undefined	/styles/home.css
+
+20260126	21:46:14	7d8ae54d-9469-4b2e-b058-9db19d8aeae5	GET	undefined	/styles/courses.css
+
+20260126	21:46:14	6b9c0d1e-9505-4b52-bc22-f99fd7d28844	GET	undefined	/styles/output.css
+
+20260126	21:46:14	46ed42d4-78a0-4009-a78c-78b0863577d8	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:46:14	814b3784-b4c2-4e37-891c-5c434da3a37d	GET	undefined	/Images/Director's%20Msg.jpg
+
+20260126	21:46:14	987061ea-f42a-4dae-880e-0fde18b7fa8e	GET	undefined	/Images/logo/logo.png
+
+20260126	21:46:14	f897b78b-2dc6-411d-84fe-898ed9feb7e5	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:46:14	503f4cb6-4761-4115-a779-99f6feeb3592	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:46:14	36e20c36-0375-4ee9-afa4-40465ff0fcb6	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:46:14	9c5143a0-6a0a-4e06-bdf9-e0257937e892	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:46:14	1d64304a-73d1-4276-9218-02c58c898907	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:46:14	02cf91fd-0b1e-42e6-a7c2-97f13ded5c98	GET	undefined	/favicon.ico
+
+20260126	21:46:22	bc21f14c-c83b-470d-8954-fa577d15e9e3	GET	undefined	/about/contacts
+
+20260126	21:46:22	211e13cf-87c9-48c9-8283-385479c52544	GET	undefined	/styles/output.css
+
+20260126	21:46:22	deb3b606-f419-4a9c-8d3f-497342351810	GET	undefined	/styles/home.css
+
+20260126	21:46:22	236b86e8-661a-46a9-8076-e0f386ec07ef	GET	undefined	/styles/contacts.css
+
+20260126	21:46:22	ed6e807a-a13f-4b52-9aa9-142fa3587b25	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:46:22	22add1ec-48bc-4406-9883-fadf7054f3f7	GET	undefined	/images/logo/logo.png
+
+20260126	21:46:22	21e61a12-cf0e-4cc8-ac92-a368926ba127	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:46:22	5c9d21cd-fb26-413e-a30f-40c1b9029c5a	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:46:22	49ecbdc2-0ef3-452d-8bf8-0d2e4122cc5e	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:46:22	9c7ed09d-727f-43a3-a153-2da6d1663e45	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:46:22	7e92437e-a5b7-40c3-bb44-f9df4cd973c4	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:46:22	ee1c5733-9a9e-4ae3-a50b-6bad8b12443d	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:46:22	51602cd7-236a-45c7-92c8-9c742fb0bbe0	GET	undefined	/favicon.ico
+
+20260126	21:46:26	b93654b4-f20c-4494-b364-739e73a4659e	GET	undefined	/favicon.ico
+
+20260126	21:46:27	af0632fb-9e9d-42ed-8ad5-be429791d73a	GET	undefined	/admissions/scholarship
+
+20260126	21:46:27	bee9e38b-83fc-464b-8cae-e56e7a5c07e2	GET	undefined	/styles/home.css
+
+20260126	21:46:27	8d0396e5-32f6-4272-85cf-a58f4d100247	GET	undefined	/styles/courses.css
+
+20260126	21:46:27	38a3595c-1d44-439f-be65-b466f6b1efa3	GET	undefined	/styles/output.css
+
+20260126	21:46:27	26c34284-10f8-4d97-9a31-8b5f7c2fbf2b	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:46:27	9632a2ca-ded8-46d5-bfdd-56d4d739f11e	GET	undefined	/Images/Director's%20Msg.jpg
+
+20260126	21:46:27	e6b7d9f2-51a7-4204-9035-f459d1d47445	GET	undefined	/Images/logo/logo.png
+
+20260126	21:46:27	cb7620e9-7965-47cf-9510-034f9653b897	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:46:27	6591ebd1-7ddb-4370-8eab-cbb51cb43c76	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:46:27	5b1823ca-3b06-447c-8117-79f02125d070	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:46:27	490920c6-d174-4901-b83e-25a32ff3877d	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:46:27	ba962d0d-8883-49fb-a9d1-c34b4beacb79	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:46:27	fae7b301-5404-4add-8d47-cdba806b4a24	GET	undefined	/favicon.ico
+
+20260126	21:46:37	6b66be69-dabb-4c2e-8eb0-93065097e4c3	GET	undefined	/about/director-message
+
+20260126	21:46:37	f43df1ed-7bf0-48df-b989-187fc5f94067	GET	undefined	/styles/output.css
+
+20260126	21:46:37	d177f7f3-0dae-4d22-94d9-afef7a7f37a4	GET	undefined	/styles/home.css
+
+20260126	21:46:37	8f326fc3-3699-450d-b570-d729f907a46c	GET	undefined	/styles/director-msg.css
+
+20260126	21:46:37	5e65aa44-d89f-457a-92e7-b8aef45f0e22	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:46:37	abababb3-978e-4c59-ac26-297468d2197e	GET	undefined	/images/logo/logo.png
+
+20260126	21:46:37	89a57769-aa3a-49d8-b186-ccb627c1bc8f	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:46:37	e1a67a9b-a118-438b-8f7d-d30b2d684e0c	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:46:37	00761654-4b38-4316-8550-7b6d596794ab	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:46:37	e069ddbe-efcd-4319-87c4-ead72a7f6db2	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:46:37	af08ad0d-5bd1-403b-83d3-a4f9b246efbc	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:46:37	27cbfd48-18c0-47b3-9f2e-55684d57476f	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:46:37	162c74c9-190f-4634-8977-e381c50bcec4	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:46:37	882b2aab-0ec7-45d2-940e-4925b64d5577	GET	undefined	/favicon.ico
+
+20260126	21:53:00	75272fe9-a080-43ef-9fbe-611a19e6d306	GET	undefined	/about/director-message
+
+20260126	21:53:00	01231681-d57f-4266-a584-d30f29458c0a	GET	undefined	/styles/output.css
+
+20260126	21:53:00	3811f424-743b-4d91-b4b7-84251e3fdf50	GET	undefined	/styles/director-msg.css
+
+20260126	21:53:00	f601f469-b2f8-4fd3-a5cb-df07843ec00c	GET	undefined	/styles/home.css
+
+20260126	21:53:00	70226f6d-6f92-4210-849d-2563d7145d3f	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:53:00	49d476b7-0eff-40d8-81ee-0f8920808613	GET	undefined	/images/logo/logo.png
+
+20260126	21:53:00	90c03db2-a926-4064-94c9-021fdc86e1e1	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:53:00	ebf1a6ab-ddea-428d-9a97-08628700f17e	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:53:00	7d6ff590-4fee-4756-8bf6-664e40a6968f	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:53:00	ccd794ae-fc63-466e-be70-66a33da1df21	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:53:00	e55c70be-d49e-494f-921c-9e9cb6a8f207	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:53:00	3a23a8a4-9781-4dd3-b353-5abd5b18d328	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:53:00	ea485e2a-2ea9-433a-852e-d5d3ca8d2be7	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:53:00	7fd9037e-7c54-41a4-a867-852ea22342cb	GET	undefined	/favicon.ico
+
+20260126	21:53:01	f8899af9-8208-4f9f-a3da-0ce5b24dfd70	GET	undefined	/admissions/scholarship
+
+20260126	21:53:01	f1bf0362-01ec-40f5-b3b8-be79537c8afe	GET	undefined	/favicon.ico
+
+20260126	21:53:28	d68260de-1545-48be-80e8-093d4687124d	GET	undefined	/admissions/scholarship
+
+20260126	21:53:28	f23d634e-17c6-44ac-ac3d-ed8085f1baa4	GET	undefined	/styles/output.css
+
+20260126	21:53:28	e89d1f4d-f35d-4d35-a930-816bc6551489	GET	undefined	/styles/home.css
+
+20260126	21:53:28	21673718-7bf3-41b0-b3dc-06892504ca46	GET	undefined	/styles/director-msg.css
+
+20260126	21:53:28	ce23f3b5-624c-4a2d-8785-10709fa5853d	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:53:28	4ad95eab-2f3b-46c5-88f9-bde1952f6770	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:53:28	1cc651ff-9326-4bbf-b43d-65129d929dfb	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:53:28	63f14473-fea3-4db1-b35b-fffbde7227b5	GET	undefined	/images/logo/logo.png
+
+20260126	21:53:28	c9456ba9-568a-4d43-9d7e-d11c575401cb	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:53:28	ed7a4dc9-258e-44c5-b63f-1734103cecca	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:53:28	ff6192cb-cd46-409d-ab5f-672c619a1727	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:53:28	f34418fb-bc11-4dd7-860d-d46d80f27c47	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:53:28	38782bea-a31c-4189-b56c-b421404f3c6b	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:53:28	cf6f4875-aaee-4f07-8d7f-c14e047a31ed	GET	undefined	/favicon.ico
+
+20260126	21:53:54	02b5bdfb-bcdf-4b12-8aa3-04954b229ed6	GET	undefined	/admissions/scholarship
+
+20260126	21:53:54	25cb8c3e-96d0-4628-882c-cec1faa6fbb4	GET	undefined	/styles/output.css
+
+20260126	21:53:54	b0f8f93c-aafd-405e-927b-6af8df542f2c	GET	undefined	/styles/home.css
+
+20260126	21:53:54	246b0cde-e584-4fac-b642-f57c6a2cab5b	GET	undefined	/styles/director-msg.css
+
+20260126	21:53:54	5ef3c26a-ab30-4e8c-b447-64cd642ecb1a	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:53:54	f4b34faf-243e-4025-a9ad-4643f25f70e6	GET	undefined	/images/logo/logo.png
+
+20260126	21:53:54	2c7f44d1-3b98-4eac-b216-07cf7e11f3af	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:53:54	3cee604a-67b1-4504-9db6-5e372b894412	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:53:54	18f5965e-d05a-467f-a8e2-4fa99928fd88	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:53:54	0e4318b6-5a6a-40aa-8291-53a822757c4d	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:53:54	aa444e50-b43e-487e-97a2-0f3cbf42a2e3	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:53:54	0754ddf9-ef9a-43ef-a8f8-220b9705dbee	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:53:54	7446cb9f-74e3-4dd8-ace2-c87c92e43268	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:53:54	4e035d97-075c-4ef5-8785-fe3e685c2233	GET	undefined	/favicon.ico
+
+20260126	21:55:16	92c2ec4f-98e1-4cfb-b349-2e627bc22686	GET	undefined	/admissions/scholarship
+
+20260126	21:55:16	8ad1de6a-22ba-435f-8578-0884871d109a	GET	undefined	/styles/output.css
+
+20260126	21:55:16	7854dd92-9438-4197-b72b-15dd3a84eb36	GET	undefined	/styles/home.css
+
+20260126	21:55:16	f489d8ba-e253-4759-b04d-6cce7f4bbd5f	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:16	6ee73616-7bcd-4c52-be17-1fd25d66c394	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:16	bdc61170-f9a7-429c-ab49-13fdec62768d	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:16	11326626-4a13-4b6f-a57e-5ccd3386110b	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:16	1bb27c4b-acc7-4876-8c69-cb23e77fff67	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:16	029174c9-b2ae-4e82-9960-b669314646e5	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:16	81f9aaad-7355-4b9c-ab3c-113f5ab83bb2	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:16	211e2563-c431-4dcf-9300-55e3f8878213	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:16	99e30c04-8ffc-4b05-9f2d-f56a30a14aab	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:16	d474538c-f5bf-4134-8e37-8d3283c48540	GET	undefined	/favicon.ico
+
+20260126	21:55:32	19ddf1fb-9f96-45e4-a09a-b29d12e11a7f	GET	undefined	/admissions/scholarship
+
+20260126	21:55:32	3bdd038a-df6a-4c9d-826d-b78ce359ff7a	GET	undefined	/styles/output.css
+
+20260126	21:55:32	e39b6bc2-1a04-409f-a2ab-6b03f5951be5	GET	undefined	/styles/home.css
+
+20260126	21:55:32	fdd08391-5d25-4b13-8b06-4820970aa74f	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:32	ae07a99e-3e81-46be-bc0b-eb81b0813c34	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:32	ad3789f4-c59c-47fb-bb27-f4f7fcd57e6e	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:32	eb3e91a2-680a-49fb-911b-ead4ee4f29b3	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:32	c9ae9f56-79a6-4e46-b206-447a5e05112e	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:32	f2c4d5fe-7f2c-41ea-bd30-e6d6ea67faba	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:32	3e081eb2-491a-4cb8-a0e4-42ed85762c3f	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:32	c040dc2a-c111-44f9-b632-77150bd16bf2	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:32	adb72317-76a9-4d7e-8466-5e9b75790910	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:32	56554063-025d-4cd8-89f0-06b62d0447b9	GET	undefined	/favicon.ico
+
+20260126	21:55:33	49f4c93d-1407-461e-a541-67b00d1c8390	GET	undefined	/admissions/scholarship
+
+20260126	21:55:33	47c692ce-7274-4321-88b9-47343eddd8f8	GET	undefined	/styles/output.css
+
+20260126	21:55:33	60646a9a-4408-4b06-98e7-fde3dd5f373e	GET	undefined	/styles/home.css
+
+20260126	21:55:33	e6adde9a-757b-40c8-a555-8e78b651382d	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:33	5c4331e7-5005-49e0-ab4f-4c12fb7b4100	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:33	43436c41-66fa-47ec-a677-0c289bcecbe2	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:33	ca630b49-36a0-47f0-a6e0-c86ea68f693b	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:33	356cda4b-166a-42de-994a-018862a806cd	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:33	cff55918-3807-4642-876b-221c6ac5ff31	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:33	c22c874a-0814-4c4b-b218-847cc1c0b8ef	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:33	0bc78ca6-82ff-499e-acac-21176d1f9e00	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:33	fb07add3-1296-4fba-862c-a6c2cce35651	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:33	d5e7e670-f199-432c-8e23-6158c128304d	GET	undefined	/favicon.ico
+
+20260126	21:55:33	d75f66ed-ed0c-4c7e-9763-30ae9950e62a	GET	undefined	/admissions/scholarship
+
+20260126	21:55:33	88608eca-c8dd-4312-b905-05cc87b214bb	GET	undefined	/styles/output.css
+
+20260126	21:55:33	e0f3b7c0-591a-440d-a02e-8e3cac9892b7	GET	undefined	/styles/home.css
+
+20260126	21:55:33	8c341aa1-9afe-465b-965a-473341ca2e23	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:33	f2be458e-bfc2-418a-85a5-1e5f88a53f26	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:33	0897269c-7171-4759-9e7a-91565f9526e7	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:33	6e449126-f444-4619-9161-67c102e379de	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:33	e12ee0dd-d72d-49b1-9500-85e7af7c75ed	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:33	baeb46c0-9e37-4e5f-8c69-11cd12e10d3a	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:33	2e114113-14a2-49b7-b47a-caddddd9f226	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:33	f97384f6-e099-4538-b1b5-685007b4ce42	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:33	3602be6d-d3f6-4b22-820e-b4e14f191d46	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:33	8a1df930-702a-4210-933d-a2ecb2a5ebde	GET	undefined	/favicon.ico
+
+20260126	21:55:33	d11f1637-d3b7-46ba-9c91-3739465e93a0	GET	undefined	/admissions/scholarship
+
+20260126	21:55:33	c6d1d1b0-f997-4f51-abfb-afa58e2488c8	GET	undefined	/styles/output.css
+
+20260126	21:55:33	c6a21a01-9ddd-4d53-a77b-b4fed6063e27	GET	undefined	/styles/home.css
+
+20260126	21:55:33	43eab08f-b7fe-4db9-99f9-851338f1843f	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:33	4edd526c-5ce4-4fd6-8031-83a02d62a4c1	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:33	7bbd921f-71ee-4b2a-bb50-95f59141ac80	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:33	2a3b7de0-0a4c-444a-a7cd-f1ab144409ed	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:33	c5725b22-18a2-46db-86f7-ba72fbbe9ef1	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:33	8b0a2cc2-2ec5-4ac3-8e13-ed9da40db5ce	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:33	d6b43300-8356-4f18-a88a-c128ddb08b0e	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:33	06f9761a-8f4c-4fbb-a64d-b61acf9baf3e	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:33	e166f341-8235-445a-b588-2f311d241181	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:33	904128b4-6174-41de-814f-8799b95d62e7	GET	undefined	/favicon.ico
+
+20260126	21:55:33	8e4f825d-2ecc-4f99-aec8-d039bdf5c1ba	GET	undefined	/admissions/scholarship
+
+20260126	21:55:33	34cf85db-0afa-4493-beef-3e7bb0bfae49	GET	undefined	/styles/output.css
+
+20260126	21:55:33	bfb761c1-b8f5-4b29-8659-fd069d6f3a90	GET	undefined	/styles/home.css
+
+20260126	21:55:33	269b294e-d2c9-4732-b907-b5c77fd9d18a	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:33	7cfcf9da-a78d-4095-be81-844baf4e8617	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:33	a9c79089-3b69-4f52-a71f-a945e0e0c130	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:33	910e378f-b6d7-4f60-92ae-c9acf65ae1f0	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:33	afeac273-72bd-407d-b85e-f6494387bf99	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:33	da0075fb-2a48-4ece-beba-a07088c373c4	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:33	adb453de-dea8-4655-ac9c-c4440e367869	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:33	22597603-3518-47f9-a742-cd18d1a17ee1	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:33	22927fcc-d340-4211-9cf3-c18d26497941	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:33	6eb20db4-e5ee-46aa-9121-c8e52ec524dc	GET	undefined	/favicon.ico
+
+20260126	21:55:34	d8f3b705-be18-49d2-96f2-bf29383be845	GET	undefined	/admissions/scholarship
+
+20260126	21:55:34	16a61e3f-2c34-47af-a9ba-b05c08ea1bd4	GET	undefined	/styles/output.css
+
+20260126	21:55:34	e39231b9-6955-4abc-9e96-dea40686967d	GET	undefined	/styles/home.css
+
+20260126	21:55:34	d44e6e94-3f8e-4aa1-8b14-68704fccc869	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:34	17cae6f4-5538-4733-85cb-eaf90f4a0f96	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:34	40b2bacd-86ec-4b28-bf28-c80468d0e698	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:34	df66bbcf-31a1-40e0-b498-a862e66164ea	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:34	00a23fb1-f464-41d1-b3bc-ef898efcc682	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:34	cd42e11b-e22f-429f-9844-735ab7de3560	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:34	6af1fa61-c061-4a3b-b4d8-4e08e6831df7	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:34	607712d8-9500-49cc-a20f-ef4dd0489ea5	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:34	3f5b5f6a-12fd-4bc5-abfe-49a591b54772	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:34	51e77f96-afe7-4ec5-9756-4d71eba508a1	GET	undefined	/favicon.ico
+
+20260126	21:55:37	0d9ae0c4-85c5-4d1f-a166-1d02aaf3770b	GET	undefined	/about/director-message
+
+20260126	21:55:37	7b903f27-da6b-4ada-ba97-8db4d1d9dfb1	GET	undefined	/styles/output.css
+
+20260126	21:55:37	40f3add1-03b7-448a-ac01-6282e4f80b2f	GET	undefined	/styles/home.css
+
+20260126	21:55:37	2187f40c-f2d5-4a7a-8623-447971a954c9	GET	undefined	/styles/director-msg.css
+
+20260126	21:55:37	d912e0b0-4316-4a37-bfbe-500cee5de7b4	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:55:37	fd689ef1-2ce8-4e81-b696-a178c10c6698	GET	undefined	/images/logo/logo.png
+
+20260126	21:55:37	fd0ce91a-9f64-40d3-8d07-8cef1b310ca0	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:55:37	6118b688-b56e-4ec9-8684-4cf6a0096135	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:55:37	42cb2ee5-2153-4333-a0b4-08f9a293594a	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:55:37	4a4f1f7c-1646-4b46-a707-0126698c2c6f	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:55:37	02b2bd43-e0ba-4737-a8b1-bfa1569996f3	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:55:37	2d2f6650-2f6d-48df-a4fc-23353ee9449b	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:55:37	686adf2d-75ee-4018-ae14-bcef30956a7f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:55:37	71de7268-487c-452a-bb14-e511345ea49a	GET	undefined	/favicon.ico
+
+20260126	21:56:33	8b736741-44b7-4a68-a808-b794e129057f	GET	undefined	/admissions/scholarship
+
+20260126	21:56:33	c315a334-9f0c-4eb8-9dba-19c48fe55ad8	GET	undefined	/styles/output.css
+
+20260126	21:56:33	e658aa4a-e600-4e58-a1a3-3279dc9778cf	GET	undefined	/styles/home.css
+
+20260126	21:56:33	6512b333-8532-42ca-98db-bd4cbfd8e25e	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:56:33	89953c3c-4990-4c13-8eca-9f6f73642e21	GET	undefined	/images/logo/logo.png
+
+20260126	21:56:33	176ee811-1f27-49d9-9216-2c8f678e53e1	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:56:33	7bd15161-dbed-402c-95e5-3bb82e08d361	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:56:33	75d73e11-a6bb-4cfe-9e32-90c11992afbb	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:56:33	6bf45575-0cd8-4e9c-bc74-7a7139885514	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:56:33	b500090b-12ca-4cf2-8ad0-16ecb6356915	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:56:33	ddd01314-ff74-4c7b-b7de-cf875fd6aefe	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:56:33	4b70ad84-1c32-4859-9a9b-cb0d6651872a	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:56:33	411dcc60-ef1b-46d3-b518-7ed84fd74609	GET	undefined	/favicon.ico
+
+20260126	21:57:22	0ac4d091-4b5c-48e5-9b03-1acd36d3bd5e	GET	undefined	/admissions/scholarship
+
+20260126	21:57:22	f9ad08e2-036d-484f-a200-4617dab2c9db	GET	undefined	/styles/output.css
+
+20260126	21:57:22	f7acd782-dd49-4c80-90f8-24686e1c29b9	GET	undefined	/styles/home.css
+
+20260126	21:57:22	cdbdf81f-e37a-4cd5-9360-6b5ee092ae72	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:57:22	3a3d2187-70b6-4709-96cb-187c64cfbb56	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:57:22	8ffe5613-7254-44ce-aec2-1207af8ba6b8	GET	undefined	/images/logo/logo.png
+
+20260126	21:57:22	12a45558-571a-477a-bb11-53523abb7875	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:57:22	ece70ff2-9d58-4d73-855c-674f82442cdb	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:57:22	0f5d8ac2-6fde-4a56-9cfa-be0bdc546d18	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:57:22	8bc1e547-38de-4a07-8670-a6f300da92a4	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:57:22	e9c2621e-da85-4117-beb6-1b593a014c3f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:57:22	4a5238ef-da5c-4d4a-b676-2b37242b286c	GET	undefined	/favicon.ico
+
+20260126	21:58:57	4c705db3-db8c-4877-bf79-a928330e812b	GET	undefined	/admissions/scholarship
+
+20260126	21:58:57	218d8aeb-4c7b-4736-aa66-9022d1c2f2a3	GET	undefined	/styles/output.css
+
+20260126	21:58:57	cbcd86c5-fc11-4a89-b126-9bd24835209f	GET	undefined	/styles/home.css
+
+20260126	21:58:57	f092959c-8e8c-46ce-aba1-9349bba7c707	GET	undefined	/styles/courses.css
+
+20260126	21:58:57	764adad0-7b20-42ca-9f06-3a657a605972	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:58:57	23a3c19e-a077-4a1d-8863-03f25c8af107	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:58:57	371f63eb-fc5b-4fb8-8146-527768bfeff2	GET	undefined	/images/logo/logo.png
+
+20260126	21:58:57	295c0ffc-2e02-4dbc-b062-17e434ff25ef	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:58:57	8a0a5ada-3dce-4904-b37e-498eddc24a87	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:58:57	955be132-ceac-4ae0-a309-723d9810b81d	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:58:57	bf16f639-b4f1-46b4-8a53-6142830c9974	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:58:57	cf9f493e-ca2b-4065-bdcb-e6dcf5b0bbcd	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:58:58	1fb104b0-6570-48b6-912b-e16c0198064c	GET	undefined	/favicon.ico
+
+20260126	21:59:37	c0c58155-7d6f-454f-81e1-016d0b684e72	GET	undefined	/admissions/scholarship
+
+20260126	21:59:37	b56bc2e6-1551-4589-b449-9006802e2f88	GET	undefined	/styles/output.css
+
+20260126	21:59:37	e6cd15e9-890a-4931-9cf5-66c7d5469f91	GET	undefined	/styles/home.css
+
+20260126	21:59:37	27c73c02-5dba-4451-ba3c-63328bb68a7e	GET	undefined	/styles/courses.css
+
+20260126	21:59:37	fc994092-db22-4345-b8b4-d4360837d0a3	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:37	24480f98-79c1-4f7b-80e0-318cd2bdd455	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:37	dd2d27b7-27dd-4be3-91d8-2ffbec508371	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:37	53c969aa-56f8-4492-bcf6-7e0f23bd0e9d	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:37	b470490a-ad02-43a7-b92d-4366b0a15c83	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:37	932326b0-0755-4632-bec4-f1df1770e96c	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:37	8b323e09-11ba-4768-827a-74ceb49c597f	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:37	828a84cd-5eab-48a0-a760-c884bffb323f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:37	4f0f8d25-18ed-45ad-9901-d44b2d159dd4	GET	undefined	/favicon.ico
+
+20260126	21:59:38	368f2073-5208-4325-839f-9dd23d1049a1	GET	undefined	/about/director-message
+
+20260126	21:59:38	2c5414af-6e45-450c-a4ad-65f58c2695c3	GET	undefined	/styles/output.css
+
+20260126	21:59:38	cbdffdeb-146d-470d-87e1-22665c091a50	GET	undefined	/styles/home.css
+
+20260126	21:59:38	103795a1-af5c-4d7e-805f-b09c7385cd37	GET	undefined	/styles/director-msg.css
+
+20260126	21:59:38	3453cbc9-8fd9-4147-bd43-927c03fdea77	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:38	37ef6f2b-a948-4814-92de-a93271357ab2	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:38	1d152a1f-b67a-4cc5-8e20-8635a1d8547f	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:38	bab631d2-889b-4453-9f02-5956c3d83013	GET	undefined	/Images/Director%20Photos.png
+
+20260126	21:59:38	6acdaf48-a928-4548-95d7-fa45b5acd0a9	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:38	0f546d81-9361-43a4-b619-328a943600e7	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:38	0864a5c9-eb9c-4132-9069-f7051977245e	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:38	cd5e87ba-fe1b-460d-b737-94c1a4434221	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:38	f505595d-391f-4d69-8e59-5d06d63eed9f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:38	2bfc9a3f-5fd5-4113-9efe-f59af7869685	GET	undefined	/favicon.ico
+
+20260126	21:59:43	c1fdf6a6-be54-4164-8a85-59d9cc5a8083	GET	undefined	/admissions/scholarship
+
+20260126	21:59:43	8562f764-656f-4a00-a27d-14e1549a2af8	GET	undefined	/styles/output.css
+
+20260126	21:59:43	84a09e2e-90ac-4766-806c-0902a010592b	GET	undefined	/styles/home.css
+
+20260126	21:59:43	8725b077-51f0-45d4-9a70-23e21bd198e2	GET	undefined	/styles/courses.css
+
+20260126	21:59:43	4e21eb5c-d510-41a1-a82b-dcb947024cff	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:43	c622420d-6921-4dfc-b144-0885a6c8056f	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:43	74adc443-d856-4e6b-873f-3ae7144fbea5	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:43	59221566-8edd-4afd-9cfd-f4ce02ef53d9	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:43	7ea375d8-ef10-4021-a90b-12d7455d0132	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:43	f374461c-40a8-4e1c-86ed-bcbeb2e2d171	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:43	d46d5ad1-6448-4a97-ac5e-9fb6c31a30a2	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:43	bc9f29ba-f4d8-407e-a110-82e1b4f13bc9	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:43	ffaaaec3-e2f5-4635-ae01-c5e48e901b71	GET	undefined	/favicon.ico
+
+20260126	21:59:46	21ebb782-97cb-4903-bd00-6edca0fa8be1	GET	undefined	/about/contacts
+
+20260126	21:59:46	fc08039c-56f0-48eb-ae24-6897806fae4a	GET	undefined	/styles/output.css
+
+20260126	21:59:46	765314ae-b388-47bf-b2a2-98f0091c4e2e	GET	undefined	/styles/home.css
+
+20260126	21:59:46	070b6964-9e2a-4558-90f0-b018bd251935	GET	undefined	/styles/contacts.css
+
+20260126	21:59:46	e52f2a9a-3f44-4916-a3a9-36b7f1100346	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:46	8d70605f-5fb3-4902-8d30-9f394741ed21	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:46	4456268a-f32a-404a-a7b9-c66e262865f7	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:46	9e229158-0759-4cb5-97e9-37e3a4a1420d	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:46	0dbfa771-d0f2-47ca-9efe-df1ace4f09c2	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:46	bb6cae00-3977-4a1c-9dd5-3a246ac62acc	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:46	133a1b87-eced-4509-9b66-84a02d5681d7	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:46	3998a04d-2bec-433a-9398-f02d136b2111	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:46	5abef9fb-6ec0-463a-b4e6-ede6315d92a4	GET	undefined	/favicon.ico
+
+20260126	21:59:48	85cf337e-b90f-481a-974b-435b955317c9	GET	undefined	/admissions/scholarship
+
+20260126	21:59:48	b7379f98-3cbb-4409-a77b-77505b597835	GET	undefined	/styles/output.css
+
+20260126	21:59:48	329d37f0-9623-4f2e-96ed-6dee3acd4ec2	GET	undefined	/styles/home.css
+
+20260126	21:59:48	5a3f4432-61d5-455c-9ca5-38000e27f36c	GET	undefined	/styles/courses.css
+
+20260126	21:59:48	4fb9330b-296b-4a62-82f9-c498c36e6724	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:48	4df439db-9b18-47f5-9880-3ff8d0bbd8cf	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:48	33c8cc51-6cdb-4ac6-bc68-6efbf25e5a7c	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:48	94258896-27af-4154-bfd3-7d3bfc13b1ca	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:48	06350e61-b386-4433-a3a1-df0cfdc6a8a3	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:48	38f1989c-8a6e-4beb-8bf3-81601545c528	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:48	ba030e42-0f65-4065-92da-f44ce3147292	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:48	7c799f48-e557-434e-8603-753fb9a0595f	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:48	75230171-61ab-47db-bf32-ffc291d10a90	GET	undefined	/favicon.ico
+
+20260126	21:59:51	ce084b4e-7133-40f8-8f01-83ec14099ad1	GET	undefined	/admissions/scholarship
+
+20260126	21:59:51	d08868bc-df2c-4924-b628-2fb06448c178	GET	undefined	/styles/output.css
+
+20260126	21:59:51	f4c46796-ebbf-4fdb-85a2-845734a4f1bb	GET	undefined	/styles/home.css
+
+20260126	21:59:51	7094022d-4767-482f-9fd1-2200c1755bd4	GET	undefined	/styles/courses.css
+
+20260126	21:59:51	bbee9b1a-e506-49e4-a0dc-136a8e0ccdec	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:51	f793ad0b-6484-4661-ab62-f8e1c1f6f4e3	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:51	282d59f8-15f6-449f-ac65-622d3d1131a5	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:51	a02c6f3f-706c-46a9-aa26-4d10495d0c61	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:51	cdfa93f4-0221-41c2-88b8-5a250c416258	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:51	74f18ad2-1f55-43a2-a073-8cbae96f7fa1	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:51	3404878c-e536-4768-9b13-7992f7ed8167	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:51	00f3b8ba-da64-42fa-ae87-362b56bcb99e	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:51	486e1bbd-efee-422a-8366-1e2589679723	GET	undefined	/favicon.ico
+
+20260126	21:59:54	ae61d95b-ebb4-408d-acc3-e83fc2ed9afd	GET	undefined	/admissions/scholarship
+
+20260126	21:59:54	33a2dfd9-c434-4bdf-af96-38ba8f4b5684	GET	undefined	/styles/output.css
+
+20260126	21:59:54	8770f696-dd7f-449a-92e9-9120591bf91b	GET	undefined	/styles/home.css
+
+20260126	21:59:54	23c03618-af19-497e-ae6c-32eeef4d6a1c	GET	undefined	/styles/courses.css
+
+20260126	21:59:54	e791541e-77a6-4773-9569-bf39ef6254d9	GET	undefined	/Images/director-msg.jpg
+
+20260126	21:59:54	7aa37cab-be3c-40fc-89f0-554e8b5f1f96	GET	undefined	/images/logo/logo.png
+
+20260126	21:59:54	109b78a2-8ea7-4263-b540-baf49b8c077d	GET	http://localhost:3500	/main_anim.js
+
+20260126	21:59:54	b1f798b5-8460-4705-af09-dc5ede711806	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	21:59:54	c2c324a8-6c9f-4d40-bce9-b1a936ec5a8f	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	21:59:54	bedfd230-1f37-4d21-8c27-ab458e588f19	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	21:59:54	0f9ad9a7-1813-41da-aa5c-cc3d0bbfb6b1	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	21:59:54	5e25411e-3b47-4a13-9b37-dfe80ddb0929	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	21:59:54	1ca6aa51-37fb-4d96-b4ce-05899b7201ff	GET	undefined	/favicon.ico
+
+20260126	22:02:39	26d57f1b-bbf8-4bec-93e0-ee8a1606dacb	GET	undefined	/about/contacts
+
+20260126	22:02:39	3ee2e88f-d409-4c08-82e3-a0e4cbbe310d	GET	undefined	/styles/output.css
+
+20260126	22:02:39	2dd0ff7f-d022-4a35-b648-3b00025552b8	GET	undefined	/styles/home.css
+
+20260126	22:02:39	e36441ca-a2fd-43a5-9237-fc7a8d91e1af	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:02:39	fff045f3-bdce-4cba-9460-7bee47b2b532	GET	undefined	/styles/contacts.css
+
+20260126	22:02:39	64c1fa44-d299-48db-96fa-055b080ce7bd	GET	undefined	/images/logo/logo.png
+
+20260126	22:02:39	dcfb8f4b-a4fc-489e-af90-29dd41cc24f2	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:02:39	c239eab1-ed33-4913-9eae-fcd56f3324ce	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:02:39	58a0bc06-913e-4966-86d2-3b6495144238	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:02:39	41453486-d2b2-4f62-ad85-52f9f5ea7372	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:02:39	385473cf-821b-4e0f-b641-2d410a549d54	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:02:39	7f69a5c1-4618-4d71-8902-5f45e12d45cf	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:02:39	59c59841-c882-4737-acd4-cd1db3857403	GET	undefined	/favicon.ico
+
+20260126	22:03:06	5881740c-a3c8-4984-874f-8f576f112759	GET	undefined	/
+
+20260126	22:03:07	1a823d3d-a747-465b-87c0-93ca3b9e01af	GET	undefined	/styles/home.css
+
+20260126	22:03:07	9f40bc6e-a72e-41c6-a29d-a78bde6d6cce	GET	undefined	/Images/College_Building_1.jpg
+
+20260126	22:03:07	7f98aca4-a863-4bac-852b-c8beb5473119	GET	undefined	/styles/output.css
+
+20260126	22:03:07	9ef2006c-75c4-43f6-b5e6-87c7de6ddc94	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:03:07	849e4ed0-e919-4744-97e2-ca8fdd7ad6e1	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260126	22:03:07	3b6f9293-ed84-43ac-9f64-c5c75e79f5cf	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260126	22:03:07	dc5dd144-c89c-4a72-84ad-e836bb9ffac7	GET	undefined	/Images/logo/logo.png
+
+20260126	22:03:07	44e00230-9225-4c46-90e0-89b64e330222	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260126	22:03:07	b8973b39-4ef9-42e9-a9fa-3b19fd34f43b	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260126	22:03:07	89830f13-0846-44be-9f28-73d61322f105	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260126	22:03:07	13fa7cf2-f6bc-42ed-b666-64e1ddc8990b	GET	undefined	/Images/logo/ONMRC.png
+
+20260126	22:03:07	fac369d7-1397-4b73-9f6f-302652a24553	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260126	22:03:07	a864cf4a-2164-4ca7-aada-51989e382c95	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260126	22:03:07	caa95875-a103-4aef-b9fd-c4a49aad2928	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260126	22:03:07	1d8316a1-0915-414e-9198-b34bc5859e80	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260126	22:03:07	fed6df9b-2835-491e-a19d-7f95398c4298	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260126	22:03:07	a0a167f8-a22c-44b4-ac56-cf0890d441e3	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:03:07	ad7d03d1-b8b9-43c8-8aec-b91352c2a738	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:03:07	24db82f4-d926-4369-b2c8-f569bee926b2	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:03:07	d54aca7e-bc1c-47e1-a835-81285b0a43c4	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:03:07	d7e9f1fb-89fe-4e66-8c11-74891b957f15	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:03:07	a4aaa01b-e023-4c10-b187-d2cd2b71466a	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260126	22:03:07	fbcd6fbc-9169-409e-9aa0-162f0b5edced	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260126	22:03:07	4145f2ac-66b5-4e85-b655-129095a04ebe	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260126	22:03:07	ff85b4bd-7caa-4107-a497-4e297539a933	GET	undefined	/Images/College_Building_hor.jpg
+
+20260126	22:03:07	0327b533-609b-4bc9-b1eb-08f366f86dba	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260126	22:03:07	82d3b171-2109-474c-943a-5f916464cc82	GET	undefined	/Images/SVG/circle-check.svg
+
+20260126	22:03:07	aff29ad8-6ccd-43ad-887c-e44fb3851c80	GET	undefined	/favicon.ico
+
+20260126	22:05:05	ca659b32-0da4-48f5-9508-3d7a0fdcd1ea	GET	undefined	/about/director-message
+
+20260126	22:05:05	02736792-2bac-4835-b449-ee5c8069e37b	GET	undefined	/styles/output.css
+
+20260126	22:05:05	3c76d6de-ae27-493c-a6b7-abb945cb06c7	GET	undefined	/styles/home.css
+
+20260126	22:05:05	ea8e2749-6290-4972-ad8d-85980d4c9d8a	GET	undefined	/styles/director-msg.css
+
+20260126	22:05:05	4151ca2a-d28a-4941-93d8-448e591ee44e	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:05:05	c5e8d9a1-7f5f-48d6-81a8-aefb3b33c58e	GET	undefined	/images/logo/logo.png
+
+20260126	22:05:05	888d7519-a713-4c47-814b-91419a28f6f5	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:05:05	ee267a3f-a7ae-4dc5-8bbf-88ca98433272	GET	undefined	/Images/Director%20Photos.png
+
+20260126	22:05:05	dfbf12c9-6535-43a5-a69a-e8f2f39d81fc	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:05:05	ff5d371a-863b-44fe-a509-1148e2969ec5	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:05:05	a8f206b4-f3fd-40fc-bd21-6670620afede	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:05:05	c78565d8-eac7-477c-8c5c-660676b4c264	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:05:05	c501c96e-5b03-4615-b7bb-be3c7859d212	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:05:05	c5c3f7d3-836c-4cc7-984b-9ef8766768c7	GET	undefined	/favicon.ico
+
+20260126	22:05:07	faa62b38-7518-4a50-be1a-fa9671a273f2	GET	undefined	/about/contacts
+
+20260126	22:05:07	9d9d197c-fcbf-4799-bded-4c681b78cc1d	GET	undefined	/styles/output.css
+
+20260126	22:05:07	0e4eff21-38d7-4638-8c9c-1d08630cdae7	GET	undefined	/styles/home.css
+
+20260126	22:05:07	1a860832-3385-4360-aad1-095545d5d4e5	GET	undefined	/styles/contacts.css
+
+20260126	22:05:07	1c18fc67-0fac-4205-bdba-cf9f6a52b2bd	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:05:07	b599e579-a479-409a-8773-28376e804797	GET	undefined	/images/logo/logo.png
+
+20260126	22:05:07	dd59ae20-f775-4b0f-b753-57d3ef3ef9c1	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:05:07	ac05fd2e-05ca-49ce-8832-208ec8024d86	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:05:07	feba73f1-966d-4f7d-a3c1-b0ed36580cb2	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:05:07	49add9ec-dc40-4f41-b9da-a88600224661	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:05:07	9fbd0d4c-5c7b-4eb8-a3a9-a9a04e87528d	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:05:07	f6701e41-7663-4de0-8643-2d092ae6e7f3	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:05:07	50b16449-6947-4c1d-870f-91afd0b812e1	GET	undefined	/favicon.ico
+
+20260126	22:12:44	fda2507d-e5e4-48d4-8720-5000e2310c4e	GET	undefined	/about/about-us
+
+20260126	22:12:44	d9ec5627-f30b-4354-b962-129c1a830b58	GET	undefined	/styles/output.css
+
+20260126	22:12:44	5697cb6e-6f96-426f-b5bf-7e16a293b2a9	GET	undefined	/styles/home.css
+
+20260126	22:12:44	4b29dd01-addd-496d-a9d9-a7ef0c731727	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:12:44	b98c8248-d07c-476a-8e61-c4a967df689d	GET	undefined	/styles/director-msg.css
+
+20260126	22:12:44	bdfe0dd2-31b1-441b-82a7-727e36963db5	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:12:44	c04043ed-56eb-4bf1-8e27-aa0a12cc33fb	GET	undefined	/images/logo/logo.png
+
+20260126	22:12:44	3199160f-d16c-443c-a6bc-4032052699c5	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:12:44	47b33d28-50c6-48ff-afb8-b9172d7934e2	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:12:44	1c48ef21-3e88-4eba-84fe-8a714ced8e3d	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:12:44	c578556a-91ab-47e3-90e4-93bf29174889	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:12:44	e98f783d-2126-4421-b957-692303a32920	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:12:44	4bf2baeb-b6e5-4714-978a-9d370a94942c	GET	undefined	/favicon.ico
+
+20260126	22:12:48	9b08b53d-8d09-458e-a1b6-396004d97569	GET	undefined	/about/contacts
+
+20260126	22:12:48	77d50ecf-ab38-410f-94d5-c7e2676231a3	GET	undefined	/styles/output.css
+
+20260126	22:12:48	00fa3d71-33a1-446e-b8fc-286737b8d4ef	GET	undefined	/styles/home.css
+
+20260126	22:12:48	69e79700-fbaa-4a89-b23e-5f84a992a4ff	GET	undefined	/styles/contacts.css
+
+20260126	22:12:48	799c75ea-fb2f-43bb-94cb-d9f405a4828b	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:12:48	1b069814-d01e-4ce8-89f3-98694da1a4db	GET	undefined	/images/logo/logo.png
+
+20260126	22:12:48	ab282936-1e66-4b8a-a67a-14446bae7dbb	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:12:48	30bcc540-cfd2-4777-b899-31f60f685212	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:12:48	c4d1c779-cf10-40d3-aab1-92ea9ff0532a	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:12:48	f5655c39-a42c-4458-83e0-4edd3e59bb2b	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:12:48	83656790-ae33-4e76-962c-2531f23f61ee	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:12:48	bdbfaee0-b396-4af3-9b01-e7040539ccbc	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:12:48	2121cc36-ca3d-4e8f-bbfe-595965e20554	GET	undefined	/favicon.ico
+
+20260126	22:12:53	6bf3f239-2431-4538-ba41-0f2874357e1b	GET	undefined	/courses/gnm
+
+20260126	22:12:54	cbf9d897-c3e4-4ced-83f2-b73f130b378b	GET	undefined	/favicon.ico
+
+20260126	22:21:25	72bbfe0b-0741-45fa-be38-9544c34cc735	GET	undefined	/courses/gnm
+
+20260126	22:21:25	935f2fc9-7c28-4f1a-81e3-ca21bb6e53f9	GET	undefined	/favicon.ico
+
+20260126	22:21:26	606e422a-9d29-4c4f-b3d4-0e405001efd3	GET	undefined	/courses/gnm
+
+20260126	22:21:26	f2578056-b5ee-4fcb-9465-f0a008e294fd	GET	undefined	/favicon.ico
+
+20260126	22:23:08	b7aebc11-1efc-44d2-8b2e-ab66c955150d	GET	undefined	/courses/anm
+
+20260126	22:23:08	4897347f-cf1b-4b3f-be05-22872d817e32	GET	undefined	/favicon.ico
+
+20260126	22:30:04	3c7df075-6664-41d4-8d89-7dc55dc14975	GET	undefined	/courses/anm
+
+20260126	22:30:04	83f3b678-e99e-4ce4-a71b-be96c52726b9	GET	undefined	/favicon.ico
+
+20260126	22:30:05	d0a2e696-d752-48e3-bc71-5357b96483cb	GET	undefined	/courses/anm
+
+20260126	22:30:05	0e82ab67-2ccb-4d36-a2f8-8928d66df90b	GET	undefined	/favicon.ico
+
+20260126	22:30:05	7f082776-0922-493b-b7ae-d28be8cdbf85	GET	undefined	/courses/anm
+
+20260126	22:30:06	4176e3d3-5e2e-4b2a-8520-5665c90cc2d7	GET	undefined	/favicon.ico
+
+20260126	22:32:02	4a4cd82d-7d5e-4480-9669-69dd1d7cedb2	GET	undefined	/courses/anm
+
+20260126	22:32:02	0bc2123a-125e-4270-b57f-6f486c73f343	GET	undefined	/favicon.ico
+
+20260126	22:32:59	0bd02f58-d93c-4553-83a4-e59485457e08	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	22:33:05	04951bc2-2888-49c5-af90-30a3939e54ab	GET	undefined	/courses/anm
+
+20260126	22:33:05	cbe0d7d9-4fe2-475f-a0e1-a3b67f9bf663	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+20260126	22:33:06	95f985e1-e7f7-440c-a722-a09ddf8c34f6	GET	undefined	/favicon.ico
+
+20260126	22:49:49	282b9c11-8eac-4f3e-a151-584f4a790769	GET	undefined	/courses/anm
+
+20260126	22:49:49	726e1679-4f15-4f08-8e64-ce4fad596414	GET	undefined	/styles/output.css
+
+20260126	22:49:49	e3cdabba-f380-447b-bcca-d51e0f1e3bcd	GET	undefined	/styles/home.css
+
+20260126	22:49:49	acd0bc1b-9620-4ec4-bc69-9442adb0c5e6	GET	undefined	/styles/courses.css
+
+20260126	22:49:49	9fdff7d6-b4f3-45cd-a9f0-710826cadec2	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:49:49	837bf9bf-fbc6-43d7-b9ac-76e728a4b022	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:49:49	0c2c6d49-b0a0-4062-9a76-3d1034009735	GET	undefined	/images/logo/logo.png
+
+20260126	22:49:49	5dfcc061-5150-498e-acb6-9c6b2456952a	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:49:49	259908d0-bf5c-4750-ab1d-5d668e8ffea8	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:49:49	64f7aff4-fbe1-4301-b8da-2984c0b7baaf	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:49:49	91d87ec0-98f9-4fed-bf70-5adbab936def	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:49:49	8d44e86d-5c46-4aa1-b3e0-213acdc6a0f4	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:49:49	e7a2e18e-20f3-4c99-8842-3dc3b65cae44	GET	undefined	/favicon.ico
+
+20260126	22:51:03	a2f833c5-f7b7-4da0-9599-0f2dfb3c10a2	GET	undefined	/courses/bsc-nursing
+
+20260126	22:51:03	20631a40-c266-43aa-905e-dccde16a3b45	GET	undefined	/favicon.ico
+
+20260126	22:51:14	5f01f47f-93d2-48d2-9962-fbb41cbce3ff	GET	undefined	/courses/gnm
+
+20260126	22:51:14	92b79ea3-0078-4f80-a602-c7c1e84884d9	GET	undefined	/styles/output.css
+
+20260126	22:51:14	d29534df-9fd0-4d4f-9184-205c8fd4959d	GET	undefined	/styles/courses.css
+
+20260126	22:51:14	8800d095-b8b4-49b4-be20-e3caf81c1e04	GET	undefined	/styles/home.css
+
+20260126	22:51:14	4b58a841-ef6c-45d5-9946-685917cb0b99	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:51:14	6bc21bf9-6a63-45b1-a8eb-e5e32ab12327	GET	undefined	/images/logo/logo.png
+
+20260126	22:51:14	7bb8b5ec-6958-4ef1-84b4-0a45078072e1	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:51:14	3f1ede27-5863-42be-a545-b8cdadd8ef76	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:51:14	80915689-132f-4927-bf2e-b1334f207243	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:51:14	f575fe4e-da43-46a1-82e0-4b1e410c3fbc	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:51:14	ccdad2e4-7e4f-4937-9360-2b0af6d90219	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:51:14	b31f314e-279f-4d16-823e-3e59c363f856	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:51:14	c96cf2c2-d17c-491f-a846-f3ba99005026	GET	undefined	/favicon.ico
+
+20260126	22:51:21	00a251de-ba87-452a-b56c-6e2d1713fefe	GET	undefined	/courses/dmlt
+
+20260126	22:51:21	27177888-6b2f-4986-84ba-f30c778715a3	GET	undefined	/styles/output.css
+
+20260126	22:51:21	2bfb9602-af04-4265-b8ae-e37f1865ddeb	GET	undefined	/styles/home.css
+
+20260126	22:51:21	22d4e57f-e715-4252-9327-be005d80bdbd	GET	undefined	/styles/courses.css
+
+20260126	22:51:21	47ca82d9-729b-46a2-82aa-639a7074358e	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:51:21	687f4b65-44e0-4538-a619-c1cbd0cf4939	GET	undefined	/images/logo/logo.png
+
+20260126	22:51:21	0cfd2621-91fe-45ad-aeb5-af8a9bac24ee	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:51:21	f228140c-6886-4af6-b748-901a6466d2de	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:51:21	ecfee222-24d5-410d-ac88-97c2796738ab	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:51:21	4d495759-dcf4-4f7a-8349-03f3d38d46ba	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:51:21	489540cb-92be-40c9-a78b-d7dda5a0baf3	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:51:21	3ac0a2e6-c46e-4c8d-a775-fc4b38bedabe	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:51:21	23014fb3-3c1a-4000-964b-e8bac7bbe9a1	GET	undefined	/favicon.ico
+
+20260126	22:52:12	deee30d5-fd02-4c01-8958-6ca90b1741aa	GET	undefined	/courses/bsc-nursing
+
+20260126	22:52:12	3c7a5ff3-e3ac-489c-bbca-67e357f7cabf	GET	undefined	/favicon.ico
+
+20260126	22:52:44	71300012-c3f3-42f3-bc5f-555e89dc334b	GET	undefined	/courses/bsc-nursing
+
+20260126	22:52:44	e38c4af7-68c4-4dc0-ab97-54bad6df406e	GET	undefined	/styles/output.css
+
+20260126	22:52:44	acf88727-d2a1-44a1-ae76-268f19aa2eb6	GET	undefined	/styles/home.css
+
+20260126	22:52:44	6de9fc58-5a16-4218-8885-5922f92d87b4	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:52:44	f3c71b64-5f51-4577-bb69-0fa8a72dcc48	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:52:44	f7b47ab2-0944-449e-8fb2-3a7ffbf16589	GET	undefined	/styles/courses.css
+
+20260126	22:52:44	5da114f7-9e50-4e1e-842f-e52e22fc7915	GET	undefined	/images/logo/logo.png
+
+20260126	22:52:44	665644e6-01b4-4698-8179-c715d6ef7951	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:52:44	0505bcc0-6f85-4cf1-84a0-7ae1f5faf4c5	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:52:44	28bd82d0-1679-4221-a029-3320bc864094	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:52:44	a3ad8c27-604a-470f-bcb2-436ab3ff9f8e	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:52:44	0ffc08a8-7fa0-45bd-8c81-1c82a851d394	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:52:44	c13b1147-605b-42ab-89bc-a516104b3e04	GET	undefined	/favicon.ico
+
+20260126	22:52:58	918c153a-ee11-443c-8832-f07b37a494dc	GET	undefined	/about/director-message
+
+20260126	22:52:58	a90618c2-3b15-4769-b839-f43144ccc2a8	GET	undefined	/styles/output.css
+
+20260126	22:52:58	54960bd7-5048-4e29-b60b-6c486de94228	GET	undefined	/styles/home.css
+
+20260126	22:52:58	c8f4b73e-ca66-4e2b-be6f-640082d77456	GET	undefined	/styles/director-msg.css
+
+20260126	22:52:58	8e05adc1-332a-4e33-be6b-5c28f3b5d678	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:52:58	dae9a995-8075-49fb-89e0-42827611773d	GET	undefined	/images/logo/logo.png
+
+20260126	22:52:58	a2cdbf08-fc3f-4379-8617-e188a0e44547	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:52:58	406f3ea2-809c-4111-8596-e102b1275f19	GET	undefined	/Images/Director%20Photos.png
+
+20260126	22:52:58	db42f231-4801-4298-9770-298e572e64fc	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:52:58	7c1f56c4-4902-48eb-9f74-7751dd548f9f	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:52:58	6194c004-a85a-46de-8069-c3daa88e9b91	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:52:58	e00e137d-c3ea-4383-8c9e-516726110363	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:52:58	e441eecf-6d6e-4859-bac5-0c16b8bdd445	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:52:58	bf818c63-6b1d-4638-8b35-1cbf44540b58	GET	undefined	/favicon.ico
+
+20260126	22:53:00	4abe6119-50a9-4a6b-a958-5609994633dc	GET	undefined	/admissions/scholarship
+
+20260126	22:53:00	10a93761-ca62-4ae0-9606-a0e2e1c977ef	GET	undefined	/styles/output.css
+
+20260126	22:53:00	eebf7ad3-bf45-4f0a-9fe0-d48895f32be1	GET	undefined	/styles/home.css
+
+20260126	22:53:00	653cf5de-033b-494c-bf77-e59553febf16	GET	undefined	/styles/courses.css
+
+20260126	22:53:00	bad67a92-4632-4cfe-a755-238ca2925bb4	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:53:00	ea92ec1b-7c3b-4af1-8ec2-afcc99b0f393	GET	undefined	/images/logo/logo.png
+
+20260126	22:53:00	8aebcc46-6e37-4917-8230-aa3897ad0e04	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:53:00	b1e21867-8ed9-468e-8e36-aeae7dad1ec3	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:53:00	65781dd0-5639-4996-8449-1ccaa55cd8d5	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:53:00	80719804-1b5f-4a7f-93af-d403c24eaba8	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:53:00	7cf4ac4f-8718-4fc1-98c6-992c5d83a7e6	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:53:00	0f0422fd-92c7-44c5-ad28-741b55e18592	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:53:00	df032464-cff5-4fdd-bdfc-9d4c444fa45b	GET	undefined	/favicon.ico
+
+20260126	22:53:02	ea8c2190-664f-4272-aa08-0c8d8e1cf056	GET	undefined	/about/contacts
+
+20260126	22:53:02	89592db3-70f4-4a51-87f1-f0ee3f22b72c	GET	undefined	/styles/output.css
+
+20260126	22:53:02	7d018b15-34d7-4c7f-945b-f6ce609351a7	GET	undefined	/styles/home.css
+
+20260126	22:53:02	d90304a3-fe25-47dd-9c42-b04bc8dc6968	GET	undefined	/styles/contacts.css
+
+20260126	22:53:02	68b9e9c2-787c-4f49-933c-3a4f8a289360	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:53:02	4bd4d583-43ed-415f-9b94-a4d8f56e8360	GET	undefined	/images/logo/logo.png
+
+20260126	22:53:02	a98971ff-2763-4a1e-b8c5-a106010cc4eb	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:53:02	e7fa7b10-76cc-47b7-a349-2a938906bba0	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:53:02	718eeb4d-72ab-4c8f-980e-5ec4ecb43e13	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:53:02	5aee6713-e2d3-4a7b-92ed-ebd2c0997a18	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:53:02	d5344e82-135e-42b2-9acd-1b008df0b0ab	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:53:02	390c5f5c-b488-43f6-9e64-67fd8155cef3	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:53:02	764970b2-3369-4328-8474-3b243f2ec229	GET	undefined	/favicon.ico
+
+20260126	22:53:07	4f73697b-b5de-491a-93da-0209dee748dc	GET	undefined	/about/contacts
+
+20260126	22:53:07	62ae243c-6931-4022-93a1-5a940ea45633	GET	undefined	/styles/output.css
+
+20260126	22:53:07	a2249f9a-5abc-4387-a92c-dc87fbfdae43	GET	undefined	/styles/home.css
+
+20260126	22:53:07	0acccdf5-0dc2-48e5-a187-dc642cafe8e4	GET	undefined	/styles/contacts.css
+
+20260126	22:53:07	3447d239-4e86-4513-8d17-ff8a72878da2	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:53:07	9c974db9-9dfd-4a65-8ad8-8b410ee062cc	GET	undefined	/images/logo/logo.png
+
+20260126	22:53:07	178f6736-41b7-4cda-81a5-eb80457823e6	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:53:07	d6875abb-6caf-4760-a23b-e97ee8ea10f9	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:53:07	1ecd545b-9a83-4d39-a5e6-5335da76b108	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:53:07	aa0d744c-5fd4-435a-822a-d65afeec3374	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:53:07	70924181-56fb-44eb-84c3-5e113ed1a04c	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:53:07	f2233de2-5c12-491d-9411-8391e9b1ed2b	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:53:07	39801add-6661-47af-bdb4-d8bdfeadfe53	GET	undefined	/favicon.ico
+
+20260126	22:58:53	74a3a79e-a25a-4f55-bdda-9006ce3e731c	GET	undefined	/about/contacts
+
+20260126	22:58:53	4465f9a9-c41e-4f0f-9fc7-38e81f723dab	GET	undefined	/styles/output.css
+
+20260126	22:58:53	afc03463-2b17-4cdf-9286-c5dc19dea019	GET	undefined	/styles/home.css
+
+20260126	22:58:53	d8157205-cf1d-4818-b0d5-78a03f1f31d3	GET	undefined	/styles/contacts.css
+
+20260126	22:58:53	de20079c-f2ec-4d86-861d-e736665bd6e1	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:58:53	a0cb1feb-bfb8-441a-88ed-9aceb1558284	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:58:53	cad3c43e-2063-4bfd-a536-3601369e420b	GET	undefined	/images/logo/logo.png
+
+20260126	22:58:53	deb57a33-1621-4917-a59f-fdcaa321c834	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:58:53	5c415f64-ffa1-46d7-a53e-e64131346bc3	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:58:53	8c8ef2e5-b20c-4f7d-a023-c8fcc3bd97bb	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:58:53	14718d9c-902e-49d2-937d-8e9487628a92	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:58:53	31fe4390-9493-45d3-a79b-08725b984b1d	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:58:53	b8712dce-3ae6-48dc-a849-6b836d2f519a	GET	undefined	/favicon.ico
+
+20260126	22:58:57	c33629b7-0d95-47b4-ae20-4113a8fee9c2	GET	undefined	/about/director-message
+
+20260126	22:58:57	f59286ec-212b-420e-b708-26f1dad3db9b	GET	undefined	/styles/output.css
+
+20260126	22:58:57	74d25f0f-73ba-42e3-a605-420607754068	GET	undefined	/styles/home.css
+
+20260126	22:58:57	d1a1cbee-bb79-4a7a-904e-56b5560130c5	GET	undefined	/styles/director-msg.css
+
+20260126	22:58:57	65522ad5-c9f2-47d6-8eab-1ae91bed7954	GET	undefined	/Images/director-msg.jpg
+
+20260126	22:58:57	879d7073-2000-48f6-a44c-cf714bdef382	GET	undefined	/images/logo/logo.png
+
+20260126	22:58:57	f7c99c67-5191-44a0-98d8-95bbf0cfb925	GET	http://localhost:3500	/main_anim.js
+
+20260126	22:58:57	455ff829-f5d7-4d98-b116-bc04a365b63c	GET	undefined	/Images/Director%20Photos.png
+
+20260126	22:58:57	d2f641c5-04af-413b-8723-14fb5f44cde7	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	22:58:57	f8675833-1328-4c1b-ac06-062bee75c84b	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	22:58:57	9d70e3dc-23b0-4451-961d-050fd99ae039	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	22:58:57	0c6845e4-ebb4-419e-9016-77bca93c3571	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	22:58:57	43e33b54-265a-4d62-aba7-da8db918aa67	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	22:58:57	cf9ce9b7-67f0-4a92-ba3e-4cdbcf4f28df	GET	undefined	/favicon.ico
+
+20260126	23:08:14	a32bc0ab-42b6-4e97-a538-e3af6fc3e282	GET	undefined	/about/director-message
+
+20260126	23:08:14	d82d5a23-01dd-49cf-a503-6072dc045172	GET	undefined	/styles/output.css
+
+20260126	23:08:14	00b602ef-a04d-47d7-b65b-b04c368e79f9	GET	undefined	/styles/home.css
+
+20260126	23:08:14	e846793c-be83-435f-9370-d8fee57007ad	GET	undefined	/styles/director-msg.css
+
+20260126	23:08:14	d36a6357-f7ab-4748-8457-47aae4f45af9	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:08:14	a7870871-fb6f-4cc0-9a62-47c36ce3be59	GET	undefined	/Images/director-msg.jpg
+
+20260126	23:08:14	9fc8bac9-dcc4-4271-9346-844dd58dba81	GET	undefined	/Images/Director%20Photos.png
+
+20260126	23:08:14	3184fe41-dbc5-4610-9b75-83acd03e3337	GET	undefined	/images/logo/logo.png
+
+20260126	23:08:14	6d4a2623-4d4d-4b5f-a04d-f9f0f3f72237	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:08:14	5b3929ba-cb03-4dfa-8bf1-491ee09897ac	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:08:14	398c76a9-2197-433f-87b4-7f057a1fe7d0	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:08:14	d11fc717-81a4-4dd9-8a04-edc228a9fa81	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:08:14	2100c393-8dfb-4453-b75a-db1892ef23d6	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:08:14	e6253c07-6d87-4eb0-af15-92e616582678	GET	undefined	/favicon.ico
+
+20260126	23:12:02	b40299fb-9278-4b5c-82ef-a20639e4b915	GET	undefined	/
+
+20260126	23:12:02	46203399-0919-45d0-b865-8be7007bee9c	GET	undefined	/favicon.ico
+
+20260126	23:12:27	118028d1-7842-46cb-9ad0-8980061b274e	GET	undefined	/
+
+20260126	23:12:31	ac232279-2896-4eae-859c-0385490ddd21	GET	undefined	/favicon.ico
+
+20260126	23:12:34	8476be0f-844f-4aad-83dd-5dc071c2edff	GET	undefined	/
+
+20260126	23:16:29	b2b12433-2410-4e4d-8ed7-5c09ada8274c	GET	undefined	/about/director-message
+
+20260126	23:16:29	73a2b60f-6afa-4b74-a101-00243eae57f5	GET	undefined	/styles/output.css
+
+20260126	23:16:29	4146bc90-86a6-45d9-a53d-54544371e550	GET	undefined	/styles/home.css
+
+20260126	23:16:29	e53f8b6f-5d19-4e15-b51e-8ced7f61f490	GET	undefined	/styles/director-msg.css
+
+20260126	23:16:29	7e7a68fc-476d-4bf7-891e-657ed92b3e10	GET	undefined	/Images/director-msg.jpg
+
+20260126	23:16:29	1a38eceb-72bc-417d-a6ed-04e6b1bbe8c1	GET	undefined	/Images/Director%20Photos.png
+
+20260126	23:16:29	2cf9d49b-47a2-4a18-ae6b-4bc750494bef	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:16:29	8c9c0265-7faf-4d0f-992c-831d0a438317	GET	undefined	/images/logo/logo.png
+
+20260126	23:16:29	446cf6c6-d1a0-4abc-8374-78b342eb065b	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:16:29	0bfdf559-5578-492a-b1b5-27108811a90d	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:16:29	9ae7d11b-c371-42d1-8458-f5c9dced69d6	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:16:29	c5dca01a-1e8e-4d49-807d-36c6fa358375	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:16:29	ac873af2-55de-49f4-9dc3-0fa8f0d35223	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:16:29	d5b3a899-dcdd-47ec-8888-99795d46c32b	GET	undefined	/favicon.ico
+
+20260126	23:16:31	83452663-4459-4d43-8f14-f44ad80e91c9	GET	undefined	/
+
+20260126	23:16:31	f39e317c-49c1-4ddd-bf65-15b8ed375834	GET	undefined	/styles/output.css
+
+20260126	23:16:31	2a5062d6-795f-45e7-b790-8a4e97f29324	GET	undefined	/styles/home.css
+
+20260126	23:16:31	e1d0d9c6-42cf-4c24-bfc3-c8304ca8f6bb	GET	undefined	/Images/College_Building_1.jpg
+
+20260126	23:16:31	cf366308-c1d8-42b6-8b20-9a36270d4d75	GET	undefined	/images/logo/logo.png
+
+20260126	23:16:31	1d43e752-0982-4723-8df7-bba5d7a6060a	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:16:31	326f1677-a1b5-4933-ae26-f0607312401a	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260126	23:16:31	44be0691-3235-4f89-816e-b342dfbebe1d	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260126	23:16:31	e7bbb083-0d20-4ba8-9176-beaccd32c7af	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260126	23:16:31	07dee5f8-7cc9-42e9-98a4-2bfb5a4edaf4	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260126	23:16:31	e03b77d7-d6dc-420c-8d40-23052b27ecc5	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260126	23:16:31	205d9bf2-08aa-4198-8337-8760a3f781bf	GET	undefined	/Images/logo/ONMRC.png
+
+20260126	23:16:31	9fa7e971-0130-4c15-ba2a-323e17dce146	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260126	23:16:31	86862630-9770-47db-a505-254a404b91c4	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260126	23:16:31	436dad5a-1392-4a6b-b2af-c14a0d60b895	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260126	23:16:31	ccefa04d-aa43-4a67-b4ca-a2c5940112f1	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260126	23:16:31	6e32c519-ce1c-4198-88f0-874f3389fa52	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260126	23:16:31	00732c1c-ede6-4354-8b29-44d018c1041e	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260126	23:16:31	ca462523-d158-4371-b41d-5fea6748df5a	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260126	23:16:31	22dac8b3-535b-4350-a098-c6c71431545e	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260126	23:16:31	a1b177a8-ed60-4852-8170-e96ac8c40648	GET	undefined	/Images/College_Building_hor.jpg
+
+20260126	23:16:31	da1b4d1e-9e96-4beb-807d-c776a58dae8f	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260126	23:16:31	7cca0ec4-4a16-49b0-b0aa-c728315e1620	GET	undefined	/Images/SVG/circle-check.svg
+
+20260126	23:16:31	27916f3e-ca79-42f4-96cb-03a1bbbe0c6a	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:16:31	3f1e8aab-6e5d-46ef-98ff-c6d05f095633	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:16:31	4c64d23b-683f-4b0f-9228-abc7dd363175	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:16:31	005deea9-65a6-490f-8c63-a24ad862b6ef	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:16:31	6c8ea2bc-181a-48b8-9fd3-623077b4888e	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:16:31	7b5ca97b-c0aa-44f4-b6f3-5005f5889ee3	GET	undefined	/favicon.ico
+
+20260126	23:17:40	f0a53627-a46e-456e-bf2c-48198e416ae1	GET	undefined	/
+
+20260126	23:17:40	1e66195d-c55b-421c-a0b6-0bdc3a965f70	GET	undefined	/styles/output.css
+
+20260126	23:17:40	16853a5b-de91-4363-9193-43a2b9ff408f	GET	undefined	/styles/home.css
+
+20260126	23:17:40	40f4ba23-92bc-4bb5-ad9a-6551822abb6d	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:17:40	262b0fe1-5b4e-4773-b92b-99d7ef8eb5ea	GET	undefined	/Images/College_Building_1.jpg
+
+20260126	23:17:40	0d1c75c2-1dd8-4165-b9b0-a7880cb8681d	GET	undefined	/images/logo/logo.png
+
+20260126	23:17:40	b6d1f7da-c4b6-46f6-b5b8-bd234410bb42	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260126	23:17:40	f92da954-811e-4c1d-b691-4dc37d5a7a17	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260126	23:17:40	dc301b13-6b4a-4444-923b-d51f79680cd2	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260126	23:17:40	6f0a1e97-f1bb-41b3-a232-b68a6f2719f3	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260126	23:17:40	8652f9e2-6eee-474d-9228-32aa16df8bc6	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260126	23:17:40	bde45f44-3b8b-496f-b54d-90bddc96f1a0	GET	undefined	/Images/logo/ONMRC.png
+
+20260126	23:17:40	07af75c5-8f59-4dfa-a51d-1acb7349e1e8	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260126	23:17:40	f1b9755a-9a6c-4761-9815-ad2b2e67b806	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260126	23:17:40	bb72c5ea-64e7-4ff6-a9f3-82f9d02b8f78	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260126	23:17:40	046e2c0c-d3f4-49bc-8837-f5d96f0b4b3e	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260126	23:17:40	965a26b8-f884-452a-aa70-f743fbba9abb	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:17:40	ab7e86f5-2aa0-49a9-b23c-e74b9f142c54	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:17:40	a0762142-24f7-4f86-b5c3-269e29fd6030	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:17:40	4324f326-ee50-419c-bbb1-6879017e5c07	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:17:40	eceb9c2c-f22f-4ade-a577-bc92ad8ed699	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:17:40	65a2629f-4871-4403-b7c1-7ff640f0046b	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260126	23:17:40	f6e27bf7-d0f4-49ad-afee-01d2832d282c	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260126	23:17:40	971765c6-a363-4b1e-99ce-e234c6c1bf8d	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260126	23:17:40	73560ff1-95bb-409b-b57e-107e64b2385b	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260126	23:17:40	5621f9ee-4102-4f88-aa79-e18284453030	GET	undefined	/Images/College_Building_hor.jpg
+
+20260126	23:17:40	e121724a-7d53-4769-ad78-4b953817e795	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260126	23:17:40	23431887-f0b5-4ee1-85ee-4b0fb23f5bee	GET	undefined	/Images/SVG/circle-check.svg
+
+20260126	23:17:40	e9f60b55-f49f-46ff-99db-05fa0472469c	GET	undefined	/favicon.ico
+
+20260126	23:17:41	a604f50b-4910-453f-9580-a3b1993036ea	GET	undefined	/
+
+20260126	23:17:41	704f7a6b-a6de-4cbe-8a2d-fb0536e41037	GET	undefined	/styles/output.css
+
+20260126	23:17:41	c6fc46de-7c99-4128-8928-c9cc54ab1f4e	GET	undefined	/styles/home.css
+
+20260126	23:17:41	99d5e6f9-3917-490f-a7d3-2af2cef721f1	GET	undefined	/Images/College_Building_1.jpg
+
+20260126	23:17:41	fffd19a9-f23e-4b1e-994a-9a1765f880a8	GET	undefined	/images/logo/logo.png
+
+20260126	23:17:41	9a4ce7a4-89e4-45b8-9a45-51a01faaaf2e	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:17:41	822222b0-bb0f-4fa9-a4ac-b4079714b6fb	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260126	23:17:41	0c7f9bd6-ac74-40bd-9af5-b24b45e6402c	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260126	23:17:41	a5aa4d03-380d-4e83-9bcc-469bec2efa5a	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260126	23:17:41	f9f3369d-52eb-42d7-a10f-4db848c0ffa3	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260126	23:17:41	4e1f97a8-a376-4da0-ae3b-f875a41198da	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260126	23:17:41	0a823033-fa30-4dbb-9e04-95ddfc6127ed	GET	undefined	/Images/logo/ONMRC.png
+
+20260126	23:17:41	314755df-ec33-4fec-a992-f0da20621dbb	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260126	23:17:41	9f965302-8259-435c-bf08-a5dd1854448a	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260126	23:17:41	557a0a26-3b2e-472e-9ddf-154c76d55587	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260126	23:17:41	d53c9e66-80c7-4b3a-a940-4ee9682fc05c	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260126	23:17:41	207fecab-5c7b-4de7-945e-ecdbb29e6e55	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260126	23:17:41	047af18f-ec85-40e3-acec-dbcc84c1efd2	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:17:41	d766b215-48e0-4d5c-a594-23832493e594	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:17:41	d1ea1d90-3a80-4623-9c73-65ab5baeeaa1	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:17:41	ef14255e-97fc-40c5-9e9a-8f1ea5d0b243	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:17:41	ce4661d3-8f2e-4bd0-852b-592a14ec0ca8	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:17:41	2de6dee4-28ca-4427-b85a-54f70ecff874	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260126	23:17:41	5105824b-2743-4fc2-ad2c-528eb60a2dc9	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260126	23:17:41	c074a52b-80ce-4262-b7e2-fc590ba4a506	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260126	23:17:41	dd2ec949-a55f-459b-aac1-40144afa54a0	GET	undefined	/Images/College_Building_hor.jpg
+
+20260126	23:17:41	3f33eee5-1be6-4c91-b6e5-a1588e28ac2a	GET	undefined	/favicon.ico
+
+20260126	23:17:45	1a960b81-4233-495f-8649-36d489ffc535	GET	undefined	/about/director-message
+
+20260126	23:17:45	28d2a055-9253-4f05-b6ab-6fd79f47d256	GET	undefined	/styles/output.css
+
+20260126	23:17:45	9c4b632e-903b-48a1-af1a-30364f4b8558	GET	undefined	/styles/home.css
+
+20260126	23:17:45	7758ddd9-d7e0-46f5-9fb5-940eeecb7d74	GET	undefined	/styles/director-msg.css
+
+20260126	23:17:45	311ce33e-820f-4d40-9a2e-1a8e963453ae	GET	undefined	/Images/director-msg.jpg
+
+20260126	23:17:45	c53c1972-9f1a-49a6-862b-1f9cc87cb319	GET	undefined	/images/logo/logo.png
+
+20260126	23:17:45	d3304dbc-9a7a-4e2c-a6c5-efc7bc9eac2e	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:17:45	80cdf63b-7e8b-443d-9c34-d758cb7bec53	GET	undefined	/Images/Director%20Photos.png
+
+20260126	23:17:45	c3f87d3c-1545-48bf-a212-b0466970becd	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:17:45	8b7c6aa2-196a-4312-ac29-f8229e6ac1df	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:17:45	da353b2e-a9da-4bf1-9699-00fc30a7fccd	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:17:45	16cce310-0d89-437d-9d42-86c53424a8f2	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:17:45	93980c71-cfa1-47ef-b163-a246e782cd9c	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:17:45	9bfef125-f232-4c92-aef7-ba7086dd7800	GET	undefined	/favicon.ico
+
+20260126	23:17:47	b2758e08-4c5f-4515-a5ed-4610d9d1ae9e	GET	undefined	/favicon.ico
+
+20260126	23:19:08	b77085ce-1c62-46e9-825a-2f1d994755e9	GET	undefined	/
+
+20260126	23:19:08	edfe0456-4f10-4da0-8b89-f671732b68a4	GET	undefined	/styles/output.css
+
+20260126	23:19:08	69cdb2a2-80f9-48f3-bdbc-29207f591ac1	GET	undefined	/styles/home.css
+
+20260126	23:19:08	dc10c2a4-c434-4852-8d78-2312bd7032db	GET	undefined	/Images/College_Building_1.jpg
+
+20260126	23:19:08	ee396192-2684-4c93-a339-16b496628181	GET	undefined	/Images/test%20img/1961pic.webp
+
+20260126	23:19:08	f5590c93-5b9c-4b45-8414-23e5b4ef4732	GET	undefined	/images/logo/logo.png
+
+20260126	23:19:08	2dc792f4-1fd1-470b-9dff-875622915d79	GET	http://localhost:3500	/main_anim.js
+
+20260126	23:19:08	365f1659-c761-4cea-a5bd-6941653c8229	GET	undefined	/Images/test%20img/1963pic.webp
+
+20260126	23:19:08	c47700bb-685b-4bcb-82b7-afc6b756443e	GET	undefined	/Images/test%20img/2000pic.webp
+
+20260126	23:19:08	9d7616cb-a14d-4c50-86fa-28488c413bcc	GET	undefined	/Images/test%20img/2008pic.webp
+
+20260126	23:19:08	460277fb-0432-4ec5-b529-d7499a56f8bc	GET	undefined	/Images/logo/HFW_Dept.png
+
+20260126	23:19:08	f190ffdb-c7a8-4227-9506-fc1b23a25f6c	GET	undefined	/Images/logo/ONMRC.png
+
+20260126	23:19:08	e22342c8-950d-46c4-b62e-263b6039d928	GET	undefined	/Images/logo/Hospitals/khurdha.png
+
+20260126	23:19:08	70669d85-56eb-4bca-bb8b-e0786d6c2fa6	GET	undefined	/Images/logo/Hospitals/LOGO_igkc.png
+
+20260126	23:19:08	89aa6687-ce26-4d78-8232-55da2f2ac444	GET	undefined	/Images/logo/Hospitals/cares-logo.webp
+
+20260126	23:19:08	91fd8d03-ef14-47ed-bfda-f834998b055e	GET	undefined	/Images/logo/Hospitals/Aditya_Ashwini.jpg
+
+20260126	23:19:08	0892cb90-97cf-436f-8876-05effd40f02d	GET	undefined	/Images/logo/Hospitals/capital.png
+
+20260126	23:19:08	f24eb7d6-0ddf-456e-a407-20988e376ef0	GET	undefined	/Images/logo/Hospitals/BMC.png
+
+20260126	23:19:08	47f506b9-71ca-4a69-aea0-ea9493c07efb	GET	undefined	/Images/logo/Hospitals/CHC.png
+
+20260126	23:19:08	97089f25-5ecd-401a-a994-8b1b0a19b10f	GET	undefined	/Images/logo/Hospitals/gen-x-diagnostics.jpg
+
+20260126	23:19:08	3ca4e26b-937f-40a9-98fa-1cc670b4470d	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260126	23:19:08	6ed1d2a2-f049-4184-a987-f1b140beef95	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260126	23:19:08	d5290798-7383-4e38-a2be-845978edcbf2	GET	http://localhost:3500	/scripts/count-digit.js
+
+20260126	23:19:08	fed398e9-6a0d-4eb8-8138-e8c702371213	GET	http://localhost:3500	/scripts/accordion-display.js
+
+20260126	23:19:08	8e41edcd-04da-4b05-bd66-5e649c6d1333	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260126	23:19:08	ef29d864-11b9-4a68-b1c0-46c14bc1b75e	GET	undefined	/Images/College_Building_hor.jpg
+
+20260126	23:19:08	bc0d3d43-d065-4f91-9466-c29987cc79a8	GET	undefined	/Images/SVG/hm-news-arroww.svg
+
+20260126	23:19:08	df5453be-f678-4844-ba9f-6027f954e446	GET	undefined	/Images/SVG/circle-check.svg
+
+20260126	23:19:08	942f02c0-474b-48d4-966b-45d76dbe1e74	GET	undefined	/favicon.ico
+

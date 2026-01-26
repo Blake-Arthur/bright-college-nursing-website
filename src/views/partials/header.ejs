@@ -1,0 +1,89 @@
+<!--Hero Section-->
+<div class="relative w-full <%= heroHeight || 'h-[560px]' %> overflow-hidden">
+    <img src="<%= heroImage || '/images/College_Building_1.jpg' %>" alt="<%= heroAlt || 'Bright School of Nursing' %>"
+        class="h-full w-full object-cover">
+
+    <!--Dark Overlay-->
+    <div class="absolute inset-0 bg-black/<%= transparency || 35%> z-10"></div>
+
+    <!--Header bar-->
+    <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
+
+        <!--Logo-->
+        <div class="logo cursor-pointer">
+            <img src="/images/logo/logo.png" alt="logo Bright Nursing" class="h-full w-full object-contain"><a
+                href="/"></a>
+        </div>
+
+        <!--Nav bar-->
+        <nav class="flex justify-between items-center w-[260px] text-white">
+            <div id="search-icon">
+                <button class="h-12 w-12 bg-[#293519] cursor-pointer">
+                    <i class="fa-solid fa-magnifying-glass text-xl"></i>
+                </button>
+            </div>
+            <div id="login-icon">
+                <button class="h-12 w-12 bg-[#293519] cursor-pointer">
+                    <i class="fa-solid fa-user text-xl"></i>
+                </button>
+            </div>
+            <div id="menu-tab-icon">
+                <button class="h-12 w-12 bg-[#293519] cursor-pointer">
+                    <i class="fa-solid fa-bars text-xl"></i>
+                </button>
+            </div>
+            <div id="apply-button">
+                <button class="h-12 w-24 text-base bg-[#293519] cursor-pointer">Apply Now</button>
+            </div>
+        </nav>
+    </header>
+
+    <!--search button page-->
+    <div class="search-container absolute inset-0 bg-black/85 z-40 ">
+        <div class="pt-[30px] pb-[30px] pl-[30px] pr-0">
+            <input class="search-bar" type="text" placeholder="Search">
+        </div>
+        <button class="h-16 w-20 bg-white text-2xl rounded-e-4xl align-middle cursor-pointer">
+            <i class="fa-solid fa-magnifying-glass "></i>
+        </button>
+    </div>
+
+    <div class="close-btn absolute top-16 right-14 z-50">
+        <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+    </div>
+
+    <!--Menu tab-->
+    <div class="menu-tab-block ">
+        <div class="flex flex-row w-full h-full justify-between items-center">
+
+            <!--logo & exit button-->
+            <div class="absolute flex flex-row justify-between items-center top-12 h-20">
+                <div class="logo cursor-pointer">
+                    <a href="/">
+                        <img src="/images/logo/logo.png" alt="logo Bright Nursing" class="h-25 w-25 object-contain">
+                    </a>
+                </div>
+
+                <div class="close-btn">
+                    <button class=" h-12 w-12 bg-white text-2xl rounded-4xl cursor-pointer ">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!--menu tab items-->
+            <div class="menu-tab-items absolute flex flex-col top-25 ">
+                <p><a href="/About/about-us" class="inline underline">About</a></p>
+                <p><a href="" class="inline underline">Announcements</a></p>
+                <p><a href="" class="inline underline">Academics</a></p>
+                <p><a href="/About/director-message" class="inline underline">Director's Message</a></p>
+                <p><a href="" class="inline underline">Campus Life</a></p>
+                <p><a href="" class="inline underline">Educational Programmes & Seminars</a></p>
+                <p><a href="" class="inline underline">Faculty & Staff</a></p>
+                <p><a href="" class="inline underline">Lab Facilities</a></p>
+            </div>
+        </div>
+    </div>
+</div>

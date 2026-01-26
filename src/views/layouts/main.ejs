@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title><%= title || "Bright School of Nursing" %></title>
+
+    <!-- Icons / Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css">
+
+    <!-- Global Styles -->
+    <link rel="stylesheet" href="/styles/output.css">
+    <link rel="stylesheet" href="/styles/home.css">
+
+    <!-- Page-specific styles (optional) -->
+    <% if (typeof styles !== "undefined" && styles.length) { %>
+    <% styles.forEach(style => { %>
+    <link rel="stylesheet" href="<%= style %>">
+    <% }) %>
+    <% } %>
+
+</head>
+
+<body class="bg-[#FBF7EE]">
+
+    <!-- Header / Navbar / Hero -->
+    <%- include("../partials/header") %>
+
+    <!-- Page Content -->
+    <main>
+        <%- body %>
+    </main>
+
+    <!--Go to Top button-->
+    <%- include("../partials/gotoTop") %>
+
+    <!-- Footer -->
+    <%- include("../partials/footer") %>
+
+    <!-- Global Animations / JS -->
+    <script type="module" src="/main_anim.js"></script>
+
+    <!-- Page-specific scripts -->
+    <% if (scripts && scripts.length) { %>
+    <% scripts.forEach(script => { %>
+    <script src="<%= script %>"></script>
+    <% }) %>
+    <% } %>
+
+</body>
+
+</html>

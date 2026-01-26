@@ -1,17 +1,8 @@
 const express = require("express");
 const router = express.Router();
-const path = require("node:path");
+const pages = require("../config/campusConfig");
+const { renderFrom } = require("../controllers/genericController");
 
-const allowedPages = [];
-
-router.get("/:campus", (req, res, next) => {
-  const campus = req.params.campus;
-
-  if (!allowedPages.includes(campus)) return next();
-
-  res.sendFile(`${campus}.html`, {
-    root: path.join(__dirname, "..", "public", "Campus"),
-  });
-});
+router.get("/:slug", renderFrom(pages));
 
 module.exports = router;
