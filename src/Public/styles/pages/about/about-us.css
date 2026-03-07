@@ -1,0 +1,157 @@
+/*About Us*/
+.our-institutes {
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+}
+
+.our-institutes ul {
+  padding: 1rem;
+}
+
+.our-institutes > img {
+  height: 400px;
+  width: auto;
+  border-radius: 30px;
+}
+
+.institute-grid {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  align-items: center;
+  left: 0;
+}
+
+.institute-card {
+  height: 100px;
+  width: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  /* border: 2px solid grey; */
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
+  border-radius: 1.5rem;
+  padding: 0 1rem 0 1rem;
+}
+
+.institute_card__description {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.institute_card__description img {
+  height: 5rem;
+  width: auto;
+}
+
+.institute-card__title {
+  font-size: 1.5rem;
+}
+
+.institute-card__courses {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 1em;
+}
+
+.course-badge {
+  border-radius: 2rem;
+  background-color: #293519;
+  font-size: 1.2rem;
+  color: white;
+  margin-top: 0.5em;
+  padding: 0.5em 1.25rem 0.5em 1.25rem;
+  box-shadow: 4px 4px 2px #888888;
+  transition:
+    background-color 200ms ease-in-out,
+    color 200ms ease-in-out;
+  /* font-weight 300ms ease-in-out; */
+}
+
+.course-badge:hover {
+  background-color: white;
+  color: #293519;
+  font-weight: 600;
+  border: 2px solid #293519;
+}
+
+#about-institution,
+#mission-vision,
+#accreditions {
+  scroll-margin-top: 10rem;
+}
+
+.info-section {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  /* gap: 1em; */
+}
+
+.additional-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1em;
+}
+
+.additional-info__list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1em;
+  font-size: 1rem;
+}
+
+.additional-info ul li {
+  font-size: 1.1rem;
+}
+
+/* Permitted & recognized by */
+
+.recognition-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  margin-top: 1rem;
+}
+
+.recognition-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.5rem;
+}
+
+.recognition-logo {
+  max-width: 160px;
+  height: auto;
+}
+
+.recognition-title-group {
+  display: flex;
+  flex-direction: row;
+  gap: 0.75rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  .recognition-grid {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: start;
+  }
+
+  .recognition-card {
+    align-items: center;
+  }
+}

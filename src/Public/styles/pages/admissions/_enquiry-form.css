@@ -1,0 +1,164 @@
+/* =========================
+        Enquiry form 
+   ========================= */
+#openEnquiry {
+  position: fixed;
+  top: 45%;
+  right: 0;
+  transform: translateY(-50%) rotate(180deg);
+  background-color: #293519;
+  color: white;
+  padding: 6px 8px;
+  font-size: 20px;
+  height: 180px;
+  width: 60px;
+  font-weight: bold;
+  border-radius: 0px 8px 8px 0px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  writing-mode: vertical-rl;
+  z-index: 50;
+}
+
+.enquiry-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.4); /* dim effect */
+  backdrop-filter: blur(6px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease;
+}
+
+.enquiry-overlay.is-active {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.enquiry-overlay__inner {
+  position: relative;
+
+  background-color: #d9d9d9;
+  height: 96vh;
+  width: 540px;
+  padding: 1.5rem;
+
+  box-shadow: 6px 6px 4px #888888;
+  border-radius: 1rem;
+}
+
+.modal-content {
+  display: grid;
+  grid-template-rows: 1fr;
+  gap: 0.5em;
+}
+
+.modal-content__header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 1.5em 0 1.5em;
+  /* gap: 1em; */
+}
+
+.modal-content__header img {
+  height: 5rem;
+  width: auto;
+}
+
+.modal-content__header span {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-form);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.enquiry-close {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.modal-content h4,
+.modal-content h6 {
+  color: var(--color-form);
+}
+
+.modal-content h4 {
+  text-align: center;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid black;
+}
+
+.modal-content h5 {
+  color: #333;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.modal-content h6 {
+  font-family: Times New Roman;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.course-grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  pointer: cursor;
+  margin: 0 0 1em 0;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75em;
+  margin: 1.5rem 0 1.5rem 0;
+}
+
+.form-grid input {
+  background-color: white;
+  padding: 0 0.5rem 0 0.5rem;
+  border-radius: 0.2rem;
+}
+
+.form-grid select {
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+}
+
+.date-picker {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.date-picker input {
+  background-color: white;
+  padding: 0 0.5rem 0 0.5rem;
+  border-radius: 0.2rem;
+}
+
+#hear-about {
+  height: 2.5em;
+  width: 100%;
+  background-color: white;
+  border-radius: 0.2rem;
+  margin: 0 0 1rem 0;
+  padding: 0.5em 0 0.5em 0.5em;
+}

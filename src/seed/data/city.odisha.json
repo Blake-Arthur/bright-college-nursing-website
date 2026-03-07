@@ -1,0 +1,168 @@
+[
+  { "name": "Angul", "district": "Angul" },
+  { "name": "Athmallik", "district": "Angul" },
+  { "name": "Budhapanka", "district": "Angul" },
+  { "name": "Danara", "district": "Angul" },
+  { "name": "Dera Colliery Township", "district": "Angul" },
+  { "name": "F.C.I. Township", "district": "Angul" },
+  { "name": "Ghantapada", "district": "Angul" },
+  { "name": "Gotamara", "district": "Angul" },
+  { "name": "Bada", "district": "Angul" },
+  { "name": "Kandasar", "district": "Angul" },
+  { "name": "Kulad", "district": "Angul" },
+  { "name": "Nalco", "district": "Angul" },
+  { "name": "Nuahata", "district": "Angul" },
+  { "name": "Palalahada", "district": "Angul" },
+  { "name": "Rengali Dam Project Township", "district": "Angul" },
+  { "name": "Talcher", "district": "Angul" },
+  { "name": "T.T.P.S. Township", "district": "Angul" },
+  { "name": "Tipo", "district": "Angul" },
+
+  { "name": "Badmal", "district": "Balangir" },
+  { "name": "Balangir", "district": "Balangir" },
+  { "name": "Bangomunda", "district": "Balangir" },
+  { "name": "Kantabanjhi", "district": "Balangir" },
+  { "name": "Loisinga", "district": "Balangir" },
+  { "name": "Patnagarh", "district": "Balangir" },
+  { "name": "Titlagarh", "district": "Balangir" },
+  { "name": "Tushura", "district": "Balangir" },
+
+  { "name": "Balasore", "district": "Balasore" },
+  { "name": "Jaleswar", "district": "Balasore" },
+  { "name": "Nilagiri", "district": "Balasore" },
+  { "name": "Remuna", "district": "Balasore" },
+  { "name": "Soro", "district": "Balasore" },
+
+  { "name": "Barapali", "district": "Bargarh" },
+  { "name": "Bardol", "district": "Bargarh" },
+  { "name": "Bargarh", "district": "Bargarh" },
+  { "name": "Bhatli", "district": "Bargarh" },
+  { "name": "Bijepur", "district": "Bargarh" },
+  { "name": "Khaliapali", "district": "Bargarh" },
+  { "name": "Padmapur", "district": "Bargarh" },
+  { "name": "Sohela", "district": "Bargarh" },
+
+  { "name": "Boudh", "district": "Boudh" },
+
+  { "name": "Basudebpur", "district": "Bhadrak" },
+  { "name": "Bhadrak", "district": "Bhadrak" },
+  { "name": "Dhamanagar", "district": "Bhadrak" },
+  { "name": "Erei", "district": "Bhadrak" },
+
+  { "name": "Athagad", "district": "Cuttack" },
+  { "name": "Nizigarh", "district": "Cuttack" },
+  { "name": "Banki", "district": "Cuttack" },
+  { "name": "Belagachhia", "district": "Cuttack" },
+  { "name": "Charibatia", "district": "Cuttack" },
+  { "name": "Choudwar", "district": "Cuttack" },
+  { "name": "Cuttack", "district": "Cuttack" },
+  { "name": "Dadhapatna", "district": "Cuttack" },
+  { "name": "Kanheipur", "district": "Cuttack" },
+  { "name": "Nuapatna", "district": "Cuttack" },
+  { "name": "Ramgarh", "district": "Cuttack" },
+
+  { "name": "Debagarh", "district": "Deogarh" },
+
+  { "name": "Bhuban", "district": "Dhenkanal" },
+  { "name": "Dhenkanal", "district": "Dhenkanal" },
+  { "name": "Indipur", "district": "Dhenkanal" },
+  { "name": "Kamakshyanagar", "district": "Dhenkanal" },
+  { "name": "Saranga", "district": "Dhenkanal" },
+
+  { "name": "Kashinagar", "district": "Gajapati" },
+  { "name": "Mohana", "district": "Gajapati" },
+  { "name": "Paralakhemundi", "district": "Gajapati" },
+  { "name": "Rayagada", "district": "Gajapati" },
+  { "name": "R. Udayagiri", "district": "Gajapati" },
+
+  { "name": "Asika", "district": "Ganjam" },
+  { "name": "Belaguntha", "district": "Ganjam" },
+  { "name": "Bhanjanagar", "district": "Ganjam" },
+  { "name": "Brahmapur", "district": "Ganjam" },
+  { "name": "Buguda", "district": "Ganjam" },
+  { "name": "Chhatrapur", "district": "Ganjam" },
+  { "name": "Digapahandi", "district": "Ganjam" },
+  { "name": "Gopalpur", "district": "Ganjam" },
+  { "name": "Hinjilicut", "district": "Ganjam" },
+  { "name": "Kabisuryanagar", "district": "Ganjam" },
+  { "name": "Khallikote", "district": "Ganjam" },
+  { "name": "Kodala", "district": "Ganjam" },
+  { "name": "Polasara", "district": "Ganjam" },
+  { "name": "Purusottampur", "district": "Ganjam" },
+  { "name": "Rambha", "district": "Ganjam" },
+  { "name": "Surada", "district": "Ganjam" },
+
+  { "name": "Jagatsinghpur", "district": "Jagatsinghapur" },
+  { "name": "Paradip", "district": "Jagatsinghapur" },
+
+  { "name": "Byasanagar", "district": "Jajpur" },
+  { "name": "Jajpur", "district": "Jajpur" },
+
+  { "name": "Belpahar", "district": "Jharsuguda" },
+  { "name": "Brajarajnagar", "district": "Jharsuguda" },
+  { "name": "Jharsuguda", "district": "Jharsuguda" },
+
+  { "name": "Bhawanipatna", "district": "Kalahandi" },
+  { "name": "Junagarh", "district": "Kalahandi" },
+  { "name": "Kesinga", "district": "Kalahandi" },
+
+  { "name": "G. Udayagiri", "district": "Kandhamal" },
+  { "name": "Phulbani", "district": "Kandhamal" },
+
+  { "name": "Kendrapara", "district": "Kendrapara" },
+  { "name": "Pattamundai", "district": "Kendrapara" },
+
+  { "name": "Anandpur", "district": "Kendujhar" },
+  { "name": "Barbil", "district": "Kendujhar" },
+  { "name": "Joda", "district": "Kendujhar" },
+  { "name": "Kendujhar", "district": "Kendujhar" },
+
+  { "name": "Balugaon", "district": "Khordha" },
+  { "name": "Banapur", "district": "Khordha" },
+  { "name": "Bhubaneswar", "district": "Khordha" },
+  { "name": "Jatani", "district": "Khordha" },
+  { "name": "Khordha", "district": "Khordha" },
+
+  { "name": "Jeypore", "district": "Koraput" },
+  { "name": "Koraput", "district": "Koraput" },
+  { "name": "Kotpad", "district": "Koraput" },
+  { "name": "Sunabeda", "district": "Koraput" },
+
+  { "name": "Balimela", "district": "Malkangiri" },
+  { "name": "Malkangiri", "district": "Malkangiri" },
+
+  { "name": "Baripada", "district": "Mayurbhanj" },
+  { "name": "Karanjia", "district": "Mayurbhanj" },
+  { "name": "Rairangpur", "district": "Mayurbhanj" },
+  { "name": "Udala", "district": "Mayurbhanj" },
+
+  { "name": "Nabarangpur", "district": "Nabarangpur" },
+  { "name": "Umerkote", "district": "Nabarangpur" },
+
+  { "name": "Kantilo", "district": "Nayagarh" },
+  { "name": "Khandapada", "district": "Nayagarh" },
+  { "name": "Nayagarh", "district": "Nayagarh" },
+
+  { "name": "Khariar", "district": "Nuapada" },
+  { "name": "Khariar Road", "district": "Nuapada" },
+
+  { "name": "Konark", "district": "Puri" },
+  { "name": "Nimapada", "district": "Puri" },
+  { "name": "Pipili", "district": "Puri" },
+  { "name": "Puri", "district": "Puri" },
+
+  { "name": "Gunupur", "district": "Rayagada" },
+  { "name": "Rayagada", "district": "Rayagada" },
+
+  { "name": "Burla", "district": "Sambalpur" },
+  { "name": "Hirakud", "district": "Sambalpur" },
+  { "name": "Kuchinda", "district": "Sambalpur" },
+  { "name": "Sambalpur", "district": "Sambalpur" },
+
+  { "name": "Sonapur", "district": "Sonepur" },
+
+  { "name": "Biramitrapur", "district": "Sundargarh" },
+  { "name": "Rajgangpur", "district": "Sundargarh" },
+  { "name": "Rourkela", "district": "Sundargarh" },
+  { "name": "Sundergarh", "district": "Sundargarh" }
+]

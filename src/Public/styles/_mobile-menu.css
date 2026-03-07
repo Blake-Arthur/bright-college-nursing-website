@@ -1,0 +1,161 @@
+/* =========================
+   Menu Overlay Base
+   ========================= */
+
+body.menu-open {
+  overflow: hidden;
+}
+
+.menu-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+
+  background-color: rgba(41, 53, 25, 0.9);
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transition:
+    transform 0.4s ease,
+    opacity 0.3s ease;
+}
+
+.menu-overlay.is-active {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+/* =========================
+   Inner Container
+   ========================= */
+
+.menu-overlay__inner {
+  height: 100%;
+  width: 100%;
+  padding: 1.5rem;
+
+  display: flex;
+  flex-direction: column;
+
+  transform: translateX(100%);
+  transition: transform 0.8s ease;
+}
+
+.menu-overlay.is-active .menu-overlay__inner {
+  transform: translateX(0);
+}
+
+/* =========================
+   Header
+   ========================= */
+
+.menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  min-height: 80px;
+}
+
+.menu-logo img {
+  max-height: 72px;
+  width: auto;
+  cursor: pointer;
+}
+
+/* Close Button */
+.menu-close {
+  width: 44px;
+  height: 44px;
+
+  border: none;
+  border-radius: 50%;
+
+  background-color: #ffffff;
+  color: #293519;
+
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+/* =========================
+   Menu Navigation
+   ========================= */
+
+.menu-nav {
+  margin-top: 3rem;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.menu-list a {
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+  position: relative;
+}
+
+/* Underline animation */
+.menu-list a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 1px;
+  background-color: #ffffff;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.25s ease;
+}
+
+.menu-list a:hover::after,
+.menu-list a:focus-visible::after {
+  transform: scaleX(1);
+}
+
+/* =========================
+   Focus States
+   ========================= */
+
+.menu-close:focus-visible,
+.menu-list a:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 3px;
+}
+
+/* =========================
+   Responsive Enhancements
+   ========================= */
+
+@media (min-width: 768px) {
+  .menu-overlay__inner {
+    padding: 3rem 4rem;
+  }
+
+  .menu-list a {
+    font-size: 1.5rem;
+  }
+}
+
+/* =========================
+   Reduced Motion
+   ========================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .menu-overlay {
+    transition: none;
+  }
+}

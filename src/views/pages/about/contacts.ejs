@@ -1,25 +1,24 @@
-<section class="flex  bg-[#293519] h-8 w-full pt-2">
-    <div class="container">
-        <div class=""></div>
-    </div>
-</section>
+<%- include("../../partials/breadcrumb-nav") %>
 
-<!--All Contacts Heading-->
-<div class="block">
-    <div class="pt-[50px] pb-3 flex flex-row items-center">
-        <div class="flex items-center">
-            <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">All Contacts</h1>
+<div class="layout-container" id="contacts">
+    <!--Heading-->
+    <div class="generic-heading__row ">
+        <div class="__divider">
+            <div class="__dot"></div>
+            <div class="__line"></div>
+
+        </div>
+        <div class="generic-heading__title-group">
+            <h2 class="at-glance__title">All Contacts</h2>
         </div>
 
-        <div class="flex flex-row items-center">
-            <div class="bg-black h-px w-64"></div>
-            <div class="bg-black h-2.5 w-2.5 rounded-full"></div>
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
         </div>
     </div>
-</div>
 
-<div class="block pb-20">
-    <table class="contact-table">
+    <table>
         <thead>
             <tr>
                 <th rowspan="2">Name &amp; Status</th>

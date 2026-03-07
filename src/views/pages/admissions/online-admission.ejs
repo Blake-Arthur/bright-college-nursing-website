@@ -1,0 +1,190 @@
+<%- include("../../partials/breadcrumb-nav") %>
+
+<section class="layout-container" id="online-admission">
+    <div class="generic-heading__row">
+        <div class="generic-heading__title-group">
+            <div class="red-vertical__accent"></div>
+            <h3>Online Admission</h3>
+        </div>
+
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
+        </div>
+    </div>
+
+    <form class="online-form">
+        <!-- Course Selection -->
+        <div>
+            <h4>Course Applied For</h4>
+            <div class="course-grid">
+                <label>
+                    <input type="radio" name="course" value="bsc" required>
+                    BSc. N
+                </label>
+
+                <label>
+                    <input type="radio" name="course" value="pbbsc">
+                    PBBSc. N
+                </label>
+
+                <label>
+                    <input type="radio" name="course" value="gnm">
+                    GNM
+                </label>
+
+                <label>
+                    <input type="radio" name="course" value="anm">
+                    ANM
+                </label>
+
+                <label>
+                    <input type="radio" name="course" value="dmlt">
+                    DMLT
+                </label>
+            </div>
+        </div>
+
+        <div>
+            <h4>Student's Full Name</h4>
+            <input type="text" name="name" maxlength="100" required>
+        </div>
+
+        <div>
+            <h4>Student Mobile No.</h4>
+            <input type="tel" name="phone" inputmode="numeric" pattern="[6-9]{1}[0-9]{9}" maxlength="10" minlength="10"
+                placeholder="Enter 10-digit mobile number" required>
+        </div>
+
+        <div>
+            <h4>Father / Guardian's Name</h4>
+            <input type="text" name="guardianname" maxlength="100" required>
+        </div>
+
+        <div>
+            <h4>Father / Guardian's Mobile No.</h4>
+            <input type="tel" name="altPhone" inputmode="numeric" pattern="[6-9]{1}[0-9]{9}" maxlength="10"
+                minlength="10" placeholder="Enter 10-digit mobile number" required />
+        </div>
+
+        <div>
+            <h4>Your E-Mail</h4>
+            <input type="email" name="email" pattern="^[^\s@]+@[^\s@]+\.[^\s@]{2,}$" maxlength="150"
+                placeholder="yourname@example.com">
+        </div>
+
+        <div>
+            <label for="caste">Caste</label>
+            <select name="caste" id="caste" required>
+                <option value="" disabled selected>Select Category</option>
+                <option value="SC">SC</option>
+                <option value="ST">ST</option>
+                <option value="OBC_SEBC">OBC / SEBC</option>
+                <option value="GENERAL">General</option>
+            </select>
+        </div>
+
+        <div>
+            <h4>Area Address</h4>
+            <input type="text" name="address" pattern="^[^\s@]+@[^\s@]+\.[^\s@]{2,}$" maxlength="150">
+        </div>
+
+        <div>
+            <h4>Area Pincode</h4>
+            <input type="text" name="pincode" inputmode="numeric" pattern="[1-9][0-9]{5}" maxlength="6" minlength="6"
+                placeholder="Enter 6-digit PIN code" required />
+        </div>
+
+        <div>
+            <h4>District</h4>
+            <select name="district" id="districtSelect" required>
+                <option value="">Select District</option>
+            </select>
+        </div>
+
+        <div>
+            <h4>City</h4>
+            <select name="city" id="citySelect" required>
+                <option value="">Select City</option>
+            </select>
+        </div>
+
+        <div>
+            <h4>AADHAAR Card Number</h4>
+            <input type="text" name="aadhaar" inputmode="numeric" pattern="[0-9]{12}" maxlength="12" minlength="12"
+                placeholder="Enter 12-digit Aadhaar number" required />
+        </div>
+
+        <div>
+            <h4>Do you have Ration Card</h4>
+            <div class="radio-options">
+                <label>
+                    <input type="radio" name="rationCard" value="yes" required>
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="rationCard" value="no">
+                    No
+                </label>
+            </div>
+        </div>
+
+        <div>
+            <h4>Do you have CM Kisan ID</h4>
+            <div class="radio-options">
+                <label>
+                    <input type="radio" name="cmKisanID" value="yes" required>
+                    Yes
+                </label>
+
+                <label>
+                    <input type="radio" name="cmKisanID" value="no">
+                    No
+                </label>
+            </div>
+        </div>
+
+        <div>
+            <h4>Marks Secured in 10th exam in %</h4>
+            <input type="text" name="tenthpercentage" inputmode="numeric" maxlength="100" minlength="0" step="0.01"
+                placeholder="Enter percentage (e.g., 89.3)" required>
+        </div>
+
+        <div>
+            <label for="tenthBoardName">Board of Secondary Education</label>
+            <select name="tenthBoardName" id="tenthBoardName" required>
+                <option value="" disabled selected>Select Class 10 Board</option>
+                <option value="bse">BSE, Odisha</option>
+                <option value="cbse">CBSE</option>
+                <option value="icse">ICSE</option>
+                <option value="sjso">SJSO (Shree Jaganath Sanskrit University)</option>
+                <option value="nois">NOIS (National Institute of Open School)</option>
+                <option value="other">Other Board</option>
+            </select>
+        </div>
+
+        <div>
+            <h4>Marks Secured in 12th exam in %</h4>
+            <input type="text" name="twelfthpercentage" inputmode="numeric" maxlength="100" minlength="0" step="0.01"
+                placeholder="Enter percentage (e.g., 89.3)" required>
+        </div>
+
+        <div>
+            <label for="twelfthBoardName">Board of Higher Secondary Education</label>
+            <select name="twelfthBoardName" id="twelfthBoardName" required>
+                <option value="" disabled selected>Select Class 12 Board</option>
+                <option value="chse">CHSE</option>
+                <option value="cbse">CBSE</option>
+                <option value="icse">ICSE</option>
+                <option value="sjso">SJSO (Shree Jaganath Sanskrit University)</option>
+                <option value="nois">NIOS (National Institute of Open School)</option>
+                <option value="other">Other Board</option>
+            </select>
+        </div>
+
+        <div>
+            <button type="submit" class="apply-btn">Continue</button>
+        </div>
+    </form>
+
+</section>

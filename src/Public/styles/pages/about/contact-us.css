@@ -1,0 +1,42 @@
+#contact-details {
+  scroll-margin-top: 10rem;
+}
+
+.contact-us {
+  margin: 2rem 0 0 0;
+}
+
+.contact-us li > a,
+.contact-us li:has(div) {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0 1rem 0;
+}
+
+.contact-us span {
+  font-size: 1.3rem;
+  padding: 0 0 0 0.5rem;
+}
+
+.contact-us div span {
+  padding: 0 0 0 0;
+}
+
+.contact-us li div {
+  font-size: 1.3rem;
+  padding: 0 0 0 0.5rem;
+}
+
+.contact-us li i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 36px;
+  height: 36px;
+
+  border-radius: 50%;
+  border: 1px solid black;
+
+  font-size: 16px;
+}

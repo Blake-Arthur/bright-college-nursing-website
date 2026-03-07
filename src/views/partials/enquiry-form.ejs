@@ -1,0 +1,210 @@
+<button id="openEnquiry" data-enquiry-open>Enquire Now</button>
+
+<!-- Modal -->
+<div class="enquiry-overlay" id="enquiry-overlay" aria-hidden="true">
+    <div class="enquiry-overlay__inner" role="dialog" aria-modal="true" aria-label="Enquiry Form">
+        <div class="modal-content">
+            <div class="modal-content__header">
+                <!-- Logo -->
+                <picture>
+                    <source srcset="/images/logo/logo.webp" type="image/webp">
+                    <img src="/images/logo/logo.png" loading="lazy" alt="Bright Nursing Logo"
+                        class="site-logo enquiry-logo" />
+                </picture>
+
+                <span>Bright College of Nursing</span>
+
+                <button class="enquiry-close" aria-label="Close Enquiry Form" data-enquiry-close>
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+
+            </div>
+
+            <h6>Approved by the Government of Odisha, Recognized by the Odisha Nurses &amp; Midwives Registration
+                Council (ONMRC), and
+                Affiliated to Odisha University of Health Sciences (OUHS), Bhubaneswar.</h6>
+
+            <h4>Apply For Admission 2026-27</h4>
+
+            <h5>Course Applied For</h5>
+
+            <form id="enquiryForm" class="enquiry-form" method="POST" action="/api/enquiry">
+
+                <!-- Course Selection -->
+                <div class="course-grid">
+                    <label>
+                        <input type="radio" name="course" value="bsc" required>
+                        BSc. N
+                    </label>
+
+                    <label>
+                        <input type="radio" name="course" value="pbbsc">
+                        PBBSc. N
+                    </label>
+
+                    <label>
+                        <input type="radio" name="course" value="gnm">
+                        GNM
+                    </label>
+
+                    <label>
+                        <input type="radio" name="course" value="anm">
+                        ANM
+                    </label>
+
+                    <label>
+                        <input type="radio" name="course" value="dmlt">
+                        DMLT
+                    </label>
+                </div>
+
+                <!-- Personal Details -->
+                <div class="form-grid">
+                    <input type="text" name="name" placeholder="Student's Full Name" pattern="[a-zA-Z .]"
+                        maxlength="100" minlength="3" required>
+
+                    <input type="tel" name="phone" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10"
+                        minlength="10" placeholder="Student Mobile No." required>
+
+                    <input type="tel" name="altPhone" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10"
+                        minlength="10" placeholder="Father / Guardian's Mobile No." required>
+
+                    <input type="email" name="email" pattern="[^\s@]+@[^\s@]+\.[^\s@]{2,}" maxlength="150"
+                        placeholder="Your E-Mail">
+
+                    <select name="district" id="districtSelect" required>
+                        <option value="">Select District</option>
+                    </select>
+
+                    <select name="city" id="citySelect" required>
+                        <option value="">Select City</option>
+                    </select>
+                </div>
+
+                <div class="date-picker">
+                    <span>Expected Date of Visit to College: </span>
+                    <input type="date" name="visitDate" min="<%= new Date().toISOString().split('T')[0] %>" required>
+                </div>
+
+                <div>
+                    <span>Where did you hear about us?</span>
+
+                    <!-- Referral Source -->
+                    <div class="course-grid">
+                        <label>
+                            <input type="radio" name="hearAbout" value="website" required>
+                            Website
+                        </label>
+
+                        <label>
+                            <input type="radio" name="hearAbout" value="ads">
+                            Advertisement
+                        </label>
+
+                        <label>
+                            <input type="radio" name="hearAbout" value="referral">
+                            Friends &amp; Family
+                        </label>
+
+                        <label>
+                            <input type="radio" name="hearAbout" value="social">
+                            Social Media
+                        </label>
+                    </div>
+                </div>
+
+                <button type="submit" class="apply-btn">Submit</button>
+
+            </form>
+            <h6></h6>
+            <div></div>
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener("DOMContentLoaded", async function () {
+
+        const districtSelect = document.getElementById("districtSelect");
+        const citySelect = document.getElementById("citySelect");
+
+        // Load districts
+        const districtRes = await fetch("/api/districts");
+        const districts = await districtRes.json();
+
+        districts.forEach(d => {
+            const option = document.createElement("option");
+            option.value = d._id;
+            option.textContent = d.name;
+            districtSelect.appendChild(option);
+        });
+
+        // Load cities on district change
+        districtSelect.addEventListener("change", async function () {
+
+            citySelect.innerHTML = '<option value="">Select City</option>';
+
+            if (!this.value) return;
+
+            const cityRes = await fetch(`/api/cities/${this.value}`);
+            const cities = await cityRes.json();
+
+            cities.forEach(c => {
+                const option = document.createElement("option");
+                option.value = c._id;
+                option.textContent = c.name;
+                citySelect.appendChild(option);
+            });
+        });
+
+    });
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+        const form = document.getElementById("enquiryForm");
+        if (!form) return;
+
+        form.addEventListener("submit", async function (e) {
+            e.preventDefault();
+
+            const submitBtn = this.querySelector("button[type='submit']");
+            const messageBox = document.querySelector(".modal-content h6");
+
+            submitBtn.disabled = true;
+            submitBtn.textContent = "Submitting...";
+            messageBox.textContent = "";
+
+            const formData = new FormData(this);
+            const data = Object.fromEntries(formData.entries());
+
+            try {
+                const response = await fetch("/api/enquiry", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(data)
+                });
+
+                let result;
+                try {
+                    result = await response.json();
+                } catch {
+                    result = { message: "Unexpected server response" };
+                }
+
+                if (!response.ok) throw new Error(result.message);
+
+                messageBox.textContent = "Your Enquiry has been submitted successfully!\nYou will be notified soon.";
+                messageBox.style.color = "green";
+                this.reset();
+
+            } catch (err) {
+                messageBox.textContent = err.message || "Submission failed.";
+                messageBox.style.color = "red";
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.textContent = "Submit";
+            }
+        });
+
+    });
+</script>

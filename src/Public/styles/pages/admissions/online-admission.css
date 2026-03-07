@@ -1,0 +1,79 @@
+#online-admission {
+  scroll-margin-top: 10rem;
+}
+
+.online-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  margin: 2rem 30rem 2rem 0;
+  padding: 1.5em;
+  border: 1px solid var(--color-altHeading);
+  border-radius: 0.375rem;
+  box-shadow: 4px 4px 2px #888888;
+}
+
+.online-form > div:first-child {
+  grid-column: 1 / -1;
+  padding: 0 4rem 0 0;
+}
+
+.online-form > div:first-child h4 {
+  font-size: 1.5rem;
+}
+
+.online-form h4 {
+  font-family: Times New Roman;
+  color: #262c56;
+  line-height: 1.3rem;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.online-form input,
+.online-form select {
+  background-color: white;
+
+  width: 80%;
+  border: 1px solid var(--color-accent2);
+  border-radius: 0.2rem;
+}
+
+.online-form input {
+  padding: 0 0.5rem 0 0.5rem;
+}
+
+.online-form select {
+  height: 36.8px;
+  padding: 0.4rem;
+}
+
+.online-form div:has(> select) {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.online-form div:has(> select) > label {
+  color: #262c56;
+  line-height: 1.3rem;
+  font-family: Times New Roman;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.online-form input[type="radio"] {
+  width: auto;
+}
+
+.radio-options {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5rem;
+}
+
+.online-form > div:last-child {
+  grid-column: 1 / -1;
+}

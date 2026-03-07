@@ -1,7 +1,109 @@
-<!--Go to Top button-->
-<div class="">
-    <button class="h-12 w-12 rounded-4xl bg-black cursor-pointer go-top">
-        <i class="ri-arrow-up-s-line ri-2x text-white"></i>
-        <i class="ri-arrow-up-s-line ri-2x text-white "></i>
+<!-- Chat Bot Button -->
+<button id="openChatBot" data-chatbot-open>
+    <img src="/images/logo/chat-bot.svg" alt="Chat Bot">
+</button>
+
+<section id="chat-bot">
+    <div class="chat-bot__inner" id="chat-bot__inner" aria-hidden="true">
+
+        <div class="chat-bot__header">
+            <div>
+                <!-- Logo -->
+                <picture>
+                    <source srcset="/images/logo/logo.webp" type="image/webp">
+                    <img src="/images/logo/logo.png" loading="lazy" alt="Bright Nursing Logo"
+                        style="height: auto; width:4rem;" />
+                </picture>
+
+                <div>
+                    <h4>Bright College of Nursing</h4>
+                    <h5>Admissions Assistant</h5>
+                </div>
+            </div>
+
+            <div>
+                <i class="fa-solid fa-ellipsis fa-rotate-90"></i>
+                <button class="enquiry-close" aria-label="Close Enquiry Form" data-chatbot-close>
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="faq-section">
+            <div class="faq-card">
+                <i class="fa-solid fa-headset" style="color: #2E7D6B;"></i>
+                <span>Hello! How can I assist you today?</span>
+            </div>
+
+            <div class="faq-card">
+                <div>
+                    <i class="fa-solid fa-clipboard-check" style="color: #355C7D;"></i>
+                    <span>Admission Eligibility</span>
+                </div>
+
+                <i class="fa-solid fa-chevron-right" style="color: rgb(99, 211, 230);"></i>
+            </div>
+
+            <div class="faq-card">
+                <div>
+                    <i class="fa-solid fa-graduation-cap" style="color: #1F3C88;"></i>
+                    <span>Course Offered</span>
+                </div>
+
+                <i class="fa-solid fa-chevron-right" style="color: rgb(99, 211, 230);"></i>
+            </div>
+
+            <div class="faq-card">
+                <div>
+                    <i class="fa-solid fa-receipt" style="color: #4A6572;"></i>
+                    <span>Fee Structure</span>
+                </div>
+
+                <i class="fa-solid fa-chevron-right" style="color: rgb(99, 211, 230);"></i>
+            </div>
+
+            <div class="faq-card">
+                <div>
+                    <i class="fa-solid fa-pen-to-square" style="color: #2F5D50;"></i>
+                    <span>How to Apply</span>
+                </div>
+
+                <i class="fa-solid fa-chevron-right" style="color: rgb(99, 211, 230);"></i>
+            </div>
+        </div>
+
+        <div class="cta-btn">
+            <i class="fa-solid fa-phone-volume"></i>
+            <a href="tel:+919124183801"><span>Talk to Admission Office</span></a>
+        </div>
+
+        <div class="msg-section">
+            <span>Admissions now open for 2026 batch</span>
+            <span>Apply before April 31</span>
+            <div>
+                <input type="text" placeholder="Type your message">
+                <i class="fa-solid fa-paper-plane"></i>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Whatsapp Button-->
+<section id="whatsapp-btn">
+    <a href="https://api.whatsapp.com/send?phone=919124183801&text=Hi,%20Looking%20for%20an%20Appointment"
+        target="_blank" class="whatsapp-btn">
+
+        <i class="fa-brands fa-whatsapp"></i>
+
+        <span class="whatsapp-bubble">WhatsApp</span>
+
+    </a>
+</section>
+
+<!--Go To Top Button-->
+<section class="goToTop">
+    <button class="go-top">
+        <i class="ri-arrow-up-s-line ri-2x"></i>
+        <i class="ri-arrow-up-s-line ri-2x"></i>
     </button>
-</div>
+</section>

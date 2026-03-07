@@ -1,0 +1,81 @@
+{
+  "January": [
+    { "date": "13.01.2025", "day": "Monday", "occasion": "Pousa Purnima", "days": 1 },
+    { "date": "14.01.2025", "day": "Tuesday", "occasion": "Makar Sankranti", "days": 1 },
+    {
+      "date": "23.01.2025",
+      "day": "Thursday",
+      "occasion": "Netaji Jayanti & Veer Surendra Sai Jayanti",
+      "days": 1
+    }
+  ],
+  "February": [
+    { "date": "26.02.2025", "day": "Wednesday", "occasion": "Maha Shivaratri", "days": 1 }
+  ],
+  "March": [
+    { "date": "05.03.2025", "day": "Wednesday", "occasion": "Panchayati Raj Divas", "days": 1 },
+    { "date": "14.03.2025", "day": "Friday", "occasion": "Dolapurnima", "days": 1 },
+    { "date": "15.03.2025", "day": "Saturday", "occasion": "Holi", "days": 1 },
+    { "date": "31.03.2025", "day": "Monday", "occasion": "Id-Ul-Fitre", "days": 1 }
+  ],
+  "April": [
+    { "date": "01.04.2025", "day": "Tuesday", "occasion": "Utkal Divas", "days": 1 },
+    {
+      "date": "14.04.2025",
+      "day": "Monday",
+      "occasion": "Mahavishuba Sankranti & Dr. B.R. Ambedkar Jayanti",
+      "days": 1
+    },
+    { "date": "18.04.2025", "day": "Friday", "occasion": "Good Friday", "days": 1 }
+  ],
+  "May & June": [
+    {
+      "date": "10.05.2025 - 18.06.2025",
+      "day": "Saturday to Wednesday",
+      "occasion": "Summer Vacation",
+      "days": 32,
+      "note": "(excluding Holidays & Sundays)"
+    },
+    { "date": "27.06.2025", "day": "Friday", "occasion": "Ratha Yatra", "days": 1 }
+  ],
+  "July": [{ "date": "05.07.2025", "day": "Saturday", "occasion": "Bahuda Yatra", "days": 1 }],
+  "August": [
+    { "date": "09.08.2025", "day": "Saturday", "occasion": "Jhulana Purnima", "days": 1 },
+    {
+      "date": "15.08.2025",
+      "day": "Friday",
+      "occasion": "Independence Day / Janmashtami",
+      "days": 1
+    },
+    { "date": "27.08.2025", "day": "Wednesday", "occasion": "Ganesh Chaturthi", "days": 1 },
+    { "date": "28.08.2025", "day": "Thursday", "occasion": "Nuakhai", "days": 1 }
+  ],
+  "September & October": [
+    {
+      "date": "05.09.2025",
+      "day": "Friday",
+      "occasion": "Birthday of Prophet Mohammad",
+      "days": 1
+    },
+    {
+      "date": "26.09.2025 - 09.10.2025",
+      "day": "Friday to Thursday",
+      "occasion": "Dussehra",
+      "days": 10,
+      "note": "(excluding Sundays & Holidays)"
+    },
+    { "date": "21.10.2025", "day": "Tuesday", "occasion": "Deepawali", "days": 1 }
+  ],
+  "November": [
+    { "date": "05.11.2025", "day": "Wednesday", "occasion": "Rasa Purnima", "days": 1 },
+    { "date": "12.11.2025", "day": "Wednesday", "occasion": "Prathamastami", "days": 1 }
+  ],
+  "December": [
+    {
+      "date": "23.12.2025 - 30.12.2025",
+      "day": "Tuesday to Tuesday",
+      "occasion": "Christmas & Winter Holidays",
+      "days": 7
+    }
+  ]
+}

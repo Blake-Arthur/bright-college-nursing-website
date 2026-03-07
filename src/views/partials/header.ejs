@@ -1,43 +1,39 @@
 <!--Hero Section-->
-<div class="relative w-full <%= heroHeight || 'h-[560px]' %> overflow-hidden">
+<!-- Header / Hero -->
+<section class="relative w-full <%= heroHeight || 'h-[560px]' %> overflow-hidden">
+
+    <!-- Background image -->
     <img src="<%= heroImage || '/images/College_Building_1.jpg' %>" alt="<%= heroAlt || 'Bright School of Nursing' %>"
-        class="h-full w-full object-cover">
+        class="absolute inset-0 h-full w-full object-cover" />
 
-    <!--Dark Overlay-->
-    <div class="absolute inset-0 bg-black/<%= transparency || 35%> z-10"></div>
+    <!-- Overlay -->
+    <div class="absolute inset-0 bg-black/<%= transparency || 35 %> z-10"></div>
 
-    <!--Header bar-->
-    <header class="absolute top-10 left-32 flex flex-row justify-between h-[100px] w-[1300px] z-20">
+    <!-- Header -->
+    <header class="relative z-20" role="banner">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 bg-red-500/20">
+            <div class="flex h-20 items-center justify-between">
 
-        <!--Logo-->
-        <div class="logo cursor-pointer">
-            <img src="/images/logo/logo.png" alt="logo Bright Nursing" class="h-full w-full object-contain"><a
-                href="/"></a>
+                <!-- Logo -->
+                <a href="/" class="flex items-center focus:outline-none focus:ring-2 focus:ring-white">
+                    <img src="/images/logo/logo.png" alt="Bright School of Nursing"
+                        class="h-12 w-auto object-contain" />
+                </a>
+
+                <!-- Desktop nav -->
+                <%- include("../partials/nav") %>
+
+
+
+            </div>
         </div>
-
-        <!--Nav bar-->
-        <nav class="flex justify-between items-center w-[260px] text-white">
-            <div id="search-icon">
-                <button class="h-12 w-12 bg-[#293519] cursor-pointer">
-                    <i class="fa-solid fa-magnifying-glass text-xl"></i>
-                </button>
-            </div>
-            <div id="login-icon">
-                <button class="h-12 w-12 bg-[#293519] cursor-pointer">
-                    <i class="fa-solid fa-user text-xl"></i>
-                </button>
-            </div>
-            <div id="menu-tab-icon">
-                <button class="h-12 w-12 bg-[#293519] cursor-pointer">
-                    <i class="fa-solid fa-bars text-xl"></i>
-                </button>
-            </div>
-            <div id="apply-button">
-                <button class="h-12 w-24 text-base bg-[#293519] cursor-pointer">Apply Now</button>
-            </div>
-        </nav>
     </header>
 
+
+
+</section>
+
+<div>
     <!--search button page-->
     <div class="search-container absolute inset-0 bg-black/85 z-40 ">
         <div class="pt-[30px] pb-[30px] pl-[30px] pr-0">

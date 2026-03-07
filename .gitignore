@@ -11,7 +11,7 @@ build/
 .out/
 *.log
 
-# Environment variables (if you ever add)
+# Environment variables 
 .env
 .env.local
 .env.development.local

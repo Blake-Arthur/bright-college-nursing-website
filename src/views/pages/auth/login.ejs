@@ -1,0 +1,54 @@
+<%- include("../../partials/breadcrumb-nav") %>
+
+<section class="mt-8 mb-20 block">
+    <div class="flex flex-col justify-center items-center mb-3">
+        <h1 class="text-4xl ">User/Faculty Login</h1>
+    </div>
+    <div class="login-block ">
+        <div class="user-cred-box">
+
+            <% if (error) { %>
+            <p class="text-red-500 text-center mb-4">
+                <%= error %>
+            </p>
+            <% } %>
+
+            <form method="POST" action="/login">
+                <h3 class="text-xl">Username</h3>
+                <input type="email" name="email" class="input-box" required />
+
+                <h3 class="text-xl">Password</h3>
+                <input type="password" name="password" class="input-box" required />
+
+                <!-- CAPTCHA -->
+
+                <div>
+                    <h3 class="text-lg">What code is shown here?</h3>
+                    <input type="text" class="input-box" required />
+                </div>
+
+                <div id="login-button">
+                    <button type="submit" class="g-recaptcha h-12 w-24 text-lg text-white bg-[#293519] cursor-pointer"
+                        data-sitekey="<%= recaptchaSiteKey %>" data-callback="onSubmit" data-action="login">Log
+                        in</button>
+                </div>
+            </form>
+            <script>
+                function onSubmit(token) {
+                    const form = document.getElementById("login-form");
+
+                    //inject token as hidden input
+                    const input = document.createElement("input");
+                    input.type = "hidden";
+                    input.name = "g-recaptcha-response";
+                    input.value = token;
+
+                    form.appendChild(input);
+                    form.submit();
+                }
+            </script>
+        </div>
+    </div>
+    <script src="https://www.google.com/recaptcha/enterprise.js?render=6LcU5VssAAAAAAch6dfADFotN8OzBEXq4SFED5hb">
+    </script>
+</section>

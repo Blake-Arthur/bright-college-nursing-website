@@ -1,246 +1,295 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #293519;
-  font-family: "Playfair Display", serif !important;
-  font-weight: 700;
+/* =========================
+   Announcements
+   ========================= */
+
+.announcements {
+  margin-top: 3rem;
 }
 
-body {
-  color: #000;
-  font-family: "Poppins", sans-serif;
-  font-size: 15px;
-  font-weight: 400;
-}
-
-.seminar-heading {
-  color: white;
-}
-
-.block {
-  margin-left: 130px;
-  margin-right: 130px;
-}
-
-.custom-block {
-  margin-left: 160px;
-  margin-right: 160px;
-  padding-top: 36px;
-}
-
-.footer-block {
-  margin-left: 60px;
-  margin-right: 60px;
-}
-
-.container {
-  margin-left: 110px;
-  margin-right: 110px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-/*Search Bar*/
-
-.search-container {
+.announcements__bar {
   display: flex;
   align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  right: 0;
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.4s ease;
+  border: 4px solid #b22222;
+  outline: 8px solid #000;
+  background-color: #fff;
+  min-height: 3.5rem;
 }
 
-.close-btn {
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.4s ease;
+.announcements__label {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-inline: 1rem;
+  height: 49px;
+
+  font-weight: 700;
+  font-size: 1rem;
+  white-space: nowrap;
+
+  border-right: 3px solid #b22222;
+
+  z-index: 2;
 }
 
-.search-container.show {
-  opacity: 1;
-  visibility: visible;
-}
-
-.close-btn.show {
-  opacity: 1;
-  visibility: visible;
-}
-
-.search-bar {
-  height: 64px;
-  width: 780px;
-  font-size: 18px;
-  color: white;
-  padding-left: 30px;
-  border: 3px solid white; /* width + style + color */
-  border-radius: 32px 0 0 32px;
-}
-
-.search-bar:hover {
-  border: 1px solid rgba(200, 200, 200);
-}
-
-.search-bar::placeholder {
-  color: white;
-  font-size: 18px;
-  font-weight: 500;
-}
-
-/*Menu Tab*/
-.menu-tab-block {
-  position: absolute;
-  inset: 0;
-  padding-left: 130px;
-  background-color: rgba(41, 53, 25, 0.85);
-  transform: translate(12rem);
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.4s ease;
-  z-index: 40;
-}
-
-.menu-tab-block.show {
-  opacity: 1;
-  visibility: visible;
-  transform: translate(0rem);
-}
-
-.menu-tab-items p {
-  color: white;
-  font-size: 20px;
-  font-weight: 900;
-  margin-bottom: 16px;
-}
-
-.menu-tab-items .underline::after {
-  background: white;
-  height: 1px;
-}
-
-/*Announcements tab*/
-
-.announce-label::after {
+.announcements__label::after {
   content: "";
   position: absolute;
-  right: -11px;
-  top: 7px;
-  background: url("../Images/SVG/hm-news-arroww.svg") no-repeat scroll 0 0;
-  width: 15px;
-  height: 29px;
+  right: -12px;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 18px;
+  height: 24px;
+
+  background: url("../Images/SVG/hm-news-arroww.svg") no-repeat center;
+  background-size: contain;
+
   z-index: 3;
 }
 
-.announce-slider {
+.announcements__viewport {
+  flex: 1;
+  overflow: hidden;
+}
+
+.announcements__list {
   display: inline-flex;
   align-items: center;
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  gap: 1rem;
   will-change: transform;
 }
 
-.announce-item {
+.announcements__item {
   display: inline-flex;
   align-items: center;
   white-space: nowrap;
-  padding: 0 0.75rem;
+
+  font-size: 0.95rem;
   font-weight: 600;
-  font-size: 1rem;
-  line-height: 1.2;
 }
 
-.announce-item::before {
+.announcements__item::before {
   content: "";
-  display: inline-block;
-  margin-right: 0.5rem;
   width: 2px;
   height: 20px;
   background-color: #b22222;
+  margin-right: 0.5rem;
 }
 
-.announce-item::after {
+.announcements__item::after {
   content: "";
-  display: inline-block;
-  margin-left: 0.4rem;
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
+  margin-left: 0.5rem;
+
   background: url("../Images/SVG/circle-check.svg") no-repeat center;
   background-size: contain;
 }
 
-/*count-digits*/
-
-.count-digit-holder {
-  font-size: 48px;
-  text-align: left;
+.announcements__item a {
+  color: #000;
+  text-decoration: none;
 }
 
-.count-digit-holder .plus {
-  margin-left: -12px;
+.announcements__item a:hover,
+.announcements__item a:focus-visible {
+  text-decoration: underline;
 }
 
-.count-title-holder {
+/* =========================
+   Responsive Enhancements
+   ========================= */
+
+@media (min-width: 768px) {
+  .announcements__label {
+    font-size: 1.1rem;
+  }
+
+  .announcements__item {
+    font-size: 1rem;
+  }
+}
+
+/* =========================
+   Reduced Motion
+   ========================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .announcements__list {
+    transition: none;
+  }
+}
+
+/* =========================
+   At a Glance Section
+   ========================= */
+
+.at-glance {
+  margin-top: 5rem;
+}
+
+.at-glance__title {
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 600;
+  line-height: 1.2;
+  color: rgb(var(--color-primary));
+  margin: 0;
+}
+
+/*institution-stats*/
+
+.institution-stats {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.institution-stats__list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.institution-stats__number {
+  display: flex;
+  align-items: baseline;
+  font-size: clamp(2.25rem, 4vw, 3rem);
+  font-weight: 500;
+  line-height: 1;
+}
+
+.institution-stats__number .plus {
+  margin-left: 0.1em;
+  font-size: 0.8em;
+}
+
+.institution-stats__label {
   font-size: 14px;
   text-align: left;
 }
 
-.underline {
-  position: relative;
-  text-decoration: none;
+@media (min-width: 768px) {
+  .institution-stats__list {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3rem;
+  }
 }
 
-.underline::after {
-  content: "";
-  position: absolute;
-  background: #b22222;
-  left: 0;
-  right: 0;
-  bottom: -6px;
-  height: 4px;
-  transform: scaleX(0);
-  transition: all 0.4s ease;
+/* Hospitals for Clinical Practice */
+
+.hospital-section {
+  margin-top: 4rem;
 }
 
-.underline:hover::after {
-  transform: scaleX(1); /* Animate in */
+.hospital-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  margin-top: 1rem;
+}
+
+.hospital-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 120px; /*controls visual size*/
+  width: 100%;
+}
+
+.hospital-logo img {
+  max-height: 100%;  //let the img scale inside teh box
+  max-width: 100%;
+  object-fit: contain;
 }
 
 /*Accordion Display*/
 
-.accordion-display {
+.accordion-layout {
   position: relative;
-  height: 100%;
   width: 100%;
+  height: 400px;
+  margin: 3rem 0 3rem 0;
+}
+
+.accordion-display {
+  height: 100%;
   display: flex;
   flex-direction: row;
-  align-items: center;
 }
 
 .accordion-item {
-  position: absolute;
+  position: relative;
   height: 100%;
+  cursor: pointer;
+  flex: 1;
+  transition: flex-grow 1s ease 0.4s;
 }
 
-.accordion-item:nth-child(1) {
-  z-index: 1;
-  transform: translateX(0%);
+.accordion-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: none;
 }
-.accordion-item:nth-child(2) {
-  z-index: 2;
-  transform: translateX(25%);
+
+.accordion-item span {
+  position: absolute;
+  z-index: 50;
+  top: 50%;
+  left: 50%;
+  color: var(--color-altText);
+  font-size: 2.5rem;
+  font-weight: 600;
+
+  transform: translate(-50%, -50%);
+  opacity: 1;
+
+  transition: opacity 0.8s ease;
 }
-.accordion-item:nth-child(3) {
-  z-index: 3;
-  transform: translateX(50%);
+
+.accordion-item p {
+  position: absolute;
+  z-index: 50;
+  top: 50%;
+  left: 50%;
+  color: var(--color-altText);
+  font-size: 1.2rem;
+  font-weight: 600;
+
+  opacity: 0;
+  transform: translate(-50%, 0%);
+
+  transition:
+    opacity 0.8s ease,
+    transform 1.4s ease;
 }
-.accordion-item:nth-child(4) {
-  z-index: 4;
-  transform: translateX(75%);
+
+/* shrink others */
+.accordion-display:hover .accordion-item {
+  flex: 1;
+}
+
+/* expand hovered */
+.accordion-display .accordion-item:hover {
+  flex: 2.5;
+}
+
+.accordion-display .accordion-item:hover span {
+  opacity: 0;
+  transition-delay: 0s;
+}
+
+.accordion-display .accordion-item:hover p {
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  transition-delay: 1s;
 }
 
 .educational-program-pd-class {
@@ -249,78 +298,294 @@ body {
   padding-bottom: 16px;
 }
 
-.footer-padding {
-  padding-left: 24px;
-  padding-right: 24px;
+/* =========================
+   Seminar Section
+========================= */
+
+.seminar-section {
+  background-image: linear-gradient(-135deg, var(--color-secondary), var(--color-primary), var(--color-secondary), var(--color-accent2));
+  margin-top: 5rem;
+  padding: 0.1rem 0 0 0;
 }
 
-/*go-top button*/
+/* =========================
+   Layout
+========================= */
 
-.go-top {
-  position: fixed;
+.programmes-layout {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 4rem;
+  margin: 2rem 0 0 0;
+  padding: 0 0 2rem 0;
+}
+
+/* =========================
+   Left Column
+========================= */
+
+.programmes-media img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.programmes-note {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+/* =========================
+   Right Column
+========================= */
+
+.programmes-content {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.program-grid {
+  display: grid;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+/* =========================
+   Program Card
+========================= */
+
+.program-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.5rem;
+  border: 2px solid black;
+  background-color: var(--color-altText2);
+
+  transition: 
+    transform 350ms ease,
+    color 350ms ease;
+}
+
+.program-card:hover {
+  border: 2px solid var(--color-altText);
+  transform: scale(1.1);
+}
+
+.program-date {
+  display: flex;
+  gap: 0.75rem;
+}
+
+/* =========================
+   View All Button
+========================= */
+
+.view-all-button__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.view-all-button {
+  font-size: 1.2rem;
+  font-weight: 600;
+  border: 2px solid black;
+  background: transparent;
+  color: var(--color-heading);
+  padding: 0.5rem 1.25rem 0.5rem 1.25rem;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.view-all-button:hover {
+  background: var(--color-heading);
+  color: var(--color-altText);
+}
+
+/* =========================
+   Responsive
+========================= */
+
+@media (max-width: 992px) {
+  .programmes-layout {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .programmes-content {
+    gap: 3rem;
+  }
+}
+
+@media (max-width: 576px) {
+
+  .seminar-section {
+    padding: 3rem 0;
+  }
+
+  .program-heading {
+    font-size: 1.25rem;
+  }
+
+  .program-card__date {
+    font-size: 1rem;
+  }
+
+  .view-all-button__wrapper {
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+}
+
+/* Testimonials Section  */
+.generic-heading__row--testimonials {
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.carousel {
+  background-image: linear-gradient(to bottom, var(--color-primary), var(--color-secondary), var(--color-accent2));
+  border: 2px solid var(--color-accent2);
+  border-radius: 0.5rem;
+  overflow-x: auto;
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.testimonial-card {
+  height: 480px;
+  width: auto;
+}
+
+.testimonial-card-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  padding-top: 1rem;
+  transition: transform 0.6s ease;
+  will-change: transform;
+}
+
+.testimonial-card-list li {
+  flex: 0 0 25rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 48px;
-  width: 48px;
-  right: 50px;
-  bottom: 60px;
-  transform: translate(4rem, 4rem);
-  z-index: 50;
-  border-radius: 50%;
+  align-items: center;
+  background-color: white;
+  height: 440px;
+  width: 440px;
+  border-radius: 0.5rem;
+  gap: 1rem;
+}
+
+.card-description {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-description__text {
+  font-size: var(--fs-base);
+  color: var(--color-text);
+  height: 243px;
+  width: auto;
+  text-align: center;
+  font-weight: 550;
+}
+
+.card-description__text::before,
+.card-description__text::after
+ {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-size: 20px;
+  color: #e0b724;
+  content: "\f10e"; 
+  margin: 0 10px 0 10px;
+}
+
+.person-info-grid {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  padding-top: 1rem;
+  /* width: 90px; */
+  
+}
+
+.person-info-grid img {
+  height: 150px;
+  width: 150px;
+}
+
+.person-info {
+  /* flex-shrink: 0; */
+  font-size: 24px;
+}
+
+.slider-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  width: auto;
+}
+
+.icon-btn--left {
+  margin-inline: 1rem;
+  border-radius: 40px;
+}
+
+.icon-btn--right {
+  margin-inline: 1rem;
+  border-radius: 40px;
+}
+
+.icon-btn.icon-btn--left:hover {
+  border-radius: 40px;
+  background-color: white;
+  color: rgb(var(--color-primary));
+  font-weight: 700;
+}
+
+.icon-btn.icon-btn--right:hover {
+  border-radius: 40px;
+  background-color: white;
+  color: rgb(var(--color-primary));
+  font-weight: 700;
+}
+
+.slider-indicators {
+  /* position: absolute;
+  left: 47%;
+  /* transform: translateX(50%); */
+   bottom: 10px; 
+} 
+
+.slider-dot {
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  margin: 4px;
+  border-radius: 15px;
+  background: white;
   cursor: pointer;
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.3s ease;
 }
 
-.go-top.show {
-  transform: translate(-1.5rem, -1.5rem);
-  opacity: 1;
-  visibility: visible;
+.dot-active {
+  width: 45px;
 }
 
-.go-top i {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: 0;
-  right: 0;
-  margin: 0;
-  transition: all 0.6s ease;
-}
+/* =========================
+   Responsive
+========================= */
 
-.go-top i:last-child {
-  opacity: 0;
-  visibility: hidden;
-  top: 60%;
-}
 
-.go-top:hover {
-  background: grey;
-}
-
-.go-top:hover i {
-  color: black;
-}
-
-.go-top:hover i:first-child {
-  opacity: 0;
-  top: 0;
-  visibility: hidden;
-}
-
-.go-top:hover i:last-child {
-  opacity: 1;
-  top: 50%;
-  visibility: visible;
-}
-
-/*About Us*/
-.additional-info {
-  width: 100%;
-  height: 100%;
-  padding-top: 30px;
-  padding-left: 20px;
-  padding-right: 10px;
-}

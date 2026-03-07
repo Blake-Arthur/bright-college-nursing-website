@@ -1,0 +1,33 @@
+#contacts,
+#calendar {
+  scroll-margin-top: 10rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+th {
+  font-size: 1.2rem;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+thead {
+  background-color: var(--color-altHeading);
+  color: var(--color-altText);
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #f7f7f7;
+}
+tbody tr:hover {
+  background-color: #eef2e3;
+}

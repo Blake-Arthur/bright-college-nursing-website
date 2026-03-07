@@ -1,0 +1,142 @@
+.top-bar__container {
+  margin-inline: 2rem;
+}
+
+.top-bar {
+  background-color: var(--color-secondary);
+  width: 100%;
+  height: 3rem;
+  border-bottom: 2px solid var(--color-accent2);
+}
+
+.top-bar ul {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.top-bar li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--color-altText);
+  gap: 1em;
+}
+
+.top-bar li a {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.phone-links {
+  display: flex;
+  gap: 0.5em;
+}
+
+.site-logo {
+  height: 100px;
+  width: 100px;
+}
+
+.site-header {
+  width: 100%;
+}
+.hero {
+  position: relative;
+  height: 87vh;
+  overflow: hidden;
+}
+
+.hero-image {
+  height: 100%;
+}
+
+.hero-image img {
+  width: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.hero__overlay {
+  background-color: rgba(0, 0, 0, 0.15);
+  z-index: 1;
+}
+
+.hero__content {
+  z-index: 2;
+  background-color: #00b6bd;
+  transition:
+    background-color 0.2s ease,
+    box-shadow 0.3s ease;
+}
+
+.header-container {
+  height: 100%;
+  width: vh;
+  margin: 0 5rem 0 6rem;
+}
+
+.hero__content.is-sticky {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 0;
+  background-color: var(--color-primary-95);
+  border-bottom: 2px solid var(--color-accent2);
+  backdrop-filter: blur(6px);
+}
+
+.hero__content.is-sticky .logo-wrapper {
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.hero__content.is-sticky img {
+  height: 90px;
+  width: 90px;
+  border: 1.5px solid var(--color-accent2);
+  box-shadow: 4px 1.5px 4px #888888;
+}
+
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-bar img {
+  border: 2px solid var(--color-accent2);
+  border-top: 0;
+  box-shadow: 4px 1.5px 4px #888888;
+}
+
+.admissions-open {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #0575e6, #00f260);
+  height: 50px;
+  width: auto;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.admissions-open span {
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .site-logo {
+    height: 64px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    min-height: 560px;
+  }
+}

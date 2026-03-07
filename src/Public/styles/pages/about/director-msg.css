@@ -1,0 +1,77 @@
+#chairman,
+#vice-chairman,
+#guest-lecturer {
+  scroll-margin-top: 10rem;
+}
+
+.director-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.director-profile__image {
+  width: 160px;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.director-profile__info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.director-profile__salutation {
+  font-weight: 600;
+  font-size: 1.125rem;
+}
+
+.director-videos {
+  padding-top: 3rem;
+}
+
+.director-videos__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.video-card {
+  background: #f5f5f5;
+  padding: 2rem;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 992px) {
+  .director-message {
+    grid-template-columns: 1fr;
+  }
+
+  .director-profile {
+    margin-top: 2rem;
+  }
+
+  .section-heading__line {
+    width: 8rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .section-heading {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .director-videos__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .director-profile__image {
+    width: 120px;
+  }
+}

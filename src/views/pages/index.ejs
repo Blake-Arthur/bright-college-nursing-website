@@ -1,342 +1,497 @@
 <!--Announcements tab-->
-<div class="mt-20">
-    <div class="block w-[1256px] h-16 items-center ml-30 mr-30 border-8 border-black" type="text"
-        placeholder="Announcements">
-        <div class="flex flex-row items-center h-12 border-4 border-[#b22222]">
-            <div class="flex relative h-10 items-center border-r-3 border-[#b22222] announce-label">
-                <span class="px-3 font-bold text-lg">Announcements</span>
+<section class="announcements" aria-label="Announcements">
+    <div class="layout-container">
+        <div class="announcements__bar">
+            <!-- Label -->
+            <div class="announcements__label">
+                <span>Announcements</span>
             </div>
-            <div class="h-fill w-fill overflow-hidden flex">
-                <ul class="announce-slider ">
-                    <li class="announce-item"><a href="#">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                            Voluptatibus
-                            laboriosam,</a></li>
-                    <li class="announce-item"><a href="#">Exams Scheduled on these dates</a></li>
-                    <li class="announce-item"><a href="#">Seminar Scheduled on these dates</a></li>
-                    <li class="announce-item"><a href="#">&nbsp;</a></li>
+
+            <!-- Scroller -->
+            <div class="announcements__viewport">
+                <ul class="announcements__list">
+                    <li class="announcements__item">
+                        <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a>
+                    </li>
+                    <li class="announcements__item">
+                        <a href="#">Exams scheduled on these dates</a>
+                    </li>
+                    <li class="announcements__item">
+                        <a href="#">Seminar scheduled on these dates</a>
+                    </li>
                 </ul>
             </div>
         </div>
+
     </div>
-</div>
-
-<!--At a glance tab-->
-<div class="block">
-    <div class="mt-20 flex flex-row items-center">
-        <div class="flex items-center">
-            <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-            <h1 class="text-4xl font-semibold text-[#223318] pr-3 ">Bright School of Nursing at a Glance</h1>
-        </div>
-
-        <div class="flex flex-row items-center">
-            <div class="bg-black h-px w-64"></div>
-            <div class="bg-black h-2.5 w-2.5 rounded-full"></div>
-        </div>
-    </div>
-</div>
-
-<!--Instituiton numbers-->
-<section class="count-Instituiton-numbers pt-15 pb-20">
-    <div class="block">
-        <div class="flex flex-row justify-between w-[800px]">
-            <div class="count-area-content">
-                <div class="count-digit-holder">
-                    <span class="count-digit counter-loaded">1</span>
-                    <span class="plus">+</span>
-
-                </div>
-                <div class="count-title-holder">
-                    <p class="inline underline">Branches</p>
-                </div>
-            </div>
-            <div class="count-area-content">
-                <div class="count-digit-holder ">
-                    <span class="count-digit counter-loaded">5</span>
-                    <span class="plus">+</span>
-
-                </div>
-                <div class="count-title-holder">
-                    <p class="inline underline">Medical Courses</p>
-                </div>
-            </div>
-            <div class="count-area-content">
-                <div class="count-digit-holder">
-                    <span class="count-digit counter-loaded">300</span>
-                    <span class="plus">+</span>
-
-                </div>
-                <div class="count-title-holder">
-                    <p class="inline underline">Students</p>
-                </div>
-            </div>
-            <div class="count-area-content">
-                <div>
-                    <div class="count-digit-holder">
-                        <span class="count-digit counter-loaded">100</span>
-                        <span class="plus">+</span>
-
-                    </div>
-                    <div class="count-title-holder ">
-                        <p class="inline underline">Placement Partners</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
 </section>
 
+<!--At a glance tab-->
+<section class="layout-container">
+    <div class="generic-heading__row">
+        <div class="generic-heading__title-group">
+            <div class="red-vertical__accent"></div>
+            <h2>Bright School of Nursing at a Glance</h2>
+        </div>
+
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
+        </div>
+    </div>
+</section>
+
+
 <!--Photo of campus, labs, faculities at once accordion style-->
-<section class="relative h-[400px] mb-20 max-w-full overflow-hidden">
+<section class="accordion-layout">
     <!--Dark Overlay-->
-    <div class="absolute inset-0 max-w-dvw max-h-dvh bg-black/45 z-10"></div>
+    <!-- <div class="absolute inset-0 max-w-dvw max-h-dvh bg-black/45 z-10"></div> -->
 
     <div class="accordion-display">
         <div class="accordion-item">
-            <img src="/Images/test img/1961pic.webp" alt="">
-            <p class="text-white text-4xl z-10 items-center">Labs</p>
+            <img src="/Images/test img/1961pic.webp" loading="lazy" alt="">
+            <span>Labs</span>
+            <p>Advanced fully equipped laboratories</p>
         </div>
         <div class="accordion-item">
-            <img src="/Images/test img/1963pic.webp" alt="">
-            <p class="text-white text-4xl z-10 items-center">Labs</p>
+            <img src="/Images/test img/1963pic.webp" loading="lazy" alt="">
+            <span>Labs</span>
+            <p>Advanced fully equipped laboratories</p>
         </div>
         <div class="accordion-item">
-            <img src="/Images/test img/2000pic.webp" alt="">
-            <p class="text-white text-4xl z-10 items-center">Labs</p>
+            <img src="/Images/test img/2000pic.webp" loading="lazy" alt="">
+            <span>Labs</span>
+            <p>Advanced fully equipped laboratories</p>
         </div>
         <div class="accordion-item">
-            <img src="/Images/test img/2008pic.webp" alt="">
-            <p class="text-white text-4xl z-10 items-center">Labs</p>
+            <img src="/Images/test img/2008pic.webp" loading="lazy" alt="">
+            <span>Labs</span>
+            <p>Advanced fully equipped laboratories</p>
         </div>
     </div>
 </section>
 
-<!--Permitted & recognized by-->
-<div class="block mb-20">
-    <!--Heading-->
-    <div class="flex flex-row items-center mb-8">
-        <div class="flex items-center">
-            <h2 class="text-3xl font-semibold text-[#223318] pr-3 ">Permitted & recognized by</h2>
-        </div>
+<!--Instituiton numbers-->
+<!-- <section class="institution-stats" aria-labelledby="institution-stats-title">
+    <div class="layout-container">
+        <h2 id="institution-stats-title" class="sr-only">
+            Institution statistics
+        </h2>
+        <ul class="institution-stats__list">
+            <li class="institution-stats__item">
+                <div class="institution-stats__number">
+                    <span class="institution-stats__value">1</span>
+                    <span class="plus">+</span>
 
-        <div class="flex flex-row items-center">
-            <div class="bg-black h-px w-64"></div>
-            <div class="bg-black h-2.5 w-2.5 rounded-full"></div>
-        </div>
-    </div>
-
-    <!--Content under the heading-->
-    <div class="block">
-        <div class="flex flex-row">
-            <div class="flex flex-col items-center justify-between">
-                <div class="flex flex-row items-center">
-                    <img src="/Images/logo/HFW_Dept.png"
-                        alt="Health & Family Welfare Department Govt. of Odisha,Bhubaneswar" class="h-25 w-25">
                 </div>
-                <div class="flex flex-row items-center justify-between">
-                    <span class="text-base font-bold">Health & Family Welfare Department Govt. of
-                        Odisha,Bhubaneswar</span>
-                    <span class="text-base font-bold">Education & Training Odisha, Bhubaneswar (DME&T)</span>
+                <div class="institution-stats__label">
+                    <p class="underline_text">Branches</p>
                 </div>
-            </div>
+            </li>
+            <li class="institution-stats__item">
+                <div class="institution-stats__number">
+                    <span class="institution-stats__value">5</span>
+                    <span class="plus">+</span>
 
-            <div class="flex flex-col items-center justify-between">
-                <div>
-                    <img src="/Images/logo/ONMRC.png"
-                        alt="Odisha Nurses & Midwives Registration Council,Bhubaneswar (ONMRC)" class="h-25 w-30">
                 </div>
-                <span class="text-base font-bold">Odisha Nurses & Midwives Registration Council, Bhubaneswar (ONMRC)
-                </span>
-            </div>
-        </div>
+                <div class="institution-stats__label">
+                    <p class="underline_text">Courses</p>
+                </div>
+            </li>
+            <li class="institution-stats__item">
+                <div class="institution-stats__number">
+                    <span class="institution-stats__value">300</span>
+                    <span class="plus">+</span>
 
-    </div>
-</div>
+                </div>
+                <div class="institution-stats__label">
+                    <p class="underline_text">Students</p>
+                </div>
+            </li>
+            <li class="institution-stats__item">
+                <div class="institution-stats__number">
+                    <span class="institution-stats__value">100</span>
+                    <span class="plus">+</span>
+
+                </div>
+                <div class="institution-stats__label">
+                    <p class="underline_text">Placement Partners</p>
+                </div>
+            </li>
+        </ul>
+</section> -->
 
 <!--Hospitals for Clinical Practice-->
-<div class="block">
-    <div class="flex flex-row items-center">
-        <div class="flex items-center">
-            <h1 class="text-3xl font-semibold text-[#223318] pr-3 ">Hospitals for Clinical Practice</h1>
-        </div>
-
-        <div class="flex flex-row items-center">
-            <div class="bg-black h-px w-64"></div>
-            <div class="bg-black h-2.5 w-2.5 rounded-full"></div>
-        </div>
-    </div>
-
-    <!--Hosp logo-->
-    <div class="block mt-8">
-        <div class="grid grid-cols-3 items-center gap-10">
-            <div>
-                <img src="/Images/logo/Hospitals/khurdha.png" alt="District Head Quarters Hospital,Khordha">
-            </div>
-            <div>
-                <img src="/Images/logo/Hospitals/LOGO_igkc.png" alt="IGKC Multispeciality Hospital,Bhubaneswar"
-                    class="h-30 w-60 ml-10 ">
-            </div>
-            <div>
-                <img src="/Images/logo/Hospitals/cares-logo.webp" alt="Care Hospitals,Bhubaneswar"
-                    class="h-40 w-50 ml-10">
-            </div>
-            <div>
-                <img src="/Images/logo/Hospitals/Aditya_Ashwini.jpg" alt="Aditya Ashwini Hospital,Bhubaneswar"
-                    class="-ml-4">
-            </div>
-            <div>
-                <img src="/Images/logo/Hospitals/capital.png" alt="Capital Hospital,Bhubaneswar" class="h-16">
-            </div>
-            <div>
-                <img src="/Images/logo/Hospitals/BMC.png" alt="Bhubaneswar Municipal Corporation Hospital,Bhubaneswar"
-                    class="h-14">
-            </div>
-        </div>
-        <div class="custom-block flex flex-row items-center justify-between">
-            <div class="flex flex-col items-center">
-                <div>
-                    <img src="/Images/logo/Hospitals/CHC.png" alt="C.H.C Mendhasal,Khordha">
-                </div>
-                <h2 class="text-2xl">C.H.C Mendhasal,Khordha</h2>
-            </div>
-            <div>
-                <img src="/Images/logo/Hospitals/gen-x-diagnostics.jpg" alt="GenX Diagnostics,Bhubaneswar"
-                    class="h-30 w-60">
-            </div>
-        </div>
-    </div>
-
-
-</div>
-
-<!--Education Programmes and Seminars-->
-<section class="bg-[#293519] h-[1100px] mt-20 mb-100">
-    <div class="block">
+<section class="hospital-section">
+    <div class="layout-container">
         <!--Heading-->
-        <div class="flex flex-row items-center mb-8 pt-25">
-            <div class="flex items-center">
-                <h2 class="seminar-heading text-3xl font-semibold pr-3">Education Programmes & Seminars</h2>
-            </div>
+        <div class="generic-heading__row">
 
-            <div class="flex flex-row items-center">
-                <div class="bg-white h-px w-64"></div>
-                <div class="bg-white h-2.5 w-2.5 rounded-full"></div>
+            <h3>Hospitals for Clinical Practice</h3>
+
+            <div class="__divider">
+                <div class="__line"></div>
+                <div class="__dot"></div>
             </div>
         </div>
 
-        <!--Content under the Heading-->
-        <div class="flex flex-row">
-            <!--Photo animation of Seminars-->
-            <div class="flex flex-col justify-between">
-                <img src="/Images/College_Building_hor.jpg " alt="">
-                <div>
-                    <div class="flex items-center pt-2">
-                        <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                        <span class="seminar-heading text-base text-white ">For <span class="font-bold text-lg">Custom
-                                Programmes & Seminars</span>,
-                            please write to brightschoolofnursing[at]gmail[dot]com
-                        </span>
-                    </div>
+        <!--Hosp logo-->
+        <div class="layout-container">
+            <div class="hospital-grid">
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/khurdha.png" loading="lazy"
+                        alt="District Head Quarters Hospital,Khordha">
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/LOGO_igkc.png" loading="lazy"
+                        alt="IGKC Multispeciality Hospital,Bhubaneswar">
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/cares-logo.webp" loading="lazy" alt="Care Hospitals,Bhubaneswar">
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/Aditya_Ashwini.jpg" loading="lazy"
+                        alt="Aditya Ashwini Hospital,Bhubaneswar">
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/capital.png" loading="lazy" alt="Capital Hospital,Bhubaneswar">
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/BMC.png" loading="lazy"
+                        alt="Bhubaneswar Municipal Corporation Hospital,Bhubaneswar">
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/CHC.png" loading="lazy" alt="C.H.C Mendhasal,Khordha">
+                    <h2 class="text-2xl">C.H.C Mendhasal,Khordha</h2>
+                </div>
+                <div class="hospital-logo">
+                    <img src="/Images/logo/Hospitals/gen-x-diagnostics.jpg" loading="lazy"
+                        alt="GenX Diagnostics,Bhubaneswar" class="h-30 w-60">
                 </div>
             </div>
-            <!--Seminar text links-->
-            <div class="flex flex-col items-center">
-                <div class="block">
-                    <h2 class="seminar-heading text-3xl font-semibold pb-6">Educational Programmes</h2>
-                    <div class="pb-10">
-                        <div class="flex flex-col border-white border">
-                            <ul class="educational-program-pd-class">
-                                <li><span class="seminar-heading text-xl font-bold ">Analytics</span></li>
-                                <li>
-                                    <div class="flex items-center pt-2">
-                                        <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                                        <h1 class="seminar-heading text-lg font-bold text-white ">15th - 19th
-                                            December
-                                        </h1>
-                                    </div>
-                                </li>
-                            </ul>
+        </div>
+    </div>
+</section>
 
+<!--Education Programmes & Seminars-->
+<section class="seminar-section" aria-labelledby="seminar-heading">
+    <div class="layout-container">
 
-                        </div>
-                    </div>
-                    <div class="pb-10">
-                        <div class="flex flex-col border-white border">
-                            <ul class="educational-program-pd-class">
-                                <li><span class="seminar-heading text-xl font-bold ">Soemthing Else</span></li>
-                                <li>
-                                    <div class="flex items-center pt-2">
-                                        <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                                        <h1 class="seminar-heading text-lg font-bold text-white ">3rd - 9th
-                                            December
-                                        </h1>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="view-all-button flex flex-row items-center">
-                            <div class="flex items-center pr-8">
-                                <button
-                                    class="seminar-heading text-Base font-semibold border-white border-3 h-12 w-30 shrink-0 ">View
-                                    All</button>
-                            </div>
+        <!-- Heading -->
+        <div class="generic-heading__row">
+            <h3>
+                Education Programmes &amp; Seminars
+            </h3>
 
-                            <div class="flex flex-row items-center">
-                                <div class="bg-white h-px w-64"></div>
-                                <div class="bg-white h-2.5 w-2.5 rounded-full"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="block pt-6">
-                    <h2 class="seminar-heading text-3xl font-semibold pb-6">Seminars Conducted</h2>
-                    <div class="pb-10">
-                        <div class="flex flex-col border-white border">
-                            <ul class="educational-program-pd-class">
-                                <li><span class="seminar-heading text-xl font-bold ">Seminar 1</span></li>
-                                <li>
-                                    <div class="flex items-center pt-2">
-                                        <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                                        <h1 class="seminar-heading text-lg font-bold text-white ">15th - 19th
-                                            December
-                                        </h1>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="pb-10">
-                        <div class="flex flex-col border-white border">
-                            <ul class="educational-program-pd-class">
-                                <li><span class="seminar-heading text-xl font-bold ">Seminar 2</span></li>
-                                <li>
-                                    <div class="flex items-center pt-2">
-                                        <div class="h-10 border-l-4 border-red-600 pr-3"></div>
-                                        <h1 class="seminar-heading text-lg font-bold text-white ">3rd - 9th
-                                            December
-                                        </h1>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="view-all-button flex flex-row items-center">
-                            <div class="flex items-center pr-8">
-                                <button
-                                    class="seminar-heading text-Base font-semibold border-white border-3 h-12 w-30 shrink-0 ">View
-                                    All</button>
-                            </div>
+            <div class="__divider" aria-hidden="true">
+                <div class="__line"></div>
+                <div class="__dot"></div>
+            </div>
+        </div>
 
-                            <div class="flex flex-row items-center">
-                                <div class="bg-white h-px w-64"></div>
-                                <div class="bg-white h-2.5 w-2.5 rounded-full"></div>
-                            </div>
-                        </div>
-                    </div>
+        <div class="programmes-layout">
+
+            <!-- Left Column -->
+            <div class="programmes-media">
+                <img src="/Images/College_Building_hor.jpg" alt="Bright School of Nursing campus building">
+
+                <div class="programmes-note">
+                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                    <p>
+                        For <strong>Custom Programmes &amp; Seminars</strong>,
+                        please write to
+                        <a href="mailto:brightschoolofnursing@gmail.com">
+                            brightschoolofnursing@gmail.com
+                        </a>
+                    </p>
                 </div>
             </div>
+
+            <!-- Right Column -->
+            <div class="programmes-content">
+
+                <!-- Educational Programmes -->
+                <section aria-labelledby="educational-programmes-heading">
+                    <h4>
+                        Educational Programmes
+                    </h4>
+
+                    <div class="program-grid">
+                        <a href="">
+                            <article class="program-card">
+                                <h4>Community Health Training</h4>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>15th - 19th December (tbd)</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <a href="/academics/nursing-day">
+                            <article class="program-card">
+                                <h4>World Nursing Day</h4>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>12th of May</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <a href="/academics/breastfeeding-week">
+                            <article class="program-card">
+                                <h4>Breast Feeding Week </h4>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>1st - 7th August</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <div class="view-all-button__wrapper">
+                            <button class="view-all-button" aria-label="View all educational programmes">
+                                View All
+                            </button>
+                            <div class="__divider" aria-hidden="true">
+                                <div class="__line"></div>
+                                <div class="__dot"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Seminars Conducted -->
+                <section aria-labelledby="seminars-conducted-heading">
+                    <h4>
+                        Seminars Conducted
+                    </h4>
+
+                    <div class="program-grid">
+
+                        <a href="/academics/breastfeeding-week#guest-lecturer">
+                            <article class="program-card">
+                                <h5>Guest Lecture by Dr. Nilamadhab Jena &hyphen; World Breastfeeding Week </h5>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>7th August 2025 </strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <a href="">
+                            <article class="program-card">
+                                <h4>Seminar 2</h4>
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>17th - 23th December</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <div class="view-all-button__wrapper">
+                            <button class="view-all-button" aria-label="View all seminars conducted">
+                                View All
+                            </button>
+                            <div class="__divider" aria-hidden="true">
+                                <div class="__line"></div>
+                                <div class="__dot"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Testimonials-->
+<section class="layout-container">
+
+    <!--Heading-->
+    <div class="generic-heading__row generic-heading__row--testimonials">
+        <div class="__divider">
+            <div class="__dot"></div>
+            <div class="__line"></div>
+        </div>
+
+        <h3>Testimonials</h3>
+
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
+        </div>
+    </div>
+
+    <!--Carousel-->
+    <div class="carousel">
+        <div class="testimonial-card">
+            <ul class="testimonial-card-list">
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+                <li class="layout-container layout-container--card">
+
+                    <div class="person-info-grid">
+                        <img src="/Images/testimonials/Swayang_Prava_Mahanta.png" alt="Prathana Singh">
+
+                        <h5>Swayang Prava Mahanta</h5>
+
+                    </div>
+                    <div class="">
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
+                            unparalleled.
+                            From day one, I felt welcomed and supported by both faculty and fellow students. The
+                            small
+                            class sizes allow for personalized attention, making it easier to grasp challenging
+                            concepts. Proud to be a part of this institution!"
+                        </h6>
+                        <!-- <i class="fa-solid fa-quote-right qoute" style="color: #e0b724;"></i> -->
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="slider-controls" aria-label="Testimonial slider controls">
+            <ul class="slider-arrows">
+                <li>
+                    <button class="icon-btn icon-btn--left" aria-label="Previous slide">
+                        <i class="fa-solid fa-arrow-left"></i>
+                    </button>
+                </li>
+            </ul>
+            <div class="slider-indicators">
+                <span class="slider-dot dot-active" role="tab" aria-selected="true"></span>
+                <span class="slider-dot"></span>
+                <span class="slider-dot"></span>
+                <span class="slider-dot"></span>
+            </div>
+            <ul class="slider-arrows">
+                <li>
+                    <button class="icon-btn icon-btn--right" aria-label="Next slide">
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </li>
+            </ul>
         </div>
     </div>
 </section>

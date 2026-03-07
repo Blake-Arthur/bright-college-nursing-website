@@ -1,0 +1,55 @@
+<%- include("../../partials/breadcrumb-nav") %>
+
+<section class="layout-container" id="calendar">
+    <div class="generic-heading__row">
+        <div class="generic-heading__title-group">
+            <div class="red-vertical__accent"></div>
+            <h1 class="at-glance__title">Academic Calendar</h1>
+        </div>
+
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Month</th>
+                <th>Date</th>
+                <th>Day</th>
+                <th>Ocassion</th>
+                <th>No. of Days</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <% Object.keys(calendarData).forEach(month => { %>
+            <% const entries = calendarData[month]; %>
+
+            <% entries.forEach((entry, index) => { %>
+            <tr>
+                <% if(index === 0) { %>
+                <td rowspan="<%= entries.length %>">
+                    <%= month %>
+                </td>
+                <% } %>
+
+                <td><%= entry.date %></td>
+                <td><%= entry.day %></td>
+                <td>
+                    <%= entry.occasion %>
+                    <% if(entry.note) { %>
+                    <br>
+                    <small><%= entry.note %></small>
+                    <% } %>
+                </td>
+                <td><%= entry.days %></td>
+            </tr>
+            <% }) %>
+
+            <% }) %>
+        </tbody>
+    </table>
+</section>
