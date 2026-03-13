@@ -1,6 +1,9 @@
 /* =========================
    Announcements
    ========================= */
+#announcements {
+  scroll-margin-top: 10rem;
+}
 
 .announcements {
   margin-top: 3rem;
@@ -23,7 +26,7 @@
   height: 49px;
 
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.1rem;
   white-space: nowrap;
 
   border-right: 3px solid #b22222;
@@ -69,7 +72,7 @@
   align-items: center;
   white-space: nowrap;
 
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
@@ -101,18 +104,128 @@
   text-decoration: underline;
 }
 
+#announcements-mobile {
+    display:none;
+  }
+
 /* =========================
    Responsive Enhancements
    ========================= */
 
-@media (min-width: 768px) {
-  .announcements__label {
-    font-size: 1.1rem;
+@media (max-width: 768px) {
+
+   #announcements-desktop {
+    display:none;
   }
 
-  .announcements__item {
-    font-size: 1rem;
+  #announcements-mobile {
+    display:block;
+    margin: 2rem;
+    margin-bottom: 0;
   }
+
+  .mobile-header {
+    display: flex;
+    gap: 1rem;
+  } 
+
+  #announcements-mobile input[type="radio"] {
+  display: none;
+}
+
+/* header layout */
+.mobile-header {
+  display:flex;
+  gap:4px;
+  margin-bottom: -1px; 
+}
+
+.mobile-header label {
+  flex:1;
+  text-align:center;
+  padding:8px 14px;
+
+  border-bottom:none;
+  border-radius:6px 6px 0 0;
+
+  font-size:1.2rem;
+  font-family: var(--font-heading);
+  cursor:pointer;
+}
+
+/* active tab style */
+#tab-announcements:checked ~ .mobile-header label[for="tab-announcements"],
+#tab-events:checked ~ .mobile-header label[for="tab-events"]{
+
+  border:1px solid var(--color-altText); 
+  border-bottom:none;
+  border-radius:6px 6px 0 0;
+
+  background: var(--color-primary);
+  color: var(--color-altText);
+  font-weight:600;
+
+  position:relative;
+  top:1px;
+}
+
+.mobile-content{
+  border:1px solid var(--color-altText);
+  border-radius:6px;
+
+  padding:14px;
+  background-image: linear-gradient(
+    to bottom,
+    var(--color-primary),
+    var(--color-secondary),
+    var(--color-accent2)
+  );
+}
+
+/* hide content by default */
+.mobile-content > div {
+  display: none;
+  padding-top: 10px;
+}
+
+/* show selected content */
+#tab-announcements:checked ~ .mobile-content #announcements-mobile-content {
+  display: block;
+}
+
+#tab-events:checked ~ .mobile-content #events-mobile-content {
+  display: block;
+}
+
+#tab-announcements:checked ~ .mobile-content{
+  border-top-left-radius:0;
+}
+
+#tab-events:checked ~ .mobile-content{
+  border-top-right-radius:0;
+}
+
+.mobile-content li{
+  margin-bottom:8px;
+  line-height:1.4;
+  font-family: var(--font-heading);
+  color: var(--color-altText);
+}
+
+.mobile-content div{
+  animation:fade 0.25s ease;
+}
+
+@keyframes fade{
+  from{
+    opacity:0;
+    transform:translateY(4px);
+  }
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
 }
 
 /* =========================
@@ -392,6 +505,7 @@
 .view-all-button {
   font-size: 1.2rem;
   font-weight: 600;
+  white-space: nowrap;
   border: 2px solid black;
   background: transparent;
   color: var(--color-heading);
@@ -412,7 +526,7 @@
 @media (max-width: 992px) {
   .programmes-layout {
     grid-template-columns: 1fr;
-    gap: 3rem;
+    gap: 1rem;
   }
 
   .programmes-content {
@@ -420,11 +534,7 @@
   }
 }
 
-@media (max-width: 576px) {
-
-  .seminar-section {
-    padding: 3rem 0;
-  }
+@media (max-width: 768px) {
 
   .program-heading {
     font-size: 1.25rem;
@@ -452,6 +562,7 @@
   border: 2px solid var(--color-accent2);
   border-radius: 0.5rem;
   overflow-x: auto;
+  scroll-snap-type: x mandatory;
 }
 
 .carousel::-webkit-scrollbar {
@@ -461,6 +572,7 @@
 .testimonial-card {
   height: 480px;
   width: auto;
+  
 }
 
 .testimonial-card-list {
@@ -484,6 +596,7 @@
   width: 440px;
   border-radius: 0.5rem;
   gap: 1rem;
+  scroll-snap-align: center;
 }
 
 .card-description {
@@ -587,5 +700,12 @@
 /* =========================
    Responsive
 ========================= */
+@media (max-width: 768px) {
 
+ 
+  .view-all-button__wrapper .__line {
+    width: 12rem;
+  }
+
+}
 

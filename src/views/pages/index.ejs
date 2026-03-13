@@ -1,5 +1,5 @@
 <!--Announcements tab-->
-<section class="announcements" aria-label="Announcements">
+<section class="announcements" aria-label="Announcements" id="announcements-desktop">
     <div class="layout-container">
         <div class="announcements__bar">
             <!-- Label -->
@@ -26,12 +26,122 @@
     </div>
 </section>
 
+<section id="announcements-mobile">
+    <input type="radio" name="mobile-tab" id="tab-announcements" checked>
+    <input type="radio" name="mobile-tab" id="tab-events">
+
+    <div class="mobile-header">
+        <label for="tab-announcements">Announcements</label>
+        <label for="tab-events">Events</label>
+    </div>
+
+    <div class="mobile-content">
+
+        <div id="announcements-mobile-content">
+            <ol class="li-bullet">
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet.</li>
+            </ol>
+        </div>
+
+        <div id="events-mobile-content">
+            <ol class="li-bullet">
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+            </ol>
+        </div>
+
+    </div>
+</section>
+
 <!--At a glance tab-->
+<section class="layout-container">
+    <div class="additional-info">
+        <!-- Heading -->
+        <div class="generic-heading__row ">
+            <div class="__divider">
+                <div class="__dot"></div>
+                <div class="__line"></div>
+
+            </div>
+
+            <h2>Bright Group of Institutions</h2>
+
+            <div class="__divider">
+                <div class="__line"></div>
+                <div class="__dot"></div>
+            </div>
+        </div>
+
+        <h5>( Managed by Bright Educational Charitable Trust, Estd: 2007; Premier organisation in Odisha since 1986 )
+        </h5>
+
+        <div class="our-institutes">
+            <ul class="institute-grid">
+                <li class="institute-card">
+                    <div class="institute_card__description">
+                        <!-- Logo -->
+                        <a href="/">
+                            <img src="/images/logo/logo1.png" loading="lazy" alt="Bright Nursing Logo" />
+                        </a>
+                        <h4 class="institute-card__title">Bright College of Nursing</h4>
+                    </div>
+
+                    <div class="institute-card__courses">
+                        <span class="course-badge">
+                            <a href="/courses/bsc-nursing">BSc. Nursing</a>
+                        </span>
+                        <span class="course-badge">
+                            <a href="/courses/pbbsc-nursing">PBBSc. Nursing</a>
+                        </span>
+                    </div>
+                </li>
+                <li class="institute-card">
+                    <div class="institute_card__description">
+                        <!-- Logo -->
+                        <a href="/">
+                            <img src="/images/logo/logo1.png" loading="lazy" alt="Bright Nursing Logo" />
+                        </a>
+                        <h4 class="institute-card__title">Bright School of Nursing</h4>
+                    </div>
+
+                    <div class="institute-card__courses">
+                        <span class="course-badge">
+                            <a href="/courses/GNM">GNM</a>
+                        </span>
+                        <span class="course-badge">
+                            <a href="/courses/ANM">ANM</a>
+                        </span>
+                    </div>
+                </li>
+                <li class="institute-card">
+                    <div class="institute_card__description">
+                        <!-- Logo -->
+                        <a href="/">
+                            <img src="/images/logo/DMLT_logo.jpeg" loading="lazy" alt="Bright Nursing Logo" />
+                        </a>
+                        <h4>Bright Institute of Medical Technology</h4>
+                    </div>
+
+                    <div class="institute-card__courses">
+                        <span class="course-badge">
+                            <a href="/courses/DMLT">DMLT</a>
+                        </span>
+                    </div>
+                </li>
+            </ul>
+            <img src="/images/College_Building_hor.jpg" loading="lazy" alt="">
+        </div>
+    </div>
+</section>
+
 <section class="layout-container">
     <div class="generic-heading__row">
         <div class="generic-heading__title-group">
             <div class="red-vertical__accent"></div>
-            <h2>Bright School of Nursing at a Glance</h2>
+            <h3>Bright School of Nursing at a Glance</h3>
         </div>
 
         <div class="__divider">
@@ -41,11 +151,8 @@
     </div>
 </section>
 
-
 <!--Photo of campus, labs, faculities at once accordion style-->
 <section class="accordion-layout">
-    <!--Dark Overlay-->
-    <!-- <div class="absolute inset-0 max-w-dvw max-h-dvh bg-black/45 z-10"></div> -->
 
     <div class="accordion-display">
         <div class="accordion-item">
@@ -122,9 +229,9 @@
 </section> -->
 
 <!--Hospitals for Clinical Practice-->
-<section class="hospital-section">
+<!-- <section class="hospital-section">
     <div class="layout-container">
-        <!--Heading-->
+        Heading
         <div class="generic-heading__row">
 
             <h3>Hospitals for Clinical Practice</h3>
@@ -135,7 +242,7 @@
             </div>
         </div>
 
-        <!--Hosp logo-->
+        Hosp logo
         <div class="layout-container">
             <div class="hospital-grid">
                 <div class="hospital-logo">
@@ -169,6 +276,50 @@
                         alt="GenX Diagnostics,Bhubaneswar" class="h-30 w-60">
                 </div>
             </div>
+        </div>
+    </div>
+</section> -->
+
+<section class="layout-container">
+    <!-- Heading -->
+    <div class="generic-heading__row">
+        <h3>Hospitals for Clinical Practice</h3>
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
+        </div>
+    </div>
+
+    <!-- Hosp Logo -->
+    <div class="wrapper">
+        <div class="hospital-logo item1">
+            <img src="/Images/logo/Hospitals/khurdha.png" loading="lazy" alt="District Head Quarters Hospital,Khordha">
+        </div>
+        <div class="hospital-logo item2">
+            <img src="/Images/logo/Hospitals/LOGO_igkc.png" loading="lazy"
+                alt="IGKC Multispeciality Hospital,Bhubaneswar">
+        </div>
+        <div class="hospital-logo item3">
+            <img src="/Images/logo/Hospitals/cares-logo.webp" loading="lazy" alt="Care Hospitals,Bhubaneswar">
+        </div>
+        <div class="hospital-logo item4">
+            <img src="/Images/logo/Hospitals/Aditya_Ashwini.jpg" loading="lazy"
+                alt="Aditya Ashwini Hospital,Bhubaneswar">
+        </div>
+        <div class="hospital-logo item5">
+            <img src="/Images/logo/Hospitals/capital.png" loading="lazy" alt="Capital Hospital,Bhubaneswar">
+        </div>
+        <div class="hospital-logo item6">
+            <img src="/Images/logo/Hospitals/BMC.png" loading="lazy"
+                alt="Bhubaneswar Municipal Corporation Hospital,Bhubaneswar">
+        </div>
+        <div class="hospital-logo item7">
+            <img src="/Images/logo/Hospitals/CHC.png" loading="lazy" alt="C.H.C Mendhasal,Khordha">
+            <h5>C.H.C Mendhasal,Khordha</h5>
+        </div>
+        <div class="hospital-logo item8">
+            <img src="/Images/logo/Hospitals/gen-x-diagnostics.jpg" loading="lazy" alt="GenX Diagnostics,Bhubaneswar"
+                class="h-30 w-60">
         </div>
     </div>
 </section>
@@ -316,9 +467,7 @@
             <div class="__dot"></div>
             <div class="__line"></div>
         </div>
-
         <h3>Testimonials</h3>
-
         <div class="__divider">
             <div class="__line"></div>
             <div class="__dot"></div>

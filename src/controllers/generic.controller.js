@@ -5,10 +5,8 @@ exports.renderFrom = (config) => {
     if (!page) return next();
 
     res.render(page.view, {
-      title: page.title,
-      styles: page.styles,
-      hero: page.hero,
-      transparency: page.transparency,
+      ...page,
+      ...(page.data || {}),
       breadcrumbs: page.breadcrumb || [],
     });
   };

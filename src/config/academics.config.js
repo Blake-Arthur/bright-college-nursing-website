@@ -15,7 +15,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Academic Calendar" }],
     hero: {
       type: "image",
-      src: "/Images/director-msg.jpg",
+      src: "/images/director-msg.jpg",
       alt: "Bright School of Nursing",
     },
   },
@@ -41,6 +41,18 @@ module.exports = {
       type: "image",
       src: "/images/educational-programmes/nursing-day/WhatsApp Image 2026-03-01 at 21.40.11.jpeg",
       alt: "International Nursing Day",
+    },
+  },
+
+  careers: {
+    view: "pages/academics/careers",
+    title: "Careers at Bright Nursing",
+    styles: ["/styles/pages/about/director-msg.css"],
+    breadcrumb: [...baseBreadcrumb, { name: "Careers at Bright Nursing" }],
+    hero: {
+      type: "image",
+      src: "/images/director-msg.jpg",
+      alt: "Careers at Bright Nursing",
     },
   },
 };

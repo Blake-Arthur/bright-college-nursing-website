@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Krishi Vidya Nidhi Yojana",
+    "department": "Agriculture & FE Department",
+    "eligibility": "All Category Students",
+    "documents": [
+      "Ration Card of the Student",
+      "CM-KISAN ID of the Parent",
+      "Residence Certificate of the Student"
+    ],
+    "amount": {
+      "courses": [
+        { "course": "GNM", "amount": "₹36,000" },
+        { "course": "Basic BSc Nursing", "amount": "₹19,450" },
+        { "course": "Post Basic BSc Nursing", "amount": "₹14,650" },
+        { "course": "ANM", "amount": "₹6,800" },
+        { "course": "DMLT", "amount": "₹18,000" }
+      ],
+      "note": "Note: Hosteller students can get additional scholarship amount of ₹1000 per month for 10 months maximum"
+    },
+    "guideline": "/documents/Krishi Vidya Nidhi Yojana.pdf"
+  },
+
+  {
+    "name": "Post Matric Scholarship",
+    "department": "ST & SC and MBC Welfare Department",
+    "categories": [
+      {
+        "category": "SC & ST Students",
+        "documents": [
+          "Parent/Guardian Income Certificate (below Rs.2.5 Lakhs)",
+          "Recent Caste Certificate"
+        ],
+        "courseAmounts": [
+          { "course": "GNM", "amount": "₹36,000" },
+          { "course": "Basic BSc Nursing", "amount": "₹42,000" },
+          { "course": "Post Basic BSc Nursing", "amount": "₹42,000" },
+          { "course": "ANM", "amount": "₹34,200" },
+          { "course": "DMLT", "amount": "₹40,000" }
+        ],
+        "maintenanceAllowance": [
+          {
+            "group": "Group I",
+            "scHosteller": 13500,
+            "scDayScholar": 7500,
+            "stHosteller": 12000,
+            "stDayScholar": 6000
+          },
+          {
+            "group": "Group II",
+            "scHosteller": 11000,
+            "scDayScholar": 7000,
+            "stHosteller": 11000,
+            "stDayScholar": 5800
+          },
+          {
+            "group": "Group III",
+            "scHosteller": 11000,
+            "scDayScholar": 3500,
+            "stHosteller": 11000,
+            "stDayScholar": 3500
+          },
+          {
+            "group": "Group IV",
+            "scHosteller": 11000,
+            "scDayScholar": 3000,
+            "stHosteller": 11000,
+            "stDayScholar": 2800
+          }
+        ],
+        "note": "Note: Hosteller & Day Scholar students can get additional annual maintenance allowance"
+      },
+      {
+        "category": "OBC / SEBC / EBC Students",
+        "eligibility": "At least 50% marks in last qualifying exam",
+        "amount": "Scholarship amount around ₹13,000 per year"
+      }
+    ],
+    "guideline": "/documents/SC-ST Course_fee_Resolution- Post Matric Scholarship.pdf"
+  },
+
+  {
+    "name": "Nirman Shramik Kalyan Yojana",
+    "department": "Labour & ESI Department",
+    "eligibility": "All Category Students",
+    "documents": ["NSKY Card"],
+    "amount": "Scholarship amount around ₹10,000 per year",
+    "guideline": "/documents/Nirman Shramik Kalyan Yojana.pdf"
+  },
+
+  {
+    "name": "Azim Premji Scholarship",
+    "department": "Azim Premji Foundation",
+    "eligibility": "All Category (Girls Students Only)",
+    "documents": [],
+    "amount": "For more details Visit: https://azimpremjifoundation.org/",
+    "guideline": null
+  }
+]

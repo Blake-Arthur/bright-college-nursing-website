@@ -1,39 +1,41 @@
 /*About Us*/
 .our-institutes {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 3rem;
+  flex-wrap: wrap;
 }
 
-.our-institutes ul {
+/* .our-institutes ul {
   padding: 1rem;
-}
+} */
 
 .our-institutes > img {
-  height: 400px;
+  max-height: 400px;
   width: auto;
   border-radius: 30px;
 }
 
 .institute-grid {
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
-  align-items: center;
-  left: 0;
+  gap: 1.5rem;
 }
 
 .institute-card {
-  height: 100px;
-  width: 800px;
+  width: 100%;
+  max-width: 800px;
+
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: white;
-  /* border: 2px solid grey; */
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
+  gap: 1rem;
+
+  background: white;
   border-radius: 1.5rem;
-  padding: 0 1rem 0 1rem;
+  padding: 1rem;
+
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.15);
 }
 
 .institute_card__description {
@@ -43,8 +45,8 @@
 }
 
 .institute_card__description img {
-  height: 5rem;
-  width: auto;
+  width: 3rem;
+  height: auto;
 }
 
 .institute-card__title {
@@ -55,7 +57,7 @@
   display: flex;
   justify-content: start;
   align-items: center;
-  gap: 1em;
+  gap: 1rem;
 }
 
 .course-badge {
@@ -77,6 +79,23 @@
   color: #293519;
   font-weight: 600;
   border: 2px solid #293519;
+}
+
+@media (max-width: 768px) {
+  .institute-card {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .institute-grid li:first-child .institute-card__courses {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 0.25rem;
+  }
 }
 
 #about-institution,

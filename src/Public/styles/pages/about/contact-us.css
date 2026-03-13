@@ -14,6 +14,7 @@
 }
 
 .contact-us span {
+  color: var(--color-text);
   font-size: 1.3rem;
   padding: 0 0 0 0.5rem;
 }
@@ -25,18 +26,4 @@
 .contact-us li div {
   font-size: 1.3rem;
   padding: 0 0 0 0.5rem;
-}
-
-.contact-us li i {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  width: 36px;
-  height: 36px;
-
-  border-radius: 50%;
-  border: 1px solid black;
-
-  font-size: 16px;
 }

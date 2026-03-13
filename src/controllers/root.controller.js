@@ -1,7 +1,7 @@
 exports.home = (req, res) => {
   res.render("pages/index", {
     title: "Bright School of Nursing",
-    styles: ["styles/home.css"],
+    styles: ["styles/home.css", "/styles/pages/about/about-us.css"],
     transparency: 35,
     hero: {
       type: "image",

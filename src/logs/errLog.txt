@@ -44,3 +44,39 @@ Could not find the include file "../partials/breadcrumb-nav"
 
 Could not find the include file "../../partials/breadcrumb-nav"
 
+20260308	08:50:08	e19b1aa9-00bc-48b0-a81e-451ab695c5c5	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\academics\academic-calendar.ejs:28
+    26| 
+    27|         <tbody>
+ >> 28|             <% Object.keys(calendarData).forEach(month => { %>
+    29|             <% const entries = calendarData[month]; %>
+    30| 
+    31|             <% entries.forEach((entry, index) => { %>
+
+calendarData is not defined
+
+20260313	16:10:52	3069b3e7-033b-4a76-b9f0-c7ebcffdaa8d	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\admissions\scholarship.ejs:245
+    243| <section class="scholarship-container">
+    244| 
+ >> 245|     <% scholarships.forEach(item => { %>
+    246| 
+    247|     <div class="scholarship-card">
+    248| 
+
+scholarships is not defined
+
+20260313	17:33:43	b02d37b5-40f6-4144-a465-f341f6a8984d	SyntaxError	missing ) after argument list in C:\Users\abhij\Desktop\Website\src\views\pages\admissions\scholarship.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+20260313	18:26:51	6fe35036-a057-47e7-b41f-7dff1ec35d87	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\admissions\scholarship.ejs:249
+    247|     <div class="scholarship-card">
+    248| 
+ >> 249|         <input type="radio" name="accordion" id="sch-<%= index %>">
+    250| 
+    251|         <div class="scholarship-title">
+    252|             <div>
+
+index is not defined
+

@@ -119,8 +119,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  pointer: cursor;
-  margin: 0 0 1em 0;
+  /* margin: 0 0 1rem 0; */
+}
+
+.course-grid label {
+  cursor: pointer;
 }
 
 .form-grid {

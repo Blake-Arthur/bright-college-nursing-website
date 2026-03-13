@@ -1,9 +1,15 @@
+const baseBreadcrumb = [
+  { name: "Home", url: "/" },
+  { name: "Courses", url: "/about/about-us" },
+];
+
 module.exports = {
   anm: {
     view: "pages/courses/ANM",
     title: "ANM",
     styles: ["/styles/courses.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "ANM" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",
@@ -15,6 +21,7 @@ module.exports = {
     title: "B.Sc. Nursing",
     styles: ["/styles/courses.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "B.Sc. Nursing" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",
@@ -26,6 +33,7 @@ module.exports = {
     title: "DMLT",
     styles: ["/styles/courses.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "DMLT" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",
@@ -37,6 +45,7 @@ module.exports = {
     title: "GNM",
     styles: ["/styles/courses.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "GNM" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",
@@ -48,6 +57,7 @@ module.exports = {
     title: "PBB.Sc. Nursing",
     styles: ["/styles/courses.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "PBB.Sc. Nursing" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",

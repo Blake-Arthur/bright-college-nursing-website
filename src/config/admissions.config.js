@@ -1,9 +1,16 @@
+const baseBreadcrumb = [
+  { name: "Home", url: "/" },
+  { name: "Admissions", url: "/admissions/admission-procedure" },
+];
+const scholarships = require("../seed/data/scholarship_details.json");
+
 module.exports = {
   "admission-procedure": {
     view: "pages/admissions/admission-procedure",
     title: "Admission Procedure",
     styles: ["/styles/pages/courses.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "Admission Procedure" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",
@@ -13,12 +20,17 @@ module.exports = {
   scholarship: {
     view: "pages/admissions/scholarship",
     title: "Scholarship Application",
-    styles: ["/styles/pages/courses.css"],
+    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "Scholarship Details" }],
+
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",
       alt: "Bright School of Nursing",
+    },
+    data: {
+      scholarships,
     },
   },
   "online-admission": {
@@ -26,6 +38,7 @@ module.exports = {
     title: "Online Admission",
     styles: ["/styles/pages/courses.css", "/styles/pages/admissions/online-admission.css"],
     transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "Online Admission" }],
     hero: {
       type: "image",
       src: "/Images/director-msg.jpg",

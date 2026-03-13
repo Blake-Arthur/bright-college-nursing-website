@@ -3,6 +3,10 @@
   scroll-margin-top: 10rem;
 }
 
+.scholarship_container {
+  margin: 0 3.5rem 0 3.5rem;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -15,7 +19,7 @@ th {
 
 th,
 td {
-  border: 1px solid #ddd;
+  border: 2px solid var(--color-altHeading);
   padding: 8px 12px;
   text-align: left;
 }
@@ -23,11 +27,111 @@ td {
 thead {
   background-color: var(--color-altHeading);
   color: var(--color-altText);
+  border-right: 2.4px solid var(--color-altHeading);
 }
 
-tbody tr:nth-of-type(even) {
-  background-color: #f7f7f7;
+thead th:not(:last-child) {
+  border-right: 2px solid var(--color-altText);
 }
+
 tbody tr:hover {
   background-color: #eef2e3;
+  font-weight: 600;
+}
+
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-wrapper table {
+  min-width: 650px;
+}
+
+.table-wrapper::-webkit-scrollbar {
+  height: 6px;
+}
+
+.table-wrapper::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+/* Scholarship Mobile  */
+
+#scholarship-mobile {
+  display: none;
+  margin: 1rem 0 2rem 0;
+}
+
+.scholarship-card {
+  margin: 0 2rem 1rem 2rem;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--color-accent2);
+  border-radius: 1.5rem;
+}
+
+.scholarship-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.scholarship-title label {
+  font-family: var(--font-heading);
+  font-size: var(--fs-h5);
+  font-weight: 700;
+  color: var(--color-heading);
+  line-height: 1.4;
+}
+
+.scholarship-card input[type="checkbox"] {
+  display: none;
+}
+
+.scholarship-card input:checked ~ .scholarship-details {
+  max-height: 1400px;
+}
+
+.scholarship-details {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s;
+}
+
+.scholarship-row {
+  display: flex;
+  flex-direction: column;
+}
+
+.scholarship-row ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+}
+
+#scholarship-mobile ul li::before {
+  content: "-";
+  padding-right: 0.5rem;
+}
+
+.label {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.note {
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  #scholarship-desktop {
+    display: none;
+  }
+
+  #scholarship-mobile {
+    display: block;
+  }
 }

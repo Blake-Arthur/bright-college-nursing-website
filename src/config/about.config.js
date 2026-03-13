@@ -1,6 +1,6 @@
 const baseBreadcrumb = [
   { name: "Home", url: "/" },
-  { name: "About", url: "/about/about-us" },
+  { name: "About Us", url: "/about/about-us" },
 ];
 
 module.exports = {
@@ -9,7 +9,7 @@ module.exports = {
     title: "About Us",
     styles: ["/styles/pages/about/about-us.css", "/styles/pages/about/director-msg.css"],
     transparency: "15",
-    breadcrumb: [...baseBreadcrumb, { name: "About Us" }],
+    breadcrumb: [...baseBreadcrumb],
     hero: {
       type: "image",
       src: "/Images/director-msg.webp",
