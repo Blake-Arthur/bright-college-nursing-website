@@ -39,6 +39,7 @@ exports.createEnquiry = async (req, res) => {
     const enquiry = await Enquiry.create({
       name,
       phone,
+      altPhone,
       email,
       district,
       city,

@@ -8,15 +8,29 @@ module.exports = {
   "admission-procedure": {
     view: "pages/admissions/admission-procedure",
     title: "Admission Procedure",
-    styles: ["/styles/pages/courses.css"],
+    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "Admission Procedure" }],
     hero: {
       type: "image",
-      src: "/Images/director-msg.jpg",
+      src: ["/Images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
+
+  "fee-structure": {
+    view: "pages/admissions/fee-structure",
+    title: "Fee Structure",
+    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    transparency: "15",
+    breadcrumb: [...baseBreadcrumb, { name: "Fee Structure" }],
+    hero: {
+      type: "image",
+      src: ["/Images/director-msg.jpg"],
+      alt: "Bright School of Nursing",
+    },
+  },
+
   scholarship: {
     view: "pages/admissions/scholarship",
     title: "Scholarship Application",
@@ -26,7 +40,7 @@ module.exports = {
 
     hero: {
       type: "image",
-      src: "/Images/director-msg.jpg",
+      src: ["/Images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
     data: {
@@ -41,7 +55,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Online Admission" }],
     hero: {
       type: "image",
-      src: "/Images/director-msg.jpg",
+      src: ["/Images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },

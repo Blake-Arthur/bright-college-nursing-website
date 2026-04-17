@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
   const overlay = document.getElementById("menu-overlay");
   const openButtons = document.querySelectorAll("[data-menu-open]");
-  const closeBtn = document.querySelector("[data-menu-close]");
+  const closeButtons = document.querySelectorAll("[data-menu-close]");
 
-  if (!overlay || !openButtons.length || !closeBtn) return;
+  if (!overlay || !openButtons.length || !closeButtons.length) return;
 
   let lastTrigger = null;
 
@@ -18,6 +18,11 @@ document.addEventListener("DOMContentLoaded", () => {
     overlay.classList.remove("is-active");
     overlay.setAttribute("aria-hidden", "true");
     document.body.classList.remove("menu-open");
+
+    document.getElementById("search-menu__none").checked = true;
+
+    window.scrollTo(0, 0);
+
     lastTrigger?.focus();
   }
 
@@ -25,9 +30,10 @@ document.addEventListener("DOMContentLoaded", () => {
     btn.addEventListener("click", () => openMenu(btn));
   });
 
-  closeBtn.addEventListener("click", closeMenu);
+  closeButtons.forEach((btn) => {
+    btn.addEventListener("click", closeMenu);
+  });
 
-  // ESC closes Menu
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && overlay.classList.contains("is-active")) {
       closeMenu();

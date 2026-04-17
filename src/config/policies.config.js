@@ -12,7 +12,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb],
     hero: {
       type: "image",
-      src: "/Images/director-msg.webp",
+      src: ["/Images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
@@ -24,7 +24,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Legal & Compliance" }],
     hero: {
       type: "image",
-      src: "/Images/director-msg.webp",
+      src: ["/Images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },

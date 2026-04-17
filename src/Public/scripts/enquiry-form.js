@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const overlay = document.getElementById("enquiry-overlay");
+  const overlay = document.getElementById("modal-overlay");
   const openBtn = document.querySelector("[data-enquiry-open]");
   const closeBtn = document.querySelector("[data-enquiry-close]");
-  const form = document.getElementById("enquiryForm");
+  const form = document.getElementById("form-grid");
 
   // prevents JS crash on pages without modal
   if (!overlay || !openBtn || !closeBtn) return;
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
       e.preventDefault();
 
       const submitBtn = form.querySelector("button[type='submit']");
-      const messageBox = document.querySelector(".modal-content h6");
+      const messageBox = document.getElementById("formMessage");
 
       submitBtn.disabled = true;
       submitBtn.textContent = "Submitting...";

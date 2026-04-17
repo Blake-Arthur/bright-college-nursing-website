@@ -1,18 +1,19 @@
 <button id="openEnquiry" data-enquiry-open>Enquire Now</button>
 
 <!-- Modal -->
-<div class="enquiry-overlay" id="enquiry-overlay" aria-hidden="true">
+<!-- <div class="enquiry-overlay" id="enquiry-overlay" aria-hidden="true">
     <div class="enquiry-overlay__inner" role="dialog" aria-modal="true" aria-label="Enquiry Form">
         <div class="modal-content">
             <div class="modal-content__header">
-                <!-- Logo -->
+
+                
                 <picture>
                     <source srcset="/images/logo/logo.webp" type="image/webp">
                     <img src="/images/logo/logo.png" loading="lazy" alt="Bright Nursing Logo"
                         class="site-logo enquiry-logo" />
                 </picture>
 
-                <span>Bright College of Nursing</span>
+                <span>Bright Group of Institutions</span>
 
                 <button class="enquiry-close" aria-label="Close Enquiry Form" data-enquiry-close>
                     <i class="fa-solid fa-xmark"></i>
@@ -30,55 +31,92 @@
 
             <form id="enquiryForm" class="enquiry-form" method="POST" action="/api/enquiry">
 
-                <!-- Course Selection -->
-                <div class="course-grid">
-                    <label>
-                        <input type="radio" name="course" value="bsc" required>
-                        BSc. N
-                    </label>
+                
+                <div class="online-form__course-grid">
 
-                    <label>
-                        <input type="radio" name="course" value="pbbsc">
-                        PBBSc. N
-                    </label>
+                    <div class="course-group">
+                        <div>
+                            <img src="/images/logo/logo1.png" alt="Bright College of Nursing">
+                            <h5 id="bcn">Bright College of Nursing</h5>
+                        </div>
 
-                    <label>
-                        <input type="radio" name="course" value="gnm">
-                        GNM
-                    </label>
+                        <label class="bcn">
+                            <input type="radio" name="course" value="bsc" required>
+                            BSc. N
+                        </label>
 
-                    <label>
-                        <input type="radio" name="course" value="anm">
-                        ANM
-                    </label>
+                        <label class="bcn">
+                            <input type="radio" name="course" value="pbbsc">
+                            PBBSc. N
+                        </label>
+                    </div>
 
-                    <label>
-                        <input type="radio" name="course" value="dmlt">
-                        DMLT
-                    </label>
+                    <div class="course-group">
+                        <div>
+                            <img src="/images/logo/logo1.png" alt="Bright School of Nursing">
+                            <h5 id="bsn">Bright School of Nursing</h5>
+                        </div>
+
+                        <label class="bsn">
+                            <input type="radio" name="course" value="gnm">
+                            GNM
+                        </label>
+
+                        <label class="bsn">
+                            <input type="radio" name="course" value="anm">
+                            ANM
+                        </label>
+                    </div>
+
+                    <div class="course-group">
+                        <div>
+                            <img src="/images/logo/DMLT_logo.jpeg" loading="lazy"
+                                alt="Bright Institute of Medical Technology Logo" />
+                            <h5 id="bimt">Bright Institute of Medical Technology</h5>
+                        </div>
+
+                        <label class="bimt">
+                            <input type="radio" name="course" value="dmlt">
+                            DMLT
+                        </label>
+                    </div>
+
                 </div>
 
-                <!-- Personal Details -->
-                <div class="form-grid">
-                    <input type="text" name="name" placeholder="Student's Full Name" pattern="[a-zA-Z .]"
-                        maxlength="100" minlength="3" required>
+                
+                <div class="online-form">
 
-                    <input type="tel" name="phone" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10"
-                        minlength="10" placeholder="Student Mobile No." required>
+                    <div>
+                        <input type="text" name="name" maxlength="100" placeholder="Student's Full Name" required>
+                    </div>
 
-                    <input type="tel" name="altPhone" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10"
-                        minlength="10" placeholder="Father / Guardian's Mobile No." required>
+                    <div>
+                        <input type="tel" name="phone" inputmode="numeric" pattern="[6-9]{1}[0-9]{9}" maxlength="10"
+                            minlength="10" placeholder="Enter Student's mobile number" required>
+                    </div>
 
-                    <input type="email" name="email" pattern="[^\s@]+@[^\s@]+\.[^\s@]{2,}" maxlength="150"
-                        placeholder="Your E-Mail">
+                    <div>
+                        <input type="tel" name="altPhone" inputmode="numeric" pattern="[6-9]{1}[0-9]{9}" maxlength="10"
+                            minlength="10" placeholder="Enter Father / Guardian's mobile number" required />
+                    </div>
 
-                    <select name="district" id="districtSelect" required>
-                        <option value="">Select District</option>
-                    </select>
+                    <div>
+                        <input type="email" name="email" pattern="^[^\s@]+@[^\s@]+\.[^\s@]{2,}$" maxlength="150"
+                            placeholder="yourname@example.com">
+                    </div>
 
-                    <select name="city" id="citySelect" required>
-                        <option value="">Select City</option>
-                    </select>
+                    <div>
+                        <select name="district" id="districtSelect" required>
+                            <option value="">Select District</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <select name="city" id="citySelect" required>
+                            <option value="">Select City</option>
+                        </select>
+                    </div>
+
                 </div>
 
                 <div class="date-picker">
@@ -89,7 +127,7 @@
                 <div>
                     <span>Where did you hear about us?</span>
 
-                    <!-- Referral Source -->
+                    
                     <div class="course-grid">
                         <label>
                             <input type="radio" name="hearAbout" value="website" required>
@@ -119,6 +157,130 @@
             <h6></h6>
             <div></div>
         </div>
+    </div>
+</div> -->
+
+<div id="modal-overlay" class="modal-overlay" aria-hidden="true">
+    <div class="modal">
+
+        <!-- HEADER -->
+        <div class="modal-header">
+            <img src="/images/logo/logo1.png" alt="Logo">
+            <div>
+                <h2>BRIGHT GROUP OF INSTITUTIONS</h2>
+                <p class="subtext">
+                    Recognized by the Odisha Nurses & Midwives Registration Council
+                    (ONMRC),
+                    and Affiliated to Odisha University of Health Sciences (OUHS)
+                </p>
+            </div>
+
+            <!-- CLOSE BUTTON -->
+            <button class="enquiry-close" data-enquiry-close>&times;</button>
+        </div>
+
+        <h3 class="form-title">Apply For Admission 2026&hyphen;27</h3>
+
+        <hr>
+
+        <!-- FORM -->
+        <form id="form-grid" class="form-grid" method="POST" action="/api/enquiry">
+
+            <!-- COURSE SECTION -->
+            <div class="course-section">
+                <p class="section-label">Course Applied For</p>
+
+                <div class="course-row">
+                    <img src="/images/logo/logo1.png">
+                    <span>Bright College of Nursing</span>
+
+                    <label>
+                        <input type="radio" name="course" value="bsc" required> BSc. N
+                    </label>
+
+                    <label>
+                        <input type="radio" name="course" value="pbbsc"> PBBSc. N
+                    </label>
+                </div>
+
+                <div class="course-row">
+                    <img src="/images/logo/logo1.png">
+                    <span>Bright School of Nursing</span>
+
+                    <label>
+                        <input type="radio" name="course" value="gnm"> GNM
+                    </label>
+
+                    <label>
+                        <input type="radio" name="course" value="anm"> ANM
+                    </label>
+                </div>
+
+                <div class="course-row">
+                    <img src="/images/logo/DMLT_logo.jpeg">
+                    <span>Bright Institute of Medical Technology</span>
+
+                    <label>
+                        <input type="radio" name="course" value="dmlt"> DMLT
+                    </label>
+                </div>
+            </div>
+
+            <!-- FORM FIELDS -->
+            <input type="text" name="name" placeholder="Student's Full Name" pattern="[a-zA-Z .]{3,100}" maxlength="100"
+                minlength="3" required>
+
+            <input type="tel" name="phone" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10" minlength="10"
+                placeholder="Student Mobile No." required>
+
+            <input type="tel" name="altPhone" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10" minlength="10"
+                placeholder="Father / Guardian's Mobile No." required>
+
+            <input type="email" name="email" pattern="[^\s@]+@[^\s@]+\.[^\s@]{2,}" maxlength="150"
+                placeholder="Your E-Mail">
+
+            <select name="district" id="districtSelect" required>
+                <option value="">Select District</option>
+            </select>
+
+            <select name="city" id="citySelect" required>
+                <option value="">Select City</option>
+            </select>
+
+            <div class="full-width">
+                <label>Expected Date of Visit to College:</label>
+                <input type="date" name="visitDate" min="<%= new Date().toISOString().split('T')[0] %>" required>
+            </div>
+
+            <div class="full-width">
+                <label>Where did you hear about us?</label>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" name="hearAbout" value="website" required>
+                        Website
+                    </label>
+
+                    <label>
+                        <input type="radio" name="hearAbout" value="ads">
+                        Advertisement
+                    </label>
+
+                    <label>
+                        <input type="radio" name="hearAbout" value="referral">
+                        Friends &amp; Family
+                    </label>
+
+                    <label>
+                        <input type="radio" name="hearAbout" value="social">
+                        Social Media
+                    </label>
+                </div>
+            </div>
+
+            <button type="submit" class="submit-btn">Apply Now</button>
+            <p id="formMessage" class="form-message"></p>
+        </form>
+
     </div>
 </div>
 <script>
@@ -161,14 +323,15 @@
 <script>
     document.addEventListener("DOMContentLoaded", function () {
 
-        const form = document.getElementById("enquiryForm");
+        const form = document.getElementById("form-grid");
         if (!form) return;
 
         form.addEventListener("submit", async function (e) {
             e.preventDefault();
 
             const submitBtn = this.querySelector("button[type='submit']");
-            const messageBox = document.querySelector(".modal-content h6");
+            const messageBox = document.getElementById("formMessage");
+            console.log("MessageBox:", messageBox);
 
             submitBtn.disabled = true;
             submitBtn.textContent = "Submitting...";
@@ -202,7 +365,7 @@
                 messageBox.style.color = "red";
             } finally {
                 submitBtn.disabled = false;
-                submitBtn.textContent = "Submit";
+                submitBtn.textContent = "Apply Now";
             }
         });
 

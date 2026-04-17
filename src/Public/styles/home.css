@@ -242,57 +242,42 @@
    At a Glance Section
    ========================= */
 
-.at-glance {
-  margin-top: 5rem;
-}
-
-.at-glance__title {
-  font-size: clamp(1.75rem, 4vw, 2.25rem);
-  font-weight: 600;
-  line-height: 1.2;
-  color: rgb(var(--color-primary));
-  margin: 0;
-}
-
-/*institution-stats*/
-
-.institution-stats {
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-}
-
-.institution-stats__list {
+.grid_at-glance {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2.5rem;
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
 }
 
-.institution-stats__number {
+.card_at-glance {
+  background: white;
+  border-radius: 16px;
+  padding: 20px 20px 10px 20px;
+  text-align: center;
+  box-shadow: 0 15px 15px rgba(0,0,0,0.15);
+  transition: 0.3s;
+}
+
+.card_at-glance p {
+  margin: 0px;
+  line-height: 1.5;
+}
+
+.card_at-glance:hover {
+  transform: translateY(-5px);
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  margin: auto;
+  border-radius: 50%;
+  background: var(--color-primary);
   display: flex;
-  align-items: baseline;
-  font-size: clamp(2.25rem, 4vw, 3rem);
-  font-weight: 500;
-  line-height: 1;
-}
-
-.institution-stats__number .plus {
-  margin-left: 0.1em;
-  font-size: 0.8em;
-}
-
-.institution-stats__label {
-  font-size: 14px;
-  text-align: left;
-}
-
-@media (min-width: 768px) {
-  .institution-stats__list {
-    grid-template-columns: repeat(4, 1fr);
-    gap: 3rem;
-  }
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  color: var(--color-altText);
+  margin-bottom: 10px;
 }
 
 /* Hospitals for Clinical Practice */
@@ -549,6 +534,11 @@
     align-items: center;
     gap: 1rem;
   }
+
+  .view-all-button__wrapper .__line {
+    width: 12rem;
+  }
+
 }
 
 /* Testimonials Section  */
@@ -571,8 +561,7 @@
 
 .testimonial-card {
   height: 480px;
-  width: auto;
-  
+  width: auto; 
 }
 
 .testimonial-card-list {
@@ -644,68 +633,6 @@
   font-size: 24px;
 }
 
-.slider-controls {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 60px;
-  width: auto;
-}
-
-.icon-btn--left {
-  margin-inline: 1rem;
-  border-radius: 40px;
-}
-
-.icon-btn--right {
-  margin-inline: 1rem;
-  border-radius: 40px;
-}
-
-.icon-btn.icon-btn--left:hover {
-  border-radius: 40px;
-  background-color: white;
-  color: rgb(var(--color-primary));
-  font-weight: 700;
-}
-
-.icon-btn.icon-btn--right:hover {
-  border-radius: 40px;
-  background-color: white;
-  color: rgb(var(--color-primary));
-  font-weight: 700;
-}
-
-.slider-indicators {
-  /* position: absolute;
-  left: 47%;
-  /* transform: translateX(50%); */
-   bottom: 10px; 
-} 
-
-.slider-dot {
-  display: inline-block;
-  height: 15px;
-  width: 15px;
-  margin: 4px;
-  border-radius: 15px;
-  background: white;
-  cursor: pointer;
-}
-
-.dot-active {
-  width: 45px;
-}
-
 /* =========================
    Responsive
 ========================= */
-@media (max-width: 768px) {
-
- 
-  .view-all-button__wrapper .__line {
-    width: 12rem;
-  }
-
-}
-

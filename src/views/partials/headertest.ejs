@@ -91,9 +91,25 @@
                 referrerpolicy="no-referrer-when-downgrade">
             </iframe>
             <% } else if (hero.type === "image") { %>
-            <img src="<%= hero.src %>" alt="<%= hero.alt %>">
+            <div class="image-skeleton"></div> <!-- skeleton -->
+
+            <% if (hero.type === "image") { %>
+            <% hero.src.forEach((img, index) => { %>
+            <img src="<%= img %>" alt="<%= hero.alt %>" class="hero-slide <%= index === 0 ? 'active' : '' %>"
+                loading="lazy" onload="this.classList.add('loaded')">
+            <% }) %>
             <% } %>
             <% } %>
+            <% } %>
+
+            <div class="slider-arrows slider-arrows__hero-img">
+                <button class="icon-btn icon-btn--left" id="prevBtn">
+                    <i class="fa-solid fa-arrow-left"></i>
+                </button>
+                <button class="icon-btn icon-btn--right" id="nextBtn">
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
+            </div>
         </div>
 
         <!-- Search Overlay -->

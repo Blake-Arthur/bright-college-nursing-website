@@ -15,7 +15,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Academic Calendar" }],
     hero: {
       type: "image",
-      src: "/images/director-msg.jpg",
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -27,7 +27,9 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "World Breastfeeding Week" }],
     hero: {
       type: "image",
-      src: "/images/educational-programmes/breastfeeding-week/World BreastFeeding week 1-7Aug.jpeg",
+      src: [
+        "/images/educational-programmes/breastfeeding-week/World BreastFeeding week 1-7Aug.webp",
+      ],
       alt: "World BreastFeeding Week Banner",
     },
   },
@@ -39,7 +41,11 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "International Nursing Day" }],
     hero: {
       type: "image",
-      src: "/images/educational-programmes/nursing-day/WhatsApp Image 2026-03-01 at 21.40.11.jpeg",
+      src: [
+        "/images/educational-programmes/nursing-day/WhatsApp Image 2026-03-01 at 21.40.11.jpeg",
+        "/images/director-msg.webp",
+        "/images/educational-programmes/nursing-day/WhatsApp Image 2026-03-17 at 17.12.18.jpeg",
+      ],
       alt: "International Nursing Day",
     },
   },
@@ -51,7 +57,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Careers at Bright Nursing" }],
     hero: {
       type: "image",
-      src: "/images/director-msg.jpg",
+      src: ["/images/director-msg.jpg"],
       alt: "Careers at Bright Nursing",
     },
   },

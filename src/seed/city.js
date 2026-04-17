@@ -2,7 +2,7 @@ require("dotenv").config();
 const mongoose = require("mongoose");
 
 const City = require("../models/city.schema");
-const District = require("../models/districts.schema");
+const District = require("../models/districts.schema.js");
 const cities = require("./data/city.odisha.json");
 
 async function seed() {

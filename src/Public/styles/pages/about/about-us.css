@@ -1,103 +1,80 @@
 /*About Us*/
-.our-institutes {
+
+/* LEFT SIDE LIST */
+.institutes-list {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 3rem;
-  flex-wrap: wrap;
-}
-
-/* .our-institutes ul {
-  padding: 1rem;
-} */
-
-.our-institutes > img {
-  max-height: 400px;
-  width: auto;
-  border-radius: 30px;
-}
-
-.institute-grid {
-  display: grid;
-  gap: 1.5rem;
-}
-
-.institute-card {
-  width: 100%;
-  max-width: 800px;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
   gap: 1rem;
+}
 
+/* CARD */
+.institute-card {
   background: white;
   border-radius: 1.5rem;
-  padding: 1rem;
+  padding: 0.75rem 1.5rem;
 
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+
+  transition: all 0.25s ease;
 }
 
-.institute_card__description {
+/* HEADER (LOGO + TITLE) */
+.card-header {
   display: flex;
   align-items: center;
   gap: 1rem;
 }
 
-.institute_card__description img {
-  width: 3rem;
-  height: auto;
+.card-header img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
 }
 
-.institute-card__title {
-  font-size: 1.5rem;
-}
-
-.institute-card__courses {
+/* COURSES */
+.card-courses {
   display: flex;
-  justify-content: start;
-  align-items: center;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding-left: 3rem;
 }
 
-.course-badge {
-  border-radius: 2rem;
-  background-color: #293519;
+/* COURSE PILLS */
+.course-pill {
+  text-decoration: none;
   font-size: 1.2rem;
-  color: white;
-  margin-top: 0.5em;
-  padding: 0.5em 1.25rem 0.5em 1.25rem;
-  box-shadow: 4px 4px 2px #888888;
-  transition:
-    background-color 200ms ease-in-out,
-    color 200ms ease-in-out;
-  /* font-weight 300ms ease-in-out; */
+
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+
+  background: var(--color-primary);
+  color: var(--color-accent2);
+  outline: 3px solid var(--color-accent2);
+  font-weight: 700;
+  transition: all 0.2s ease;
 }
 
-.course-badge:hover {
-  background-color: white;
-  color: #293519;
-  font-weight: 600;
-  border: 2px solid #293519;
+/* HOVER */
+.course-pill:hover {
+  background: transparent;
+  color: var(--color-accent2);
+  border: 2px solid var(--color-primary);
+  font-weight: 700;
 }
 
-@media (max-width: 768px) {
-  .institute-card {
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-  }
-
-  .institute-grid li:first-child .institute-card__courses {
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
-    align-items: center;
-    gap: 0.25rem;
-  }
+/* IMAGE SIDE */
+.institutes-image img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 2rem;
 }
 
+#bright-group-institutions,
 #about-institution,
 #mission-vision,
 #accreditions {
@@ -138,39 +115,27 @@
 
 .recognition-grid {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 3rem;
-  margin-top: 1rem;
-}
-
-.recognition-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  gap: 1.5rem;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .recognition-logo {
-  max-width: 160px;
-  height: auto;
+  height: 180px;
+  width: auto;
 }
 
-.recognition-title-group {
-  display: flex;
-  flex-direction: row;
-  gap: 0.75rem;
-  font-size: 1rem;
-  font-weight: 700;
-}
-
-@media (min-width: 768px) {
-  .recognition-grid {
-    grid-template-columns: repeat(2, 1fr);
-    align-items: start;
+@media (max-width: 768px) {
+  .info-section {
+    display: none;
   }
 
-  .recognition-card {
-    align-items: center;
+  .recognition-grid {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    margin-top: 1rem;
+  }
+
+  .recognition-logo {
+    height: 150px;
+    width: auto;
   }
 }

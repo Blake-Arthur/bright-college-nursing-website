@@ -1,6 +1,6 @@
 require("dotenv").config();
 const mongoose = require("mongoose");
-const District = require("../models/districts__Schema");
+const District = require("../models/districts.schema.js");
 const districts = require("./data/districts.odisha.json");
 
 async function seed() {

@@ -2,30 +2,351 @@
 
     <div class="menu-overlay__inner" role="dialog" aria-modal="true" aria-label="Main menu">
 
-        <!-- Header -->
-        <div class="menu-header">
-            <a href="/" class="menu-logo">
-                <img src="/images/logo/logo.png" loading="lazy" alt="Bright Nursing" width="160" height="80" />
-            </a>
+        <div class="main-menu">
+            <!-- Header -->
+            <div class="menu-header">
+                <a href="/" class="menu-logo">
+                    <img src="/images/logo/logo.png" loading="lazy" alt="Bright Nursing" width="160" height="80" />
+                </a>
 
-            <button class="menu-close" aria-label="Close menu" data-menu-close>
-                <i class="fa-solid fa-xmark"></i>
-            </button>
+                <button class="menu-close" id="menu-close__mobile" aria-label="Close menu" data-menu-close>
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <!-- Menu Items -->
+            <nav class="menu-nav" aria-label="Menu navigation">
+                <input type="radio" name="search-menu" id="search-menu__institute-overview">
+                <input type="radio" name="search-menu" id="search-menu__courses">
+                <input type="radio" name="search-menu" id="search-menu__facilities">
+                <input type="radio" name="search-menu" id="search-menu__admission">
+                <input type="radio" name="search-menu" id="search-menu__gallery">
+                <ul class="menu-list">
+                    <li>
+                        <a href="/" class="underline_text">Home</a>
+                    </li>
+                    <li>
+                        <label for="search-menu__institute-overview" class="underline_text">
+                            Institute Overview
+                        </label>
+                    </li>
+                    <li>
+                        <label for="search-menu__courses" class="underline_text">
+                            Courses
+                        </label>
+                    </li>
+                    <li>
+                        <label for="search-menu__facilities" class="underline_text">
+                            Facilities
+                        </label>
+                    </li>
+                    <li>
+                        <label for="search-menu__admission" class="underline_text">
+                            Admission
+                        </label>
+                    </li>
+                    <li>
+                        <label for="search-menu__gallery" class="underline_text">
+                            Gallery
+                        </label>
+                    </li>
+                    <li>
+                        <a href="" class="underline_text">Blogs</a>
+                    </li>
+                    <li>
+                        <a href="/about/contact-us#contact-details" class="underline_text">Contact Us</a>
+                    </li>
+                </ul>
+            </nav>
         </div>
 
-        <!-- Menu Items -->
-        <nav class="menu-nav" aria-label="Menu navigation">
-            <ul class="menu-list">
-                <li><a href="/">Home</a></li>
-                <li><a href="#">
-                        Institute Overview</a></li>
-                <li><a href="#">Courses</a></li>
-                <li><a href="/About/director-message#chairman">Admission</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#">Blogs</a></li>
-                <li><a href="#">Faculty & Staff</a></li>
-                <li><a href="#">Lab Facilities</a></li>
-            </ul>
-        </nav>
+        <div class="sub-menu">
+            <button class="menu-close" id="menu-close__desktop" aria-label="Close menu" data-menu-close>
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+
+            <input type="radio" name="search-menu" id="search-menu__none">
+
+            <h5>
+                <label for="search-menu__none">
+                    <i class="fa-solid fa-angle-left"></i>
+                    Back</label>
+            </h5>
+
+            <div class="sub-menu__items" id="search-menu__institute-overview__content">
+                <h4>Institute Overview</h4>
+                <div class="sub-menu__item">
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/about/about-us#bright-group-institutions">
+                                About Us
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Learn about the history, mission and vision of Bright Group of Institutions.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/about/about-us#accreditions">
+                                Affiliation & Recognition
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>View our accreditions and recognitions.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/about/director-message#chairman">
+                                Chairman's Message
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Read a message from our Honorable Chairman.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/about/director-message#vice-chairman">
+                                Vice-Chairman's Message
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Read insights and guidance from our vice-chairman.</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="sub-menu__items" id="search-menu__courses__content">
+                <h4>Courses</h4>
+                <div class="sub-menu__item">
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/courses/bsc-nursing#anti-ragging">BSc. Nursing
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Study a comprehensive program designed to prepare skilled and compassionate nursing
+                            professionals.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/courses/pbbsc-nursing#pbbsc">PBBSc. Nursing
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Advance your nursing career with our Post Basic BSc Nursing program.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/courses/GNM#gnm">GNM
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Gain essential clinical and theoretical training through our General Nursing and Midwifery
+                            program.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/courses/ANM#anm">ANM
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Begin your healthcare career with foundational nursing and community health
+                            training.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/courses/DMLT#dmlt">DMLT
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Learn modern laboratory techniques and diagnostics in our Medical Laboratory Technology
+                            program.</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="sub-menu__items" id="search-menu__facilities__content">
+                <h4>Facilities</h4>
+                <div class="sub-menu__item">
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Classroom
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Well-equipped classrooms designed to support effective and interactive learning.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Library
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Access a wide collection of nursing, medical, and academic resources for study and
+                            research.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Laboratories
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Modern labs that provide hands-on training with the latest medical equipment.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Computer Lab
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Develop digital skills using updated computers and learning resources.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Community Training
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Gain real-world experience through community health programs and outreach
+                            activities.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Clinical Training
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Practical clinical exposure in hospitals to build professional healthcare skills.</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="sub-menu__items" id="search-menu__admission__content">
+                <h4>Admissions</h4>
+                <div class="sub-menu__item">
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Admission Procedure
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Learn about the steps required to apply and secure admission to our courses.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Fees Structure
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>View detailed information about course fees and payment guidelines.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/admissions/scholarship#scholarship">
+                                Scholarship &amp; Financial Assistance
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Explore scholarship opportunities and financial support available for eligible
+                            students.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Enquiry Form
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Submit your enquiry and receive guidance about courses and admissions.</span>
+                    </div>
+
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/admissions/online-admission#online-admission">
+                                Online Admission
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Apply for admission easily through our online application portal.</span>
+                    </div>
+
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="#">
+                                Download Admission Form
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Download the admission form to begin your application process offline.</span>
+                    </div>
+
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/documents/brochure.pdf" target="_blank">
+                                Download Brochure
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Explore detailed information about our institution, courses, and facilities.</span>
+                    </div>
+
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/policies/code-of-conduct#anti-ragging">
+                                Rules &amp; Regulations
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Review the policies and guidelines followed by students and staff.</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sub-menu__items" id="search-menu__gallery__content">
+                <h4>Gallery</h4>
+                <div class="sub-menu__item">
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/about/about-us#bright-group-institutions">
+                                Workshops &amp; Seminars
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Interactive sessions and expert-led talks that enhance learning and practical
+                            skills.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/campus/cultural-events" target="_blank">
+                                Cultural Events
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>Celebrating creativity and diversity through vibrant programs and performances.</span>
+                    </div>
+                    <div>
+                        <div class="sub-menu__items-heading">
+                            <a href="/about/director-message#chairman">
+                                Photos
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                        <span>A glimpse of campus life, achievements, and memorable moments.</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
 </div>

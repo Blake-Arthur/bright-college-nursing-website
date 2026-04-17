@@ -80,3 +80,145 @@ Or, if you meant to create an async function, pass `async: true` as an option.
 
 index is not defined
 
+20260318	18:33:54	6634610f-d04d-4a18-a577-fba1fd309870	SyntaxError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:48
+    46| 
+    47|     <!-- Header / Navbar / Hero -->
+ >> 48|     <%- include("../partials/headertest") %>
+    49| 
+    50|     <!-- Page Content -->
+    51|     <main>
+
+Unexpected token 'catch' in C:\Users\abhij\Desktop\Website\src\views\partials\headertest.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+20260318	18:48:14	bd8c465a-8f11-4dab-b6f6-ca45c2f0b637	TypeError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:48
+    46| 
+    47|     <!-- Header / Navbar / Hero -->
+ >> 48|     <%- include("../partials/headertest") %>
+    49| 
+    50|     <!-- Page Content -->
+    51|     <main>
+
+C:\Users\abhij\Desktop\Website\src\views\partials\headertest.ejs:94
+    92|             </iframe>
+    93|             <% } else if (hero.type === "image") { %>
+ >> 94|             <% hero.src.forEach((img, index) => { %>
+    95|             <img src="<%= img %>" alt="<%= hero.alt %>" class="hero-slide <%= index === 0 ? 'active' : '' %>">
+    96|             <% }) %>
+    97|             <% } %>
+
+hero.src.forEach is not a function
+
+20260318	18:50:29	1bc5815f-9ea7-4e1e-80d7-95196065af13	TypeError	C:\Users\abhij\Desktop\Website\src\views\layouts\main.ejs:48
+    46| 
+    47|     <!-- Header / Navbar / Hero -->
+ >> 48|     <%- include("../partials/headertest") %>
+    49| 
+    50|     <!-- Page Content -->
+    51|     <main>
+
+C:\Users\abhij\Desktop\Website\src\views\partials\headertest.ejs:94
+    92|             </iframe>
+    93|             <% } else if (hero.type === "image") { %>
+ >> 94|             <% hero.src.forEach((img, index) => { %>
+    95|             <img src="<%= img %>" alt="<%= hero.alt %>" class="hero-slide <%= index === 0 ? 'active' : '' %>">
+    96|             <% }) %>
+    97|             <% } %>
+
+hero.src.forEach is not a function
+
+20260320	17:44:31	a6e66033-1cda-4e90-825b-8bc43b77bbdf	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\auth\login.ejs:1
+ >> 1| <%- include("../../partials/breadcrumb-nav") %>
+    2| 
+    3| <section class="mt-8 mb-20 block">
+    4|     <div class="flex flex-col justify-center items-center mb-3">
+
+C:\Users\abhij\Desktop\Website\src\views\partials\breadcrumb-nav.ejs:4
+    2|     <div class="container">
+    3|         <ol class="breadcrumb">
+ >> 4|             <% breadcrumbs.forEach((crumb, index) => { %>
+    5| 
+    6|             <li>
+    7|                 <% if(crumb.url) { %>
+
+breadcrumbs is not defined
+
+20260408	02:10:34	07a13902-7b75-4555-a834-d130f7a67595	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\auth\login.ejs:1
+ >> 1| <%- include("../../partials/breadcrumb-nav") %>
+    2| 
+    3| <section class="mt-8 mb-20 block">
+    4|     <div class="flex flex-col justify-center items-center mb-3">
+
+C:\Users\abhij\Desktop\Website\src\views\partials\breadcrumb-nav.ejs:4
+    2|     <div class="container">
+    3|         <ol class="breadcrumb">
+ >> 4|             <% breadcrumbs.forEach((crumb, index) => { %>
+    5| 
+    6|             <li>
+    7|                 <% if(crumb.url) { %>
+
+breadcrumbs is not defined
+
+20260410	16:39:36	80e19bf0-8c6f-4abc-97c8-69beea238c9f	Error	Failed to lookup view "pages/campus/labs" in views directory "C:\Users\abhij\Desktop\Website\src\views"
+
+20260415	08:08:00	e05f98c8-fccf-409d-a6fa-b0337777cd3d	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\auth\login.ejs:1
+ >> 1| <%- include("../../partials/breadcrumb-nav") %>
+    2| 
+    3| <section class="mt-8 mb-20 block">
+    4|     <div class="flex flex-col justify-center items-center mb-3">
+
+C:\Users\abhij\Desktop\Website\src\views\partials\breadcrumb-nav.ejs:4
+    2|     <div class="container">
+    3|         <ol class="breadcrumb">
+ >> 4|             <% breadcrumbs.forEach((crumb, index) => { %>
+    5| 
+    6|             <li>
+    7|                 <% if(crumb.url) { %>
+
+breadcrumbs is not defined
+
+20260416	16:15:49	963ae9bf-0315-4086-9590-a89cc28fe5e1	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:17:35	33beeca9-a7d8-47c7-9903-1038f88b4ec5	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:18:56	28967100-ea1d-4ca7-8fb0-5388b87b5b92	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:19:44	6939c426-896e-4047-8ebf-c9bf4790d53a	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:20:44	00867792-8429-4f36-9bca-6bde21e1b73e	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:21:28	2e213c19-c535-46ee-b059-06d50cee847b	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:22:23	6cd3a17c-8d15-4e38-b927-c0284d49b988	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:22:53	7e097321-e803-40b9-b68b-acf4add175d3	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:24:13	643b056a-2baf-47cc-902d-f1ec6a451e0d	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:24:49	e5d8fc2d-b43f-43b7-a904-04878a310f7c	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:25:24	b02693fc-656d-4aa5-834e-6b8427d74148	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:25:52	2132f933-355c-4b96-aa24-5eef4b0ddee8	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:37:29	1aa8d1a5-a972-419a-880c-2f4333a5ad50	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+
+20260416	16:37:42	3b73e38c-3906-4e60-9b9e-6c9c3f07733a	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+

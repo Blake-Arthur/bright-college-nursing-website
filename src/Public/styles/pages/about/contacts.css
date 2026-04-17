@@ -49,6 +49,10 @@ tbody tr:hover {
   min-width: 650px;
 }
 
+.table-wrapper th {
+  padding: 0px 12px;
+}
+
 .table-wrapper::-webkit-scrollbar {
   height: 6px;
 }
@@ -62,6 +66,10 @@ tbody tr:hover {
 
 #scholarship-mobile {
   display: none;
+  margin: 1rem 0 2rem 0;
+}
+
+#faq {
   margin: 1rem 0 2rem 0;
 }
 
@@ -133,5 +141,27 @@ tbody tr:hover {
 
   #scholarship-mobile {
     display: block;
+  }
+}
+
+/* Syllabus Table */
+
+.syllabus-table thead th {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.syllabus-table tbody > tr:first-child th {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.syllabus-table th {
+  width: auto;
+}
+
+@media (max-width: 768px) {
+  .syllabus-table thead th {
+    text-align: start;
   }
 }

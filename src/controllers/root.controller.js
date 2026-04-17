@@ -5,7 +5,11 @@ exports.home = (req, res) => {
     transparency: 35,
     hero: {
       type: "image",
-      src: "/Images/director-msg.jpg",
+      src: [
+        "/images/director-msg.webp",
+        "/images/educational-programmes/nursing-day/WhatsApp Image 2026-03-01 at 21.40.11.webp",
+        "/images/image.png",
+      ],
       alt: "Bright School of Nursing",
     },
   });
