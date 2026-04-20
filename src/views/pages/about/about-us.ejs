@@ -70,7 +70,7 @@
             <div class="institutes-image">
                 <div class="slider-wrapper">
 
-                    <% sliderImages.forEach((img, index) => { %>
+                    <% sliderimages.forEach((img, index) => { %>
                     <img src="<%= img.src %>" alt="<%= img.alt || 'slider image' %>"
                         class="slide <%= index === 0 ? 'active' : '' %>" loading="lazy">
                     <% }) %>

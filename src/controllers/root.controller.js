@@ -13,7 +13,7 @@ exports.home = (req, res) => {
       ],
       alt: "Bright School of Nursing",
     },
-    sliderImages: [
+    sliderimages: [
       {
         src: "/images/director-msg.webp",
         alt: "Director Message",

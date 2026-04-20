@@ -12,10 +12,10 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
-    sliderImages: [
+    sliderimages: [
       {
         src: "/images/director-msg.webp",
         alt: "Director Message",
@@ -35,7 +35,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Chairman's Message" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
@@ -61,7 +61,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Contacts" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },

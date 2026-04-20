@@ -241,10 +241,10 @@ breadcrumbs is not defined
 20260420	05:09:26	7a937753-cff8-4314-a9d0-2a13b7d1286d	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\about\about-us.ejs:73
     71|                 <div class="slider-wrapper">
     72| 
- >> 73|                     <% sliderImages.forEach((img, index) => { %>
+ >> 73|                     <% sliderimages.forEach((img, index) => { %>
     74|                     <img src="<%= img.src %>" alt="<%= img.alt || 'slider image' %>"
     75|                         class="slide <%= index === 0 ? 'active' : '' %>" loading="lazy">
     76|                     <% }) %>
 
-sliderImages is not defined
+sliderimages is not defined
 

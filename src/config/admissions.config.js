@@ -13,7 +13,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Admission Procedure" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -26,7 +26,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Fee Structure" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -40,7 +40,7 @@ module.exports = {
 
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
     data: {
@@ -60,7 +60,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Online Admission" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },

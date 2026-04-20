@@ -12,7 +12,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "ANM" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -24,7 +24,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "B.Sc. Nursing" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -36,7 +36,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "DMLT" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -48,7 +48,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "GNM" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },
@@ -60,7 +60,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "PBB.Sc. Nursing" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.jpg"],
+      src: ["/images/director-msg.jpg"],
       alt: "Bright School of Nursing",
     },
   },

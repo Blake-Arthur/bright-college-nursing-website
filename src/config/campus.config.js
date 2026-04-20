@@ -12,7 +12,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Our Laboratories" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
@@ -25,7 +25,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Campus Facilities" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
@@ -38,7 +38,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Practical Training" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
@@ -51,7 +51,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Hostel & Transport" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
@@ -64,7 +64,7 @@ module.exports = {
     breadcrumb: [...baseBreadcrumb, { name: "Cultural Events" }],
     hero: {
       type: "image",
-      src: ["/Images/director-msg.webp"],
+      src: ["/images/director-msg.webp"],
       alt: "Bright School of Nursing",
     },
   },
