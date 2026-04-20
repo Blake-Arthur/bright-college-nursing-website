@@ -1,34 +1,46 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const slides = document.querySelectorAll(".hero-slide");
-  const nextBtn = document.getElementById("nextBtn");
-  const prevBtn = document.getElementById("prevBtn");
+  const sliders = document.querySelectorAll(".slider-wrapper");
 
-  let currentSlide = 0;
+  sliders.forEach((slider) => {
+    const slides = slider.querySelectorAll(".slide");
+    const nextBtn = slider.querySelector(".nextSlide");
+    const prevBtn = slider.querySelector(".prevSlide");
 
-  // Hide arrows if only 1 image
-  if (slides.length <= 1) {
-    if (nextBtn) nextBtn.style.display = "none";
-    if (prevBtn) prevBtn.style.display = "none";
-    return;
-  }
+    let currentSlide = 0;
 
-  function showSlide(index) {
-    slides.forEach((slide) => slide.classList.remove("active"));
-    slides[index].classList.add("active");
-  }
+    if (slides.length === 0) return;
 
-  nextBtn.addEventListener("click", () => {
-    currentSlide = (currentSlide + 1) % slides.length;
-    showSlide(currentSlide);
+    // Hide arrows if only 1 slide
+    if (slides.length <= 1) {
+      if (nextBtn) nextBtn.style.display = "none";
+      if (prevBtn) prevBtn.style.display = "none";
+    }
+
+    function showSlide(index) {
+      slides.forEach((slide) => slide.classList.remove("active"));
+      slides[index].classList.add("active");
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % slides.length; // loop forward
+      showSlide(currentSlide);
+    }
+
+    function prevSlide() {
+      currentSlide = (currentSlide - 1 + slides.length) % slides.length; // loop backward
+      showSlide(currentSlide);
+    }
+
+    // Button events
+    if (nextBtn) nextBtn.addEventListener("click", nextSlide);
+    if (prevBtn) prevBtn.addEventListener("click", prevSlide);
+
+    // Auto loop
+    let interval = setInterval(nextSlide, 8000);
+
+    slider.addEventListener("mouseenter", () => clearInterval(interval));
+    slider.addEventListener("mouseleave", () => {
+      interval = setInterval(nextSlide, 8000);
+    });
   });
-
-  prevBtn.addEventListener("click", () => {
-    currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-    showSlide(currentSlide);
-  });
-
-  setInterval(() => {
-    currentSlide = (currentSlide + 1) % slides.length;
-    showSlide(currentSlide);
-  }, 8000);
 });

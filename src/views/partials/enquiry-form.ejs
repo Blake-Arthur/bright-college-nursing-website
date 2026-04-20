@@ -1,165 +1,5 @@
 <button id="openEnquiry" data-enquiry-open>Enquire Now</button>
 
-<!-- Modal -->
-<!-- <div class="enquiry-overlay" id="enquiry-overlay" aria-hidden="true">
-    <div class="enquiry-overlay__inner" role="dialog" aria-modal="true" aria-label="Enquiry Form">
-        <div class="modal-content">
-            <div class="modal-content__header">
-
-                
-                <picture>
-                    <source srcset="/images/logo/logo.webp" type="image/webp">
-                    <img src="/images/logo/logo.png" loading="lazy" alt="Bright Nursing Logo"
-                        class="site-logo enquiry-logo" />
-                </picture>
-
-                <span>Bright Group of Institutions</span>
-
-                <button class="enquiry-close" aria-label="Close Enquiry Form" data-enquiry-close>
-                    <i class="fa-solid fa-xmark"></i>
-                </button>
-
-            </div>
-
-            <h6>Approved by the Government of Odisha, Recognized by the Odisha Nurses &amp; Midwives Registration
-                Council (ONMRC), and
-                Affiliated to Odisha University of Health Sciences (OUHS), Bhubaneswar.</h6>
-
-            <h4>Apply For Admission 2026-27</h4>
-
-            <h5>Course Applied For</h5>
-
-            <form id="enquiryForm" class="enquiry-form" method="POST" action="/api/enquiry">
-
-                
-                <div class="online-form__course-grid">
-
-                    <div class="course-group">
-                        <div>
-                            <img src="/images/logo/logo1.png" alt="Bright College of Nursing">
-                            <h5 id="bcn">Bright College of Nursing</h5>
-                        </div>
-
-                        <label class="bcn">
-                            <input type="radio" name="course" value="bsc" required>
-                            BSc. N
-                        </label>
-
-                        <label class="bcn">
-                            <input type="radio" name="course" value="pbbsc">
-                            PBBSc. N
-                        </label>
-                    </div>
-
-                    <div class="course-group">
-                        <div>
-                            <img src="/images/logo/logo1.png" alt="Bright School of Nursing">
-                            <h5 id="bsn">Bright School of Nursing</h5>
-                        </div>
-
-                        <label class="bsn">
-                            <input type="radio" name="course" value="gnm">
-                            GNM
-                        </label>
-
-                        <label class="bsn">
-                            <input type="radio" name="course" value="anm">
-                            ANM
-                        </label>
-                    </div>
-
-                    <div class="course-group">
-                        <div>
-                            <img src="/images/logo/DMLT_logo.jpeg" loading="lazy"
-                                alt="Bright Institute of Medical Technology Logo" />
-                            <h5 id="bimt">Bright Institute of Medical Technology</h5>
-                        </div>
-
-                        <label class="bimt">
-                            <input type="radio" name="course" value="dmlt">
-                            DMLT
-                        </label>
-                    </div>
-
-                </div>
-
-                
-                <div class="online-form">
-
-                    <div>
-                        <input type="text" name="name" maxlength="100" placeholder="Student's Full Name" required>
-                    </div>
-
-                    <div>
-                        <input type="tel" name="phone" inputmode="numeric" pattern="[6-9]{1}[0-9]{9}" maxlength="10"
-                            minlength="10" placeholder="Enter Student's mobile number" required>
-                    </div>
-
-                    <div>
-                        <input type="tel" name="altPhone" inputmode="numeric" pattern="[6-9]{1}[0-9]{9}" maxlength="10"
-                            minlength="10" placeholder="Enter Father / Guardian's mobile number" required />
-                    </div>
-
-                    <div>
-                        <input type="email" name="email" pattern="^[^\s@]+@[^\s@]+\.[^\s@]{2,}$" maxlength="150"
-                            placeholder="yourname@example.com">
-                    </div>
-
-                    <div>
-                        <select name="district" id="districtSelect" required>
-                            <option value="">Select District</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <select name="city" id="citySelect" required>
-                            <option value="">Select City</option>
-                        </select>
-                    </div>
-
-                </div>
-
-                <div class="date-picker">
-                    <span>Expected Date of Visit to College: </span>
-                    <input type="date" name="visitDate" min="<%= new Date().toISOString().split('T')[0] %>" required>
-                </div>
-
-                <div>
-                    <span>Where did you hear about us?</span>
-
-                    
-                    <div class="course-grid">
-                        <label>
-                            <input type="radio" name="hearAbout" value="website" required>
-                            Website
-                        </label>
-
-                        <label>
-                            <input type="radio" name="hearAbout" value="ads">
-                            Advertisement
-                        </label>
-
-                        <label>
-                            <input type="radio" name="hearAbout" value="referral">
-                            Friends &amp; Family
-                        </label>
-
-                        <label>
-                            <input type="radio" name="hearAbout" value="social">
-                            Social Media
-                        </label>
-                    </div>
-                </div>
-
-                <button type="submit" class="apply-btn">Submit</button>
-
-            </form>
-            <h6></h6>
-            <div></div>
-        </div>
-    </div>
-</div> -->
-
 <div id="modal-overlay" class="modal-overlay" aria-hidden="true">
     <div class="modal">
 
@@ -190,9 +30,11 @@
             <div class="course-section">
                 <p class="section-label">Course Applied For</p>
 
-                <div class="course-row">
-                    <img src="/images/logo/logo1.png">
-                    <span>Bright College of Nursing</span>
+                <div class="course-group" style="padding: 0px;">
+                    <div>
+                        <img src="/images/logo/logo1.png">
+                        <span>Bright College of Nursing</span>
+                    </div>
 
                     <label>
                         <input type="radio" name="course" value="bsc" required> BSc. N
@@ -203,9 +45,11 @@
                     </label>
                 </div>
 
-                <div class="course-row">
-                    <img src="/images/logo/logo1.png">
-                    <span>Bright School of Nursing</span>
+                <div class="course-group" style="padding: 0.4rem 0 0.4rem 0;">
+                    <div>
+                        <img src="/images/logo/logo1.png">
+                        <span>Bright School of Nursing</span>
+                    </div>
 
                     <label>
                         <input type="radio" name="course" value="gnm"> GNM
@@ -216,9 +60,11 @@
                     </label>
                 </div>
 
-                <div class="course-row">
-                    <img src="/images/logo/DMLT_logo.jpeg">
-                    <span>Bright Institute of Medical Technology</span>
+                <div class="course-group" style="padding: 0px; line-height: 1.2;">
+                    <div>
+                        <img src="/images/logo/DMLT_logo.jpeg">
+                        <span>Bright Institute of Medical Technology</span>
+                    </div>
 
                     <label>
                         <input type="radio" name="course" value="dmlt"> DMLT
@@ -316,57 +162,6 @@
                 option.textContent = c.name;
                 citySelect.appendChild(option);
             });
-        });
-
-    });
-</script>
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-
-        const form = document.getElementById("form-grid");
-        if (!form) return;
-
-        form.addEventListener("submit", async function (e) {
-            e.preventDefault();
-
-            const submitBtn = this.querySelector("button[type='submit']");
-            const messageBox = document.getElementById("formMessage");
-            console.log("MessageBox:", messageBox);
-
-            submitBtn.disabled = true;
-            submitBtn.textContent = "Submitting...";
-            messageBox.textContent = "";
-
-            const formData = new FormData(this);
-            const data = Object.fromEntries(formData.entries());
-
-            try {
-                const response = await fetch("/api/enquiry", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify(data)
-                });
-
-                let result;
-                try {
-                    result = await response.json();
-                } catch {
-                    result = { message: "Unexpected server response" };
-                }
-
-                if (!response.ok) throw new Error(result.message);
-
-                messageBox.textContent = "Your Enquiry has been submitted successfully!\nYou will be notified soon.";
-                messageBox.style.color = "green";
-                this.reset();
-
-            } catch (err) {
-                messageBox.textContent = err.message || "Submission failed.";
-                messageBox.style.color = "red";
-            } finally {
-                submitBtn.disabled = false;
-                submitBtn.textContent = "Apply Now";
-            }
         });
 
     });

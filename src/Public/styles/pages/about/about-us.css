@@ -66,14 +66,6 @@
   font-weight: 700;
 }
 
-/* IMAGE SIDE */
-.institutes-image img {
-  width: 100%;
-  max-height: 420px;
-  object-fit: cover;
-  border-radius: 2rem;
-}
-
 #bright-group-institutions,
 #about-institution,
 #mission-vision,

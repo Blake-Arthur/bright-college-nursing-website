@@ -15,12 +15,10 @@
 
     <form class="online-form__design">
         <!-- Course Selection -->
-        <h5
-            style="color:var(--color-form); text-decoration: underline; text-underline-offset: 6px; grid-column: 1 / -1;">
-            Course Applied For
-        </h5>
-
-        <div class="online-form__course-grid">
+        <div class="course-section">
+            <h5>
+                Course Applied For
+            </h5>
 
             <div class="course-group">
                 <div>
@@ -114,7 +112,7 @@
 
             <div>
                 <h4>Area Address</h4>
-                <input type="text" name="address" pattern="^[^\s@]+@[^\s@]+\.[^\s@]{2,}$" maxlength="150">
+                <input type="text" name="address" maxlength="150">
             </div>
 
             <div>
@@ -139,7 +137,7 @@
 
             <div>
                 <h4>GP/ULB Name</h4>
-                <select name="city" id="citySelect" required>
+                <select name="gp" id="gpSelect" required>
                     <option value="">Select GP</option>
                 </select>
             </div>
@@ -212,7 +210,7 @@
                     <option value="cbse">CBSE</option>
                     <option value="icse">ICSE</option>
                     <option value="sjso">SJSO (Shree Jaganath Sanskrit University)</option>
-                    <option value="nois">NIOS (National Institute of Open School)</option>
+                    <option value="nios">NIOS (National Institute of Open School)</option>
                     <option value="other">Other Board</option>
                 </select>
             </div>

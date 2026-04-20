@@ -68,7 +68,24 @@
 
             <!-- RIGHT SIDE -->
             <div class="institutes-image">
-                <img src="/images/College_Building_hor.jpg" alt="College Building">
+                <div class="slider-wrapper">
+
+                    <% sliderImages.forEach((img, index) => { %>
+                    <img src="<%= img.src %>" alt="<%= img.alt || 'slider image' %>"
+                        class="slide <%= index === 0 ? 'active' : '' %>" loading="lazy">
+                    <% }) %>
+
+                    <div class="slider-controls">
+                        <button class="slider-btn left prevSlide">
+                            <i class="fa-solid fa-arrow-left"></i>
+                        </button>
+
+                        <button class="slider-btn right nextSlide">
+                            <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                    </div>
+
+                </div>
             </div>
 
         </section>

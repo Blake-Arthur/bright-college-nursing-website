@@ -548,6 +548,8 @@
 }
 
 .carousel {
+  position: relative;
+  height: auto;
   background-image: linear-gradient(to bottom, var(--color-primary), var(--color-secondary), var(--color-accent2));
   border: 2px solid var(--color-accent2);
   border-radius: 0.5rem;
@@ -559,8 +561,21 @@
   display: none;
 }
 
+.testimonials-controls {
+  position: static;
+  left: 0;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 1rem;
+  z-index: 10;
+}
+
 .testimonial-card {
-  height: 480px;
+  height: auto;
   width: auto; 
 }
 
@@ -618,9 +633,7 @@
   flex-direction: column;
   justify-content: start;
   align-items: center;
-  padding-top: 1rem;
-  /* width: 90px; */
-  
+  padding: 1rem;
 }
 
 .person-info-grid img {
@@ -636,3 +649,99 @@
 /* =========================
    Responsive
 ========================= */
+
+
+/* Placements */
+.placement-container {
+  background: #0fa4a8;
+  margin: 5rem 0;
+  padding: 0.25rem 2rem 3rem 2rem;
+  color: white;
+  text-align: center;
+}
+
+
+/* Wrapper alignment */
+.swiper-wrapper {
+  align-items: center;
+}
+
+/* Swiper container */
+.mySwiper {
+  max-width: 1500px;
+  margin: auto;
+  padding: 2rem 0 3rem;
+  overflow: hidden;
+}
+
+/* Slide */
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+}
+
+/* Card */
+.card {
+  width: 280px; 
+  height: 450px;  
+  background: white;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.company-card {
+  width: auto; 
+  height: 130px;  
+  background: white;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Images */
+.profile {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.company {
+  width: auto;
+  height: 80px;
+  margin-top: 10px;
+}
+
+/* Text */
+.card h5 {
+  margin: 10px 0;
+  color: #222;
+}
+
+/* Focus effect */
+.swiper-slide-active {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+.swiper-slide:not(.swiper-slide-active) {
+  opacity: 0.6;
+}
+
+/* Buttons */
+.swiper-button-prev,
+.swiper-button-next {
+  color: white;
+  transform: scale(0.8);
+}
+
+/* Pagination */
+.swiper-pagination-bullet {
+  background: white;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+}

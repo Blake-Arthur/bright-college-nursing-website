@@ -23,10 +23,10 @@
             </div>
         </li>
         <li>
-            <a href="mailto:brightschoolofnursing@gmail.com?subject=Admission%20Enquiry
+            <a href="mailto:brightnursingschool@gmail.com?subject=Admission%20Enquiry
                 &body=Hello%20Bright%20School%20of%20Nursing,">
                 <i class="fa-solid fa-envelope"></i>
-                <span>brightschoolofnursing@gmail.com</span>
+                <span>brightnursingschool@gmail.com</span>
             </a>
         </li>
 
@@ -84,29 +84,31 @@
             </div>
         </div>
 
-        <div class="hero-image">
+        <div class="hero-image slider-wrapper">
+
             <% if (hero) { %>
             <% if (hero.type === "map") { %>
             <iframe src="<%= hero.mapSrc %>" width="1496" height="500" style="border:0;" allowfullscreen loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade">
             </iframe>
             <% } else if (hero.type === "image") { %>
-            <div class="image-skeleton"></div> <!-- skeleton -->
+            <!-- <div class="image-skeleton"></div> skeleton -->
 
             <% if (hero.type === "image") { %>
             <% hero.src.forEach((img, index) => { %>
-            <img src="<%= img %>" alt="<%= hero.alt %>" class="hero-slide <%= index === 0 ? 'active' : '' %>"
-                loading="lazy" onload="this.classList.add('loaded')">
+            <img src="<%= img %>" alt="<%= hero.alt %>" class="slide <%= index === 0 ? 'active' : '' %>" loading="lazy"
+                onload="this.classList.add('loaded')">
             <% }) %>
             <% } %>
             <% } %>
             <% } %>
 
-            <div class="slider-arrows slider-arrows__hero-img">
-                <button class="icon-btn icon-btn--left" id="prevBtn">
+            <div class="slider-controls">
+                <button class="slider-btn left prevSlide">
                     <i class="fa-solid fa-arrow-left"></i>
                 </button>
-                <button class="icon-btn icon-btn--right" id="nextBtn">
+
+                <button class="slider-btn right nextSlide">
                     <i class="fa-solid fa-arrow-right"></i>
                 </button>
             </div>

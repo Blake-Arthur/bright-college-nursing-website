@@ -60,7 +60,7 @@
 <section class="layout-container">
     <div class="additional-info">
         <!-- Heading -->
-        <!-- <div class="generic-heading__row ">
+        <div class="generic-heading__row ">
             <div class="__divider">
                 <div class="__dot"></div>
                 <div class="__line"></div>
@@ -75,8 +75,8 @@
         </div>
 
         <h5>( Managed by Bright Educational Charitable Trust, Estd: 2007; Premier organisation in Odisha since 1986 )
-        </h5> -->
-        <img src="/images/image.png" alt="">
+        </h5>
+
         <section class="institutes-section side-by-side">
 
             <!-- LEFT SIDE -->
@@ -121,11 +121,28 @@
 
             <!-- RIGHT SIDE -->
             <div class="institutes-image">
-                <img src="/images/College_Building_hor.jpg" alt="College Building">
-                <div style="outline: 2px solid #262c56;">
+                <div class="slider-wrapper">
+
+                    <% sliderImages.forEach((img, index) => { %>
+                    <img src="<%= img.src %>" alt="<%= img.alt || 'slider image' %>"
+                        class="slide <%= index === 0 ? 'active' : '' %>" loading="lazy">
+                    <% }) %>
+
+                    <div class="slider-controls">
+                        <button class="slider-btn left prevSlide">
+                            <i class="fa-solid fa-arrow-left"></i>
+                        </button>
+
+                        <button class="slider-btn right nextSlide">
+                            <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                    </div>
+
+                </div>
+
+                <div class="audio-box">
                     <audio controls>
-                        <source src="/documents/College Audio.mpeg" type="audio/mpeg" style="width: 400px;">
-                        Your browser does not support the audio element.
+                        <source src="/documents/College Audio.mpeg" type="audio/mpeg">
                     </audio>
                 </div>
             </div>
@@ -248,184 +265,148 @@
     </div>
 </section>
 
-<!-- Hospitals for Clinical Practice -->
-<section class="layout-container">
-    <!-- Heading -->
-    <div class="generic-heading__row">
-        <h3>Hospitals for Clinical Practice</h3>
+<!-- Placements -->
+<section class="placement-container">
+
+    <!--Heading-->
+    <div class="generic-heading__row generic-heading__row--testimonials">
+        <div class="__divider">
+            <div class="__dot"></div>
+            <div class="__line"></div>
+        </div>
+        <h3>Placements</h3>
+        <div class="__divider">
+            <div class="__line"></div>
+            <div class="__dot"></div>
+        </div>
+    </div>
+    <p>At Bright College of Nursing, we are committed to transforming academic excellence into real-world success. Our
+        highly qualified faculty and industry-relevant curriculum ensure that every student excels in their respective
+        field and gets placed in leading corporations worldwide. We take immense pride in our outstanding placement
+        record, with leading companies actively offering career growth opportunities to our graduates.
+    </p>
+
+    <div class="swiper mySwiper">
+
+        <div class="swiper-wrapper">
+
+            <!-- Slide -->
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="card">
+                    <img src="/images/College_Building_hor.jpg" class="profile" />
+                    <h5>Swayang Prava Mahanta</h5>
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <br>
+    <!--Heading-->
+    <div class="generic-heading__row generic-heading__row--testimonials">
+        <div class="__divider">
+            <div class="__dot"></div>
+            <div class="__line"></div>
+        </div>
+        <h3>Our Recruiters</h3>
         <div class="__divider">
             <div class="__line"></div>
             <div class="__dot"></div>
         </div>
     </div>
 
-    <!-- Hosp Logo -->
-    <div class="wrapper">
-        <div class="hospital-logo item1">
-            <img src="/Images/logo/Hospitals/khurdha.png" loading="lazy" alt="District Head Quarters Hospital,Khordha">
-        </div>
-        <div class="hospital-logo item2">
-            <img src="/Images/logo/Hospitals/LOGO_igkc.png" loading="lazy"
-                alt="IGKC Multispeciality Hospital,Bhubaneswar">
-        </div>
-        <div class="hospital-logo item3">
-            <img src="/Images/logo/Hospitals/cares-logo.webp" loading="lazy" alt="Care Hospitals,Bhubaneswar">
-        </div>
-        <div class="hospital-logo item4">
-            <img src="/Images/logo/Hospitals/Aditya_Ashwini.jpg" loading="lazy"
-                alt="Aditya Ashwini Hospital,Bhubaneswar">
-        </div>
-        <div class="hospital-logo item5">
-            <img src="/Images/logo/Hospitals/capital.png" loading="lazy" alt="Capital Hospital,Bhubaneswar">
-        </div>
-        <div class="hospital-logo item6">
-            <img src="/Images/logo/Hospitals/BMC.png" loading="lazy"
-                alt="Bhubaneswar Municipal Corporation Hospital,Bhubaneswar">
-        </div>
-        <div class="hospital-logo item7">
-            <img src="/Images/logo/Hospitals/CHC.png" loading="lazy" alt="C.H.C Mendhasal,Khordha">
-            <h5>C.H.C Mendhasal,Khordha</h5>
-        </div>
-        <div class="hospital-logo item8">
-            <img src="/Images/logo/Hospitals/gen-x-diagnostics.jpg" loading="lazy" alt="GenX Diagnostics,Bhubaneswar"
-                class="h-30 w-60">
-        </div>
-    </div>
-</section>
+    <div class="swiper mySwiper" style="background: white; width: 100%;">
 
-<!--Education Programmes & Seminars-->
-<section class="seminar-section" aria-labelledby="seminar-heading">
-    <div class="layout-container">
+        <div class="swiper-wrapper">
 
-        <!-- Heading -->
-        <div class="generic-heading__row">
-            <h3>
-                Education Programmes &amp; Seminars
-            </h3>
+            <!-- Slide -->
+            <div class="swiper-slide">
+                <div class="company-card">
 
-            <div class="__divider" aria-hidden="true">
-                <div class="__line"></div>
-                <div class="__dot"></div>
-            </div>
-        </div>
-
-        <div class="programmes-layout">
-
-            <!-- Left Column -->
-            <div class="programmes-media">
-                <img src="/Images/College_Building_hor.jpg" alt="Bright School of Nursing campus building">
-
-                <div class="programmes-note">
-                    <span class="red-vertical__accent" aria-hidden="true"></span>
-                    <p>
-                        For <strong>Custom Programmes &amp; Seminars</strong>,
-                        please write to
-                        <a href="mailto:brightschoolofnursing@gmail.com">
-                            brightschoolofnursing@gmail.com
-                        </a>
-                    </p>
+                    <img src="/images/logo/Hospitals/igkc.png" class="company" />
                 </div>
             </div>
 
-            <!-- Right Column -->
-            <div class="programmes-content">
+            <div class="swiper-slide">
+                <div class="company-card">
 
-                <!-- Educational Programmes -->
-                <section aria-labelledby="educational-programmes-heading">
-                    <h4>
-                        Educational Programmes
-                    </h4>
-
-                    <div class="program-grid">
-                        <a href="">
-                            <article class="program-card">
-                                <h4>Community Health Training</h4>
-
-                                <div class="program-date">
-                                    <span class="red-vertical__accent" aria-hidden="true"></span>
-                                    <p><strong>15th - 19th December (tbd)</strong></p>
-                                </div>
-                            </article>
-                        </a>
-
-                        <a href="/academics/nursing-day">
-                            <article class="program-card">
-                                <h4>World Nursing Day</h4>
-
-                                <div class="program-date">
-                                    <span class="red-vertical__accent" aria-hidden="true"></span>
-                                    <p><strong>12th of May</strong></p>
-                                </div>
-                            </article>
-                        </a>
-
-                        <a href="/academics/breastfeeding-week">
-                            <article class="program-card">
-                                <h4>Breast Feeding Week </h4>
-
-                                <div class="program-date">
-                                    <span class="red-vertical__accent" aria-hidden="true"></span>
-                                    <p><strong>1st - 7th August</strong></p>
-                                </div>
-                            </article>
-                        </a>
-
-                        <div class="view-all-button__wrapper">
-                            <button class="view-all-button" aria-label="View all educational programmes">
-                                View All
-                            </button>
-                            <div class="__divider" aria-hidden="true">
-                                <div class="__line"></div>
-                                <div class="__dot"></div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-                <!-- Seminars Conducted -->
-                <section aria-labelledby="seminars-conducted-heading">
-                    <h4>
-                        Seminars Conducted
-                    </h4>
-
-                    <div class="program-grid">
-
-                        <a href="/academics/breastfeeding-week#guest-lecturer">
-                            <article class="program-card">
-                                <h5>Guest Lecture by Dr. Nilamadhab Jena &hyphen; World Breastfeeding Week </h5>
-
-                                <div class="program-date">
-                                    <span class="red-vertical__accent" aria-hidden="true"></span>
-                                    <p><strong>7th August 2025 </strong></p>
-                                </div>
-                            </article>
-                        </a>
-
-                        <a href="">
-                            <article class="program-card">
-                                <h4>Seminar 2</h4>
-                                <div class="program-date">
-                                    <span class="red-vertical__accent" aria-hidden="true"></span>
-                                    <p><strong>17th - 23th December</strong></p>
-                                </div>
-                            </article>
-                        </a>
-
-                        <div class="view-all-button__wrapper">
-                            <button class="view-all-button" aria-label="View all seminars conducted">
-                                View All
-                            </button>
-                            <div class="__divider" aria-hidden="true">
-                                <div class="__line"></div>
-                                <div class="__dot"></div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+                    <img src="/images/logo/Hospitals/capital.png" class="company" />
+                </div>
             </div>
+
+            <div class="swiper-slide">
+                <div class="company-card">
+
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="company-card">
+
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="company-card">
+
+                    <img src="/images/sunshine.png" class="company" />
+                </div>
+            </div>
+
         </div>
+
     </div>
 </section>
+
 
 <!--Testimonials-->
 <section class="layout-container">
@@ -445,7 +426,7 @@
 
     <!--Carousel-->
     <div class="carousel">
-        <div class="testimonial-card">
+        <div class=" testimonial-card">
             <ul class="testimonial-card-list">
                 <li class="layout-container layout-container--card">
 
@@ -589,27 +570,201 @@
                 </li>
             </ul>
         </div>
-        <div class="slider-controls" aria-label="Testimonial slider controls">
-            <ul class="slider-arrows">
-                <li>
-                    <button class="icon-btn icon-btn--left" aria-label="Previous slide">
-                        <i class="fa-solid fa-arrow-left"></i>
-                    </button>
-                </li>
-            </ul>
-            <div class="slider-indicators">
-                <span class="slider-dot dot-active" role="tab" aria-selected="true"></span>
-                <span class="slider-dot"></span>
-                <span class="slider-dot"></span>
-                <span class="slider-dot"></span>
+        <div class="slide-wrapper">
+            <div class="testimonials-controls">
+                <button class="slider-btn left prevSlide">
+                    <i class="fa-solid fa-arrow-left"></i>
+                </button>
+
+                <div class="slider-indicators">
+                    <span class="slider-dot dot-active" role="tab" aria-selected="true"></span>
+                    <span class="slider-dot"></span>
+                    <span class="slider-dot"></span>
+                    <span class="slider-dot"></span>
+                </div>
+
+                <button class="slider-btn right nextSlide">
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
             </div>
-            <ul class="slider-arrows">
-                <li>
-                    <button class="icon-btn icon-btn--right" aria-label="Next slide">
-                        <i class="fa-solid fa-arrow-right"></i>
-                    </button>
-                </li>
-            </ul>
+        </div>
+    </div>
+
+
+
+</section>
+
+<!--Education Programmes & Seminars-->
+<section class="seminar-section" aria-labelledby="seminar-heading">
+    <div class="layout-container">
+
+        <!-- Heading -->
+        <div class="generic-heading__row">
+            <h3>
+                Education Programmes &amp; Seminars
+            </h3>
+
+            <div class="__divider" aria-hidden="true">
+                <div class="__line"></div>
+                <div class="__dot"></div>
+            </div>
+        </div>
+
+        <div class="programmes-layout">
+
+            <!-- Left Column -->
+            <div class="programmes-media">
+                <img src="/Images/College_Building_hor.jpg" alt="Bright School of Nursing campus building">
+
+                <div class="programmes-note">
+                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                    <p>
+                        For <strong>Custom Programmes &amp; Seminars</strong>,
+                        please write to
+                        <a href="mailto:brightnursingschool@gmail.com">
+                            brightnursingschool@gmail.com
+                        </a>
+                    </p>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="programmes-content">
+
+                <!-- Educational Programmes -->
+                <section aria-labelledby="educational-programmes-heading">
+                    <h4>
+                        Educational Programmes
+                    </h4>
+
+                    <div class="program-grid">
+                        <a href="">
+                            <article class="program-card">
+                                <h4>Community Health Training</h4>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>15th - 19th December (tbd)</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <a href="/academics/nursing-day">
+                            <article class="program-card">
+                                <h4>World Nursing Day</h4>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>12th of May</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <a href="/academics/breastfeeding-week">
+                            <article class="program-card">
+                                <h4>Breast Feeding Week </h4>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>1st - 7th August</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <div class="view-all-button__wrapper">
+                            <button class="view-all-button" aria-label="View all educational programmes">
+                                View All
+                            </button>
+                            <div class="__divider" aria-hidden="true">
+                                <div class="__line"></div>
+                                <div class="__dot"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Seminars Conducted -->
+                <section aria-labelledby="seminars-conducted-heading">
+                    <h4>
+                        Seminars Conducted
+                    </h4>
+
+                    <div class="program-grid">
+
+                        <a href="/academics/breastfeeding-week#guest-lecturer">
+                            <article class="program-card">
+                                <h5>Guest Lecture by Dr. Nilamadhab Jena &hyphen; World Breastfeeding Week </h5>
+
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>7th August 2025 </strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <a href="">
+                            <article class="program-card">
+                                <h4>Seminar 2</h4>
+                                <div class="program-date">
+                                    <span class="red-vertical__accent" aria-hidden="true"></span>
+                                    <p><strong>17th - 23th December</strong></p>
+                                </div>
+                            </article>
+                        </a>
+
+                        <div class="view-all-button__wrapper">
+                            <button class="view-all-button" aria-label="View all seminars conducted">
+                                View All
+                            </button>
+                            <div class="__divider" aria-hidden="true">
+                                <div class="__line"></div>
+                                <div class="__dot"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
     </div>
 </section>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+    const swiper = new Swiper(".mySwiper", {
+        loop: true,
+        centeredSlides: true,
+        spaceBetween: 20,
+        grabCursor: true,
+
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+        },
+
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+
+        breakpoints: {
+            0: {
+                slidesPerView: 1,
+                centeredSlides: true,
+            },
+            768: {
+                slidesPerView: 2,
+                centeredSlides: false,
+            },
+            1024: {
+                slidesPerView: 4,
+                centeredSlides: true,
+            },
+        },
+    });
+</script>

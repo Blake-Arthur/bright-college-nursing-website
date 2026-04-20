@@ -117,6 +117,12 @@ const onlineAdmmission = new mongoose.Schema({
       ref: "City",
       required: [true, "City is required."],
     },
+
+    gp: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "GP",
+      required: [true, "GP is required."],
+    },
   },
 
   aadhaar: {
@@ -129,6 +135,70 @@ const onlineAdmmission = new mongoose.Schema({
         return verheoff.validate(value);
       },
       message: "Invalid Aadhaar number (checksum failed)",
+    },
+  },
+
+  rationCard: {
+    type: String,
+    required: [true, "Ration card status is required"],
+    enum: {
+      values: ["yes", "no"],
+      message: "Ration card must be either yes or no",
+    },
+  },
+
+  cmKisanID: {
+    type: String,
+    required: [true, "CM Kisan ID status is required"],
+    enum: {
+      values: ["yes", "no"],
+      message: "CM Kisan ID must be either yes or no",
+    },
+  },
+
+  tenthPercentage: {
+    type: Number,
+    required: [true, "10th percentage is required"],
+    min: [0, "Percentage cannot be less than 0"],
+    max: [100, "Percentage cannot exceed 100"],
+    validate: {
+      validator: function (value) {
+        return Number.isFinite(value);
+      },
+      message: "Enter a valid numeric percentage",
+    },
+  },
+
+  tenthBoardName: {
+    type: String,
+    required: [true, "10th board is required"],
+    lowercase: true,
+    enum: {
+      values: ["bse", "cbse", "icse", "sjso", "nios", "other"],
+      message: "Invalid 10th board selected",
+    },
+  },
+
+  twelfthPercentage: {
+    type: Number,
+    required: [true, "12th percentage is required"],
+    min: [0, "Percentage cannot be less than 0"],
+    max: [100, "Percentage cannot exceed 100"],
+    validate: {
+      validator: function (value) {
+        return Number.isFinite(value);
+      },
+      message: "Enter a valid numeric percentage",
+    },
+  },
+
+  twelfthBoardName: {
+    type: String,
+    required: [true, "12th board is required"],
+    lowercase: true,
+    enum: {
+      values: ["chse", "cbse", "icse", "sjso", "nios", "other"],
+      message: "Invalid 12th board selected",
     },
   },
 });

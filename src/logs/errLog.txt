@@ -222,3 +222,29 @@ breadcrumbs is not defined
 20260416	16:37:42	3b73e38c-3906-4e60-9b9e-6c9c3f07733a	MongoServerSelectionError	D0550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
 
 
+20260419	18:00:16	421134e6-e230-44eb-b311-11dc928ed612	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\auth\login.ejs:1
+ >> 1| <%- include("../../partials/breadcrumb-nav") %>
+    2| 
+    3| <section class="mt-8 mb-20 block">
+    4|     <div class="flex flex-col justify-center items-center mb-3">
+
+C:\Users\abhij\Desktop\Website\src\views\partials\breadcrumb-nav.ejs:4
+    2|     <div class="container">
+    3|         <ol class="breadcrumb">
+ >> 4|             <% breadcrumbs.forEach((crumb, index) => { %>
+    5| 
+    6|             <li>
+    7|                 <% if(crumb.url) { %>
+
+breadcrumbs is not defined
+
+20260420	05:09:26	7a937753-cff8-4314-a9d0-2a13b7d1286d	ReferenceError	C:\Users\abhij\Desktop\Website\src\views\pages\about\about-us.ejs:73
+    71|                 <div class="slider-wrapper">
+    72| 
+ >> 73|                     <% sliderImages.forEach((img, index) => { %>
+    74|                     <img src="<%= img.src %>" alt="<%= img.alt || 'slider image' %>"
+    75|                         class="slide <%= index === 0 ? 'active' : '' %>" loading="lazy">
+    76|                     <% }) %>
+
+sliderImages is not defined
+

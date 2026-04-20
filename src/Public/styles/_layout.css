@@ -4,11 +4,6 @@
   padding-inline: 1rem;
 }
 
-.layout-container--card {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 @media (min-width: 640px) {
   .layout-container {
     padding-inline: 1.5rem;

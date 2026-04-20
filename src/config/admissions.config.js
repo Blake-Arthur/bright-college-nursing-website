@@ -47,10 +47,15 @@ module.exports = {
       scholarships,
     },
   },
+
   "online-admission": {
     view: "pages/admissions/online-admission",
     title: "Online Admission",
-    styles: ["/styles/pages/courses.css", "/styles/pages/admissions/online-admission.css"],
+    styles: [
+      "/styles/pages/courses.css",
+      "/styles/pages/admissions/online-admission.css",
+      "styles/pages/admissions/enquiry-form.css",
+    ],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "Online Admission" }],
     hero: {
