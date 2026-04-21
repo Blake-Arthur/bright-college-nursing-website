@@ -1,5 +1,6 @@
 require("dotenv").config();
-import express from "express";
+
+const express = require("express");
 const app = express();
 const axios = require("axios");
 const FormData = require("form-data");
