@@ -15,8 +15,8 @@
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
-    "start": "node ./src/server",
-    "dev": "nodemon ./src/server"
+    "start": "node src/server",
+    "dev": "nodemon src/server"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.1.0",
