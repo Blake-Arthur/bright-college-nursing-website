@@ -1,0 +1,29 @@
+#contact-details {
+  scroll-margin-top: 10rem;
+}
+
+.contact-us {
+  margin: 2rem 0 0 0;
+}
+
+.contact-us li > a,
+.contact-us li:has(div) {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0 1rem 0;
+}
+
+.contact-us span {
+  color: var(--color-text);
+  font-size: 1.3rem;
+  padding: 0 0 0 0.5rem;
+}
+
+.contact-us div span {
+  padding: 0 0 0 0;
+}
+
+.contact-us li div {
+  font-size: 1.3rem;
+  padding: 0 0 0 0.5rem;
+}

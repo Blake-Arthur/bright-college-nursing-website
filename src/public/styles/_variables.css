@@ -1,0 +1,38 @@
+:root {
+  /* Colors */
+  --color-primary: rgb(0, 182, 189);
+  --color-primary-95: rgba(0, 182, 189, 0.95);
+  --color-secondary: rgb(0, 142, 148);
+  --color-accent: #d32f2f;
+  --color-accent2: #1f3c4d;
+  --color-text: #000;
+  --color-altText: #fff;
+  --color-altText2: rgba(255, 255, 255, 0.4);
+  --color-heading: #223318; /*#39143f*/
+  --color-altHeading: #293519;
+  --color-bg: white;
+  --color-form: #262c56;
+
+  /* Typography */
+  --font-body: "Poppins", serif;
+  --font-heading: "Playfair Display", serif;
+  --font-ui: "Poppins", sans-serif;
+
+  /* Font Scale */
+  --fs-base: 1.1rem;
+  --fs-h6: 1rem;
+  --fs-h5: 1.25rem;
+  --fs-h4: 1.563rem;
+  --fs-h3: 1.953rem;
+  --fs-h2: 2.441rem;
+  --fs-h1: 3.052rem;
+
+  /* Line heights */
+  --lh-body: 2;
+  --lh-heading: 1.2;
+
+  /* Spacing */
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+}

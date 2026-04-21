@@ -1,0 +1,402 @@
+/* =========================
+   Whatsapp Floating Button
+   ========================= */
+
+#whatsapp-btn {
+  position: fixed;
+  bottom: 150px;
+  right: 30px;
+  z-index: 50;
+}
+
+/* Hide initially for scroll effect */
+.whatsapp-btn {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 55px;
+  height: 55px;
+  background-color: #25d366;
+  color: white;
+  border: 2px solid #075e54;
+  border-radius: 50%;
+  font-size: 26px;
+  text-decoration: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+
+  transform: translate(4rem, 4rem);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+/* Scroll show class */
+.whatsapp-btn.show {
+  transform: translate(0, 0);
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Hover scale for icon */
+.whatsapp-btn:hover {
+  transform: scale(1.08);
+}
+
+/* =========================
+   Bubble Styling
+   ========================= */
+
+.whatsapp-bubble {
+  position: absolute;
+  bottom: 70px; /* appears above icon */
+  background: #fbf7ee;
+  color: #223318;
+  padding: 8px 16px;
+  border: 2px solid #075e54;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+
+  opacity: 0;
+  transform: scale(0.5);
+  pointer-events: auto;
+
+  transition: opacity 0.3s ease;
+}
+
+/* Bubble triangle pointer */
+.whatsapp-bubble::after {
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: #fbf7ee transparent transparent transparent;
+}
+
+/* =========================
+   Slime Animation
+   ========================= */
+
+.whatsapp-btn:hover .whatsapp-bubble {
+  opacity: 1;
+  animation: slime 0.4s ease forwards;
+}
+
+@keyframes slime {
+  0% {
+    transform: scale(0.5);
+  }
+  60% {
+    transform: scale(1.1, 0.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Smooth dissolve back */
+.whatsapp-btn:not(:hover) .whatsapp-bubble {
+  opacity: 0;
+  transform: scale(0.5);
+  transition: all 0.25s ease;
+}
+
+/* =========================
+   Mobile Adjustment
+   ========================= */
+
+@media (max-width: 768px) {
+  #whatsapp-btn {
+    bottom: 140px;
+    right: 30px;
+  }
+
+  .whatsapp-bubble {
+    bottom: 65px;
+    font-size: 13px;
+  }
+}
+
+/* =========================
+        Go-Top button
+   ========================= */
+
+.goToTop button {
+  height: 3rem;
+  width: 3rem;
+  background-color: black;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.go-top {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 48px;
+  width: 48px;
+  right: 50px;
+  bottom: 60px;
+  transform: translate(4rem, 4rem);
+  z-index: 50;
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.go-top.show {
+  transform: translate(-1.5rem, -1.5rem);
+  opacity: 1;
+  visibility: visible;
+}
+
+.go-top i {
+  color: white;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  margin: 0;
+  transition: all 0.6s ease;
+}
+
+.go-top i:last-child {
+  opacity: 0;
+  visibility: hidden;
+  top: 60%;
+}
+
+.go-top:hover {
+  background: grey;
+}
+
+.go-top:hover i {
+  color: black;
+}
+
+.go-top:hover i:first-child {
+  opacity: 0;
+  top: 0;
+  visibility: hidden;
+}
+
+.go-top:hover i:last-child {
+  opacity: 1;
+  top: 50%;
+  visibility: visible;
+}
+
+#openChatBot {
+  position: fixed;
+  bottom: 1rem;
+  right: 1.6rem;
+
+  height: 55px;
+  width: 55px;
+
+  border: 2px solid #075e54;
+  border-radius: 2.5rem;
+
+  z-index: 999;
+  cursor: pointer;
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease;
+}
+
+#openChatBot.show {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+#chat-bot {
+  position: fixed;
+  bottom: 1rem;
+  right: 4rem;
+
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease;
+}
+
+#chat-bot.is-active {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.chat-bot__inner {
+  position: relative;
+  height: 75vh;
+  width: 25rem;
+  background-color: white;
+
+  border: 1px solid #1f3c4d;
+  box-shadow: 6px 6px 4px #888888;
+  border-radius: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+
+  cursor: pointer;
+}
+
+.chat-bot__header {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #008e94;
+  border-radius: 1rem 1rem 0 0;
+}
+
+.chat-bot__header > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.chat-bot__header > div:first-child > div > h4 {
+  font-size: 1.1rem;
+  color: white;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.chat-bot__header > div:first-child > div > h5 {
+  font-size: 1rem;
+  color: white;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.chat-bot__header > div:last-child {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.faq-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.faq-card {
+  height: 3rem;
+  width: 100%;
+  margin: 0.1rem 1rem 0.1rem 1rem;
+  padding: 0 1rem 0 1rem;
+
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
+  border-radius: 1rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+
+  font-size: 1rem;
+  color: #293519;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.faq-card:first-child {
+  justify-content: initial;
+  margin: 0 0 0.5rem 0;
+}
+
+.faq-card > div {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cta-btn {
+  height: 3rem;
+  width: 70%;
+
+  background-color: #008e94;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
+  border-radius: 1.5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.msg-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+.msg-section > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 3rem;
+  width: 22.5rem;
+  padding: 0 0.5rem 0 1rem;
+
+  background-color: white;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
+  border-radius: 1.5rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.msg-section > div:focus-within {
+  box-shadow: 0 0 0 2px rgba(0, 142, 148, 0.3);
+}
+
+.msg-section > div input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+.msg-section > div > i {
+  font-size: 1.3rem;
+  padding: 0.5rem;
+  background-color: #008e94;
+  border-radius: 1.5rem;
+}
