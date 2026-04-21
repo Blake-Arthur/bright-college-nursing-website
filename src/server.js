@@ -41,7 +41,7 @@ app.set("layout", "layouts/main");
 app.use(viewLocals);
 
 //serve static files
-app.use(express.static(path.resolve("public")));
+app.use(express.static(path.join(__dirname, "public")));
 
 //Route Handlers
 app.use("/", require("./routes/root.routes.js"));
