@@ -41,7 +41,7 @@ app.set("layout", "layouts/main");
 app.use(viewLocals);
 
 //serve static files
-app.use(express.static(path.resolve("src/public")));
+app.use(express.static(path.resolve("public")));
 
 //Route Handlers
 app.use("/", require("./routes/root.routes.js"));
@@ -76,7 +76,7 @@ app.use(errorHandler);
 
 mongoose.connection.once("open", () => {
   console.log("MongoDB connected");
-  console.log("STATIC PATH:", path.join(__dirname, "public"));
+  console.log("STATIC PATH:", path.resolve("public"));
   app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
   });
