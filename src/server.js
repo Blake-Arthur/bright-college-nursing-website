@@ -76,7 +76,7 @@ app.use(errorHandler);
 
 mongoose.connection.once("open", () => {
   console.log("MongoDB connected");
-  console.log("STATIC PATH:", path.resolve("public"));
+  console.log("STATIC PATH:", path.join(__dirname, "public"));
   app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
   });

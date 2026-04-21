@@ -53076,3 +53076,107 @@
 
 20260421	06:52:46	29b204ff-34ad-4cfb-9737-4398a2842845	GET	undefined	/api/districts
 
+20260421	06:59:44	aa32b5fd-1629-4321-bf4f-505f44ef996a	GET	undefined	/styles/home.css
+
+20260421	07:00:26	ca051df6-8393-42da-89a9-a5c3f96401bb	GET	undefined	/
+
+20260421	07:00:26	45371e7f-83cf-44b1-99e7-15c1ab9e8c49	GET	undefined	/styles/output.css
+
+20260421	07:00:26	94d33f97-27dc-4f64-89ba-ff138261f821	GET	undefined	/styles/main.css
+
+20260421	07:00:26	a3ba41e7-e37d-4570-a808-0f99b2738791	GET	undefined	/styles/home.css
+
+20260421	07:00:26	67db4b95-603f-4ea2-a9a9-0572a69b564b	GET	undefined	/styles/pages/about/about-us.css
+
+20260421	07:00:26	4e4b59e5-48f9-4731-ac04-1b7783f42190	GET	undefined	/images/logo/logo1.png
+
+20260421	07:00:26	b73b4454-0c89-4393-84a7-6d717881fefe	GET	undefined	/images/logo/logo.png
+
+20260421	07:00:26	cc91c562-62e0-4f77-bb27-a297731ed473	GET	http://localhost:3500	/main_anim.js
+
+20260421	07:00:26	feface97-07a7-4874-9a0c-f659040c8e19	GET	undefined	/images/logo/DMLT_logo.jpeg
+
+20260421	07:00:26	64acbc3e-2ca3-4edf-8c75-9eed7227fb2d	GET	undefined	/images/College_Building_hor.jpg
+
+20260421	07:00:26	7563a3d7-175c-4a48-bbed-28a7c0e0a69f	GET	undefined	/images/sunshine.png
+
+20260421	07:00:26	38e617bf-f0d4-4c2d-bd6a-4dd212b73067	GET	undefined	/images/logo/Hospitals/igkc.png
+
+20260421	07:00:26	f2132fea-31b3-4300-b0e9-6072d7f983b6	GET	undefined	/images/logo/Hospitals/capital.png
+
+20260421	07:00:26	84ce7e9d-1006-4333-9871-09c6e244a004	GET	undefined	/images/testimonials/Swayang_Prava_Mahanta.png
+
+20260421	07:00:26	435ea4a0-e5b3-4dea-b580-096402af585f	GET	undefined	/styles/_variables.css
+
+20260421	07:00:26	fd83ac6c-970b-47d7-96ca-ad091a2e724d	GET	undefined	/styles/_base.css
+
+20260421	07:00:26	0e30b320-057c-43ce-b32e-e78546ee22d2	GET	undefined	/styles/_typography.css
+
+20260421	07:00:26	40942aa4-50ee-463a-b34a-463b31d8fa68	GET	undefined	/styles/_components.css
+
+20260421	07:00:26	503e43b8-d5f9-4385-aa50-c7a5aadf8e0f	GET	undefined	/styles/_layout.css
+
+20260421	07:00:26	b224836a-9fef-48da-be35-a254cf7d41fe	GET	undefined	/styles/_header.css
+
+20260421	07:00:26	f9589d12-b26b-4683-b71c-24f49c4d9efc	GET	undefined	/styles/_nav.css
+
+20260421	07:00:26	659f25eb-a1e1-46cf-aeb2-5db400f765b7	GET	undefined	/styles/_mobile-menu.css
+
+20260421	07:00:26	28e83111-c655-4399-bc3a-5a961b8e9b06	GET	undefined	/styles/_search-overlay.css
+
+20260421	07:00:26	7389a9fa-f525-4abc-908c-a37750e05222	GET	undefined	/styles/pages/admissions/_enquiry-form.css
+
+20260421	07:00:26	898f0af2-4330-4b7b-8916-f96304c8abf7	GET	undefined	/styles/_widget.css
+
+20260421	07:00:26	93fda334-5041-44c6-b970-160a80dff4f5	GET	undefined	/styles/_footer.css
+
+20260421	07:00:26	fda716e3-f229-4ec7-805b-47a6d50c9541	GET	undefined	/images/logo/chat-bot.svg
+
+20260421	07:00:26	e5450b57-8112-4fee-a687-2668ba6d16ed	GET	undefined	/images/director-msg.webp
+
+20260421	07:00:26	1f4b5458-abfa-4155-ab66-a413be5b12ba	GET	undefined	/images/educational-programmes/nursing-day/WhatsApp%20Image%202026-03-01%20at%2021.40.11.webp
+
+20260421	07:00:26	3a066739-fedc-4c27-b065-0df17ef79a40	GET	undefined	/images/image.png
+
+20260421	07:00:26	5b2f6cef-40f0-4faf-a947-e57e03398b56	GET	undefined	/images/Chairman%20Qoute.jpeg
+
+20260421	07:00:26	51878ea2-552e-4795-9355-552949fe69b5	GET	undefined	/images/test%20img/1961pic.webp
+
+20260421	07:00:26	b111ead7-b704-47ec-b5b9-c62115e9953c	GET	undefined	/images/test%20img/1963pic.webp
+
+20260421	07:00:26	8bd2e414-210e-4779-a2e1-02f1910ca8f8	GET	undefined	/images/test%20img/2000pic.webp
+
+20260421	07:00:26	12037851-1cbf-4e24-8523-63069d22b777	GET	undefined	/images/test%20img/2008pic.webp
+
+20260421	07:00:26	c40bb535-5b19-4e6f-9bc3-e5392d228ac3	GET	undefined	/documents/College%20Audio.mpeg
+
+20260421	07:00:26	a816037d-aa2b-426a-86fe-349a48de5516	GET	undefined	/images/SVG/hm-news-arroww.svg
+
+20260421	07:00:26	29672d85-e65d-4ff0-854d-809637dc6e56	GET	undefined	/images/SVG/circle-check.svg
+
+20260421	07:00:26	e18f01bb-d0ea-41ea-b160-5f8e582a72f2	GET	undefined	/images/logo/logo.webp
+
+20260421	07:00:26	968f3607-3281-44f3-b2c0-bff35dd242da	GET	undefined	/images/logo/logo_white_new_1.png
+
+20260421	07:00:26	a6652cb1-73ac-4d34-b9b2-cfb8034b63ac	GET	http://localhost:3500	/scripts/sticky-header.js
+
+20260421	07:00:26	186cb296-4766-453e-a30c-c5942c28638e	GET	http://localhost:3500	/scripts/dropdown-menu.js
+
+20260421	07:00:26	363cfd46-d1df-45f4-879b-3823e4eea48a	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260421	07:00:26	9642760a-bad3-47eb-adcb-1944905b51e9	GET	http://localhost:3500	/scripts/mobile-menu.js
+
+20260421	07:00:26	b16b1082-06ea-4331-89ca-23893b1e043b	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260421	07:00:26	728fb799-0bd1-43fb-8de4-6ef6113c435d	GET	http://localhost:3500	/scripts/enquiry-form.js
+
+20260421	07:00:26	3743779a-ca46-4228-9915-4196009b8db5	GET	http://localhost:3500	/scripts/slider.js
+
+20260421	07:00:26	9003a81b-e6ef-4ff0-bb5c-47b2bf166dfd	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260421	07:00:26	079cb31c-2bf0-4500-b399-86d9929481a9	GET	undefined	/api/districts
+
+20260421	07:02:46	74bcde88-06c6-4c2b-8576-878fb0d66ed7	GET	undefined	/styles/main.css
+
+20260421	07:02:52	f3db7361-3e32-4bd3-bae4-7293f0aaebc9	GET	undefined	/styles/output.css
+
