@@ -1,4 +1,4 @@
-const whitelist = ["https://www.brightschoolofnursing.com", "http://localhost:3500"];
+const whitelist = ["https://www.brightcollegeofnursing.com", "http://localhost:3500"];
 const corsOptions = {
   origin: (origin, callback) => {
     if (whitelist.includes(origin) !== -1 || !origin) {

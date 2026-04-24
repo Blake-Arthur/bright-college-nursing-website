@@ -13,7 +13,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.webp"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
   "legal-compliance": {
@@ -25,7 +25,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.webp"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
 };

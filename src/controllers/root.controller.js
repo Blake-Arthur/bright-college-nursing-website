@@ -1,6 +1,6 @@
 exports.home = (req, res) => {
   res.render("pages/index", {
-    title: "Bright School of Nursing",
+    title: "Bright College of Nursing",
     styles: ["styles/home.css", "/styles/pages/about/about-us.css"],
     transparency: 35,
     hero: {
@@ -11,7 +11,7 @@ exports.home = (req, res) => {
         "/images/image.png",
         "/images/Chairman Qoute.jpeg",
       ],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
     sliderimages: [
       {

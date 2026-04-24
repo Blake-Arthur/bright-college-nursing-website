@@ -13,7 +13,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.webp"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
     sliderimages: [
       {
@@ -36,7 +36,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.webp"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
 
@@ -49,7 +49,7 @@ module.exports = {
     hero: {
       type: "map",
       mapSrc:
-        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29931.405903927098!2d85.77867507934566!3d20.324023603422518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1909005649d591%3A0x677cfb67993dfab9!2sBright%20School%20of%20Nursing!5e0!3m2!1sen!2sin!4v1771978190901!5m2!1sen!2sin",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29931.405903927098!2d85.77867507934566!3d20.324023603422518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1909005649d591%3A0x677cfb67993dfab9!2sBright%20College%20of%20Nursing!5e0!3m2!1sen!2sin!4v1771978190901!5m2!1sen!2sin",
     },
   },
 
@@ -62,7 +62,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.webp"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
 };

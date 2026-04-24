@@ -13,7 +13,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.jpg"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
   "bsc-nursing": {
@@ -25,7 +25,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.jpg"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
   dmlt: {
@@ -37,7 +37,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.jpg"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
   gnm: {
@@ -49,7 +49,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.jpg"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
   "pbbsc-nursing": {
@@ -61,7 +61,7 @@ module.exports = {
     hero: {
       type: "image",
       src: ["/images/director-msg.jpg"],
-      alt: "Bright School of Nursing",
+      alt: "Bright College of Nursing",
     },
   },
 };

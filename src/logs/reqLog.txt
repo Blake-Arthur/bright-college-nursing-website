@@ -97688,3 +97688,237 @@
 
 20260424	15:31:26	aef5ca13-1acc-478c-9e67-86cda7e6d17c	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
 
+20260424	19:50:14	a2845404-996e-47a7-a9b2-4e32bfc37e2f	GET	undefined	/
+
+20260424	19:50:14	d7d98c39-b056-4cc1-b616-8e94376346ae	GET	undefined	/styles/output.css
+
+20260424	19:50:14	c03afc4d-2717-4911-a310-3b75bae7d99e	GET	undefined	/styles/main.css
+
+20260424	19:50:14	ff0df749-2e01-4e2a-85b0-98dfa5390349	GET	undefined	/styles/home.css
+
+20260424	19:50:14	7f347921-bdfd-4121-90a4-096a3f4a71a2	GET	undefined	/styles/pages/about/about-us.css
+
+20260424	19:50:14	54ee274e-9ebd-434b-ac7f-458c08de3074	GET	undefined	/images/logo/logo.png
+
+20260424	19:50:14	4c878df5-2f68-482a-b76c-ca8538bde6b0	GET	http://localhost:3500	/main_anim.js
+
+20260424	19:50:14	f2fe6aad-ba3a-4ffa-933e-db075381875e	GET	undefined	/images/logo/logo1.png
+
+20260424	19:50:14	a87492a3-9216-4f48-a3ad-a66223a20c4a	GET	undefined	/images/logo/DMLT_logo.webp
+
+20260424	19:50:14	590421d3-5fac-4c9d-af84-83c589227c6b	GET	undefined	/styles/_variables.css
+
+20260424	19:50:14	9b16c65e-c118-4323-91a6-805c88c27adb	GET	undefined	/styles/_base.css
+
+20260424	19:50:14	ec6d7f65-d64c-45fb-b3a2-e98db421f20c	GET	undefined	/styles/_typography.css
+
+20260424	19:50:14	0742b4da-6309-4a2b-9910-c12f8c002e2f	GET	undefined	/styles/_components.css
+
+20260424	19:50:14	47a89e48-eb62-4585-a50d-d306a41eb661	GET	undefined	/styles/_layout.css
+
+20260424	19:50:14	7b00fab6-b760-4f5e-a849-1b49241c2133	GET	undefined	/styles/_header.css
+
+20260424	19:50:14	130fc25e-2504-4431-b858-05bfe371d210	GET	undefined	/styles/_nav.css
+
+20260424	19:50:14	c18359c9-287c-4d0f-b216-bb68e6653a48	GET	undefined	/styles/_mobile-menu.css
+
+20260424	19:50:14	2011c139-8d3c-4625-aeac-ece465ddc514	GET	undefined	/styles/_search-overlay.css
+
+20260424	19:50:14	e52bfde3-dbc8-46f0-b4da-319c18ae9178	GET	undefined	/styles/pages/admissions/_enquiry-form.css
+
+20260424	19:50:14	f13437c1-c7c6-4d7f-9b4d-0d307655551a	GET	undefined	/styles/_widget.css
+
+20260424	19:50:14	b971dd74-b712-4742-b894-b3851d7e3ca2	GET	undefined	/styles/_footer.css
+
+20260424	19:50:14	a3f2ed47-4d99-4fe2-91fe-c36f04233be8	GET	undefined	/images/placements/Rashmi%20Ranjita%20Boipari%20-%20AIG.webp
+
+20260424	19:50:14	efe53532-151a-41bd-8505-f6e900690d29	GET	undefined	/images/placement-hospital-logo/aig.webp
+
+20260424	19:50:14	8b26bd2c-9bbe-49e4-b555-724d86618efa	GET	undefined	/images/placements/Manasi%20Mallick%20-%20Care.webp
+
+20260424	19:50:14	12ebd293-0c9b-418c-a3f2-faa2631644bd	GET	undefined	/images/placement-hospital-logo/care-2.webp
+
+20260424	19:50:14	ee59749d-ce6c-491a-8de5-25e838579382	GET	undefined	/images/placements/Selina%20Nayak%20-%20Sri.webp
+
+20260424	19:50:14	6e3e08fa-07c9-4559-a95e-01b4ce47ad63	GET	undefined	/images/placement-hospital-logo/sshh-logo.webp
+
+20260424	19:50:14	89cfa01a-d77d-42d4-b251-27849975081e	GET	undefined	/images/placements/Chandini%20Kandher%20-%20AIG.webp
+
+20260424	19:50:14	93932195-f5cc-45db-b916-a3edffc0ca42	GET	undefined	/images/placements/Rita%20Katimajhi%20-%20AIG.webp
+
+20260424	19:50:14	0dd2877b-c93b-480c-a6d5-65ffca638e63	GET	undefined	/images/placements/Upasi%20Mirdha%20-%20AIG.webp
+
+20260424	19:50:14	9d0e41ef-8784-4ebe-b4bb-5857d82d4db2	GET	undefined	/images/placements/Deepanjali%20Karjee%20-%20Sri.webp
+
+20260424	19:50:14	77139d1e-65f6-4e40-837f-cba5c464bc32	GET	undefined	/images/placements/Minati%20Barik%20-%20AIG.webp
+
+20260424	19:50:14	9ea71352-059b-4fea-ac7a-8bd3f9b3f3ee	GET	undefined	/images/testimonials/Swayang_Prava_Mahanta.png
+
+20260424	19:50:14	2f2eeeae-9551-46c3-8df5-4e985048b427	GET	undefined	/images/College_Building_hor.jpg
+
+20260424	19:50:14	ffdaf729-2ebb-434f-9b2d-dff9e3dbe9e5	GET	undefined	/images/logo/DMLT_logo.jpeg
+
+20260424	19:50:14	3355efe3-d732-4563-ba28-77f093b5f335	GET	undefined	/images/logo/chat-bot.svg
+
+20260424	19:50:14	3e132454-8ba5-4deb-a6b8-e4698f71d5af	GET	undefined	/documents/College%20Audio.mpeg
+
+20260424	19:50:14	44ed9958-1c8a-4cba-b3f4-d2f46bb520db	GET	undefined	/images/SVG/hm-news-arroww.svg
+
+20260424	19:50:14	ceb34751-8249-4185-b5d7-372cc4db31fd	GET	undefined	/images/SVG/circle-check.svg
+
+20260424	19:50:14	ac6bc063-be59-47b9-b807-053ba0bc4dda	GET	undefined	/images/director-msg.webp
+
+20260424	19:50:14	77bd9885-69b0-4c49-95e2-571135de8252	GET	undefined	/images/educational-programmes/nursing-day/WhatsApp%20Image%202026-03-01%20at%2021.40.11.webp
+
+20260424	19:50:14	ed852b07-3567-4433-b55d-f0b04f5df9e3	GET	undefined	/images/image.png
+
+20260424	19:50:14	cb42c535-d5f6-4236-afd6-197939398008	GET	undefined	/images/Chairman%20Qoute.jpeg
+
+20260424	19:50:14	69fe06fc-3be8-42c1-971b-9273699590ce	GET	undefined	/images/test%20img/1961pic.webp
+
+20260424	19:50:14	c482ffbe-3a1a-437b-955b-4d78f9e3ef78	GET	undefined	/images/test%20img/1963pic.webp
+
+20260424	19:50:14	c3f9e766-7b52-40ca-b176-8d8f05b2471e	GET	undefined	/images/test%20img/2000pic.webp
+
+20260424	19:50:14	6167980b-c4f3-45a9-a1e5-146b72ee2c03	GET	undefined	/images/test%20img/2008pic.webp
+
+20260424	19:50:14	21903b91-4446-4586-8a8b-ed0d00227980	GET	undefined	/images/logo/logo.webp
+
+20260424	19:50:14	22b8c77f-9ae5-4693-803f-6beb6c544875	GET	http://localhost:3500	/scripts/sticky-header.js
+
+20260424	19:50:14	09d6dc39-c97a-43b4-94df-f5fde932d034	GET	http://localhost:3500	/scripts/dropdown-menu.js
+
+20260424	19:50:14	a0c2dfa8-37e6-4015-9bd1-866398de9132	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260424	19:50:14	1717d0ce-a89d-4fcf-9e9f-ab7ec63c17a1	GET	http://localhost:3500	/scripts/mobile-menu.js
+
+20260424	19:50:14	537c9bff-f757-4f91-84f6-8dca424d7771	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260424	19:50:14	7395a4c3-51b1-44ba-a22f-bf511df319f7	GET	http://localhost:3500	/scripts/enquiry-form.js
+
+20260424	19:50:14	ebd14586-815f-4674-858a-1071377c852b	GET	http://localhost:3500	/scripts/slider.js
+
+20260424	19:50:14	be6eb586-c4b5-4541-8161-7af31fb661b2	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260424	19:50:14	8c5107df-d558-450c-8ad4-ab5be8927f60	GET	undefined	/api/districts
+
+20260424	19:50:14	5f013772-9fcd-4cdb-a21e-7e86d6f4bcd4	GET	undefined	/images/logo/favicon_io/favicon.ico
+
+20260424	20:00:13	a46293ba-3583-4b68-b22d-fb4bb679f80b	GET	undefined	/
+
+20260424	20:00:13	e6f4f7ed-19a1-4e78-a79e-e41dc2e558e8	GET	undefined	/styles/output.css
+
+20260424	20:00:13	62b66953-2098-4811-b9dc-ef82c4551975	GET	undefined	/styles/main.css
+
+20260424	20:00:13	61f0c5e7-24b3-476e-a91c-23d172a33956	GET	undefined	/styles/home.css
+
+20260424	20:00:13	61ed79b7-4b0f-4d2e-b8d0-b6741c1f1fdc	GET	undefined	/styles/pages/about/about-us.css
+
+20260424	20:00:13	b2a12d7b-6069-4714-866f-7d43788aa3f2	GET	undefined	/images/logo/logo.png
+
+20260424	20:00:13	54a9eaeb-27a6-4ed6-b3a9-dbbe7844c669	GET	undefined	/images/logo/logo1.png
+
+20260424	20:00:13	2402eb04-d048-4ad8-a713-52b9f444ddfe	GET	http://localhost:3500	/main_anim.js
+
+20260424	20:00:13	1d239fdc-89a8-4ead-bd04-11c569814d54	GET	undefined	/images/logo/DMLT_logo.webp
+
+20260424	20:00:13	f69b8438-cd23-41a5-a977-d09939d0df3c	GET	undefined	/images/placements/Rashmi%20Ranjita%20Boipari%20-%20AIG.webp
+
+20260424	20:00:13	fffc169e-ccf9-4973-be92-cf4aeb7da92d	GET	undefined	/images/placement-hospital-logo/aig.webp
+
+20260424	20:00:13	cacd9024-baf7-4cae-9ae3-5f3ed364ee14	GET	undefined	/images/placements/Manasi%20Mallick%20-%20Care.webp
+
+20260424	20:00:13	5eb75ce4-ef2e-440f-9b74-d001730a4e27	GET	undefined	/images/placement-hospital-logo/care-2.webp
+
+20260424	20:00:13	59519d27-938a-4cdf-a4d8-316d2155f4c0	GET	undefined	/styles/_variables.css
+
+20260424	20:00:13	6d19ada3-93a3-47dd-b40e-db605418c13e	GET	undefined	/styles/_base.css
+
+20260424	20:00:13	6238aa6a-2d5e-4356-9586-7a6d258e7b9f	GET	undefined	/styles/_typography.css
+
+20260424	20:00:13	39a94425-f448-4e7c-8ae7-cccf9c57186e	GET	undefined	/styles/_components.css
+
+20260424	20:00:13	32474cdc-8175-4030-b2b9-2359620f9bbe	GET	undefined	/styles/_layout.css
+
+20260424	20:00:13	5e65c3b5-780b-4a3b-a7a2-0dca14e5ec12	GET	undefined	/styles/_header.css
+
+20260424	20:00:13	10836ba0-d8f5-4377-afcf-235c30d023ce	GET	undefined	/styles/_nav.css
+
+20260424	20:00:13	69897f5c-0b16-410e-b24b-17abc9fac3db	GET	undefined	/styles/_mobile-menu.css
+
+20260424	20:00:13	f4a9748a-ad27-4086-b771-5868618069f6	GET	undefined	/styles/_search-overlay.css
+
+20260424	20:00:13	469be09a-805f-48e7-a384-c60131abc47d	GET	undefined	/styles/pages/admissions/_enquiry-form.css
+
+20260424	20:00:13	5f4456f3-95d8-4e14-b97d-1bb83a393554	GET	undefined	/styles/_widget.css
+
+20260424	20:00:13	769fc731-3545-45b3-8d45-3ef5c6f9acec	GET	undefined	/styles/_footer.css
+
+20260424	20:00:13	9ea0a12b-6e7b-44a9-832a-08d6963c05b0	GET	undefined	/images/placements/Selina%20Nayak%20-%20Sri.webp
+
+20260424	20:00:13	6e5e4ab6-1c17-48ea-aaeb-4bd44d61a468	GET	undefined	/images/placement-hospital-logo/sshh-logo.webp
+
+20260424	20:00:13	a4ee33d5-f242-41c5-903e-7fa4125261cd	GET	undefined	/images/placements/Chandini%20Kandher%20-%20AIG.webp
+
+20260424	20:00:13	5d84e93b-a1aa-4e7f-b032-85f43aa2d04a	GET	undefined	/images/placements/Rita%20Katimajhi%20-%20AIG.webp
+
+20260424	20:00:13	bb5ee20e-e32d-483b-924a-24fc54c8a4a2	GET	undefined	/images/placements/Upasi%20Mirdha%20-%20AIG.webp
+
+20260424	20:00:13	f1b24f65-a4d6-4ffe-a44e-aff1daa79d93	GET	undefined	/images/placements/Deepanjali%20Karjee%20-%20Sri.webp
+
+20260424	20:00:13	1fb4fb72-4fe3-471f-bb77-b810edcea43b	GET	undefined	/images/placements/Minati%20Barik%20-%20AIG.webp
+
+20260424	20:00:13	0533b086-f2ac-4aa8-9b77-aa3f6a1cd81d	GET	undefined	/images/testimonials/Swayang_Prava_Mahanta.png
+
+20260424	20:00:13	c1dd1a77-877c-4b95-8a7d-7bd9e694c37d	GET	undefined	/images/College_Building_hor.jpg
+
+20260424	20:00:13	e4c71052-c2ee-4b5f-8a32-5a6185628701	GET	undefined	/images/logo/DMLT_logo.jpeg
+
+20260424	20:00:13	a41181bf-50bc-402a-b9de-29b2e36e93d1	GET	undefined	/images/logo/chat-bot.svg
+
+20260424	20:00:13	ad0c56e3-6d27-436a-86a1-b4fa48e138e8	GET	undefined	/documents/College%20Audio.mpeg
+
+20260424	20:00:13	684b1ca2-80bd-4ec8-bde9-6f13cd085711	GET	undefined	/images/SVG/hm-news-arroww.svg
+
+20260424	20:00:13	8de71376-4f44-45d2-b58d-f0bc82b1a7cd	GET	undefined	/images/SVG/circle-check.svg
+
+20260424	20:00:13	b56ef077-af1b-439f-b3b8-eeda0402308f	GET	undefined	/documents/College%20Audio.mpeg
+
+20260424	20:00:13	f4781372-d54a-49c9-8420-106fd21a4398	GET	undefined	/images/director-msg.webp
+
+20260424	20:00:13	1ecffb12-d984-4c36-8044-51a912a2c461	GET	undefined	/images/educational-programmes/nursing-day/WhatsApp%20Image%202026-03-01%20at%2021.40.11.webp
+
+20260424	20:00:13	5bc0ffe9-28b9-4d07-a557-76f30c365c9c	GET	undefined	/images/image.png
+
+20260424	20:00:13	f9ff056c-e618-49b1-84e5-a91995245d9e	GET	undefined	/images/Chairman%20Qoute.jpeg
+
+20260424	20:00:13	5c59169f-dfe4-4ff6-92db-25de9be1e66e	GET	undefined	/images/test%20img/1961pic.webp
+
+20260424	20:00:13	cc81f1a7-848b-4939-9afb-fd72d8a7d997	GET	undefined	/images/test%20img/1963pic.webp
+
+20260424	20:00:13	795394ca-dbbc-4d6b-a8e7-0a116ef5f08b	GET	undefined	/images/test%20img/2000pic.webp
+
+20260424	20:00:13	a91d90e1-b14a-4e46-83b9-91e94c8301e8	GET	undefined	/images/test%20img/2008pic.webp
+
+20260424	20:00:13	5ae66607-ea07-434b-b477-2105717ae6be	GET	undefined	/images/logo/logo.webp
+
+20260424	20:00:13	e61c615b-b33d-4970-9b06-e98e0013b107	GET	http://localhost:3500	/scripts/sticky-header.js
+
+20260424	20:00:13	474ccff8-eb0a-4aab-ab85-2186051eeb7c	GET	http://localhost:3500	/scripts/dropdown-menu.js
+
+20260424	20:00:13	b494ce2d-12f5-4d51-b1fd-4362ed392b85	GET	http://localhost:3500	/scripts/search-bar.js
+
+20260424	20:00:13	27cb729e-dcc1-4900-a5ec-27be43776090	GET	http://localhost:3500	/scripts/mobile-menu.js
+
+20260424	20:00:13	b7cb4086-5381-4c25-9666-74e138a209a6	GET	http://localhost:3500	/scripts/annoucements-slider.js
+
+20260424	20:00:13	81c8dde2-e17a-4fa6-a91f-55c1b5889402	GET	http://localhost:3500	/scripts/enquiry-form.js
+
+20260424	20:00:13	6eb76aa8-6fa4-44ce-99d0-30a529444006	GET	http://localhost:3500	/scripts/slider.js
+
+20260424	20:00:13	33a8265f-a3f8-4c29-9796-3059da477234	GET	http://localhost:3500	/scripts/go-to-top.js
+
+20260424	20:00:13	4e837252-a527-4b2c-8766-2d051fe11c1f	GET	undefined	/api/districts
+
+20260424	20:00:38	1fcee958-35af-45c9-98d1-31bde4a9d122	GET	undefined	/images/logo/logo_white_new_1.png
+
