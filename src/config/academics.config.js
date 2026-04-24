@@ -53,7 +53,7 @@ module.exports = {
   careers: {
     view: "pages/academics/careers",
     title: "Careers at Bright Nursing",
-    styles: ["/styles/pages/about/director-msg.css"],
+    styles: ["/styles/pages/about/director-msg.css", "/styles/pages/courses.css"],
     breadcrumb: [...baseBreadcrumb, { name: "Careers at Bright Nursing" }],
     hero: {
       type: "image",

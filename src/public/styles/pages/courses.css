@@ -167,15 +167,30 @@
   opacity: 0.9;
 }
 
+.contact-us__card > h4 {
+  color: var(--color-altText);
+  padding: 0.5rem 0 0 0.5rem;
+}
+
 .contact-us__card-inner {
   padding: 1rem 1.5rem;
   background: var(--color-altText);
 
   border: 2px solid var(--color-accent2);
   border-radius: 20px;
+
+  text-align: center;
 }
 
-.contact-us__card-inner a {
+.contact-us__card-inner > h5 {
+  margin-top: 1rem;
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent);
+  text-underline-offset: 6px;
+  text-align: center;
+}
+
+.contact-us__card-inner > a {
   display: flex;
   gap: 1rem;
   margin-top: 0.5rem;
@@ -186,8 +201,11 @@
   font-size: 30px;
 }
 
-.contact-us__card-inner div {
-  margin-top: -0.5rem;
+.contact-us__card-inner > div {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .contact-us__card-inner div strong {
@@ -201,4 +219,151 @@
 
 #gnm-syllabus.syllabus-table tbody > tr:first-child th {
   text-align: left;
+}
+
+/* careers */
+
+.job-status {
+  padding: 0.2rem 0.3rem 0.2rem 0.3rem;
+  text-align: center;
+}
+
+.job-status[data-status="open"] {
+  color: #065f46;
+  background: #d1fae5;
+}
+
+.job-status[data-status="closed"] {
+  color: #7f1d1d;
+  background: #fee2e2;
+}
+
+.job-section {
+  font-family: sans-serif;
+}
+
+.career-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 1rem;
+}
+
+.career-card {
+  border-radius: 16px;
+  padding: 1rem 1.5rem 0 1.5rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  border: 1px dotted #bbb;
+}
+
+/* card sizes */
+.career-card.wide {
+  grid-column: span 1;
+}
+
+/* HEADER */
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.card-header i {
+  font-size: 2rem;
+  padding-right: 1.25rem;
+  color: #c0392b;
+}
+
+.card-header h4 {
+  position: relative;
+  display: inline-block;
+
+  font-size: 1.4rem;
+  margin: 0;
+  color: #1f3d2b;
+}
+
+.card-header h4::after {
+  content: "";
+  position: absolute;
+  width: 20%;
+  height: 3px;
+  bottom: -1rem;
+  left: 0;
+  background-color: red;
+}
+
+.career-card ul li {
+  position: relative;
+  margin: 1.5rem 0;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.career-card ul li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  bottom: -0.5rem;
+  left: 30px;
+  width: calc(100% - 20%);
+  border-bottom: 1px dotted #bbb;
+}
+
+.apply-button {
+  width: 15rem;
+  background: linear-gradient(135deg, #0f5b68, #0a3f47);
+  color: #fff;
+  border: none;
+  padding: 0.9rem 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-radius: 12px;
+  cursor: pointer;
+
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+
+  transition: all 0.3s ease;
+}
+
+/* ICON */
+.apply-button i {
+  font-size: 1.1rem;
+}
+
+/* HOVER EFFECT */
+.apply-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(15, 91, 104, 0.3);
+  background: linear-gradient(135deg, #147a8a, #0f5b68);
+}
+
+.apply-text {
+  margin-top: 0.8rem;
+  font-size: 1rem;
+  color: #444;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.apply-text a {
+  color: #0f5b68;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.apply-text a:hover {
+  text-decoration: underline;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .career-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .career-card.full {
+    grid-column: span 1;
+  }
 }

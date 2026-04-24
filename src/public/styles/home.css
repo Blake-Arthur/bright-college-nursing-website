@@ -271,7 +271,7 @@
   height: 60px;
   margin: auto;
   border-radius: 50%;
-  background: var(--color-primary);
+  background: #194362;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -401,7 +401,7 @@
 ========================= */
 
 .seminar-section {
-  background-image: linear-gradient(-135deg, var(--color-secondary), var(--color-primary), var(--color-secondary), var(--color-accent2));
+  background: #194362;
   margin-top: 5rem;
   padding: 0.1rem 0 0 0;
 }
@@ -441,12 +441,12 @@
 .programmes-content {
   display: flex;
   flex-direction: column;
-  gap: 4rem;
+  gap: 2.5rem;
 }
 
 .program-grid {
   display: grid;
-  gap: 2rem;
+  gap: 1.5rem;
   margin-top: 1.5rem;
 }
 
@@ -457,8 +457,8 @@
 .program-card {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
-  padding: 1.5rem;
+
+  padding: 1rem 1rem 0 1rem;
   border: 2px solid black;
   background-color: var(--color-altText2);
 
@@ -491,9 +491,9 @@
   font-size: 1.2rem;
   font-weight: 600;
   white-space: nowrap;
-  border: 2px solid black;
+  border: 2px solid var(--color-altText);
   background: transparent;
-  color: var(--color-heading);
+  color: var(--color-altText);
   padding: 0.5rem 1.25rem 0.5rem 1.25rem;
   cursor: pointer;
   transition: 0.3s ease;
@@ -550,9 +550,18 @@
 .carousel {
   position: relative;
   height: auto;
+  margin: auto;
+  padding: 2rem 0 0 1.5rem;
+
   background-image: linear-gradient(to bottom, var(--color-primary), var(--color-secondary), var(--color-accent2));
+
   border: 2px solid var(--color-accent2);
   border-radius: 0.5rem;
+
+  box-shadow: 
+    0 10px 25px rgba(0,0,0,0.15),
+    0 4px 10px rgba(0,0,0,0.1);
+
   overflow-x: auto;
   scroll-snap-type: x mandatory;
 }
@@ -572,35 +581,6 @@
 
   padding: 1rem;
   z-index: 10;
-}
-
-.testimonial-card {
-  height: auto;
-  width: auto; 
-}
-
-.testimonial-card-list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2em;
-  padding-top: 1rem;
-  transition: transform 0.6s ease;
-  will-change: transform;
-}
-
-.testimonial-card-list li {
-  flex: 0 0 25rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: white;
-  height: 440px;
-  width: 440px;
-  border-radius: 0.5rem;
-  gap: 1rem;
-  scroll-snap-align: center;
 }
 
 .card-description {
@@ -631,14 +611,27 @@
 .person-info-grid {
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: space-between;
   align-items: center;
+
+  background: white;
+  width: 300px;
+  height: 400px;
   padding: 1rem;
+  
+  border-radius: 16px;
+  border: 2px solid rgba(0, 128, 0, 0.6);
+
+  box-shadow: 
+    0 10px 25px rgba(0,0,0,0.15),
+    0 4px 10px rgba(0,0,0,0.1);
+
+  transition: transform 0.3s ease;
 }
 
 .person-info-grid img {
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
 }
 
 .person-info {
@@ -660,7 +653,6 @@
   text-align: center;
 }
 
-
 /* Wrapper alignment */
 .swiper-wrapper {
   align-items: center;
@@ -669,48 +661,58 @@
 /* Swiper container */
 .mySwiper {
   max-width: 1500px;
-  margin: auto;
-  padding: 2rem 0 3rem;
-  overflow: hidden;
+  overflow: visible;
 }
 
 /* Slide */
 .swiper-slide {
   display: flex;
   justify-content: center;
+  align-items: center;
+
+  padding: 0 10px;
+  box-sizing: border-box;
+
 }
 
 /* Card */
 .card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
   width: 280px; 
-  height: 450px;  
+  height: 480px;  
   background: white;
-  border-radius: 12px;
   padding: 1rem;
-  text-align: center;
+
+  border-radius: 12px;
+  border: 4px solid green;
+    box-shadow: 4px 1.5px 4px #888888;
 }
 
 .company-card {
-  width: auto; 
-  height: 130px;  
+  width: fit-content;
+  height: 110px;  
   background: white;
   border-radius: 12px;
   padding: 1rem;
-  text-align: center;
+  align-items: center;
 }
 
 /* images */
 .profile {
   width: 100%;
-  height: 220px;
-  object-fit: cover;
+  height: 320px;
+  object-fit: fill;
   border-radius: 10px;
 }
 
 .company {
   width: auto;
   height: 80px;
-  margin-top: 10px;
+  padding: 0 0 10px 0;
+  text-align: center;
 }
 
 /* Text */
@@ -745,3 +747,4 @@
 .swiper-pagination-bullet-active {
   opacity: 1;
 }
+

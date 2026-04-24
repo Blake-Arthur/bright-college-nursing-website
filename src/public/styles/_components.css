@@ -235,7 +235,7 @@
   flex-wrap: wrap;
   margin-top: 1.5rem;
 
-  align-items: stretch;
+  align-items: start;
 }
 
 .side-by-side img {
@@ -394,37 +394,7 @@
   animation-delay: calc(30s / 8 * (8 - 8) * -1);
 }
 
-/* careers */
-
-.careers-section {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.careers-cards {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 3rem;
-
-  font-weight: 600;
-}
-
-.job-status {
-  padding: 0.2rem 0.3rem 0.2rem 0.3rem;
-  text-align: center;
-}
-
-.job-status[data-status="open"] {
-  color: #065f46;
-  background: #d1fae5;
-}
-
-.job-status[data-status="closed"] {
-  color: #7f1d1d;
-  background: #fee2e2;
-}
+/* Contact Us Card */
 
 /* Left-Right Button */
 .image-skeleton {
