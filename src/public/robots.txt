@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /admissions/online-admission
 Allow: /
 
 Sitemap: https://brightcollegeofnursing.com/sitemap.xml
