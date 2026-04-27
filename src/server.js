@@ -1,6 +1,16 @@
 const express = require("express");
 const app = express();
 
+app.use((req, res, next) => {
+  const host = req.headers.host;
+
+  if (host && host.startsWith("brightcollegeofnursing.com")) {
+    return res.redirect(301, "https://www.brightcollegeofnursing.com" + req.url);
+  }
+
+  next();
+});
+
 //Trust reverse proxy (required for rate limiter in production)
 app.set("trust proxy", 1);
 
