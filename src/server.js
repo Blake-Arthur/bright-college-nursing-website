@@ -30,6 +30,7 @@ const { error } = require("node:console");
 
 const PORT = process.env.PORT || 3500;
 
+const visitRoutes = require("./routes/counter.routes.js");
 const location_routes = require("./routes/location.routes.js");
 const enquiry_routes = require("./routes/enquiry.routes.js");
 
@@ -55,6 +56,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 //Route Handlers
 app.use("/", require("./routes/root.routes.js"));
+app.use("/api", visitRoutes);
 app.use("/api", location_routes);
 app.use("/api/enquiry", enquiry_routes);
 app.use("/about", require("./routes/about.routes.js"));

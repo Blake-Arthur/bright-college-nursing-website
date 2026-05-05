@@ -125,5 +125,15 @@
             <p>© 2001&hyphen;2025 Bright School of Nursing, Bhubaneswar, Odisha</p>
         </div>
 
+        <!-- Visitor Counter -->
+        <p>Total Visitors: <span id="counter">Loading...</span></p>
+
+        <script>
+            fetch("/api/visit")
+                .then(res => res.json())
+                .then(data => {
+                    document.getElementById("counter").innerText = data.count;
+                });
+        </script>
     </div>
 </footer>
