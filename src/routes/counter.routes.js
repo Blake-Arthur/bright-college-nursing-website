@@ -10,7 +10,7 @@ router.get("/visit", async (req, res) => {
       { new: true, upsert: true },
     );
 
-    res.json({ count: counterSchema.count });
+    res.json({ count: counter.count });
   } catch (err) {
     console.error("VISIT ROUTE ERROR:", err);
     res.status(500).json({ error: err.message });

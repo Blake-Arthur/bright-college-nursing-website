@@ -400,3 +400,18 @@
   background-color: #008e94;
   border-radius: 1.5rem;
 }
+
+/* =========================
+        Visitor Counter
+   ========================= */
+.visitor-counter {
+  display: block;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.visitor-counter #counter {
+  background: white;
+  color: black;
+  padding: 0.25rem;
+}
