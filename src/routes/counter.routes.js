@@ -4,11 +4,14 @@ const counterSchema = require("../models/counter.schema");
 
 router.get("/visit", async (req, res) => {
   try {
-    const counter = await counterSchema.findOneAndUpdate(
-      {},
-      { $inc: { count: 1 }, $setOnInsert: { count: 3000 } },
-      { new: true, upsert: true },
-    );
+    let counter = await Counter.findOne();
+
+    if (!counter) {
+      counter = await Counter.create({ count: 3000 });
+    }
+
+    counter.count += 1;
+    await counter.save();
 
     res.json({ count: counter.count });
   } catch (err) {
