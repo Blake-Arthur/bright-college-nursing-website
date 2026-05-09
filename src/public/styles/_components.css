@@ -1,3 +1,38 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.flex-col-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+.generic-heading__row--testimonials {
+  justify-content: center;
+  color: #18284c;
+}
+
+.generic-heading__row--testimonials h5 {
+  margin: 0;
+}
+
+.generic-heading__row--testimonials .__line {
+  width: 60px;
+  height: 2px;
+  background: #c8a75b;
+}
+
+.lotus {
+  width: auto;
+  height: 3rem;
+  display: block;
+  margin: auto;
+}
+
 /* =========================
     Red vertical accent bar 
    ========================= */
@@ -233,7 +268,7 @@
   grid-template-columns: 1.2fr 1fr;
   gap: 5rem;
   flex-wrap: wrap;
-  margin-top: 1.5rem;
+  margin: 1.5rem 0;
 
   align-items: start;
 }

@@ -334,7 +334,7 @@
 .accordion-item img {
   width: 100%;
   height: 100%;
-  object-fit: none;
+  object-fit: cover;
 }
 
 .accordion-item span {
@@ -345,6 +345,7 @@
   color: var(--color-altText);
   font-size: 2.5rem;
   font-weight: 600;
+  line-height: 1.1;
 
   transform: translate(-50%, -50%);
   opacity: 1;
@@ -542,11 +543,6 @@
 }
 
 /* Testimonials Section  */
-.generic-heading__row--testimonials {
-  justify-content: center;
-  margin-bottom: 2rem;
-}
-
 .carousel {
   position: relative;
   height: auto;

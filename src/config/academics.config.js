@@ -10,7 +10,7 @@ module.exports = {
     view: "pages/academics/academic-calendar",
     title: "Academic Calendar",
     calendarData: calendar2025,
-    styles: ["/styles/pages/about/contacts.css"],
+    styles: ["/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "Academic Calendar" }],
     hero: {

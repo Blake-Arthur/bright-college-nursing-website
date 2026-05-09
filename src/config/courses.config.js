@@ -7,7 +7,7 @@ module.exports = {
   anm: {
     view: "pages/courses/ANM",
     title: "ANM",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "ANM" }],
     hero: {
@@ -19,7 +19,7 @@ module.exports = {
   "bsc-nursing": {
     view: "pages/courses/bsc-nursing",
     title: "B.Sc. Nursing",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "B.Sc. Nursing" }],
     hero: {
@@ -31,7 +31,7 @@ module.exports = {
   dmlt: {
     view: "pages/courses/DMLT",
     title: "DMLT",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "DMLT" }],
     hero: {
@@ -43,7 +43,7 @@ module.exports = {
   gnm: {
     view: "pages/courses/GNM",
     title: "GNM",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "GNM" }],
     hero: {
@@ -55,7 +55,7 @@ module.exports = {
   "pbbsc-nursing": {
     view: "pages/courses/pbbsc-nursing",
     title: "PBB.Sc. Nursing",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "PBB.Sc. Nursing" }],
     hero: {

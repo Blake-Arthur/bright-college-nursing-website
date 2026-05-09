@@ -8,7 +8,7 @@ module.exports = {
   "admission-procedure": {
     view: "pages/admissions/admission-procedure",
     title: "Admission Procedure",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "Admission Procedure" }],
     hero: {
@@ -21,7 +21,7 @@ module.exports = {
   "fee-structure": {
     view: "pages/admissions/fee-structure",
     title: "Fee Structure",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "Fee Structure" }],
     hero: {
@@ -34,7 +34,7 @@ module.exports = {
   scholarship: {
     view: "pages/admissions/scholarship",
     title: "Scholarship Application",
-    styles: ["/styles/pages/courses.css", "/styles/pages/about/contacts.css"],
+    styles: ["/styles/pages/courses.css", "/styles/tables.css"],
     transparency: "15",
     breadcrumb: [...baseBreadcrumb, { name: "Scholarship Details" }],
 
