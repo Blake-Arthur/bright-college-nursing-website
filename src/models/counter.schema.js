@@ -1,8 +1,15 @@
 const mongoose = require("mongoose");
 
-const Counter = new mongoose.Schema({
-  name: { type: String, default: "visits" },
-  count: { type: Number, default: 0 },
+const counterSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+    unique: true,
+  },
+  count: {
+    type: Number,
+    default: 0,
+  },
 });
 
-module.exports = mongoose.model("Counter", Counter);
+module.exports = mongoose.model("Counter", counterSchema);

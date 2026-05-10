@@ -4,14 +4,20 @@ const Counter = require("../models/counter.schema");
 
 router.get("/visit", async (req, res) => {
   try {
-    let counter = await Counter.findOne();
-
-    if (!counter) {
-      counter = await Counter.create({ count: 3170 });
-    }
-
-    counter.count += 1;
-    await counter.save();
+    const counter = await Counter.findOneAndUpdate(
+      { name: "visits" }, // find this specific counter
+      {
+        $inc: { count: 1 }, // atomic increment
+        $setOnInsert: {
+          name: "visits",
+          count: 3170,
+        },
+      },
+      {
+        new: true, // return updated document
+        upsert: true, // create if doesn't exist
+      },
+    );
 
     res.json({ count: counter.count });
   } catch (err) {
