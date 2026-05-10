@@ -5,19 +5,16 @@ const Counter = require("../models/counter.schema");
 router.get("/visit", async (req, res) => {
   try {
     const counter = await Counter.findOneAndUpdate(
-      { name: "visits" }, // find this specific counter
-      {
-        $inc: { count: 1 }, // atomic increment
-        $setOnInsert: {
-          name: "visits",
-          count: 3170,
-        },
-      },
-      {
-        new: true, // return updated document
-        upsert: true, // create if doesn't exist
-      },
+      { name: "visits" },
+      { $inc: { count: 1 } },
+      { new: true },
     );
+
+    if (!counter) {
+      return res.status(500).json({
+        error: "Counter document missing",
+      });
+    }
 
     res.json({ count: counter.count });
   } catch (err) {
