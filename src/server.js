@@ -54,6 +54,11 @@ app.use(viewLocals);
 //serve static files
 app.use(express.static(path.join(__dirname, "public")));
 
+// HEALTH CHECK ROUTE
+app.get("/health", (req, res) => {
+  res.status(200).send("OK");
+});
+
 //Route Handlers
 app.use("/", require("./routes/root.routes.js"));
 app.use("/api", visitRoutes);
