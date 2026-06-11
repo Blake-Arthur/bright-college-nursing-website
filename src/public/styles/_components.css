@@ -165,7 +165,7 @@
   flex-direction: row;
   gap: 0.5rem;
   align-items: center;
-  margin-top: 2.5rem;
+  /* margin-top: 2.5rem; */
   flex-wrap: wrap;
 }
 

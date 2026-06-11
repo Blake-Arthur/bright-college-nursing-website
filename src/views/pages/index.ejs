@@ -140,8 +140,24 @@
 
                 </div>
 
-                <div class="audio-box">
-                    <audio controls>
+                <div class="audio-card">
+                    <div class="audio-controls">
+                        <button class="play-btn">
+                            <i class="fa-solid fa-play"></i>
+                        </button>
+
+                        <span class="current-time">00:00</span>
+
+                        <input type="range" class="progress-bar" value="0" min="0" max="100">
+
+                        <span class="duration">19:03</span>
+
+                        <button class="volume-btn">
+                            <i class="fa-solid fa-volume-high"></i>
+                        </button>
+                    </div>
+
+                    <audio id="collegeAudio" controls>
                         <source src="/documents/College Audio.mpeg" type="audio/mpeg">
                     </audio>
                 </div>
@@ -162,7 +178,7 @@
 </div> -->
 
 <!--Photo of campus, labs, faculities at once accordion style-->
-<section class="accordion-layout">
+<!-- <section class="accordion-layout">
 
     <div class="accordion-display">
         <div class="accordion-item">
@@ -185,6 +201,80 @@
             <img src="/images/placements/placements.webp" loading="lazy" alt="Placements">
             <span>Placements</span>
             <p>Strong career outcomes</p>
+        </div>
+    </div>
+</section> -->
+
+<section>
+    <div class="feature-slider">
+
+        <!-- Slide -->
+        <div class="feature-card">
+            <img src="/images/training/clinical demo/Clinical Demonstration II.webp" loading="lazy"
+                alt="Clinical Demonstration II">
+            <div class="overlay"></div>
+
+            <div class="feature-content">
+                <div class="feature-icon">
+                    <i class="fa-solid fa-user-doctor"></i>
+                </div>
+
+                <span>Clinical</span>
+                <span>Training</span>
+
+                <p>
+                    Hands-on clinical training in leading hospitals.
+                </p>
+            </div>
+        </div>
+
+        <div class="feature-card">
+            <img src="/images/Lab/Pre Clinical Science Lab.webp" loading="lazy" alt="Pre Clinical Science Lab">
+            <div class="overlay"></div>
+            <div class="feature-content">
+                <div class="feature-icon">
+                    <i class="fa-solid fa-flask"></i>
+                </div>
+
+                <span>Modern</span>
+                <span>Labs</span>
+
+                <p>
+                    Advanced fully equipped laboratories
+                </p>
+            </div>
+        </div>
+
+        <div class="feature-card">
+            <img src="/images/faculty.webp" loading="lazy" alt="Faculty">
+            <div class="overlay"></div>
+            <div class="feature-content">
+                <div class="feature-icon">
+                    <i class="fa-solid fa-users"></i>
+                </div>
+
+                <span>Expert</span>
+                <span>Faculty</span>
+                <p>
+                    Guidance from experienced professionals
+                </p>
+            </div>
+        </div>
+
+        <div class="feature-card">
+            <img src="/images/placements/placements.webp" loading="lazy" alt="Placements">
+            <div class="overlay"></div>
+            <div class="feature-content">
+                <div class="feature-icon">
+                    <i class="fa-solid fa-briefcase"></i>
+                </div>
+
+                <span>100%</span>
+                <span>Placements</span>
+                <p>
+                    Excellent career oppurtunities.
+                </p>
+            </div>
         </div>
     </div>
 </section>
@@ -449,181 +539,154 @@
 
 </section>
 
+<div class="section-wave-divider">
+    <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+        <path
+            d="M0,64L80,74.7C160,85,320,107,480,106.7C640,107,800,85,960,74.7C1120,64,1280,64,1360,74.7L1440,85L1440,120L0,120Z">
+        </path>
+    </svg>
+</div>
+
 <!--Testimonials-->
-<section>
+<section class="testimonial-section">
 
-    <!--Heading-->
-    <!-- <div class="generic-heading__row generic-heading__row--testimonials">
-        <div class="__divider">
-            <div class="__dot"></div>
-            <div class="__line"></div>
+    <div class="testimonial-bg">
+        <img src="/images/testimonials/wave.svg" alt="wave">
+        <div class="testimonial-header">
+            <h4>STUDENT</h4>
+            <h2 style="color: var(--color-accent2);">TESTIMONIAL</h2>
+            <div class="__divider">
+                <div class="__line"></div>
+                <i class="fa-solid fa-quote-left"></i>
+                <div class="__line"></div>
+            </div>
+            <span>Real Stories. Real Growth. Real Impact.</span>
         </div>
-        <h3>Testimonials</h3>
-        <div class="__divider">
-            <div class="__line"></div>
-            <div class="__dot"></div>
-        </div>
-    </div> -->
 
-    <!--Carousel-->
-    <!-- <div class="carousel">
-        <div class="testimonialsSwiper mySwiper">
+        <div class="swiper testimonialsSwiper">
+
             <div class="swiper-wrapper">
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <!-- Slide -->
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Anchala Malik.webp" alt="Anchala Malik"
+                            class="testimonial-profile" />
+                        <h5>Anchala Malik</h5>
+                        <span>B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Chandan Das.webp" alt="Chandan Das"
+                            class="testimonial-profile" />
+                        <h5>Chandan Das</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Harapriya Bhuyan.webp" alt="Harapriya Bhuya"
+                            class="testimonial-profile" />
+                        <h5>Harapriya Bhuya</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Kabita Bar.webp" alt="Kabita Bar" class="testimonial-profile" />
+                        <h5>Kabita Bar</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Maheswata Senapati.webp" alt="Maheswata Senapati"
+                            class="testimonial-profile" />
+                        <h5>Maheswata Senapati</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">Supportive Faculty and Strong Clinical Training.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Ranjita Nayak.webp" alt="Ranjita Nayak"
+                            class="testimonial-profile" />
+                        <h5>Ranjita Nayak</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Rinki Mondal.webp" alt="Rinki Mondal"
+                            class="testimonial-profile" />
+                        <h5>Rinki Mondal</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Rupali Rout.webp" alt="Rupali Rout"
+                            class="testimonial-profile" />
+                        <h5>Rupali Rout</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
-                <div class="swiper-slide ">
-                    <div class="person-info-grid">
-                        <img src="/images/testimonials/Swayang_Prava_Mahanta.png" alt="Swayang_Prava_Mahanta">
 
-                        <h5>Swayang Prava Mahanta</h5>
-
-                        <h6 class="card-description__text">The sense of community at Bright School of Nursing is
-                            unparalleled. From day one, I felt welcomed and supported by both faculty and fellow
-                            students. The small class sizes allow for personalized attention, making it easier to grasp
-                            challenging concepts. Proud to be a part of this institution!"
-                        </h6>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Sima Malik.webp" alt="Sima Malik" class="testimonial-profile" />
+                        <h5>Sima Malik</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
                     </div>
-
                 </div>
 
-
-            </div>
-            <div class="testimonials-controls">
-                <button class="slider-btn left prevSlide">
-                    <i class="fa-solid fa-arrow-left"></i>
-                </button>
-
-                <div class="slider-indicators">
-                    <span class="slider-dot dot-active" role="tab" aria-selected="true"></span>
-                    <span class="slider-dot"></span>
-                    <span class="slider-dot"></span>
-                    <span class="slider-dot"></span>
+                <div class="swiper-slide">
+                    <div class="testimonial-card">
+                        <img src="/images/testimonials/Suhani Begum.webp" alt="Suhani Begum"
+                            class="testimonial-profile" />
+                        <h5>Suhani Begum</h5>
+                        <span style="color: #0fa4a8; font-weight: bold;">B.Sc. Nursing</span>
+                        <span class="card-description__text">The hands-on training and supportive faculty made my
+                            journey amazing. Today I'm living my
+                            dream career.</span>
+                    </div>
                 </div>
 
-                <button class="slider-btn right nextSlide">
-                    <i class="fa-solid fa-arrow-right"></i>
-                </button>
             </div>
         </div>
-    </div> -->
-
-    <div>
-
     </div>
-</section>
-
-<section class="layout-container">
-
 </section>
 
 <!--Education Programmes & Seminars-->
@@ -760,6 +823,157 @@
     </div>
 </section>
 
+<!-- Events & Functions -->
+<section>
+
+    <!-- Heading -->
+    <div class="flex-col-center">
+        <h5 style="color: #0fa4a8;">CAMPUS LIFE</h5>
+        <div class="generic-heading__row">
+            <h3 style="color: var(--color-accent2);">The Pulse of</h3>
+            <h3 style="color: #137b89;">Bright</h3>
+        </div>
+        <span style="color: var(--color-accent2); font-family: Montserrat, sans-serif; font-weight: 600;">Building
+            Memories, Building Professionals</span>
+    </div>
+
+    <div class="feature-slider">
+
+        <!-- Left Arrow -->
+        <button class="event-nav prev">
+            <i class="fa-solid fa-chevron-left"></i>
+        </button>
+
+        <div class="events-grid">
+
+            <!-- Slide -->
+            <div class="event-card">
+                <div class="event-image">
+                    <img src="/images/training/clinical demo/Clinical Demonstration II.webp" loading="lazy"
+                        alt="Clinical Demonstration II">
+                    <div class="event-date">
+                        <span>12</span>
+                        <small>MAY</small>
+                        <small>2025</small>
+                    </div>
+                </div>
+
+                <div class="event-content">
+
+                    <h4>Annual Function 2025</h4>
+
+                    <span>
+                        A day of joy, talent and celebration
+                        showcasing the spirit of Bright.
+                    </span>
+
+                    <a href="#">
+                        View Gallery
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="event-card">
+                <div class="event-image">
+                    <img src="/images/Lab/Pre Clinical Science Lab.webp" loading="lazy" alt="Pre Clinical Science Lab">
+                    <div class="event-date">
+                        <span>12</span>
+                        <small>MAY</small>
+                        <small>2025</small>
+                    </div>
+                </div>
+
+                <div class="event-content">
+
+                    <h4>Annual Function 2025</h4>
+
+                    <span>
+                        A day of joy, talent and celebration
+                        showcasing the spirit of Bright.
+                    </span>
+
+                    <a href="#">
+                        View Gallery
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="event-card">
+                <div class="event-image">
+                    <img src="/images/faculty.webp" loading="lazy" alt="Faculty">
+                    <div class="event-date">
+                        <span>12</span>
+                        <small>MAY</small>
+                        <small>2025</small>
+                    </div>
+                </div>
+
+                <div class="event-content">
+
+                    <h4>Annual Function 2025</h4>
+
+                    <span>
+                        A day of joy, talent and celebration
+                        showcasing the spirit of Bright.
+                    </span>
+
+                    <a href="#">
+                        View Gallery
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="event-card">
+                <div class="event-image">
+                    <img src="/images/placements/placements.webp" loading="lazy" alt="Placements">
+                    <div class="event-date">
+                        <span>12</span>
+                        <small>MAY</small>
+                        <small>2025</small>
+                    </div>
+                </div>
+
+                <div class="event-content">
+
+                    <h4>Annual Function 2025</h4>
+
+                    <span>
+                        A day of joy, talent and celebration
+                        showcasing the spirit of Bright.
+                    </span>
+
+                    <a href="#">
+                        View Gallery
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Arrow -->
+        <button class="event-nav next">
+            <i class="fa-solid fa-chevron-right"></i>
+        </button>
+    </div>
+
+    <!-- Button -->
+    <div class="events-button-wrapper">
+        <a href="#" class="events-button">
+
+            <i class="fa-regular fa-calendar"></i>
+            View All Events
+
+        </a>
+    </div>
+</section>
+
 <!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
@@ -797,7 +1011,7 @@
                 spaceBetween: 20,
             },
             1024: {
-                slidesPerView: 4,
+                slidesPerView: 4.6,
                 centeredSlides: true,
                 spaceBetween: 30,
             },
@@ -817,7 +1031,7 @@
 
         breakpoints: {
             0: {
-                slidesPerView: 1.2,
+                slidesPerView: 1,
                 centeredSlides: true,
             },
             768: {
@@ -825,7 +1039,7 @@
                 centeredSlides: false,
             },
             1024: {
-                slidesPerView: 3,
+                slidesPerView: 5,
                 centeredSlides: true,
             },
         },
